@@ -117,6 +117,18 @@ Settings, as environment variables:
 | `PII_DETECTION_INTRA_THREADS` | The number of threads the model uses for one text. |
 | `PII_DETECTION_INFERENCE_SLOTS` | How many texts the model works on at the same time. |
 
+## Redact documents
+
+`scripts/redact.py` sends PDFs or text files to the service and writes a copy in which every value is replaced by a placeholder such as `[PERSON_1]`. The same value gets the same placeholder in every file, so documents can still be compared after redaction. You need [uv](https://docs.astral.sh/uv/) and a running service. To keep the documents on your own machine, start the container with `-p 127.0.0.1:8090:8090`.
+
+```bash
+uv run -q scripts/redact.py payslip-1.pdf payslip-2.pdf --out redacted
+```
+
+It writes `<name>.redacted.txt` for each file and `mapping.private.json`, which links each placeholder to its original value. Keep the mapping on your own machine. The command prints only the placeholders and their scores; `--show-values` prints the originals too. The language defaults to Dutch; set `--language` for other texts.
+
+On top of the service, the script masks dates of birth and employee numbers by their label, Dutch postcodes with their town, and initials before a name. A PDF without a text layer, such as a scan, needs OCR first. Read the redacted text before you send it anywhere.
+
 ## What it finds
 
 | Type | How |
