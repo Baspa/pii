@@ -1,0 +1,17 @@
+Avec l'augmentation du coût de l'énergie, l'isolation thermique et le chauffage sont deux postes qui devront être étudiés et réalisés avec attention.
+
+Le choix d’un type de chauffage sort du cadre de cet article. Du point de vue de l’autoconstruction, le travail à réaliser, les gains, la difficulté... sont très différents.
+
+électrique par convecteurs - pas de difficulté particulière, économie importante en investissement mais peut se révéler d’un coût élevé à l’usage si l’isolation n’a pas été prévue en conséquence,
+
+électrique par câble chauffant dans la dalle - spécifications particulières pour la pose du câble, dalle flottante épaisse, abonnement heures creuses,
+
+chaudière au gaz raccordée au réseau - spécifications particulières pour l’alimentation et le raccordement, évacuation des gaz brûlés par sortie directe ou dans un conduit de fumée,
+
+chaudière au fioul ou gaz liquéfié - idem chaudière au gaz ci-dessus mais contraintes particulières pour le stockage (sécurité, risques de pollution) et le remplissage des cuves (accès camion),
+
+solaire thermique couplé à un moyen de chauffage de base - orientation et pente du toit, proximité de la chaufferie de base et des capteurs.
+
+circulation d’eau dans la dalle flottante – pompe pour mise en pression des circuits au moment de couler la dalle ; le distributeur est en général placé au centre de l’étage, dans un placard ; c’est peut-être le type de chauffage le plus facile pour l’amateur (distribution par tuyaux en polyéthylène sans soudure), il convient aussi pour les PSD (plancher solaire direct),
+
+La température d’une pièce doit être adaptée au tempérament de ses occupants et ne pas varier trop avec la température extérieure ou à cause des apports de chaleur ou de froid indépendants du système de chauffage (rayon de soleil, cuisson des aliments, ouverture d’une porte...).

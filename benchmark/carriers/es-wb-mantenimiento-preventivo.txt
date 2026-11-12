@@ -1,0 +1,23 @@
+El mantenimiento preventivo consiste en un conjunto de actividades programadas de antemano encaminadas a reducir la frecuencia y el impacto de los fallos. Trata de determinar, de un sistema, cuál es el periodo máximo de utilización antes de ser reparado.
+
+Este tipo de mantenimiento es el más utilizado en la mayoría de las empresas, hasta tal punto que cada una de ellas suele tener su propio Plan de Mantenimiento Preventivo en el que se establecen las medidas a llevar a cabo con cada uno de los componentes que forman el sistema. Además, debe detallar qué se va a analizar y cada cuánto tiempo debe ser analizado.
+
+Por analogía, si tuviéramos un coche, el mantenimiento preventivo estaría en las revisiones periódicas de aceite, ITV, etc.
+
+Los cambios innecesarios de dispositivos cuando se programan mal o su utilización no se ajusta a los cambios previstos
+
+Los problemas iniciales de operación cuando se desconocen sus parámetros o no se ajustan a los requeridos.
+
+El coste de los inventarios pues cada dispositivo debe estar localizado en el sistema mediante alguna ficha técnica.
+
+Reducir los tiempos de parada del sistema, aumentando su fiabilidad.
+
+Optimizar la gestión del personal de mantenimiento.
+
+Conocer con exactitud el tiempo límite de actuación que no implique el desarrollo de un fallo imprevisto.
+
+Elaborar un plan de compras de dispositivos y material fungible.
+
+Conocer el historial de actuaciones, para ser utilizada por el mantenimiento correctivo.
+
+La limpieza del sistema, sus componentes, con una determinada frecuencia.

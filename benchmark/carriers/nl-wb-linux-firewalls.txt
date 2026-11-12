@@ -1,0 +1,11 @@
+Om aanvallen op een netwerk te voorkomen of tegen te houden is een firewall op de router onontbeerlijk. De Linux-kernel heeft een ingebouwde firewall die je kan manipuleren met het commando iptables. Nu is het opstellen van een goede firewall niet zo evident en daarom zijn er intussen tientallen applicaties beschikbaar die deze taak vergemakkelijken (o.a. Firestarter, ufw, enz.). Het gebruiken van die tools is echter niet zonder gevaar: de details van de werking blijven verborgen, de kwaliteit van de firewall is niet langer 100% zeker en het is wellicht niet langer mogelijk om alle functionaliteiten van iptables te gebruiken. Voor een goed begrip van de werking van Linux-firewalls is het daarom belangrijk met iptables te leren werken.
+
+Iptables is de front-end van het netwerk packet filter framework Netfilter. Netfilter is onderdeel van de Linux kernel en kan worden gebruikt om diverse acties met data packets uit te voeren, zoals: accepteren, weigeren, NAT, etc.
+
+Met iptables kan de systeembeheerder de firewall configureren voor het IPv4-protocol. Andere protocols brengen andere programma's of modules met zich mee. Bijvoorbeeld:
+
+Het uitgangspunt van iptables is dat de regels waaruit een firewall bestaat zijn ingedeeld in drie tables of tabellen; filter, nat en mangle.
+
+In elk van deze tabellen vindt u een aantal chains. Deze chains zijn de verzamelingen regels waaruit de firewall is opgebouwd. Welke chains u kunt gebruiken, is afhankelijk van de tabel.
+
+De filter tabel zorgt voor packet filtering en bestaat uit drie ingebouwde chains. Let overigens op de notatie van de chains, die is altijd in hoofdletters.

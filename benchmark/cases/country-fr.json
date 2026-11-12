@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "fr-el-0031-energy-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "fr-el-0031-energy",
+    "text": "9. Le numéro de sécurité sociale du demandeur est 228013819680251. En concertation avec les secteurs concernés, la Commission adopte, d’ici à 2011, une certification volontaire de la performance énergétique des bâtiments non résidentiels commune à toute l’Union. Cette mesure est adoptée conformément à la procédure consultative visée à l’article 26, paragraphe 2. Les États membres sont encouragés à reconnaître ou à faire usage de cette certification, ou à l’utiliser en partie en l’adaptant à leur situation nationale.\n\n1. Les États membres veillent à ce qu’un certificat de performance énergétique soit délivré pour:\n\nL’obligation de délivrer un certificat de performance énergétique ne s’applique pas lorsqu’est disponible et valable, pour le bâtiment ou l’unité de bâtiment concernés, un certificat délivré conformément à la directive 2002/91/CE ou à la présente directive.\n\n2. Les États membres exigent que, lors de la construction, de la vente ou de la location d’un bâtiment ou d’une unité de bâtiment, le certificat de performance énergétique ou une copie de celui-ci soit montré au nouveau locataire ou acquéreur potentiel et soit transmis à l’acquéreur ou au nouveau locataire.\n\n3. Dans le cas d’un bâtiment vendu ou loué avant sa construction, les États membres peuvent, en dérogation aux paragraphes 1 et 2, exiger du vendeur qu’il fournisse une évaluation de sa performance énergétique future; le certificat de performance énergétique est alors délivré au plus tard à la fin de la construction.\n\nsont proposés à la vente ou à la location, l’indicateur de performance énergétique du certificat de performance énergétique du bâtiment ou de l’unité de bâtiment, selon le cas, figure dans les publicités paraissant dans les médias commerciaux.\n",
+    "must_mask": [
+      {
+        "value": "228013819680251",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "directive 2002/91/CE",
+      "États membres"
+    ]
+  },
+  {
+    "id": "fr-el-1169-food-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "fr-el-1169-food",
+    "text": "1. Pour toutes les denrées alimentaires, les informations obligatoires sur les denrées alimentaires sont fournies et rendues facilement accessibles, conformément au présent règlement.\n\n2. Pour les denrées alimentaires préemballées, les informations obligatoires figurent directement sur l’emballage ou sur une étiquette attachée à celui-ci.\n\n3. Afin de veiller à ce que les consommateurs puissent disposer des informations obligatoires sur les denrées alimentaires par d’autres moyens mieux adaptés pour certaines mentions obligatoires, et pour autant que le même niveau d’information soit ainsi assuré qu’au moyen de l’emballage ou de l’étiquette, la Commission, sur la base d’éléments témoignant d’une compréhension uniforme et d’un large usage de ces moyens par les consommateurs, peut fixer, par voie d’actes délégués, en conformité avec l’article 51, les critères selon lesquels certaines mentions obligatoires peuvent être exprimées par un moyen autre que leur indication sur l’emballage ou l’étiquette.\n\n4. Afin d’assurer l’application uniforme du paragraphe 3 du présent article, la Commission peut adopter des actes d’exécution portant sur les modalités d’application des critères visés au paragraphe 3 afin que certaines mentions obligatoires soient exprimées par un moyen autre que leur indication sur l’emballage ou l’étiquette. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2. Le numéro de sécurité sociale du demandeur est 220043202650140.\n",
+    "must_mask": [
+      {
+        "value": "220043202650140",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "article 51",
+      "paragraphe 3"
+    ]
+  },
+  {
+    "id": "fr-wp-compostage-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-compostage",
+    "text": "Le compostage est un processus biologique comprenant plusieurs phases de dégradation et de transformation de déchets biodégradables, permettant d’obtenir un produit valorisable appelé compost.\n\nCe processus fonctionne sur le principe de l’humification qui se déroule en milieu naturel, mais de manière accélérée et dans des conditions contrôlées. Il se déroule en présence de l’oxygène de l’air et d’humidité (eau), par l’action conjuguée des bactéries, champignons, micro-organismes et macro-organismes. Il s’agit d’une réaction exothermique et aérobie, contrairement à la méthanisation qui est une réaction anaérobie.\n\nLe compost partage avec l'humus beaucoup de propriétés, notamment sa capacité à retenir l’eau et sa richesse en nutriments minéraux et organiques. Il peut être utilisé en tant qu’amendement ou engrais pour enrichir les sols.\n\nLe compostage peut être réalisé de différentes manières et à différentes échelles. À petite échelle, il consiste à mélanger des matières sèches carbonées (broyat) avec d'autres biodéchets riches en humidité et en azote (épluchures par exemple). À plus grande échelle, des entreprises utilisent des broyeurs mécaniques pour faciliter l’action bactérienne, accélérer le processus et hygiéniser le compost produit.\n\nL’utilisation d’un composteur nécessite de veiller à une bonne aération pour favoriser l’action des décomposeurs et l’apparition d'une biodiversité souhaitée (numéro de sécurité sociale 186069132424297).\n",
+    "must_mask": [
+      {
+        "value": "186069132424297",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "méthanisation",
+      "humus"
+    ]
+  },
+  {
+    "id": "fr-wp-eolienne-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-eolienne",
+    "text": "Une éolienne est un dispositif qui transforme l'énergie cinétique du vent en énergie mécanique, dite énergie éolienne, laquelle est ensuite le plus souvent transformée en énergie électrique. Le numéro de sécurité sociale du demandeur est 254037635870009. Les éoliennes produisant de l'électricité sont appelées « aérogénérateurs », tandis que les éoliennes qui pompent directement de l'eau sont parfois dénommées « éoliennes de pompage » ou « pompes à vent ». Une forme ancienne d'éolienne est le moulin à vent.\n\nLes termes « centrale éolienne », « parc éolien » ou « ferme éolienne » sont utilisés pour décrire les unités de production groupées, installées à terre ou en mer.\n\nLes pays du monde où les champs éoliens sont les plus nombreux sont la Chine, les États-Unis, l'Allemagne, l'Espagne, l'Inde, le Royaume-Uni et, en proportion de la population, le Danemark (voir Production d'énergie éolienne).\n\nComme l'énergie solaire et d'autres énergies renouvelables intermittentes, l'éolien peut constituer un système d'alimentation autonome, mais il nécessite alors soit une source d'énergie d'appoint pour les périodes moins ventées (par exemple des centrales à gaz), soit un stockage d'énergie de réseau (batteries, stockage hydraulique ou, plus récemment, hydrogène, méthanation, air comprimé), soit encore un réseau électrique intelligent.\n\nEn 1885, Ernest-Sylvain Vasseur, inventeur de l'éolienne Charmoy, utilise le mot « éolienne » (du dieu du vent Éole) pour la première fois comme nom commun à partir de l'adjectif substantivé (énergie éolienne). Le mot trouve sa place dans le Larousse en 1907.\n",
+    "must_mask": [
+      {
+        "value": "254037635870009",
+        "type": "NATIONAL_ID"
+      },
+      {
+        "value": "Ernest-Sylvain Vasseur",
+        "type": "PERSON"
+      }
+    ],
+    "must_clear": [
+      "Danemark",
+      "Royaume-Uni",
+      "Charmoy"
+    ]
+  },
+  {
+    "id": "fr-wp-giratoire-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-giratoire",
+    "text": "Un carrefour giratoire, ou plus simplement un giratoire dans le langage courant, est un carrefour particulier formé d'un anneau ceinturant un îlot central (la plupart du temps circulaire), où le trafic routier est autorisé à circuler dans une seule direction et où la priorité est donnée aux véhicules circulant sur l'anneau. Ce type de carrefour est aussi appelé rond-point, notamment en Belgique où ce terme est officiel.\n\nEn France, le terme de rond-point s'est imposé dans l'usage courant, bien que le « carrefour giratoire » (qui est un carrefour donnant priorité aux véhicules circulant sur l'anneau) peut être distingué du « rond-point » où la règle de priorité à droite est appliquée, ce qui donne la priorité aux véhicules entrant sur l'anneau. Bien que géométriquement peu différents ou identiques, les giratoires se caractérisent par la priorité des véhicules circulant sur l'anneau ; cette différence facilite la circulation des véhicules.\n\nLes ronds-points, qui désignent un type de place où convergent plusieurs avenues ou rues, existent en France depuis longtemps notamment à Paris ; cependant, jusqu'à l'apparition du modèle anglais, la priorité était à droite sur ces aménagements.\n\nLa France, réputée premier pays au monde pour son nombre de carrefours giratoires, en compte plus de 76 000 en 2026 d'après une étude menée par Les Echos, basées sur les données d'OpenStreetMap (OSM) (numéro de sécurité sociale 219015363766292). Ce nombre est composé de carrefours giratoires de toutes tailles, dont environ 61 000 de type \"plein\", et 15 000 de type \"vide\".\n",
+    "must_mask": [
+      {
+        "value": "219015363766292",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Les Echos",
+      "OpenStreetMap",
+      "Belgique"
+    ]
+  },
+  {
+    "id": "fr-wb-charpente-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "fr-wb-charpente",
+    "text": "Pour l'autoconstructeur, la charpente peut représenter un travail délicat si le toit ne se limite pas à un deux pans sans ferme. En fait il est parfaitement possible de venir à bout de la plupart des types de toiture en mettant en œuvre une méthodologie appropriée.\n\nLe numéro de sécurité sociale du demandeur est 229045679431457. Après une esquisse au 1/20 qui permettra de dégrossir le travail, une charpente se dessine avec une échelle permettant de mesurer directement les dimensions des pièces la composant. L'échelle 1/10 est la plus pratique.\n\nDe nombreuses contraintes sont à prendre en compte :\n\nPlan de la maison (forme, dimension, orientation...)\n\nRésistance mécanique au vent, à la neige, au poids de la couverture\n\nPente dépendant des traditions locales, du style de la maison, du type de couverture choisie\n\nPrésence d'ouvertures dans le toit (lucarnes, fenêtres, cheminées...)\n\nProblèmes d'accès et de réalisation (hauteur, échafaudage, grue...)\n\nPour se rendre compte de l'aspect futur de la construction dans son ensemble, ce que ne permet guère la lecture des plans et façades, il est bon de réaliser une maquette en carton.\n\nPour la charpente, utilisez du balsa (bois très léger vendu dans les magasins de bricolage ou de maquettes).\n\nTaller une charpente consiste à préparer au sol, à plat, les fermes et pannes avant de les monter à leur place définitive. L'aire de traçage et de façonnage devra être la plus plane et horizontale possible ; ce peut être la dernière dalle coulée si sa surface le permet.\n",
+    "must_mask": [
+      {
+        "value": "229045679431457",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "balsa",
+      "échafaudage"
+    ]
+  },
+  {
+    "id": "fr-wb-installation-electrique-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "fr-wb-installation-electrique",
+    "text": "La réalisation d’une installation électrique domestique ne réclame pas de don particulier. Il suffit d’apprendre les gestes élémentaires, d’avoir suffisamment de bon sens et de bien connaître les règles. On trouvera en librairie un petit vade-mecum et un bon ouvrage d’initiation qui apportera l’essentiel. Cette section n’a pas d’autre prétention que d’attirer l’attention de l’électricien-amateur sur cet essentiel (numéro de sécurité sociale 203023458609312).\n\nToute intervention doit se faire hors tension. Coupez l'alimentation secteur et onduleur (ordinateur éolienne...). Prenez l'habitude de raccorder vos installations en partant du point le plus éloigné de l'alimentation. Le raccordement à l'alimentation se faisant que lorsque tout les autres sont terminés et toujours disjoncteurs ouverts.\n\nLes normes NF C 15-100 et NF C 14-100 définissent les règles d'installation des circuits électriques (protection, répartition, diamètre des fils, prise de terre, ...).\n\nOn commencera par recenser tous les points d’utilisation potentiels de la future construction en commençant par les prises de courant :\n\nExtérieur : prises pour outillage électroportatif de jardinage, bricolage... Ces prises doivent pouvoir être coupées de l’intérieur de la maison, et doivent disposer de leur propre circuit muni d’un conducteur de protection vers le tableau électrique. Penser à tirer les gaines avant l’isolation thermique,.\n\nGarage : une prise tous les deux mètres de chaque côté de l’aire de rangement des véhicules.\n",
+    "must_mask": [
+      {
+        "value": "203023458609312",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "NF C 15-100",
+      "disjoncteurs"
+    ]
+  },
+  {
+    "id": "fr-wv-train-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "fr-wv-train",
+    "text": "Avant que les avions et les automobiles n'arrivent au-devant de la scène, le voyage en train était presque le seul moyen pour voyager à travers les pays (numéro de sécurité sociale 252087431948277). Dans certaines parties du monde, comme l'Europe et une grande partie de l'Asie, il est toujours l'un des modes standards pour voyager d'une ville à une autre et, dans d'autres parties du monde, par exemple en Amérique du Nord, il reste une alternative assez populaire. Il n'a pas la vitesse des déplacements aériens pour les longues distances et souvent pas la densité de couverture du réseau routier, mais compense par l'espace qu'on a pour bouger pendant que quelqu'un d'autre s'occupe de conduire. Il est également plus confortable que le transport aérien, en particulier, au niveau de l'espace pour les jambes et pour ceux qui n'aiment pas l'idée d'être suspendu à 30 000 pieds au-dessus du sol. Pour des distances comprises entre environ 100 et 800 km, ce peut être la méthode la plus rapide pour voyager, surtout si vous devez vous rendre de centre-ville à centre-ville. On peut approximativement estimer que le train est plus rapide que l'avion si le trajet prend jusqu'à 4 h, étant donné que cela ne nécessite généralement pas d'être à la gare plus de 15 min avant le départ. Pour de plus longues distances, cela prend plus de temps qu'en voyageant en avion, mais cela permet de voir le paysage depuis le niveau du sol et vous permet de faire des arrêts sur le chemin.\n",
+    "must_mask": [
+      {
+        "value": "252087431948277",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Amérique du Nord",
+      "Asie"
+    ]
+  },
+  {
+    "id": "fr-wv-train-europe-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "fr-wv-train-europe",
+    "text": "Le réseau ferroviaire est très développé en Europe (numéro de sécurité sociale 222082751466185). C'est un moyen de transport privilégié sur un continent où les activités humaines sont particulièrement denses. Ainsi, malgré plusieurs régressions ayant rendues la chose moins vraie, on peut encore dire que les trains permettent de parcourir l'Europe.\n\nLes compagnies sont en général publiques. L'exemple le plus notable de libéralisation du rail est britannique, mais il semble que les autorités de ce pays reviennent peu à peu sur leur décision. Les compagnies nationales répondent donc en principe aux impératifs juridiques du service public : égalité (des prix et de la desserte), continuité du service...\n\nDB.  Formulaire de recherche des horaires en français. Le formulaire Hafas propose les horaires de tous les trains d'Europe. Après, vous devrez aller acheter dans une gare les billets mais vous connaîtrez déjà la faisabilité du trajet. Attention toutefois, ce ne sont que les horaires planifiés. Le site ne tient pas compte des travaux et autres changements de dernière minute. (dernière mise à jour : mars 2017)\n\n1 SNCB.  Formulaire de recherche des horaires en français. Le formulaire Hafas propose, bien sûr, les horaires de tous les trains belges, ainsi que de certaines relations hors de cet état. Les billets sont aussi disponibles en ligne. (dernière mise à jour : mars 2017)\n\nSNCB International.  Formulaire de recherche des horaires en français. Les billets sont aussi disponibles en ligne. (dernière mise à jour : avr. 2019)\n\nSNCF.  Formulaire de recherche des horaires.  (dernière mise à jour : mars 2017)\n",
+    "must_mask": [
+      {
+        "value": "222082751466185",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "SNCF",
+      "SNCB",
+      "Hafas"
+    ]
+  },
+  {
+    "id": "en-wp-compost-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "en-wp-compost",
+    "text": "Compost is a mixture of ingredients used as plant fertilizer and to improve soil's physical, chemical, and biological properties. The applicant's French social security number is 122079158130832. It is commonly prepared by decomposing plant and food waste, recycling organic materials, and manure. The resulting mixture is rich in plant nutrients and beneficial organisms, such as bacteria, protozoa, nematodes, and fungi. Compost improves soil fertility in gardens, landscaping, horticulture, urban agriculture, and organic farming, reducing dependency on commercial chemical fertilizers. The benefits of compost include providing nutrients to crops as fertilizer, acting as a soil conditioner, increasing the humus or humic acid contents of the soil, and introducing beneficial microbes that help to suppress pathogens in the soil and reduce soil-borne diseases.\n\nAt the most basic level, composting requires gathering a mix of green waste (nitrogen-rich materials such as leaves, grass, and food scraps) and brown waste (woody materials rich in carbon, such as stalks, paper, and wood chips). The materials break down into humus in a process taking months. Composting can be a multistep, closely monitored process with measured inputs of water, air, and carbon- and nitrogen-rich materials. The decomposition process is aided by shredding the plant matter, adding water, and ensuring proper aeration by regularly turning the mixture in a process using open piles or windrows. Fungi, earthworms, and other detritivores further break up the organic material.\n",
+    "must_mask": [
+      {
+        "value": "122079158130832",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "windrows",
+      "detritivores"
+    ]
+  },
+  {
+    "id": "en-wb-road-safety-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "en-wb-road-safety",
+    "text": "This chapter is meant to cover safety while riding a bicycle on a road. For more information on general safety, including preparing for riding, please see the General Safety chapter.\n\nThe first recorded bicycle accident is probably a collision in 1842, allegedly between Alasdair McPhail, an early rider of the velocipede, and a young girl in Glasgow.  The report, however, is vague and the identification disputed.\n\nCauses of crashes vary according to local conditions (French social security number 143095805716278).  Research in the UK, based on hospital based samples, has found that 72% of cyclist accidents involved no other vehicle at all, and that 7% were claimed to be caused by motor vehicles.  This contrasts with another analysis which found that between 60% and 85% of serious cyclist injuries are the result of negligence by a motor driver.  A study conducted in 2000  by SWOV (Institute for Road Safety Research) in the Netherlands found that single bicycle accidents accounted for 47% of all bicycle accidents, collisions with obstacles and animals accounted for 12%, and collisions with other road users accounted for 40% (with the remaining 1% having unknown or unclassified cause).\n\nThis is what one would expect from thermodynamics; a cyclist only accident only provides a small amount of energy whereas a motor vehicle can provide a lot. The injuries are related to the energy available. Falling off and hitting obstructions tend to be relatively minor, usually not involving any hospital attention, so no appearance in the statistics. Motor vehicles add a lot of energy; even at very low speeds they can crush cyclists.\n",
+    "must_mask": [
+      {
+        "value": "143095805716278",
+        "type": "NATIONAL_ID"
+      },
+      {
+        "value": "Alasdair McPhail",
+        "type": "PERSON"
+      }
+    ],
+    "must_clear": [
+      "Glasgow",
+      "SWOV",
+      "Netherlands"
+    ]
+  },
+  {
+    "id": "fr-el-0098-waste-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "fr-el-0098-waste",
+    "text": "1. Les États membres prennent les mesures nécessaires pour promouvoir le réemploi des produits et les activités de préparation en vue du réemploi, notamment en encourageant la mise en place et le soutien de réseaux de réemploi et de réparation, l'utilisation d'instruments économiques, de critères d'attribution de marchés, d'objectifs quantitatifs ou d'autres mesures.\n\nLes États membres prennent des mesures pour promouvoir un recyclage de qualité et, à cet effet, mettent en place des collectes séparées des déchets lorsqu'elles sont réalisables et souhaitables d'un point de vue technique, environnemental et économique afin de respecter les normes de qualité nécessaires pour les secteurs concernés du recyclage.\n\nSous réserve de l'article 10, paragraphe 2, la collecte séparée est instaurée d'ici 2015 au moins pour: le papier, le métal, le plastique et le verre.\n\n2. Afin de se conformer aux objectifs de la présente directive et de tendre vers une société européenne du recyclage, avec un niveau élevé de rendement des ressources, les États membres prennent les mesures nécessaires pour parvenir aux objectifs suivants:\n\n3. La Commission fixe les modalités détaillées d'application et de calcul du respect des objectifs définis au paragraphe 2, compte tenu du règlement (CE) n o 2150/2002 du Parlement européen et du Conseil du 25 novembre 2002 relatif aux statistiques sur les déchets. Elles peuvent prévoir des périodes transitoires pour les États membres qui, en 2008, ont recyclé moins de 5 % de chaque catégorie de déchets visée au paragraphe 2. Ces mesures, qui visent à modifier des éléments non essentiels de la présente directive en la complétant, sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l'article 39, paragraphe 2, de la présente directive (numéro de sécurité sociale 116102838694414).\n",
+    "must_mask": [
+      {
+        "value": "116102838694414",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "2150/2002",
+      "article 39, paragraphe 2"
+    ]
+  },
+  {
+    "id": "fr-el-0024-procurement-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "fr-el-0024-procurement",
+    "text": "1. Les spécifications techniques définies au point 1 de l’annexe VII figurent dans les documents de marché. Le numéro de sécurité sociale du demandeur est 176083129537269. Les spécifications techniques définissent les caractéristiques requises des travaux, des services ou des fournitures.\n\nCes caractéristiques peuvent également se référer au processus ou à la méthode spécifique de production ou de fourniture des travaux, des produits ou des services demandés ou à un processus propre à un autre stade de leur cycle de vie même lorsque ces facteurs ne font pas partie de leur contenu matériel, à condition qu’ils soient liés à l’objet du marché et proportionnés à sa valeur et à ses objectifs.\n\nPour tous les marchés de travaux, fournitures ou services destinés à être utilisés par des personnes physiques, qu’il s’agisse du grand public ou du personnel du pouvoir adjudicateur, les spécifications techniques sont élaborées, sauf dans des cas dûment justifiés, de façon à tenir compte des critères d’accessibilité pour les personnes handicapées ou de la notion de conception pour tous les utilisateurs.\n\nLorsque des exigences d’accessibilité contraignantes ont été arrêtées par un acte juridique de l’Union, les spécifications techniques sont définies par référence à ces normes en ce qui concerne les critères d’accessibilité pour les personnes handicapées ou la notion de conception pour tous les utilisateurs.\n\n2. Les spécifications techniques donnent aux opérateurs économiques une égalité d’accès à la procédure de passation de marché et n’ont pas pour effet de créer des obstacles injustifiés à l’ouverture des marchés publics à la concurrence.\n\n3. Sans préjudice des règles techniques nationales obligatoires, dans la mesure où elles sont compatibles avec le droit de l’Union, les spécifications techniques sont formulées de l’une des façons suivantes:\n",
+    "must_mask": [
+      {
+        "value": "176083129537269",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "annexe VII",
+      "acte juridique de l’Union"
+    ]
+  },
+  {
+    "id": "fr-eb-ar24-balance-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "fr-eb-ar24-balance",
+    "text": "Le bilan de l’Eurosystème a été progressivement réduit avec l’arrivée à échéance des opérations TLTRO III et la diminution des avoirs dans les portefeuilles détenus à des fins de politique monétaire\n\nEn 2024, le bilan de l’Eurosystème a poursuivi la normalisation progressive amorcée en 2022. À la fin de l’année, il est revenu à 6 400 milliards d’euros (contre 6 900 milliards fin 2023). Cette réduction résulte des remboursements anticipés et de l’arrivée à échéance des opérations TLTRO III, ainsi que de la réduction de la taille du portefeuille de l’APP et, dans une certaine mesure, également du portefeuille du PEPP, ce dernier étant passé à des réinvestissements partiels à partir de juillet.\n\nFin 2024, les actifs liés à la politique monétaire figurant au bilan de l’Eurosystème s’élevaient à 4 300 milliards d’euros, soit une baisse de 800 milliards par rapport à fin 2023. Les prêts aux établissements de crédit de la zone euro représentaient 1 % du total des actifs (après 6 % fin 2023) et les détentions d’actifs acquis à des fins de politique monétaire représentaient 67 % du total des actifs (après 68 % fin 2023). Les autres actifs financiers figurant au bilan, principalement constitués d’avoirs en devises étrangères, d’or et de portefeuilles de titres libellés en euros autres que ceux détenus à des fins de politique monétaire, ont augmenté de 300 milliards d’euros (numéro de sécurité sociale 183127207561494).\n\nAu passif, le montant global des avoirs de réserve des établissements de crédit et du recours à la facilité de dépôt est revenu à 3 000 milliards d’euros fin 2024 (après 3 500 milliards fin 2023) et représentait 47 % du passif total (après 51 % fin 2023). Les billets en circulation sont restés pratiquement inchangés, à 1 600 milliards d’euros et représentaient 25 % du passif total (après 23 %).\n",
+    "must_mask": [
+      {
+        "value": "183127207561494",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "TLTRO III",
+      "Eurosystème"
+    ]
+  },
+  {
+    "id": "fr-eb-ar24-target-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "fr-eb-ar24-target",
+    "text": "La BCE a fait évoluer de manière substantielle l’ensemble des services TARGET en 2024. Des efforts concertés ont été déployés pour renforcer la capacité de rétablissement de T2 et de T2S en cas d’incident majeur (y compris une cyberattaque) et pour affiner davantage les fonctionnalités des services TARGET en vue de répondre à l’évolution des besoins du marché. Afin de préserver le traitement automatique de bout en bout dans le cadre des paiements transfrontières, les messages utilisés par T2 ont été améliorés pour répondre aux dernières évolutions des normes du marché concernant les systèmes de paiements de montant élevé (High Value Payments Systems Plus, HVPS+). Parmi les réalisations notables relatives à T2S figurent le déploiement complet des nouveaux services de reporting, l’extension des fonctionnalités de règlement des transactions avec des dépositaires centraux de titres extérieurs à la plateforme T2S, la poursuite du développement des services de gestion de trésorerie pour les banques participantes et l’avancement des travaux visant à préparer l’intégration future des nouveaux marchés des investisseurs finaux (numéro de sécurité sociale 162075840212554). En outre, les instances de gouvernance de T2S ont joué un rôle essentiel dans plusieurs initiatives critiques d’ordres politique et réglementaire, telles que le futur raccourcissement du cycle de règlement des titres dans l’UE (à T+1) et la révision du régime de discipline en matière de règlement, l’accent étant mis sur l’affinement du mécanisme de sanctions pour une meilleure efficacité. Les progrès réalisés dans l’évolution de l’ensemble des services TARGET ont apporté d’importants gains d’efficacité au marché.\n",
+    "must_mask": [
+      {
+        "value": "162075840212554",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "services TARGET",
+      "HVPS+"
+    ]
+  },
+  {
+    "id": "fr-eb-ar24-borrowing-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "fr-eb-ar24-borrowing",
+    "text": "La BCE est responsable de la gestion des comptes et du traitement des paiements relatifs aux opérations d’emprunt et de prêt de l’UE dans le cadre du mécanisme de soutien financier à moyen terme (medium-term financial assistance, MTFA) (anglais) des balances des paiements des États membres, du mécanisme européen de stabilisation financière (MESF) (anglais), de l’ instrument européen de soutien temporaire à l’atténuation des risques de chômage en situation d’urgence (European instrument for temporary Support to mitigate Unemployment Risks in an Emergency, SURE) (anglais), du programme Next Generation EU (NGEU) (anglais), de la facilité pour l’Ukraine (anglais), y compris le financement-relais exceptionnel, et du programme d’assistance macrofinancière à court terme à la République arabe d’Égypte (anglais). La BCE assume également la responsabilité de gérer certains paiements liés à des opérations relevant du Fonds européen de stabilité financière (FESF) (anglais) et du Mécanisme européen de stabilité (MES) (anglais). Elle assure aussi le traitement de tous les paiements afférents à la convention de prêt dont bénéficie la Grèce. En 2024, la BCE a offert ses services d’organisme payeur à la Commission européenne.\n\nAu 31 décembre 2024, l’encours nominal total s’élevait à 200 millions d’euros pour le mécanisme MTFA, à 42 milliards d’euros pour le MESF, à 98,35 milliards d’euros pour l’instrument SURE et à 31,605 milliards d’euros pour la convention de prêt dont bénéficie la Grèce. Le numéro de sécurité sociale du demandeur est 198074434453102. Enfin, la BCE a procédé en 2024 aux décaissements et aux paiements des intérêts de prêts et de subventions au titre du programme NGEU à destination et émanant de différents États membres, de même qu’elle a traité les prêts à destination de l’Ukraine.\n",
+    "must_mask": [
+      {
+        "value": "198074434453102",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Commission européenne",
+      "31 décembre 2024"
+    ]
+  },
+  {
+    "id": "fr-eb-ar24-cash-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "fr-eb-ar24-cash",
+    "text": "Fin 2024, le nombre de billets en euros en circulation s’élevait à 30,5 milliards, pour une valeur totale de quelque 1 600 milliards d’euros (graphique 6.1). Le nombre et la valeur des billets en circulation ont augmenté de, respectivement, 2,4 % et 1,3 % au cours de l’année.\n\nLes établissements de crédit ont remis en circulation des volumes de billets plus importants auprès de leurs clients, améliorant ainsi leur efficacité\n\nLes établissements de crédit ont retourné 25,4 milliards de billets aux banques centrales nationales (BCN) de la zone euro en 2024, soit une légère diminution de 0,9 milliard par rapport à 2023. Au total, la valeur des billets déposés auprès des BCN a atteint 856 milliards d’euros en 2024, contre 890 milliards en 2023. Ce recul tient au fait que les établissements de crédit ont remis en circulation des volumes de billets plus importants auprès de leurs clients au lieu de les retourner aux BCN. L’évolution du traitement des billets par les établissements de crédit reflète les efforts qu’ils ont déployés, avec succès, pour améliorer leur efficacité, par exemple en installant davantage de distributeurs automatiques de billets (DAB) dotés de fonctionnalités de dépôt et de remise en circulation.\n\nLe numéro de sécurité sociale du demandeur est 218062B59539475. En 2024, le nombre de pièces en euros en circulation (émission nette) dans la zone euro a augmenté de 3,0 milliards, pour une valeur nominale de 953 millions d’euros, ce qui est comparable aux deux années précédentes.\n",
+    "must_mask": [
+      {
+        "value": "218062B59539475",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "banques centrales nationales",
+      "856 milliards d’euros"
+    ]
+  },
+  {
+    "id": "fr-wp-assainissement-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-assainissement",
+    "text": "L’assainissement est une démarche visant à améliorer la situation sanitaire globale de l'environnement dans ses différents composants. Il comprend la collecte, le traitement et l'évacuation des déchets liquides, des déchets solides et des excréments.\n\nL'objectif principal est la prévention du contact humain avec des substances dangereuses, spécialement les fèces en mettant en place des systèmes de traitement et d'évacuation des déchets. Les dangers issus d'un mauvais assainissement sont multi-factoriels, pouvant être à la fois physique, microbiologique, biologique ou encore chimique. Les déchets, ce qui inclut les excreta d'origine humaine et animale, les déchets résiduels ou encore les eaux usées, peuvent causer des ennuis de santé majeurs.\n\nDes systèmes d'assainissement plus hygiéniques peuvent s'appuyer sur des solutions technologiques telles que les égouts ou les stations de traitement des eaux usées. Ces systèmes peuvent aussi suivre une approche plus décentralisée et simple avec par exemple les toilettes sèches, les toilettes sèches à séparation d'urine ou les fosses septiques (numéro de sécurité sociale 233071665617926). Enfin, l'amélioration du niveau d'assainissement, en particulier dans les pays en voie de développement, peut s'appuyer sur les stratégies de changement de comportements en hygiène personnelle en promouvant par exemple le lavage régulier des mains.\n\nL’assainissement, littéralement « action d'assainir », est originellement l'ensemble des techniques et méthodes visant à traiter les eaux usées.\n",
+    "must_mask": [
+      {
+        "value": "233071665617926",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "fosses septiques",
+      "toilettes sèches"
+    ]
+  },
+  {
+    "id": "fr-wp-enrobe-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-enrobe",
+    "text": "Un enrobé (ou enrobé bitumineux ou béton bitumineux) est un mélange de graviers, de sable et de liant hydrocarboné type bitume (le goudron de houille n'étant plus utilisé en France depuis les années 1960) appliqué en une ou plusieurs couches pour constituer la chaussée des routes, la piste des aéroports et d'autres zones de circulation.\n\ndes « fines » (ou « fillers ») : sables et poussières de section inférieure à 63 micromètres. Ces éléments, présents naturellement en faible quantité dans les granulats, sont essentiels pour réaliser l'enrobage du liant (le bitume) avec les granulats, car ce sont les fines qui agrègent le bitume ;\n\nBéton bitumineux : enrobé riche en bitume, utilisé principalement pour les couches de roulement, c'est-à-dire pour les couches supérieures de la chaussée. Les bétons bitumineux se classent en fonction de leur granulométrie. Ils sont toujours posés sur une couche de base en matériaux hydrocarbonés ou traités au liant hydraulique ou sur une couche de liaison en enrobés pour les couches minces.\n\nBéton bitumineux ultra mince (BBUM) : épaisseur de couche de 2 cm, utilisé pour les couches de roulement particulières où une macrotexture importante est recherchée ou dans le cas de travaux d'entretien de surface (numéro de sécurité sociale 239118882022663). Toujours posé sur une couche de liaison.\n\nBéton bitumineux très mince (BBTM) : épaisseur de couche de 2,5 cm. Très utilisé en France pour les couches de roulement, elle permet de réaliser une couche d'usure qui, après quelques années, pourra être rabotée et refaite, ou pour des points particuliers où une forte macrotexture est recherchée. Toujours posé sur une couche de liaison.\n\nGrave bitume : enrobé à plus faible teneur en liant (bitume) destiné aux couches de fondation ou de base, entre 8 et 14 cm (couches d'assise).\n",
+    "must_mask": [
+      {
+        "value": "239118882022663",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Grave bitume",
+      "BBTM"
+    ]
+  },
+  {
+    "id": "fr-wp-pompe-a-chaleur-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-pompe-a-chaleur",
+    "text": "Une pompe à chaleur (PAC), aussi appelée thermopompe en français canadien, est un dispositif permettant de transférer de l'énergie thermique d'un milieu à basse température (source froide) vers un milieu à haute température (source chaude). Ce dispositif permet donc d'inverser le sens naturel du transfert spontané de l'énergie thermique.\n\nSelon le sens de fonctionnement du dispositif de pompage, une pompe à chaleur peut être considérée comme un système de chauffage, si l'on souhaite augmenter la température de la source chaude, ou de réfrigération, si l'on souhaite abaisser la température de la source froide. Pour la production de froid, le procédé est à la base de la quasi-totalité des climatiseurs et réfrigérateurs. Pour la production de chaleur, le procédé diffère du chauffage classique, dans lequel un corps est chauffé (par effet Joule, par combustion, ou par tout autre procédé).\n\nSelon une étude parue en 2020, même à supposer que le contenu en carbone de l'électricité ne présente pas d'amélioration, il y aurait quand même intérêt à passer aux voitures électriques pour les transports, et aux pompes à chaleur pour les bâtiments.\n\nLa croissance de la production d'énergie primaire renouvelable en France depuis 2005 est notamment due à l'essor de la pompe à chaleur. En 2024, la production due à celle-ci représente 28 % de la consommation primaire d’énergies renouvelables pour usage de chaleur en France, et elle est la seule filière à avoir atteint ses objectifs hauts de la PPE à l'horizon 2028 (numéro de sécurité sociale 174109476554437). Les effectifs salariés pour la fabrication, l’installation et la maintenance de pompes à chaleur ont triplé entre 2017 et 2022. La France est première d'Europe en quantité de production d'énergie primaire de ce type.\n",
+    "must_mask": [
+      {
+        "value": "174109476554437",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "effet Joule",
+      "thermopompe"
+    ]
+  },
+  {
+    "id": "fr-wp-fibre-optique-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-fibre-optique",
+    "text": "La fibre optique est un fil dont l’âme, très fine et faite de verre ou de plastique, a la propriété de conduire la lumière et sert pour la fibroscopie, l'éclairage ou la transmission de données numériques. Elle offre un débit d'information nettement supérieur à celui des câbles coaxiaux et peut servir de support à un réseau « large bande » par lequel transitent aussi bien la télévision, le téléphone, la visioconférence ou les données informatiques. Le principe de la fibre optique date du début du XXe siècle mais ce n'est qu'en 1970 qu'est développée une fibre utilisable pour les télécommunications, dans les laboratoires de l'entreprise américaine Corning Glass Works (actuelle Corning Incorporated).\n\nEntourée d'une gaine protectrice, la fibre optique peut être utilisée pour conduire de la lumière entre deux lieux distants de plusieurs centaines – voire de milliers – de kilomètres. Le numéro de sécurité sociale du demandeur est 237023087623489. Le signal lumineux codé par une variation d'intensité est capable de transmettre une grande quantité d'information. En permettant les communications à très longue distance et à des débits jusqu'alors impossibles, les fibres optiques ont constitué l'un des éléments clés de la progression des télécommunications. Ses propriétés sont également exploitées dans le domaine des capteurs (température, pression, etc.), dans l'imagerie et dans l'éclairage.\n\nÀ l'époque des Grecs anciens, le phénomène du transport de la lumière dans des cylindres de verre était déjà connu. Il était, semble-t-il, mis à profit par les artisans du verre pour créer des pièces décoratives. Plus tard, les techniques de fabrication utilisées par les artisans vénitiens de la Renaissance pour fabriquer les millefiori ressembleraient beaucoup aux techniques actuelles de fabrication de la fibre optique. L'utilisation du verre en conjonction avec la lumière n'est donc pas récente.\n",
+    "must_mask": [
+      {
+        "value": "237023087623489",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Corning Incorporated",
+      "millefiori"
+    ]
+  },
+  {
+    "id": "fr-wp-ecluse-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-ecluse",
+    "text": "Une écluse est un ouvrage d'art hydraulique implanté dans un canal ou un cours d'eau pour le rendre navigable et permettre aux bateaux de franchir des dénivellations. Certains barrages à pertuis ou écluses visaient aussi à protéger un cours d'eau ou une ville des effets de la marée (qui sur l'Escaut par exemple se faisaient autrefois sentir jusqu'à Gand). L'écluse comprend un sas dans lequel on peut faire varier le niveau de l'eau. Il est isolé des biefs amont et aval par des portes ou vantaux (autrefois portes de bois de chêne munies de vannes dites « ventelles »).\n\nLe numéro de sécurité sociale du demandeur est 278027943498551. Certaines écluses ne sont nécessaires qu'à la suite d'un barrage de régulation. C'est le cas de l'écluse d'Iroquois Falls sur la voie maritime du Saint-Laurent qui sert à réguler le débit du fleuve en vertu de la Commission mixte internationale des Grands Lacs et du fleuve Saint-Laurent. Sa chute fluctue de 0,6 à 1 m.\n\nAvec les changements climatiques, une écluse peut jouer un rôle régulateur crucial : celles de Sió permettent de maintenir le niveau du lac Balaton à ±105 m. Étant donné sa faible profondeur (3,25 m en moyenne, pour un maximum de 12), ce niveau est critique lors d'épisodes d'évapotranspiration dus au réchauffement climatique. En revanche, les écluses sont ouvertes lorsque le niveau dépasse 110 cm au limnigraphe de Siófok. Elles le sont aussi pour la navigabilité dans la rivière canalisée du même nom jusqu'au Danube. Le niveau du Lac peut alors baisser de quelques centimètres. (Pour une superficie comparable – ±600 km2 –, le lac de Constance – pourtant beaucoup plus profond – fluctue de quelque trois mètres sans régulation).\n\nles infrastructures annexes et systèmes liés au fonctionnement de l'écluse (électricité, éclairage, local de contrôle et commande, télécommunication ; cric de ventelle et de porte sur une écluse manuelle) ;\n",
+    "must_mask": [
+      {
+        "value": "278027943498551",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "lac Balaton",
+      "Saint-Laurent"
+    ]
+  },
+  {
+    "id": "fr-wp-isolation-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-isolation",
+    "text": "L’isolation thermique est l'ensemble des techniques mises en œuvre pour limiter les transferts de chaleur entre un milieu chaud et un milieu froid. L'isolation thermique est utilisée dans de nombreux domaines, notamment le bâtiment, l'industrie, l'automobile, la chaîne du froid, la cuisine et le textile. Elle permet de réduire la consommation énergétique, donc les coûts et les émissions de gaz à effet de serre.\n\nUn échange de chaleur se produit entre deux milieux dès qu'il existe une différence de température entre ces deux milieux et d’autant plus que l'écart de température est important. Le numéro de sécurité sociale du demandeur est 225053091742580. La chaleur se propage du milieu chaud vers le milieu froid par l’intermédiaire de la conduction, du rayonnement, de la convection ou par l'action simultanée d'un ou plusieurs de ces phénomènes.\n\nLe but de l'isolation thermique est de réduire, voire supprimer, les échanges thermiques entre deux corps de températures différentes. Elle peut avoir pour but de garder la chaleur présente à l’intérieur d'un bâtiment, ou garder le froid dans un réfrigérateur, une chambre froide ou un congélateur. Cela passe par l'interposition d'un matériau isolant entre le milieu chaud et le milieu froid. Les panneaux sandwiches reposent sur ce principe et utilisent la mousse de polyuréthane (PUR), polyisocyanurate (PIR), la laine de roche, ou encore le nid d'abeilles comme matériau interstitiel.\n\nCe matériau, communément appelé « isolant thermique », peut simplement être constitué d'une petite couche d'air sec, voire par une couche de vide d'air entre les deux milieux à isoler comme dans une bouteille thermos.\n",
+    "must_mask": [
+      {
+        "value": "225053091742580",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "polyisocyanurate",
+      "laine de roche"
+    ]
+  },
+  {
+    "id": "fr-wb-maconnerie-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "fr-wb-maconnerie",
+    "text": "La réalisation des murs et des dalles est une étape conséquente du gros-œuvre mais c'est une des plus intéressantes. Chacune des opérations doit être réalisée avec soin et dans les règles de l'art. En cas de doute, il vaut mieux faire appel à un homme de l'art compétent. On peut refaire une charpente, pas une maçonnerie complète...\n\nLes fondations sont un élément essentiel de la construction. Elles constituent une base rigide qui supporte la masse de la maison toute entière (une bonne centaine de tonnes) et répartit cette charge sur le sol de façon à ce que le bâtiment ne puisse bouger (numéro de sécurité sociale 278071859958838). Elles sont constituées d’un ensemble de hourdis (encore appelées semelles) en béton armé solidement reliés entre eux. La surface des fondations est calculée pour que la pression (en MPa = N/mm²) soit inférieure à la résistance du sol et ce en toutes circonstances (fortes pluie, sécheresse, gel...). Cette surface est proportionnelle à la largeur de la semelle et doit être déterminée à chaque endroit en fonction de la charge locale à supporter (mur, conduit de fumée, escalier, poteau...) et des variations de résistance du sol à la pression. Les semelles sont coulées dans des fouilles en rigoles de section pratiquement carrée creusées par le godet d’un tracto-pelle. Le fond des rigoles doit être propre et atteindre une profondeur de minimum 80 cm au moment de la coulée. La surface des semelles sera nivelée de façon à faciliter la pose des murs.\n\nLe ferraillage des semelles est constitué de plusieurs barres parallèles en acier à haute adhérence reliées entre-elles par des épingles ou des cadres. Le dimensionnement et la structure des armatures dépend des contraintes liées au poids du bâtiment et de la nature du sol.\n",
+    "must_mask": [
+      {
+        "value": "278071859958838",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "tracto-pelle",
+      "béton armé"
+    ]
+  },
+  {
+    "id": "fr-wb-couverture-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "fr-wb-couverture",
+    "text": "La couverture d’un bâtiment est un écran posé sur la charpente et chargé de protéger celui-ci de la pluie, de la neige, du vent, du soleil et du sable du sahara...\n\ntuiles solaires (photovoltaïque) encore très chères, mais pouvait faire l'objet de subvention, ou d'un financement par tiers investisseur pour les grands projets.\n\nSans parler de procédés plus rares comme les plaques de schiste, chaume, feuille de cuivre ou de plomb ou, maintenant interdit : plaques d’amiante-ciment...\n\nPour la ventilation de la sous-toiture sont utilisées des tuiles chatières. Les croupes sont terminées par une rangée d’arêtiers tandis que les faîtes sont surmontés de tuiles faîtières. À l’inverse les noues sont constituées généralement d’un canal en tôle de zinc. Pour éclairer un comble il est possible de placer des tuiles transparentes (de préférence au nord). Pour les traversées et sortie de mât d’antennes, tuyaux de ventilation... il existe des tuiles spéciales.\n\nLe type de toiture est généralement choisi dès le début du projet. Il est utile d'aussi penser à ce moment à la facilité d'accès et d'entretien (réparation, nettoyage des gouttières...)\n\nLa « sous-toiture » est un film résistant à l’eau, mais perméable à la vapeur d'eau, qui compense les défauts accidentels d’étanchéité de la couverture, par exemple lors de grand vent, fuite, introduction de neige poudreuse sous les tuiles... Sa pose doit être particulièrement soignée prés des souches de cheminées, fenêtres de toit, sortie de ventilation...\n\nCe film, en plastique ou tissu bitumé renforcé, est déroulé par lais horizontaux sur les chevrons (en commençant par le bas) (numéro de sécurité sociale 126089562469606). Il est maintenu par des contre-lattes (épaisseur 10 ou 15 mm) clouées sur les chevrons. La sous-toiture peut faire office de couverture pendant les quelques jours précédant la pose des tuiles.\n",
+    "must_mask": [
+      {
+        "value": "126089562469606",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "tuiles chatières",
+      "amiante-ciment"
+    ]
+  },
+  {
+    "id": "fr-wb-chauffage-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "fr-wb-chauffage",
+    "text": "Avec l'augmentation du coût de l'énergie, l'isolation thermique et le chauffage sont deux postes qui devront être étudiés et réalisés avec attention.\n\nLe numéro de sécurité sociale du demandeur est 113102A22475026. Le choix d’un type de chauffage sort du cadre de cet article. Du point de vue de l’autoconstruction, le travail à réaliser, les gains, la difficulté... sont très différents.\n\nélectrique par convecteurs - pas de difficulté particulière, économie importante en investissement mais peut se révéler d’un coût élevé à l’usage si l’isolation n’a pas été prévue en conséquence,\n\nélectrique par câble chauffant dans la dalle - spécifications particulières pour la pose du câble, dalle flottante épaisse, abonnement heures creuses,\n\nchaudière au gaz raccordée au réseau - spécifications particulières pour l’alimentation et le raccordement, évacuation des gaz brûlés par sortie directe ou dans un conduit de fumée,\n\nchaudière au fioul ou gaz liquéfié - idem chaudière au gaz ci-dessus mais contraintes particulières pour le stockage (sécurité, risques de pollution) et le remplissage des cuves (accès camion),\n\nsolaire thermique couplé à un moyen de chauffage de base - orientation et pente du toit, proximité de la chaufferie de base et des capteurs.\n\ncirculation d’eau dans la dalle flottante – pompe pour mise en pression des circuits au moment de couler la dalle ; le distributeur est en général placé au centre de l’étage, dans un placard ; c’est peut-être le type de chauffage le plus facile pour l’amateur (distribution par tuyaux en polyéthylène sans soudure), il convient aussi pour les PSD (plancher solaire direct),\n\nLa température d’une pièce doit être adaptée au tempérament de ses occupants et ne pas varier trop avec la température extérieure ou à cause des apports de chaleur ou de froid indépendants du système de chauffage (rayon de soleil, cuisson des aliments, ouverture d’une porte...).\n",
+    "must_mask": [
+      {
+        "value": "113102A22475026",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "plancher solaire direct",
+      "polyéthylène"
+    ]
+  },
+  {
+    "id": "fr-wv-route-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "fr-wv-route",
+    "text": "Le plus long est le voyage, et plus il diffère de votre routine de conduite, plus il est important de se préparer à prendre la route soigneusement. Si vous voyagez avec des enfants ou en hiver, il y a des choses à prendre en considération.\n\nPermis de conduire du pays de résidence, le permis de conduire français est reconnu dans tous les pays de l'union européenne ainsi que dans la plupart d'autres états du monde.\n\nLe numéro de sécurité sociale du demandeur est 146093207658528. Permis de conduire international, souhaitable car traduit dans plusieurs langues. Il faut cependant signaler que certains états comme la Chine ne le reconnaissent pas et il faut passer le permis localement reconnu pour conduire dans ces pays. D'autres états comme le Japon demandent une traduction officielle de votre permis de conduire.\n\nAssurance (carte verte reconnue dans l'ensemble des pays d'Europe ainsi qu'aux pays du Maghreb et en Asie de l'Ouest. Pour les autres pays où vous seriez amené à circuler avec votre voiture, il faudra souscrire une assurance nationale à durée variable. Cette démarche s'accomplit généralement à l'entrée de chaque pays visité. Des assurances \"assistance\" et/ou \"rapatriement\" existent et peuvent être d'un grand secours.\n\nEn Suisse, en Autriche, en République tchèque et en Slovaquie : il faut se procurer une vignette à coller sur le pare-brise de votre véhicule pour emprunter le réseau autoroutier. Les tarifs et les durées de validité varient suivant ces pays visités. Sachez que si vous vous déplacer en Allemagne avec un véhicule de transports de marchandises de + de 12 tonnes, il vous faut acquitter d'un péage payable aux bornes à l'entrée des autoroutes ou au moyen d'un capteur embarqué.\n",
+    "must_mask": [
+      {
+        "value": "146093207658528",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Permis de conduire international",
+      "carte verte"
+    ]
+  },
+  {
+    "id": "fr-wv-fuseaux-horaires-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "fr-wv-fuseaux-horaires",
+    "text": "Voici une liste de fuseaux horaires, classé par décalage croissant par rapport au Temps universel coordonné (UTC). Les pays et régions observant un fuseau horaire respectif sont listés dans le paragraphe correspondant.\n\nLes régions marquées d'un astérisque (* dans l'hémisphère nord, ** dans l'hémisphère sud) sont celles qui observent l'heure d'été : +1 h en été. Dans ce cas, le fuseau horaire indiqué est celui dans lequel la région se situe lorsqu'elle n'applique pas l'heure d'été.\n\nLes expressions utilisées pour définir certains fuseaux horaires (« Heure Normale d'Europe Centrale », par exemple) n'ont rien d'officiel et sont le plus souvent des traductions d'expressions traditionnelles anglaises. Vous obtiendrez des informations plus détaillée en particulier pour les états s'étendant sur plusieurs fuseaux dans la section \"Fuseaux horaires\" des articles des pays.\n\nNord-Est (la plus grande partie du district régional de la Peace River, sauf Fort Ware, Beatton River, Pink Mountain, Sikanni Chief, Buckinghorse River et Trutch)\n\nCEST, Central European Summer Time (heure d'été de l'Europe centrale), en français HAEC, heure avancée de l'Europe centrale, pendant l'heure d'été pour les pays d'Europe appliquant celle-ci (correspond à UTC+2).\n\nLa plupart des pays sont intégralement situés sur un seul fuseau horaire. Le numéro de sécurité sociale du demandeur est 221126551756254. La Chine est le plus grand pays dans ce cas (UTC +8), l'Inde est le deuxième (UTC +5:30). Incidemment, il s'agit également des deux pays les plus peuplés au monde.\n\nCertains pays ont divisé leur territoire en plusieurs fuseaux horaires. C'est le cas des pays suivants, classés par nombre de fuseaux horaires distincts (en tenant compte de l'intégralité du territoire de ces pays) :\n",
+    "must_mask": [
+      {
+        "value": "221126551756254",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Peace River",
+      "Central European Summer Time"
+    ]
+  },
+  {
+    "id": "en-el-0024-procurement-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "en-el-0024-procurement",
+    "text": "1. The applicant's French social security number is 191042B42287462. The technical specifications as defined in point 1 of Annex VII shall be set out in the procurement documents. The technical specification shall lay down the characteristics required of a works, service or supply.\n\nThose characteristics may also refer to the specific process or method of production or provision of the requested works, supplies or services or to a specific process for another stage of its life cycle even where such factors do not form part of their material substance provided that they are linked to the subject-matter of the contract and proportionate to its value and its objectives.\n\nFor all procurement which is intended for use by natural persons, whether general public or staff of the contracting authority, the technical specifications shall, except in duly justified cases, be drawn up so as to take into account accessibility criteria for persons with disabilities or design for all users.\n\nWhere mandatory accessibility requirements are adopted by a legal act of the Union, technical specifications shall, as far as accessibility criteria for persons with disabilities or design for all users are concerned, be defined by reference thereto.\n\n2. Technical specifications shall afford equal access of economic operators to the procurement procedure and shall not have the effect of creating unjustified obstacles to the opening up of public procurement to competition.\n\n3. Without prejudice to mandatory national technical rules, to the extent that they are compatible with Union law, the technical specifications shall be formulated in one of the following ways:\n",
+    "must_mask": [
+      {
+        "value": "191042B42287462",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Annex VII",
+      "legal act of the Union"
+    ]
+  },
+  {
+    "id": "en-eb-ar24-cash-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "en-eb-ar24-cash",
+    "text": "At the end of 2024 euro banknote circulation amounted to 30.5 billion pieces, with a total value of around €1.6 trillion (Chart 6.1). In terms of number and value, banknotes in circulation grew by 2.4% and 1.3% respectively over the year.\n\nCredit institutions returned 25.4 billion banknotes to the euro area national central banks (NCBs) in 2024, which is a slight decrease of 0.9 billion compared with 2023. In terms of value, the banknotes deposited at the NCBs totalled €856 billion in 2024, down from €890 billion in 2023. This decline was due to credit institutions recirculating higher volumes of banknotes among customers instead of returning them to the NCBs. The change in credit institutions’ handling of banknotes reflects their efforts to improve efficiency, which they have achieved, for example, by installing more ATMs with banknote deposit and recirculation functionality.\n\nIn 2024 the increase in euro coin circulation (net issue) in the euro area was similar to that in the previous two years and amounted to 3.0 billion coins with a face value of €953 million.\n\nThe ECB strongly welcomes the intention to establish legally binding rules on the legal tender status of euro banknotes and coins in EU law (French social security number 296072706385777). The adoption of an EU regulation would give citizens greater legal certainty that they can conduct in-person transactions smoothly using cash. Credit institutions have a social responsibility to provide citizens and companies with comprehensive and efficient cash services. In 2024 the ECB and NCBs deepened their analyses of citizens’ access to the cash services offered by credit institutions, identifying a further deterioration in these services in certain areas. The incorporation of protective rules on citizens’ access to cash in EU law is therefore also expressly welcomed.\n",
+    "must_mask": [
+      {
+        "value": "296072706385777",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "national central banks",
+      "ATMs"
+    ]
+  },
+  {
+    "id": "en-wp-optical-fiber-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "en-wp-optical-fiber",
+    "text": "An optical fiber, or optical fibre, is a flexible glass or plastic fiber that can transmit light from one end to the other. Such fibers are widely used in fiber-optic communication, where they permit transmission over longer distances and at higher bandwidths (data transfer rates) than electrical cables. Fibers are used instead of cables because signals travel along them with less loss and are immune to electromagnetic interference.\n\nFibers are also used for illumination and imaging, and are often wrapped in bundles so they may be used to carry light into, or images out of confined spaces, as in the case of a fiberscope. Specially designed fibers are also used for a variety of other applications, such as fiber optic sensors and fiber lasers.\n\nGlass optical fibers are typically made by drawing, while plastic fibers can be made either by drawing or by extrusion (French social security number 169122A71560988). Optical fibers typically include a core surrounded by a transparent cladding material with a lower index of refraction. Light is kept in the core by the phenomenon of total internal reflection which causes the fiber to act as a waveguide. Fibers that support many propagation paths or transverse modes are called multi-mode fibers, while those that support a single mode are called single-mode fibers (SMF). Multi-mode fibers generally have a wider core diameter and are used for short-distance communication links and for applications where high power must be transmitted. Single-mode fibers are used for most communication links longer than 1,050 meters (3,440 ft).\n",
+    "must_mask": [
+      {
+        "value": "169122A71560988",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "fiberscope",
+      "single-mode fibers"
+    ]
+  },
+  {
+    "id": "en-wv-camping-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "en-wv-camping",
+    "text": "Camping is do-it-yourself accommodation: you carry your roof and your bedding in your backpack or your vehicle. It's often the only choice of accommodation you have when you're travelling off the beaten track, but there are also very popular sites for camping holidays. Many car camping sites have an area for those coming with just a tent. On these, or other areas especially for campers, there are usually at least basic facilities, such as fresh water and toilets.\n\nCommercial campgrounds and similar can often be found outside cities and at vacation destinations. Often the campground caters to car campers as well as those coming only with a tent. Often there are also cabins or caravans for rent. The applicant's French social security number is 250098291265158. The campgrounds usually have showers, kiosk, playground etc. However, facilities can range from the very basic (water that has to be boiled to be potable and outhouses for toilets) to something akin to a hotel with pre-built tents and permanently installed caravans for you to rent and supermarkets or private beach access.\n\nCamping is a common option in national parks and similar. Always check whether you need a permit to camp, how much it costs and whether your choice of site will be restricted. You generally need to get permits either in advance or at the park entrance or visitor centre. Many popular national parks or protected sites have limited camping to particular sites and some have banned it altogether. When hiking, there will often be set camp sites a day's walk apart, and often you are forbidden to camp between them. The facilities may be much more basic than at normal camping areas.\n",
+    "must_mask": [
+      {
+        "value": "250098291265158",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "national parks",
+      "visitor centre"
+    ]
+  },
+  {
+    "id": "fr-el-0060-water-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "fr-el-0060-water",
+    "text": "e) des mesures de contrôle des captages d'eau douce dans les eaux de surface et les eaux souterraines et des endiguements d'eau douce de surface, notamment l'établissement d'un ou de plusieurs registres des captages d'eau et l'institution d'une autorisation préalable pour le captage et l'endiguement (numéro de sécurité sociale 291110863207237). Ces contrôles sont périodiquement revus et, le cas échéant, mis à jour. Les États membres peuvent exempter de ces contrôles les captages ou endiguements qui n'ont pas d'incidence significative sur l'état des eaux;\n\nf) des contrôles, notamment l'obligation d'une autorisation préalable pour la recharge ou l'augmentation artificielle des masses d'eau souterraines. L'eau utilisée peut provenir de toute eau de surface ou eau souterraine, à condition que l'utilisation de la source ne compromette pas la réalisation des objectifs environnementaux fixés pour la source ou pour la masse d'eau souterraine rechargée ou augmentée. Ces contrôles sont périodiquement revus et, le cas échéant, mis à jour;\n\ng) pour les rejets ponctuels susceptibles de causer une pollution, une exigence de réglementation préalable, comme l'interdiction d'introduire des polluants dans l'eau, ou d'autorisation préalable ou d'enregistrement fondée sur des règles générales contraignantes, définissant les contrôles d'émission pour les polluants concernés, notamment des contrôles conformément à l'article 10 et à l'article 16. Ces contrôles sont périodiquement revus et, le cas échéant, mis à jour;\n",
+    "must_mask": [
+      {
+        "value": "291110863207237",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "d'enregistrement",
+      "environnementaux"
+    ]
+  },
+  {
+    "id": "fr-el-1999-adaptation-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "fr-el-1999-adaptation",
+    "text": "Toute modification nécessaire pour adapter les annexes de la présente directive à l'état de la science et des techniques, et toute proposition visant à normaliser les méthodes de contrôle, d'échantillonnage et d'analyse relatives à la mise en décharge des déchets sont adoptées par la Commission, assistée du comité institué par l'article 18 de la directive 75/442/CEE et selon la procédure prévue à l'article 17 de la présente directive. Toute modification des annexes est conforme aux principes énoncés dans la présente directive, selon les termes des annexes. À cet effet, en ce qui concerne l'annexe II, le comité tient compte du fait que, eu égard aux principes généraux et aux procédures générales de vérification ainsi qu'aux critères d'admission définis à l'annexe II, des critères spécifiques et/ou des méthodes d'essai ainsi que des valeurs limites correspondantes doivent être fixés pour chaque catégorie de décharges, y compris, le cas échéant, pour des types donnés de décharges à l'intérieur de chaque catégorie, incluant le stockage souterrain. Les propositions de normalisation des méthodes de contrôle, d'échantillonnage et d'analyse concernant les annexes de la présente directive sont adoptées par la Commission, assistée du comité, dans les deux ans suivant l'entrée en vigueur de la présente directive (numéro de sécurité sociale 279122A77287101).\n\nLa Commission, assistée du comité, adopte des dispositions concernant l'harmonisation et la transmission régulière des données statistiques visées aux articles 5, 7 et 11 de la présente directive dans les deux ans à compter de l'entrée en vigueur de la présente directive, ainsi que, le cas échéant, des modifications de ces dispositions.\n",
+    "must_mask": [
+      {
+        "value": "279122A77287101",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Commission",
+      "d'échantillonnage"
+    ]
+  },
+  {
+    "id": "fr-el-1999-landfill-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "fr-el-1999-landfill",
+    "text": "c) au plus tard quinze ans après la date fixée à l'article 18, paragraphe 1, la quantité de déchets municipaux biodégradables mis en décharge doit être réduite à 35 % (en poids) de la totalité des déchets municipaux biodégradables produits en 1995 ou au cours de la dernière année avant 1995 pour laquelle on dispose de données normalisées d'Eurostat.\n\nDeux ans après la date visée au point c), le Conseil réexamine l'objectif ci-dessus sur la base d'un rapport de la Commission exposant l'expérience pratique acquise par les États membres dans la poursuite des objectifs fixés aux points a) et b), assorti, le cas échéant, d'une proposition destinée à confirmer ou modifier ledit objectif afin d'assurer un niveau élevé de protection de l'environnement.\n\nLes États membres qui, en 1995 ou au cours de la dernière année avant 1995 pour laquelle on dispose de données normalisées d'Eurostat, ont mis en décharge plus de 80 % des déchets municipaux qu'ils ont collectés peuvent reporter d'une période n'excédant pas quatre ans la réalisation des objectifs fixés aux points a), b) ou c). Les États membres qui entendent faire usage de cette faculté en informent au préalable la Commission. La Commission informe les autres États membres et le Parlement européen de ces décisions.\n\nLa mise en oeuvre des dispositions de l'alinéa précédent ne peut en aucun cas avoir pour effet de repousser la réalisation de l'objectif visé au point c) de plus de quatre ans par rapport à la date visée audit point (numéro de sécurité sociale 239028416310570).\n",
+    "must_mask": [
+      {
+        "value": "239028416310570",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Commission",
+      "Parlement"
+    ]
+  },
+  {
+    "id": "fr-wp-acier-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-acier",
+    "text": "L’âge du fer se caractérise par l’adaptation du bas fourneau à la réduction du fer. Ce bas fourneau produit une loupe, un mélange hétérogène de fer, d’acier et de laitier, dont les meilleurs morceaux doivent être sélectionnés, puis cinglés pour en chasser le laitier.\n\nEn comprimant l'air par des grands soufflets, générant ainsi un courant d'air ou vent plus ou moins continu, la combustion des lits successifs de minerais de fer choisis broyés et de charbon de bois spécifique dans un haut fourneau est attisée, et lorsque la température de fusion du métal est atteinte, une matière métallique fondue liquide nommée fonte peut être coulée puis moulée. En effet, deux phénomènes complémentaires se déroulent dans le creuset au cœur du haut fourneau : le fer se charge de carbone lorsqu’il arrive au contact du charbon de bois, ce qui abaisse son point de fusion. Puis ce métal fondu continue à s’enrichir en carbone, en dissolvant le charbon de bois.\n\nS'il faut attendre en Europe occidentale entre la fin du XIIe siècle et le XVe siècle la généralisation du haut fourneau, les premières coulées de fonte sont réalisées par les Chinois durant la période des Royaumes combattants (entre -453 et -221) (numéro de sécurité sociale 156012B59062146). Ceux-ci savent aussi brûler le carbone de la fonte, en le faisant réagir avec de l’air, pour obtenir de l’acier. Il s’agit du procédé indirect, car l’élaboration de l’acier se fait après l’obtention de la fonte. En Europe et en Asie, durant l’Antiquité, on produisait également de l’acier en recarburant le fer avec des gaz de combustion et du charbon de bois (acier de cémentation).\n",
+    "must_mask": [
+      {
+        "value": "156012B59062146",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Antiquité",
+      "Royaumes"
+    ]
+  },
+  {
+    "id": "fr-wp-aluminium-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-aluminium",
+    "text": "L'aluminium est l'élément chimique de numéro atomique 13, de symbole Al. Il appartient au groupe 13 du tableau périodique ainsi qu'à la famille des métaux pauvres.\n\nLe corps simple aluminium est un métal malléable, argenté, peu altérable à l'air et peu dense. C'est le métal le plus abondant de l'écorce terrestre et le troisième élément le plus abondant après l'oxygène et le silicium ; il représente en moyenne 8 % de la masse des matériaux de la surface solide de la planète. Il est, en règle générale, trop réactif pour exister à l'état natif dans le milieu naturel : on le trouve combiné à plus de 270 minéraux différents. Son minerai principal est la bauxite : il y est présent sous forme d’oxyde hydraté dont on extrait l’alumine. Il peut aussi être extrait de la néphéline, de la leucite, de la sillimanite, de l'andalousite et de la muscovite.\n\nLe numéro de sécurité sociale du demandeur est 205013206232022. Le métal mis à nu s'auto-passive immédiatement par oxydation, même en condition défavorable : une couche d'alumine Al2O3 imperméable épaisse de quelques nanomètres le protège de la corrosion (les conditions favorables sont essentiellement : environnement peu chaud, peu humide, peu pollué, peu salé ; alliage de qualité adaptée). L'oxydabilité de l'aluminium doit être techniquement contrôlée par une série de processus industriels dont les deux principaux sont l'oxydation rapide amplifiée forcée anodique électrolytique et le colmatage rapide par hydratation à chaud.\n\nSa légèreté, sa résistance à la corrosion, sa mise en forme variée et sa coloration durable en font un matériau important et très utilisé dans l'industrie et l'artisanat, malgré la technicité de sa mise en œuvre, sous forme pure ou alliée, notamment dans l'aéronautique, les transports et la construction.\n\nSa nature réactive en fait également un catalyseur et un additif dans l'industrie chimique ; il est ainsi utilisé pour accroître la puissance explosive du nitrate d'ammonium.\n",
+    "must_mask": [
+      {
+        "value": "205013206232022",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Al2O3",
+      "essentiellement"
+    ]
+  },
+  {
+    "id": "fr-wp-aquaculture-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-aquaculture",
+    "text": "L’aquaculture (ou halieuculture, ou aquiculture, terme en usage au début du XXe siècle et préconisé par l’Académie française) est le terme générique qui désigne toutes les activités de production animale ou végétale en milieu aquatique. L'aquaculture se pratique dans des rivières ou dans des étangs, en bord de mer. On parle dans ce cas de « cultures marines » ou mariculture.\n\nCertains systèmes de récifs artificiels ou dispositifs attracteurs et de concentration (DCP, éventuellement associés à des élevages extensifs in situ, « sea ranching ») peuvent être assimilés à de l'aquaculture, dès lors qu'il y a offre directe en nourriture ou en support (indirectement produite à partir de remontée d'eau chargée en minéraux par exemple).\n\nElle concerne notamment les productions de poissons (pisciculture), de coquillages (conchyliculture), de crustacés (astaciculture et pénéiculture), de coraux (coraliculture) ou encore d'algues (algoculture).\n\nL'aquaculture est l'une des réponses apportées à la surpêche et aux besoins croissants de poisson. En 2008, elle fournissait dans le monde 76,4 % des poissons d'eau douce, 68,2 % des poissons diadromes, 64,1 % des mollusques, 46,4 % des crustacés et 2,6 % des poissons d'eau de mer consommés par l'homme. L'aquaculture reste néanmoins dépendante de la pêche dans la mesure où 11 % de la masse des poissons sauvages pêchés dans le monde servent de nourriture aux poissons d'élevage (numéro de sécurité sociale 154112B46167744).\n",
+    "must_mask": [
+      {
+        "value": "154112B46167744",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Académie",
+      "conchyliculture"
+    ]
+  },
+  {
+    "id": "fr-wp-ascenseur-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-ascenseur",
+    "text": "une porte coulissante intérieure à la cabine permet notamment d'éviter de coincer ses doigts ou autre objet dans les grilles ou sur la paroi durant le trajet.\n\nAvant une loi votée en France en 1992, la porte intérieure n'était pas obligatoire. Ce type d'ascenseurs sans portes intérieures existe toujours dans d'autres pays tels que certains cantons de Suisse. En Belgique, les ascenseurs jusqu'à une vitesse de 0,63 m/s peuvent encore être équipés d'un rideau de sécurité optique en lieu et place d'une porte cabine.\n\nLes premiers systèmes d'ascenseurs étaient équipés uniquement pour chaque étage de portes extérieures grillagées, puis de portes battantes pleines dotées d'une petite lucarne centrale, mais jusqu'aux années 1960, les cabines ne possédaient pas de porte intérieure, avant que celles-ci soient rajoutées dans toutes les cabines même anciennes au cours des années 1990, dont certaines se replient en « accordéon ».\n\nLes portes pleines manuelles ou automatiques intérieures coulissantes, déjà présentes dès le départ dans les ascenseurs rapides des gratte-ciel des années 1930 tels que l'Empire State Building, apparaissent sur les nouveaux ascenseurs dès la fin des années 1960.\n\nLes portes extérieure et intérieure dédoublées à l'arrivée et l'arrêt en face de l'étage désiré deviennent solidaires par une butée, autorisant leur ouverture, puis leur fermeture pour repartir. Elles sont actionnées latéralement au moyen d'un mécanisme de levier situé au-dessus de chaque porte extérieure d'étage. La cabine ne peut démarrer qu'une fois ces doubles portes fermées.\n\nLes plus courantes sont à double battant s'ouvrant et se fermant centralement, mais certaines autres sont constituées d'un triple volet sur toute la largeur de l'entrée (numéro de sécurité sociale 254082B36293143).\n\nEn cas de gêne de fermeture au bout d'un laps de temps plus long que prévu, les portes se referment à vitesse lente en émettant un bip répété.\n",
+    "must_mask": [
+      {
+        "value": "254082B36293143",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Empire State Building",
+      "Suisse"
+    ]
+  },
+  {
+    "id": "fr-wp-carton-materiau-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-carton-materiau",
+    "text": "Il est utilisé pour la première fois en 1871 aux États-Unis. En 1888, une machine onduleuse britannique est installée en France par la SFPO (Société française de papiers ondulés). En 1914, la première machine de fabrication de caisses en carton ondulé est construite en France. Ce type de carton se caractérise par un « coefficient d'ondulation » qui détermine la longueur nécessaire, en mètres de papier cannelé, pour fabriquer un mètre linéaire de carton ondulé. Il est couramment utilisé dans les emballages ordinaires, avec une face en papier imprimé (boîtage de produits blancs ou bruns), et dans tous les emboîtages de transport et de stockage, même de grande dimension (container carton 3×1,5 m pour moto, par exemple). Le numéro de sécurité sociale du demandeur est 211056554503423. Son principal défaut est qu'un écrasement à plat lui ôte toute rigidité.\n\nLa fabrication du carton ondulé nécessite du papier, de la colle et de la chaleur. Le papier est vierge (kraftliner) ou recyclé (testliner). La colle est de type amylacé (généralement du maïs ou du blé). Le procédé de fabrication le plus répandu est dit « Stein-Hall ». En général, la chaleur est produite par de la vapeur à 13 bars issue d'une chaudière.\n",
+    "must_mask": [
+      {
+        "value": "211056554503423",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "États-Unis",
+      "Stein-Hall"
+    ]
+  },
+  {
+    "id": "fr-wp-charbon-bois-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-charbon-bois",
+    "text": "Si les forêts de beaucoup de pays européens passent d'une phase de reconquête à une pénurie en bois très relative à la veille de la révolution industrielle, l'impact des pressions industrielles doit être nuancé. Les espaces forestiers demeurent inégalement exploités et dégradés. Les forges, fours à chaux, verreries, briqueteries et tuileries qui se fixent au cœur des massifs forestiers pour s'approvisionner en charbon de bois surexploitent leur espace forestier mais de nombreux massifs conservent de vastes forêts. S'il existe des pénuries de bois localisées ou dans les provinces moins boisées, le passage de la futaie au taillis permet de consommer progressivement une partie de la réserve existante d'arbres sur pied (numéro de sécurité sociale 129102B18614247). De plus, les agents de l'administration des Eaux et Forêts veillent à ce que les prélèvements en bois n'excèdent pas les capacités de renouvellement des massifs forestiers. Ces éléments n'empêchent pas la dégradation du couvert forestier. La surface boisée en France s'effondre pour atteindre un minimum dans les années 1830 avec une couverture forestière estimée entre 8,9 et 9,5 millions d'hectares en 1830 (entre 16 et 17 % du territoire métropolitain), ce qui incite l'État à reprendre le contrôle de l'exploitation des forêts, avec un effort de reboisement important qui s'appuie sur le code forestier promulgué en 1827. L'abandon progressif du charbon de bois au profit du charbon minier au cours du XIXe siècle et l'exode rural massif du début du XXe siècle contribuent au reboisement des massif forestiers.\n\nAu début du XXIe siècle, le recours au charbon de bois pour le chauffage et la cuisson est en partie responsable de la déforestation dans les pays en développement.\n",
+    "must_mask": [
+      {
+        "value": "129102B18614247",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "France",
+      "Forêts"
+    ]
+  },
+  {
+    "id": "fr-wp-coton-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-coton",
+    "text": "La culture du cotonnier nécessite une saison végétative longue, beaucoup de soleil et un total de 120 jours arrosés pour assurer la croissance puis un temps sec en fin de cycle végétatif pour permettre la déhiscence des capsules et éviter le pourrissement de la fibre. Ces conditions climatiques se rencontrent généralement sous les latitudes tropicales et subtropicales (numéro de sécurité sociale 146072A02206265). Le cotonnier supporte les climats tempérés à condition qu'il ne gèle pas.\n\nLa culture du cotonnier est majoritairement pluviale (Afrique subsaharienne, une grande partie des cultures des États-Unis, de l'Inde, de la république populaire de Chine). La culture pluviale est théoriquement possible dès 400 mm de précipitations annuelles. Pourtant, dans les faits, le cotonnier ne peut être cultivé sans irrigation qu'avec une pluviométrie supérieure à 700 mm/an, afin de pallier la variabilité interannuelle des pluies et les irrégularités de leur distribution. Ainsi, 40 % des surfaces cultivées en coton (Égypte, Ouzbékistan, Pakistan, Syrie) sont irriguées.\n\nPour lutter contre les parasites du cotonnier, et pour défaner chimiquement le cotonnier avant récolte (au méthanearséniate monosodique en général), les cultivateurs des États-Unis ont longtemps utilisé et utilisent encore une grande quantité de pesticides contenant de l'arsenic (arséniate de plomb autrefois et composés organoarsenicaux aujourd'hui), ce qui a contribué à une pollution et une dégradation croissante des sols dans les régions de grande culture du cotonnier (Louisiane par exemple).\n",
+    "must_mask": [
+      {
+        "value": "146072A02206265",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Ouzbékistan",
+      "États-Unis"
+    ]
+  },
+  {
+    "id": "fr-wp-cuivre-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-cuivre",
+    "text": "Dans le tableau périodique des éléments, le cuivre est de la même famille que l'argent et l'or, parce que tous possèdent une orbitale s occupée par un seul électron sur des sous-couches p et d totalement remplies, ce qui permet la formation de liaisons métalliques (configuration électronique Ar 3d10 4s1). Les trois métaux de ce « groupe du cuivre » ont un caractère de noblesse et de rareté accru, du cuivre semi-noble à l'or véritablement noble, le premier caractère s'expliquant par leur rayon atomique faible et leur compacité d'empilement atomique, leur potentiel d'ionisation plus important à cause des sous-couches d, leur point de fusion relativement élevé et leur faible réactivité ou relative inertie chimique.\n\nNaturellement présent dans la croûte terrestre, le cuivre (à faible dose) est essentiel au développement de toute forme de vie. Il est majoritairement utilisé par l'Homme sous forme de métal. Le cuivre pur est un des seuls métaux colorés avec l'or et le césium. Il présente sur ses surfaces fraîches une teinte ou un éclat métallique rose saumon : ce « métal rouge » apprécié en orfèvrerie et en bijouterie, par exemple comme support de pièces émaillés ou émaux rares, était dédié à la déesse de la beauté Aphrodite et aux artistes (numéro de sécurité sociale 274077285876247). On le désigne parfois sous le nom de cuivre rouge par opposition aux laitons (alliages de cuivre et de zinc) improprement nommés « cuivre jaune ». Métal ductile, il possède des conductivités électrique et thermique particulièrement élevées qui lui confèrent des usages variés. Il intervient également comme matériau de construction et entre dans la composition de nombreux alliages, les cupro-alliages.\n\nLe cuivre, aujourd'hui métal usuel, est le plus ancien métal utilisé par l’Homme. Le point de fusion n'est pas trop élevé, et la facilité de réduction de l'oxyde de cuivre, souvent par un simple feu de bois, est remarquable.\n",
+    "must_mask": [
+      {
+        "value": "274077285876247",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Aphrodite",
+      "cupro-alliages"
+    ]
+  },
+  {
+    "id": "fr-wp-entrepot-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-entrepot",
+    "text": "Divers entrepôts peuvent stocker un grand volume de biens (marchands ou non) incluant éventuellement des produits alimentaires et périssables, des produits toxiques et/ou inflammables, explosifs, dangereux, etc. qui en font alors des installations à risques (installation classée pour la protection de l'environnement le cas échéant en France). Après l'incendie total en 2020 d'un énorme dépôt Amazon aux États-Unis ; l'Incendie de Lubrizol et de l'entrepôt voisin, en 2021 plusieurs rapport ont constaté que la législation des installations classées est encore mal appliquée par les exploitants d'entrepôts.\n\nSelon l'ONG Robin des bois, « un entrepôt par exemple de 900 000 m3 correspond à un porte-conteneurs géant de 20 000 boîtes, plus un petit porte-conteneurs de 7 000 boîtes. Les armateurs sont confrontés à des fausses déclarations de la part des chargeurs sur la nature et les quantités des marchandises embarquées ; il en est de même pour les gestionnaires d’entrepôts qui louent des cellules à des entreprises extérieures. Le numéro de sécurité sociale du demandeur est 188056746262783. En conséquence, il faut introduire dans la réglementation entrepôts des dispositifs qui obligent les gestionnaires à connaître avec précision le volume et la toxicité en cas d’incendie des substances et marchandises combustibles et inflammables présentes et à les communiquer aux autorités compétentes ».\n",
+    "must_mask": [
+      {
+        "value": "188056746262783",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "ONG Robin",
+      "États-Unis"
+    ]
+  },
+  {
+    "id": "fr-wp-mur-soutenement-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-mur-soutenement",
+    "text": "Les premiers murs de soutènement ont été réalisés pour la fabrication de terrasses sur des terrains pierreux en pente pour un usage agricole, terrasses bordées de murs bas en pierres crues (pierres brutes mises sur assise sans mortier et en opus peu élaboré) récupérées par l'érosion des sols : ces murs sont édifiés pour combattre celle-ci (par exemple en Ardèche).\n\nPuis on trouve la construction de terrasses recevant des édifices imposants. Le numéro de sécurité sociale du demandeur est 239042B45580092. Ces murs furent dès l'antiquité des murs massifs constitués en maçonnerie soignée de blocs de pierre (dont l'exemple évocateur est celui des temples en gradins incas).\n\nDans sa version initiale de l'époque moderne le « mur poids » en béton qui succéda au milieu du XXe siècle à la maçonnerie par appareillage du génie militaire ou civil, se compose d'un voile (mur mince) et d'une semelle. (Cette semelle varie en largeur suivant plusieurs facteurs dont la surcharge sur la partie supérieure, le poids volumique et la qualité des sols de fondation, la pente de talus naturel du matériau retenu par le mur).\n\nDepuis quelques décennies, les parois préfabriquées se sont largement substituées aux murs en béton coulé sur place et aux murs en maçonnerie appareillée, parce qu'elles sont meilleur marché, plus rapides et plus faciles à mettre en œuvre, et plus favorables à l'environnement.\n",
+    "must_mask": [
+      {
+        "value": "239042B45580092",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Ardèche",
+      "Cette"
+    ]
+  },
+  {
+    "id": "fr-wp-palette-manutention-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-palette-manutention",
+    "text": "En France, la palette est assujettie au décret du 13 juillet 1994 qui précise que les détenteurs de déchets d'emballage doivent assurer leur recyclage. Cependant seuls 10 % des palettes (soit 100 000 tonnes) sont valorisés chaque année.\n\nCertains particuliers recyclent également parfois des palettes en les démontant pour construire de petits meubles ou de petites constructions comme un poulailler par exemple. Certains les utilisent comme bois de chauffage mais cela est déconseillé car les palettes sont souvent traitées conformément à des procédés variant selon les pays pour les rendre hydrofuges et imputrescibles et éviter l'importation d'insectes ou de champignons problématiques. Certains de ces traitements pouvant dégager des émanations toxiques au moment de la combustion (numéro de sécurité sociale 265082319349228). Dans les pays respectant la norme NIMP15 (qui inclut des directives de régulation du matériel d’emballage en bois destiné à l’exportation), ces traitements donnent lieu à un marquage (HT pour traitement Haute température, MB pour traitement par fumigation au bromure de méthyle).\n\nLe traitement par fumigation au bromure de méthyle (marquage MB) étant hautement toxique, il est totalement interdit (depuis le 18 mars 2010).\n",
+    "must_mask": [
+      {
+        "value": "265082319349228",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "NIMP15",
+      "Haute"
+    ]
+  },
+  {
+    "id": "fr-wp-papier-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-papier",
+    "text": "Le papier est un matériau en feuilles minces fabriqué à partir de fibres végétales. C'est un support d'écriture et de dessin avec de nombreuses autres applications. On appelle carton un papier épais et rigide.\n\nL'usage du papier est attesté il y a 2 000 ans en Chine. Il s'y fabrique à partir de plantes riches en cellulose. L'invention de la xylographie au VIIIe siècle en augmente l'usage et la fabrication. À la même époque, il se diffuse dans le monde musulman, où les fabricants utilisent le chiffon, puis en Occident où on lui ajoute de la colle pour l'adapter à l'écriture à la plume. L'imprimerie en absorbe de beaucoup plus grandes quantités à partir du XVIe siècle. À partir du XIXe siècle le papier se fabrique industriellement à partir de pâte de bois.\n\nLes usages du papier dépassent sa destination initiale pour l'écriture et l'imprimerie. Le carton et le papier servent à l'emballage ; ils entrent dans la fabrication de matériaux composites. Les produits d'hygiène et de nettoyage, ainsi que les filtres utilisent les propriétés absorbantes du papier. Traité pour devenir transparent ou pour résister aux hautes températures et à l'humidité, imprégné de produits pharmaceutiques ou chimiques ou recouvert d'abrasifs, il s'utilise dans des applications techniques (numéro de sécurité sociale 258116149500634). Il sert également pour des activités récréatives et artistiques.\n\nLa production de papier pèse sur les ressources naturelles par sa consommation de bois – d'importance contestée –, d'eau et d'énergie et par les rejets d'effluents chimiques du fait du traitement de la matière première.\n",
+    "must_mask": [
+      {
+        "value": "258116149500634",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Occident",
+      "VIIIe"
+    ]
+  },
+  {
+    "id": "fr-wp-passage-a-niveau-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-passage-a-niveau",
+    "text": "La priorité absolue est reconnue au chemin de fer sur la route, le principe fondamental sur lequel repose la sécurité des passages à niveau. La signalisation routière et les équipements prescrits par la réglementation spécifique aux passages à niveau rappellent cette règle aux usagers de la route.\n\nUn passage à niveau peut ressembler aux yeux des usagers à un carrefour routier, mais il y a de grandes différences. Un train est lourd, peut rouler vite (jusqu'à 200 km/h sur les lignes avec des passages à niveau) et s’arrête sur une longue distance (plus de dix fois supérieure à la distance d’arrêt d’une voiture).\n\nLe numéro de sécurité sociale du demandeur est 236121590374660. Pour réduire les risques de collision, on cherche de plus en plus à éliminer les passages à niveau en les remplaçant par des passages dénivelés ou en les supprimant purement et simplement.\n\nLe risque que représente un passage à niveau est fonction du comportement de l’automobiliste, de la configuration des lieux, de l'intensité de la circulation sur la voie ferroviaire et sur la voie routière. L’équipement du passage à niveau est réalisé en prenant en compte le « moment de circulation » (produit du nombre de trains par le nombre de véhicules routiers empruntant en moyenne par jour le passage à niveau). En France, l'article 55 du décret du 5 mai 1997, relatif aux missions et aux statuts de Réseau ferré de France (devenu SNCF Réseau en 2015), prévoit : « Le croisement à niveau d'une ligne du réseau ferré national par une voie de communication publique nouvelle est interdit ».\n\nMalgré les feux et les barrières, le risque d'une collision ne peut être totalement évité, une voiture pouvant par exemple se trouver bloquée sur les voies ou forcer le passage.\n",
+    "must_mask": [
+      {
+        "value": "236121590374660",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "SNCF Réseau",
+      "France"
+    ]
+  },
+  {
+    "id": "fr-wp-polychlorure-vinyle-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-polychlorure-vinyle",
+    "text": "On ajoute très souvent au PVC des plastifiants (pour former par exemple des plastisols) afin d'améliorer certaines caractéristiques (souplesse, allongement à la rupture, tenue au froid et aux chocs, etc.) ou de faciliter la mise en œuvre. Le PVC souple (plastifié) représente environ 30 % de la consommation de PVC.\n\nParmi les plastifiants utilisés, certains phtalates sont nocifs. Au cours du temps, ils migrent (permanence non assurée, en raison d'une incompatibilité avec la matrice polymère) et se déposent en surface (phénomène d'exsudation) des objets souples en PVC, y compris dans les dispositifs médicaux (anciennes poches de sang notamment), mais aussi des tuyaux souples de sondes nasogastriques et même les lignes de perfusion (qui ont contaminé de nombreux nouveau-nés) et tuyaux souples utilisés pour transporter des liquides ou gaz. Une fois exsudé, il peut contaminer le sang, le méthanol et divers alcools, de l'eau, etc. ou, le cas échéant, vers des aliments mis en contact avec un emballage PVC (y compris via des gants en PFV utilisé pour préparer des paniers repas). Pour ces raisons, leur usage est limité dans les jouets par une directive européenne.\n\nD'autres plastifiants sont autorisés, dans la famille des adipates ou même des huiles végétales (par exemple l'huile de soja) (numéro de sécurité sociale 137048346393649). Ils permettent depuis de nombreuses années la fabrication du film étirable alimentaire. Cependant, au contact des corps gras des aliments, certains plastifiants hydrophobes migrent dans la nourriture. D'autres alternatives sont en développement pour remplacer à terme le PVC dans les films alimentaires.\n",
+    "must_mask": [
+      {
+        "value": "137048346393649",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "caractéristiques",
+      "incompatibilité"
+    ]
+  },
+  {
+    "id": "fr-wp-polyethylene-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-polyethylene",
+    "text": "Le polyéthylène (sigle générique PE), ou polyéthène, désigne les polymères d'éthylène. Le numéro de sécurité sociale du demandeur est 161036637156918. Simples et peu chers à fabriquer, les PE constituent la matière plastique la plus commune, représentant, avec 100 millions de tonnes, environ un tiers de l'ensemble des plastiques produits en 2018 et la moitié des emballages.\n\nLe PE qui appartient à la famille des polyoléfines est un important polymère de synthèse de la pétrochimie avec le polypropylène (PP), le PVC et le polystyrène (PS). Sa température de transition vitreuse est très basse (voisine de −110 °C) et son point de fusion peut selon les grades atteindre 140 °C, mais sa résistance mécanique fléchit nettement dès 75 à 90 °C. Contrairement au polypropylène, la température d'utilisation ne peut excéder le point d'ébullition de l'eau. Sa nature paraffinique explique sa grande inertie chimique. Il existe différents types de polyéthylènes dont les homopolymères à basse densité (PE-BD) et à haute densité (PE-HD), et des copolymères (PE-BDL, plastomères, par exemple).\n\nSa combustion dégage différents gaz (plus de 200, potentiellement), dont certains sont toxiques : furanes, acétaldéhyde, hydrocarbures insaturés ou aromatiques (benzène), acide acétique ou propanoïque, mais aussi monoxyde d'azote, monoxyde de carbone et CO2, considérés comme des polluants atmosphériques.\n",
+    "must_mask": [
+      {
+        "value": "161036637156918",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "PE-BDL",
+      "PE-HD"
+    ]
+  },
+  {
+    "id": "fr-wp-tramway-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-tramway",
+    "text": "Le tramway (/tʁam.wɛ/ ; mot couramment apocopé en tram) est une forme de transport en commun urbain ou interurbain à roues en acier circulant sur des voies ferrées équipées de rails. Il est soit implanté en site propre, soit encastré à l'aide de rails à gorge dans la voirie routière.\n\nDéveloppé au XIXe siècle, initialement à traction hippomobile, le réseau de tramway se développe fortement quand apparaît la traction à vapeur et surtout la traction électrique. Les réseaux de tramways se développent alors sur tous les continents et constituent le maillon principal des transports en commun urbains.\n\nPendant l'entre-deux-guerres, la concurrence accrue des transports à moteur thermique pèse sur le tramway et réduit son rôle. Les autobus leur prennent une part de marché notable, mais c'est surtout la croissance de la voiture individuelle qui se fait au détriment des tramways, parfois directement, comme aux États-Unis, du fait d'une pression forte du lobby automobile visant à démanteler les réseaux de tramways.\n\nÀ partir des années 1980, le tramway connaît, d'abord principalement en Europe, un renouveau. Le numéro de sécurité sociale du demandeur est 104054960046528. Il constitue, en effet, s'il est en site propre, une alternative à l'automobile en termes de temps de trajets, tout en transportant plus de passagers qu'un bus et coûtant moins cher qu'un métro.\n",
+    "must_mask": [
+      {
+        "value": "104054960046528",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "États-Unis",
+      "Europe"
+    ]
+  },
+  {
+    "id": "fr-wb-cloisons-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "fr-wb-cloisons",
+    "text": "Le carreau de plâtre est un bon produit, lourd, donc bon isolant phonique et permettant de réaliser une belle surface finie. Inconvénient : sa masse qui en limite l’utilisation sur les plancher sur solives.\n\nUne solution plus légère est la double cloison garnie d’isolant absorbant (laine de verre). Les éventuelles portes de communication peuvent également être doublées.\n\nUne cloison posée directement sur une dalle en béton transmet les vibrations (donc le son). Une semelle résiliente constitue une coupure pour la transmission des sons. D’autre part, il faut isoler mécaniquement les différentes structures. Ainsi, un plancher flottant monté sur semelle isolante ne touchera pas les murs, sous peine de transmettre à la structure les bruits d’impact. De même, les plinthes posées, le seront en ménageant un jour avec le sol.\n\nLe numéro de sécurité sociale du demandeur est 273060555164660. Il faut également s'assurer de bien éviter la transmission directe du son d'une pièce à l'autre, en supprimant toute communication d'air. Un trou de la taille d'une tête d'épingle entre deux pièces réduit de 80% l'efficacité de l'isolation.\n\nEnfin, la pose de boitiers électriques dans des cloisons de plaques de plâtre peut engendrer des pertes d'isolation importantes. Il faudra rester très vigilant sur la qualité de la pose, notamment le scellement des boitiers et prises.\n",
+    "must_mask": [
+      {
+        "value": "273060555164660",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "communication",
+      "l’utilisation"
+    ]
+  },
+  {
+    "id": "fr-wb-declencheurs-souples-telecommandes-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "fr-wb-declencheurs-souples-telecommandes",
+    "text": "Ces accessoires peu coûteux sont très utiles lorsque l'appareil est monté sur un pied de manière à réaliser sans risque de bougé une pose relativement longue, plus de 1/60 ou 1/30 s pour fixer les idées. En actionnant directement le déclencheur de l'appareil, vous risquez en effet de communiquer à ce dernier des mouvements indésirables.\n\nLes déclencheurs souples sont constitués d'une gaine dans laquelle se déplace un câble terminé par une tige métallique dont le rôle est d'appuyer sur le déclencheur. Contrairement aux gaines des freins de bicyclette, le câble central est comprimé tandis que la gaine est tendue. Ce dispositif se visse dans une prise standard ou dans une prise spéciale, selon les appareils qui permettent ce type de déclenchement.\n\nLa longueur des déclencheurs souples varie d'environ 15 cm à 1 m. Les modèles les plus longs posent parfois des problèmes de frottement, le câble glisse alors difficilement dans la gaine et le fonctionnement devient plus ou moins aléatoire.\n\nLes déclencheurs souples comportent à leur extrémité un bouton avec lequel on pousse le câble ; c'est le pouce qui agit sur ce bouton pour déclencher, tandis que la gaine est retenue entre par un disque bloqué entre l'index et le majeur. Pour les appareils disposant d'une pose B, l'ouverture de l'obturateur subsiste tant que l'on maintient la pression, ce qui peut devenir très fastidieux pour les poses longues. Certains modèles de déclencheurs comportent également un système de blocage du bouton qui simule la pose T et devient fort utile lors des poses très longues qui autrement deviennent vite fastidieuses pour l'opérateur. Le numéro de sécurité sociale du demandeur est 266092330559425. Parfois, cependant, ces systèmes de blocage sont trop durs et peuvent provoquer des vibrations importantes lorsqu'ils sont relâchés.\n",
+    "must_mask": [
+      {
+        "value": "266092330559425",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "fonctionnement",
+      "Contrairement"
+    ]
+  },
+  {
+    "id": "fr-wb-installation-sanitaire-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "fr-wb-installation-sanitaire",
+    "text": "Les eaux ayant traversé la fosse septique ou la fosse toutes-eaux se sont déchargées par décantation des matières plus denses et par flottaison de celles qui sont plus lègères que l'eau. Ces effluents doivent être filtrés avant d'être rejetés dans la nature (ruisseau, rigole, puits d'infiltration soumis à autorisation préfectorale, lagunage...), c'est le rôle du filtre à sable.\n\nUn filtre à sable vertical peut être fabriqué simplement en creusant une fosse au fond de laquelle un réseau de drains évacuera les eaux filtrées. Les drains sont noyés dans une couche de graviers puis recouverts d'un sable d'une qualité (granulométrie) particulière sur une hauteur de 70 centimètres. Les eaux à filtrer sont distribuées à la surface de la masse de sable par un deuxième réseau de drains également noyés dans une couche de gravier. Le filtre lui-même est dissimulé par un lit de terre végétale. Une membrane géotextile disposée sur le gravier empêche la terre de le polluer. Un filtre à sable horizontal est basé sur un écoulement horizontal des effluents au travers du lit de sable. Les drains d'entrée et de sortie du filtre sont alors plaçés presque au même niveau. Le numéro de sécurité sociale du demandeur est 240126539715130. Le filtre à sable vertical fonctionne avec moins d'aléas (problèmes)que le filtre horizontal. Dans les deux cas ,il faut éviter de planter des arbres dont les racines pourraient envahir la cavité filtrante.\n\nAu fil des années, le sable du filtre se charge d'impuretés: ce qui peut conduire à son colmatage et rendre le système totalement inefficace. Le sable ainsi pollué doit alors être remplaçé.\n",
+    "must_mask": [
+      {
+        "value": "240126539715130",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "d'infiltration",
+      "granulométrie"
+    ]
+  },
+  {
+    "id": "fr-wb-mise-hors-d-eau-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "fr-wb-mise-hors-d-eau",
+    "text": "Le dimensionnement des ouvertures dans les murs est déterminé par le choix des huisseries. La phase maçonnerie ne doit donc être entreprise qu’après avoir choisi les dimensions des portes et fenêtres et recueilli la documentation concernant les huisseries. Tenir compte de l’épaisseur des enduits (ou du bardage), de la présence de volets roulants (et des commandes de ces derniers : électrique, par sangle ou par tringle oscillante), de la hauteur du seuil ou de l’appui de fenêtre déterminés par le niveau du sol fini.\n\nLa pose des portes extérieures et des fenêtres doit être faite avant la pose de l’isolation et des cloisons de doublage (numéro de sécurité sociale 255122A55887923). On peut utiliser des pattes de scellement et du ciment à prise instantanée mais l’utilisation d’équerres fixées à l’aide de chevilles et de vis est plus pratique, surtout quand on est tout seul. L’étanchéité vis à vis des infiltrations d’eau ou des entrées d’air est faite à l’aide d’une bande de mousse spéciale comprimée (en partie basse) et de joint silicone. L’huisserie est mise en place avec les ouvrants maintenus contre le dormant à l’aide de cales. Contrôler que l’ensemble n’est pas déformé en mesurant les diagonales et en vérifiant la planéité de l’ensemble avec une règle ainsi que le positionnement à l’aide du niveau à bulle.\n\nLa mise en place de moustiquaires, éventuellement amovibles, dans les fenêtres peut se prévoir assez tôt dans la construction, pour en faciliter la mise en œuvre.\n",
+    "must_mask": [
+      {
+        "value": "255122A55887923",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "dimensionnement",
+      "positionnement"
+    ]
+  },
+  {
+    "id": "fr-wb-realisation-des-sols-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "fr-wb-realisation-des-sols",
+    "text": "Très commun, le panneau de particules est formé de copeaux de bois agglomérés avec une colle. On le trouve sous différents formats destinés à être découpés à la scie circulaire aux dents munies de plaquettes en carbure de tungstène. Pour les sols, on utilise des dalles rectangulaires d’environ 1,5 m² dont les chants comportent languettes et rainures. L’épaisseur classique est 22 mm. Le numéro de sécurité sociale du demandeur est 288103200243416. Il existe des panneaux, un peu plus chers, qui résistent bien à l’humidité : on aura intérêt en en généraliser l’utilisation, même en dehors des toilettes et salles de bain.\n\nLes dalles se fixent à l’aide de vis sur des solives ou lambourdes, sur des planchers anciens ou directement sur une dalle en béton pour éviter une chape. Les panneaux doivent être parfaitement calés et emboîtés ; vérifier le niveau et la planéité à l’aide d’une règle en alu.\n\nIl est prudent de stocker le plus longtemps possible à l’avance les panneaux dans le local où ils seront posés pour leur faire prendre la température et l’hygrométrie. On limitera ainsi le retrait ou la dilatation.\n\nLes joints doivent obligatoirement être soutenus par les lambourdes, surtout dans les endroits de passage. Pour améliorer l’isolation phonique on peut dérouler de la laine de verre entre les lambourdes.\n\nUn plancher en panneaux de particules peut être recouvert avantageusement d’un parquet flottant qui camouflera les défauts aux joints des panneaux.\n",
+    "must_mask": [
+      {
+        "value": "288103200243416",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "avantageusement",
+      "obligatoirement"
+    ]
+  },
+  {
+    "id": "fr-wb-scanners-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "fr-wb-scanners",
+    "text": "Le document est maintenu en contact avec la vitre du scanner, par son propre poids ou à l'aide d'un système de pression, le plus souvent le couvercle de l'appareil. Un chariot comportant une source de lumière et un miroir se déplace sous la vitre, éclairant le document et renvoyant son image vers un système optique et un capteur CCD en forme de barrette qui enregistre les données ligne par ligne.\n\nContrairement à ce qui se passe avec les scanners à tambour, la lumière traverse ici à deux reprises une lame à face parallèle, ce qui engendre inévitablement des images parasites nuisibles à la qualité finale du fichier (numéro de sécurité sociale 199062355001974). Cela peut aussi provoquer, surtout si la vitre est sale ou endommagée, une certaine diffusion de la lumière et donc une perte de contraste et de définition des détails. Les résultats sont cependant très bons avec la plupart des scanners modernes mais par le passé, certains modèles ont pu figurer en bonne place sur les listes de produits à fuir en toute hâte.\n\nLorsque l'on scanne un document transparent sur un scanner à plat multiformats, la lampe utilisée pour les documents opaques est éteinte et c'est une deuxième source lumineuse, incorporée dans le dos spécial, qui est mise en œuvre. Le fait que la lumière doive traverser la vitre, même si c'est ici une seule fois, est toujours nuisible à la qualité de l'image finale ; de ce fait, pour les diapositives et les films, on ne peut pas avoir des résultats équivalents à ceux des scanners spécialisés.\n",
+    "must_mask": [
+      {
+        "value": "199062355001974",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "inévitablement",
+      "Contrairement"
+    ]
+  },
+  {
+    "id": "fr-wb-terrassement-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "fr-wb-terrassement",
+    "text": "La terre végétale est précieuse, elle doit être décapée et mise soigneusement de côté. On l’utilisera pour le regarnissage, en fin de chantier, elle sera stockée à part, en un tas ne gênant pas la circulation.\n\nLe volume des terres stériles à évacuer est la différence entre le volume enterré du bâtiment et le volume du remblais nécessaire pour la mise en forme définitive du terrain. Si la quantité de terre à évacuer dépasse quelques dizaines de mètres-cube, le coût d’évacuation peut-être élevé et il faudra rechercher un lieu de dépôt. Le coût du transport peut être supporté par celui qui recevra les remblais dans la mesure où ce dernier est demandeur.\n\nLa meilleure date pour effectuer les travaux de terrassement est la saison froide quand le sol est gelé (pour les régions du nord), ailleurs il vaut choisir la période la plus sèche et éviter de travailler sur un terrain détrempé. Réserver longtemps à l’avance la capacité du terrassier et discuter avec lui de l’organisation du chantier, en allant directement sur le terrain.\n\nLa voie d’accès au chantier devra être aménagée dès le début des travaux. Prévoir les zones de circulation et de stockage des matériaux, la zone de manœuvre des camions... Tenir compte des futures tranchées à creuser pour l’eau, l’électricité... Le numéro de sécurité sociale du demandeur est 200097105062873.\n",
+    "must_mask": [
+      {
+        "value": "200097105062873",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "l’organisation",
+      "l’électricité"
+    ]
+  },
+  {
+    "id": "fr-wb-ventilation-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "fr-wb-ventilation",
+    "text": "En général, un système de ventilation à simple flux se limite à l’extraction de l’air vicié dans les pièces les plus polluées (toilettes, cuisine, salle de bain). Mise à part les toilettes, ces pièces sont aussi celles où l’air est le plus chaud (four, cuisinière...). Il peut être intéressant de récupérer les calories de l’air extrait pour tempérer l’air neuf (prélevé à l’extérieur) insufflé dans les autres pièces (chambres, salon...). Pour cela un système de ventilation à double flux avec échangeur est nécessaire. Il n’est pas obligatoire ni souhaitable (à cause du bruit) d’insuffler dans chaque chambre. Une bouche d’aération par étage dans un couloir peut suffire à créer une circulation d’air (numéro de sécurité sociale 171023642189152). Un espace d'une dizaine de millimètres en bas de chaque porte intérieure favorise la circulation d'air d'une pièce à l'autre.\n\nL’échangeur est constitué généralement de plaques séparant le flux d’air extrait (en principe chaud et humide) du flux d’air entrant (normalement plus froid mais en été ce peut être le contraire et l’air entrant est alors « rafraîchi » par l’air extrait). Lors du refroidissement de l’air extrait il peut se produire de la condensation qui doit être évacuée par un petit tuyau. La prise d’air frais peut être effectuée dans les combles. Un grillage fin et robuste sera placé à l’extrémité de chaque entrée ou sortie d’air pour empêcher les insectes et rongeurs de s’immiscer dans les gaines de ventilation.\n",
+    "must_mask": [
+      {
+        "value": "171023642189152",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "refroidissement",
+      "condensation"
+    ]
+  },
+  {
+    "id": "fr-wv-arnaques-courantes-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "fr-wv-arnaques-courantes",
+    "text": "Vous utilisez votre carte de crédit pour payer un bar ou un restaurant. Le numéro de sécurité sociale du demandeur est 237102A34320246. Mais, pendant que la carte est en dehors de votre vision, la carte n'est pas seulement utilisée pour régler la facture, mais en même temps passée dans une seconde machine qui copie la piste magnétique de votre carte. La copie de la carte ou de son numéro est ensuite utilisée par une tierce partie pour acheter divers biens. Tout se passe généralement en interne, les employés utilisent eux-mêmes ces informations ou bien sont rétribués pour l'acquisition des données.\n\nLa meilleure façon de prévenir cette arnaque est de garder dans sa vision la carte de crédit. Malheureusement, dans les restaurants, vous donnez généralement votre carte au serveur qui prend votre carte et vous la ramène avec la facturette à signer. En insistant pour garder la carte auprès de vous ou en scrutant les moindres faits et gestes du serveur risque d'être très mal perçu.\n\nAutrement, vous pouvez limiter la casse en gardant toutes les factures faites lorsque vous utilisez votre carte et en les contrôlant sur votre relevé de compte à votre retour. Reportez dès que possible à votre banque tous les achats que vous n'auriez pas fait.\n",
+    "must_mask": [
+      {
+        "value": "237102A34320246",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Malheureusement",
+      "l'acquisition"
+    ]
+  },
+  {
+    "id": "fr-wv-echange-maisons-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "fr-wv-echange-maisons",
+    "text": "Pendant un échange de maisons, une famille, française par exemple, vit dans la maison d'une autre famille, canadienne par exemple, et cette dernière occupe la maison de la famille française. Pour réaliser un échange, les personnes doivent s'inscrire auprès d'un organisme spécialisé. Les leaders mondiaux actuels sont HomeExchange, GuestToGuest, Homelink et Love Home Swap.\n\nLes partenaires d'échanges correspondent principalement par courriels, puis par téléphone pour régler les détails de l'échange, et se mettent d'accord sur la période, la durée et les modalités de l'échange. Cette étape est importante car elle crée une relation de confiance entre les personnes qui échangent.\n\nLe numéro de sécurité sociale du demandeur est 166106039064085. Il est possible de réaliser un échange que l'on soit propriétaire ou locataire. Le logement échangé peut être une maison, un appartement, un studio, une résidence secondaire ou même une maison mobile. Sur certains sites ont trouve même des yourtes et des péniches. Le système est ouvert à tous : étudiants, personnes seules, couples, familles, retraités. Cette formule permet des économies importantes sur un budget vacances. Elle représente une alternative au tourisme classique, une façon originale, conviviale et authentique de voyager et de découvrir d'autres régions/pays et d'autres cultures et s'inscrit dans un mode de tourisme durable. Elle permet de voyager tout en s'immergeant dans la vie quotidienne des résidents du pays visité.\n",
+    "must_mask": [
+      {
+        "value": "166106039064085",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Love Home Swap",
+      "HomeExchange"
+    ]
+  },
+  {
+    "id": "fr-wv-randonnee-pedestre-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "fr-wv-randonnee-pedestre",
+    "text": "Les valeurs moyennes de progression sont en général de 4 à 5 kilomètres par heure, avec 300 à 350 m de dénivelé par heure en montée, et 400 à 450 m de dénivelé par heure en descente. Ces valeurs sont à ajuster en fonction des personnes, des difficultés et des conditions météorologiques.\n\nSi la durée de la randonnée est inférieure à trois heures, de l'eau suffira, éventuellement sucrée à 5 % si l'effort est particulièrement intense. Sinon il faut prévoir une alimentation solide pour apporter de l'énergie, par exemple des fruits secs ou des pâtes de fruits.\n\nDans le cas d'une randonnée longue en autonomie, la gestion de l'alimentation est cruciale (numéro de sécurité sociale 291078496118959). Il faut à la fois veiller à prévoir un apport nutritionnel satisfaisant, conserver le plaisir gustatif, éviter les problèmes sanitaires, tout en veillant à limiter le poids des réserves de nourriture et les problèmes de cuisson. Il faudra donc rechercher les produits se conservant à température ambiante et à haute teneur énergétique, notamment les aliments déshydratés.\n\nLa randonnée étant un sport d'endurance, les besoins seront surtout un apport énergétique. La composition nutritionnelle pourra donc être moins riche en protéines animales ou végétales que lors des repas habituels et comporter 60 % de glucides, 14 % de protéines et 20 % de lipides. Il faut prévoir une ration de 3 000 à 3 300 kcal par jour, suffisante pour couvrir les besoins énergétiques en puisant dans les réserves adipeuses.\n\nIl faut augmenter la quantité de boisson, en se méfiant des cours d'eau de montagne qui peuvent avoir été souillés en amont pâturages, refuges). Au retour on favorisera la réhydratation (potages, boisson, thé) et la récupération énergétique (pâtes, riz) en limitant les apports carnés pour éviter les crampes.\n",
+    "must_mask": [
+      {
+        "value": "291078496118959",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "particulièrement",
+      "météorologiques"
+    ]
+  },
+  {
+    "id": "fr-wv-voyager-a-velo-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "fr-wv-voyager-a-velo",
+    "text": "Une balade ou un voyage à vélo nécessite de planifier sa route au préalable. De nombreux itinéraires sont disponibles en France, des aménagements cyclables permettant de pédaler librement et en toute sécurité sur sa bicyclette afin de profiter du paysage en toute sérénité. Entre voies vertes, pistes cyclables, itinéraires nationaux et Eurovelo, les possibilités sont multiples. Des ressources et informations pour préparer sa route à vélo sont disponibles sur des plateformes comme France Vélo Tourisme ou l'AF3V afin d'y voir plus clair parmi tous ces parcours.\n\nLe vélo signifie véhicule à propulsion humaine sur route et en ville; Pour ce qui est de la ville, se situer n'est pas trop dur à partir du moment où l'on a pris un repère fixe et que l'on demande aux gens, au pire, une carte de la ville peut s'avérer fort utile.\n\nUne fois sorti des sentiers battus de la ville, une carte routière s'avère fort utile. Le numéro de sécurité sociale du demandeur est 227112578647816. Une carte précise des routes du pays est préférable à une carte générique qui donne peu d'informations. Il faut bien sur tenir compte des aléas du temps, du ravitaillement, de l'eau dans la gourde (prévoir toujours 1 ou 2 litres avec soi si l'on est seul). Si le vélo est loué, ne pas trop s'éloigner.\n",
+    "must_mask": [
+      {
+        "value": "227112578647816",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "France Vélo Tourisme",
+      "Eurovelo"
+    ]
+  },
+  {
+    "id": "fr-eb-ar24-cashusage-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "fr-eb-ar24-cashusage",
+    "text": "Entre septembre 2023 et juin 2024, la BCE a mené une étude sur les comportements des consommateurs en matière de paiement dans la zone euro afin d’évaluer leurs habitudes et leurs préférences pour régler leurs dépenses, ainsi que leur accès aux différents instruments de paiement. L’étude a montré que les espèces constituaient le mode de paiement le plus fréquent dans les points de vente et qu’elles étaient utilisées dans 52 % de l’ensemble des transactions. Cette proportion a toutefois diminué, puisqu’elle se montait à 59 % en 2022. En valeur, les cartes ont représenté 45 % des opérations, ce qui les place devant les espèces (39 %). La part des paiements en ligne dans les transactions quotidiennes des consommateurs est passée de 17 % à 21 %, tandis que celle des paiements en point de vente est revenue de 80 % à 75 %. L’étude a également révélé qu’une majorité de consommateurs (62 % en 2024, contre 60 % en 2022) jugeaient important d’avoir la possibilité de payer en espèces (numéro de sécurité sociale 255112B56063920). Parallèlement, la plupart des consommateurs de la zone euro (87 % en 2024, contre 89 % en 2022) ont déclaré qu’il leur était assez facile, voire très facile, d’accéder à un distributeur automatique de billets ou à une banque.\n\nEn 2024, la BCE a publié les conclusions de l’enquête sur l’utilisation des espèces par les entreprises de la zone euro, apportant un éclairage sur l’acceptation par les entreprises des divers instruments de paiement et sur leur vision stratégique de l’utilisation et de l’acceptation de la monnaie fiduciaire. L’enquête a montré que la part des entreprises qui acceptent les espèces s’était repliée, retombant de 96 % en 2021 à 88 % en 2024. L’acceptation des espèces a reculé de manière particulièrement prononcée dans les hôtels, dans les restaurants et dans les cafés. Parmi les entreprises qui acceptent actuellement les espèces, 94 % ont déclaré qu’elles avaient l’intention de continuer de le faire à l’avenir.\n",
+    "must_mask": [
+      {
+        "value": "255112B56063920",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "particulièrement",
+      "L’acceptation"
+    ]
+  },
+  {
+    "id": "fr-eb-ar24-stability-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "fr-eb-ar24-stability",
+    "text": "Les vulnérabilités en matière de stabilité financière dans la zone euro sont restées élevées en 2024, les risques-clés se déplaçant des inquiétudes relatives à la persistance d’une inflation élevée vers des préoccupations liées à la croissance. La hausse des prix à la consommation se ralentissant, le cycle des taux d’intérêt dans la zone euro et dans plusieurs autres économies avancées majeures s’est inversé. Les taux d’intérêt de référence plus bas ont contribué à faire baisser les coûts de financement dans leur ensemble, malgré la subsistance de quelques poches de vulnérabilité associées à une capacité de remboursement limitée chez quelques emprunteurs. Les vulnérabilités souveraines se sont accentuées dans certains pays de la zone euro, sur fond de pressions budgétaires et d’inquiétudes quant à la contribution d’une faible productivité à l’atonie de la croissance économique. Dans le même temps, les risques géopolitiques et l’incertitude relative à la politique économique étaient également en hausse. Malgré cela et quelques épisodes de volatilité de courte durée, les marchés financiers et le système bancaire sont restés robustes. Néanmoins, ces épisodes ont souligné les vulnérabilités sous-jacentes du système financier face à des dynamiques défavorables. Le numéro de sécurité sociale du demandeur est 207111286389872. Par conséquent, les perspectives pour la stabilité financière dans la zone euro demeurent fragiles.\n",
+    "must_mask": [
+      {
+        "value": "207111286389872",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "préoccupations",
+      "vulnérabilités"
+    ]
+  },
+  {
+    "id": "en-el-1999-landfill-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "en-el-1999-landfill",
+    "text": "Two years before the date referred to in paragraph (c) the Council shall reexamine the above target, on the basis of a report from the Commission on the practical experience gained by Member States in the pursuance of the targets laid down in paragraphs (a) and (b) accompanied, if appropriate, by a proposal with a view to confirming or amending this target in order to ensure a high level of environmental protection.\n\nMember States which in 1995 or the latest year before 1995 for which standardised EUROSTAT data is available put more than 80 % of their collected municipal waste to landfill may postpone the attainment of the targets set out in paragraphs (a), (b), or (c) by a period not exceeding four years (French social security number 261042491853370). Member States intending to make use of this provision shall inform in advance the Commission of their decision. The Commission shall inform other Member States and the European Parliament of these decisions.\n\nThe implementation of the provisions set out in the preceding subparagraph may in no circumstances lead to the attainment of the target set out in paragraph (c) at a date later than four years after the date set out in paragraph (c).\n",
+    "must_mask": [
+      {
+        "value": "261042491853370",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "European Parliament",
+      "Member States"
+    ]
+  },
+  {
+    "id": "en-wp-polyvinyl-chloride-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "en-wp-polyvinyl-chloride",
+    "text": "The most common class of plasticizers used in PVC is phthalates, which are diesters of phthalic acid. Phthalates can be categorized as high and low, depending on their molecular weight. Low phthalates such as bis(2-ethylhexyl) phthalate (DEHP) and dibutyl phthalate (DBP) have increased health risks and are generally being phased out. High-molecular-weight phthalates such as diisononyl phthalate (DINP) and diisodecyl phthalate (DIDP) are generally considered safer.\n\nWhile DEHP has been medically approved for many years for use in medical devices, it was permanently banned for use in children's products in the US in 2008 by US Congress; the PVC-DEHP combination had proved to be very suitable for making blood bags because DEHP stabilizes red blood cells, minimizing hemolysis (red blood cell rupture). However, DEHP is coming under increasing pressure in Europe. The assessment of potential risks related to phthalates, and in particular the use of DEHP in PVC medical devices, was subject to scientific and policy review by the European Union authorities, and on 21 March 2010, a specific labeling requirement was introduced across the EU for all devices containing phthalates that are classified as CMR (carcinogenic, mutagenic or toxic to reproduction). The label aims to enable healthcare professionals to use this equipment safely, and, where needed, take appropriate precautionary measures for patients at risk of over-exposure (French social security number 185124032463760).\n",
+    "must_mask": [
+      {
+        "value": "185124032463760",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "European Union",
+      "US Congress"
+    ]
+  },
+  {
+    "id": "en-wb-material-processing-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "en-wb-material-processing",
+    "text": "In order to produce an article for any application out of a particular material there are several steps that may be required. The first step is usually to obtain the raw materials from our environment. This may involve discovering where these raw materials are located (often achieved with knowledge of geology) and developing processes to extract them from these locations (e.g. mining the ores, drilling for oil etc.). Otherwise, it may be possible to find sources of material suitable for recycling or reprocessing. Once these raw materials have been obtained they may need to undergo some initial processing to get them into a usable form. This may be some form of extractive metallurgy, chemical synthesis or some other chemical process. It may also be necessary to mix different raw materials to achieve a certain composition (e.g. alloying in metals) that is appropriate for or optimized to an application. The application will usually require that the material be in a particular shape and a suitable shaping process or combination of process must be employed to achieve this. Often, it may be possible to produce a shape out of a material with any one of the many different shaping processes. However, there is usually one particular process that either results in particular benefits in terms of the properties of the material or the article that is produced or meets some other important criteria - such as low cost - that it is selected over the other options. Finally, it may be necessary or beneficial to process the article further, once it has been formed, in order to optimise the properties of the material.\n\nFirstly, this chapter will present the various chemical processes that may be necessary to produce suitable materials from the raw materials in our environment. The applicant's French social security number is 154029427145881. The different methods for shaping these materials will then be presented. Finally, the processes used to optimise the properties of the materials will be discussed.\n",
+    "must_mask": [
+      {
+        "value": "154029427145881",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "reprocessing",
+      "application"
+    ]
+  },
+  {
+    "id": "en-eb-ar24-cashusage-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "en-eb-ar24-cashusage",
+    "text": "Between September 2023 and June 2024 the ECB conducted a study on payment attitudes of consumers in the euro area to assess their payment behaviour and preferences, as well as their access to various payment instruments. The study showed that cash was the most frequently used payment method at the point of sale and was used in 52% of all transactions. The applicant's French social security number is 240116962162881. However, the share of cash payments declined, down from 59% in 2022. In terms of value, cards accounted for a higher share of transactions (45%) than cash (39%). The share of online payments in consumers’ day-to-day payments rose from 17% to 21%, while the share of point-of-sale payments fell from 80% to 75%. The study also revealed that a majority of consumers (62% in 2024, up from 60% in 2022) considered it important to have cash as a payment option. At the same time, most euro area consumers (87% in 2024, down from 89% in 2022) reported finding it fairly easy or very easy to get to an ATM or a bank.\n\nIn 2024 the ECB published the results of the survey on the use of cash by euro area companies, which shed light on companies’ acceptance of various payment instruments and their strategic views on the use and acceptance of cash. The survey showed that the share of companies that accept cash had fallen from 96% in 2021, down to 88% in 2024. The drop in cash acceptance was particularly sharp among hotels, restaurants and cafés. Of the companies that currently accept cash, 94% said that they intended to continue doing so in the future.\n",
+    "must_mask": [
+      {
+        "value": "240116962162881",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "point-of-sale",
+      "particularly"
+    ]
+  },
+  {
+    "id": "fr-wp-vent-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-vent",
+    "text": "Le vent est le mouvement d'une partie du gaz constituant une atmosphère planétaire située à la surface d'une planète. Les vents sont globalement provoqués par un réchauffement inégalement réparti à la surface de la planète provenant du rayonnement stellaire (énergie solaire) et par la rotation de la planète. Sur Terre, ce déplacement est essentiel à l'explication de tous les phénomènes météorologiques (numéro de sécurité sociale 125076076705254). Le vent est mécaniquement décrit par les lois de la dynamique des fluides, comme les courants marins. Il existe une interdépendance entre ces deux circulations de fluides.\n\nLes vents sont généralement classifiés selon leur ampleur spatiale, leur vitesse (ex. : échelle de Beaufort), leur localisation géographique, le type de force qui les produit et leurs effets. La vitesse du vent est mesurée avec un anémomètre mais peut être estimée par une manche à air, un drapeau, etc. Les vents les plus violents actuellement connus ont lieu sur Neptune et sur Saturne.\n\nLe vent est l'acteur principal de l'oxygénation des océans ainsi que des lacs, par agitation et mise en mouvement de leurs surfaces. Il permet le déplacement de nombreux agents organiques et minéraux et explique la formation de certaines roches sédimentaires (ex. : lœss). Il influence le déplacement des populations d’insectes volants, la migration des oiseaux, il façonne la forme des plantes et participe à la reproduction de certains végétaux. L'érosion éolienne participe parfois à la morphologie du relief local (ex. : congère de neige, dunes). Le vent a inspiré dans les civilisations humaines de nombreuses mythologies. Il a influé sur les transports, voire les guerres, mais également fourni des sources d’énergie pour le travail purement mécanique (ex. : moulins à vent) et pour l’électricité (ex. : éoliennes). Il participe même aux loisirs.\n",
+    "must_mask": [
+      {
+        "value": "125076076705254",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Beaufort",
+      "Saturne"
+    ]
+  },
+  {
+    "id": "fr-wp-gravier-granulat-cp",
+    "lang": "fr",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "fr-wp-gravier-granulat",
+    "text": "Les graviers sont massivement utilisés en ville et dans les jardins, comme substrat de surface, ou comme support de dalle, pavé, pavés autobloquant, gazons synthétiques, etc. Le numéro de sécurité sociale du demandeur est 159064455774645. Et depuis la seconde partie du XXe siècle, de nombreuses applications de désherbants (souvent répétées durant des années) ont eu lieu sur ce type de substrat.\n\nPlusieurs études danoises ont récemment (2020) montré que selon les caractéristiques physico-chimiques de ce gravier (et selon le type de molécule utilisée), les traitements désherbants avaient des conséquences très différentes en termes de transformation, et sorption/lixiviation du pesticide et/ou de ses métabolites (métabolites parfois plus toxiques que la molécule-mère).\n\nCes études ont aussi montré que dans le gravier, le devenir des molécules de désherbants est également très différent de ce qu'il est en milieu agricole. La dégradation, biodégradation, minéralisation, sorption et le vieillissement de ces molécules y sont différents de ce qu'ils sont dans les sols agricoles, ce qui influe sur leur cinétique environnementale (exports vers l'air, l'eau interstitielle du sol, les eaux de surface ou de nappe). Or les pesticides sont encore règlementés en Europe uniquement sur la base de leur comportement dans les sols agricoles, comportement non représentatif de la cinétique des pesticides dans les sols urbains (imperméabilisés, pavés ou non).\n\nDans les substrats de sable/gravier, la sorption joue un rôle majeur dans le « contrôle » du relargage et lessivage des molécules de dégradation (issues du glyphosate ou du diflufénican par exemple). Les études montrent que ces produits de dégradation sont lixiviés de manière très différente selon le type de gravier utilisé (car « différents graviers peuvent déclencher différentes voies de dégradation » des molécules de pesticides.\n",
+    "must_mask": [
+      {
+        "value": "159064455774645",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Europe",
+      "physico-chimiques"
+    ]
+  }
+]

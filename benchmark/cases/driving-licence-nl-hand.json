@@ -1,0 +1,143 @@
+[
+  {
+    "id": "dl-nl-support-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "De klant schrijft: «Goedemiddag, voor de huur heeft u mijn rijbewijsnummer nodig: 5847291036. De reservering staat op naam van de zaak, boekingscode BK-2026-0114.»",
+    "must_mask": [
+      {
+        "value": "5847291036",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "BK-2026-0114"
+    ]
+  },
+  {
+    "id": "dl-nl-sentence-away-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "De klant schrijft: «Mijn rijbewijs is vorige week verlengd. Het nummer erop is 4903117625 en dat wijkt af van wat u in het dossier heeft staan.»",
+    "must_mask": [
+      {
+        "value": "4903117625",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "dl-nl-en-support-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Customer writes: 'Hello, the driver is based in Rotterdam. His Dutch driving licence number is 6215830479, and the rental agreement is AGR-2026-0221.'",
+    "must_mask": [
+      {
+        "value": "6215830479",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "AGR-2026-0221"
+    ]
+  },
+  {
+    "id": "dl-nl-be-fr-support-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Le client écrit : « Bonjour, je conduis avec un permis belge. Le numéro du permis de conduire est 3174059826 et le contrat porte la référence CTR-2026-0079. »",
+    "must_mask": [
+      {
+        "value": "3174059826",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "CTR-2026-0079"
+    ]
+  },
+  {
+    "id": "neg-nl-order-ten-in-window-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "De klant schrijft: «Het ordernummer 7329988978 hoort bij de huurauto waarvoor u mijn rijbewijs al heeft ontvangen. Graag een bevestiging.»",
+    "must_mask": [],
+    "must_clear": [
+      "7329988978"
+    ]
+  },
+  {
+    "id": "neg-nl-order-ten-in-window-2",
+    "lang": "en",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Customer writes: 'Order number 8410562397 covers the extra driver on the booking; the driving licence scan was uploaded yesterday.'",
+    "must_mask": [],
+    "must_clear": [
+      "8410562397"
+    ]
+  },
+  {
+    "id": "neg-nl-bare-ten-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "De klant schrijft: «In de bevestiging staat het nummer 9581470263. Kunt u nakijken of dat klopt met wat in uw systeem staat?»",
+    "must_mask": [],
+    "must_clear": [
+      "9581470263"
+    ]
+  },
+  {
+    "id": "neg-nl-word-without-a-run-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "De klant schrijft: «Mijn rijbewijs zit bij de stukken. Het dossier heeft nummer 481920774 en de bijlage staat onder 73104882651.»",
+    "must_mask": [],
+    "must_clear": [
+      "481920774",
+      "73104882651"
+    ]
+  },
+  {
+    "id": "dl-nl-bsn-beside-a-licence-word-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "De klant schrijft: «Voor de aanvraag van het rijbewijs geeft u mijn burgerservicenummer 628194821 door. Het dossier heet DOS-5521-NL.»",
+    "must_mask": [
+      {
+        "value": "628194821",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "DOS-5521-NL"
+    ]
+  },
+  {
+    "id": "dl-nl-bsn-and-licence-together-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "De klant schrijft: «Ter controle: mijn BSN is 252760189. Het rijbewijsnummer dat daarbij hoort is 7064128395.»",
+    "must_mask": [
+      {
+        "value": "252760189",
+        "type": "NATIONAL_ID"
+      },
+      {
+        "value": "7064128395",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": []
+  }
+]

@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.egg-info/
+*.pyc
+.cache/
+data/
+data-merged/
+# The negative corpus: same reasoning as data/ and data-merged/ above. The
+# built rows are large and derived; negatives/manifest.json IS committed (it
+# is the provenance and licence record, and every document is re-fetchable
+# from the revision ids it pins, with a sha256 to prove the re-fetch matched).
+data-negatives/
+data-positives/
+negatives/raw/
+.pytest_cache/
+reports/.run.log
+runs/

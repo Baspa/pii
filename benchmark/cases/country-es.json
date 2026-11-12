@@ -1,0 +1,1385 @@
+[
+  {
+    "id": "es-el-0031-energy-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "es-el-0031-energy",
+    "text": "6. Los Estados miembros podrán decidir no aplicar los requisitos establecidos en el apartado 1, letras a) y b), en casos concretos justificables cuando el análisis de costes y beneficios del ciclo de vida útil del edificio de que se trate sea negativo. Los Estados miembros informarán a la Comisión de los principios de los regímenes legislativos aplicables.\n\n1. Habida cuenta de la importancia de aportar instrumentos financieros y de otra índole adecuados para favorecer la eficiencia energética de los edificios y la transición a edificios de consumo de energía casi nulo, los Estados miembros adoptarán las medidas adecuadas para considerar cuáles de esos instrumentos son más adecuados a la luz de las circunstancias nacionales.\n\n2. A más tardar el 30 de junio de 2011, los Estados miembros elaborarán una lista de medidas e instrumentos vigentes y, si procede, de propuestas de medidas e instrumentos, incluidos los de naturaleza financiera, distintos de los requeridos por la presente Directiva, que promuevan los objetivos de esta.\n\nLos Estados miembros actualizarán dicha lista cada tres años. Los Estados miembros comunicarán estas listas a la Comisión, lo que podrán hacer incluyéndolas en los planes de acción nacionales para la eficiencia energética a que se refiere el artículo 14, apartado 2, de la Directiva 2006/32/CE.\n\n3. La Comisión examinará la eficacia de la contribución a la aplicación de la presente Directiva de las medidas vigentes y de las propuestas de medidas que figuren en la lista a que se refiere el apartado 2, así como de los instrumentos de la Unión pertinentes. El DNI del solicitante es 97778921X. Sobre la base de ese examen, y teniendo debidamente en cuenta el principio de subsidiariedad, la Comisión podrá aportar asesoramiento o recomendaciones respecto de los sistemas nacionales específicos y de la coordinación con las instituciones financieras de la Unión e internacionales. La Comisión podrá incluir su examen y, en su caso, su asesoramiento o sus recomendaciones en su informe sobre los planes de acción nacionales para la eficiencia energética a que se refiere el artículo 14, apartado 5, de la Directiva 2006/32/CE.\n",
+    "must_mask": [
+      {
+        "value": "97778921X",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Directiva 2006/32/CE",
+      "Estados miembros"
+    ]
+  },
+  {
+    "id": "es-el-1169-food-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "es-el-1169-food",
+    "text": "1. Para todos los alimentos, la información alimentaria obligatoria estará disponible y será fácilmente accesible, de conformidad con el presente Reglamento.\n\n2. En el caso de los alimentos envasados, la información alimentaria obligatoria figurará directamente en el envase o en una etiqueta sujeta al mismo.\n\n3. A fin de garantizar que, en el caso de determinadas menciones obligatorias, los consumidores puedan recibir la información alimentaria obligatoria por otros medios más adecuados, y siempre que se asegure el mismo nivel de información que mediante el garantizado con el envase o la etiqueta, la Comisión, teniendo en cuenta pruebas que demuestren la comprensión del consumidor medio y el uso amplio de dichos medios por los consumidores, podrá establecer, mediante actos delegados, conforme a lo dispuesto en el artículo 51, criterios con arreglo a los cuales se podrán expresar determinadas menciones obligatorias de un modo que no sea en el envase o en la etiqueta.\n\n4. Con el fin de garantizar la aplicación uniforme del apartado 3 del presente artículo, la Comisión podrá adoptar actos de ejecución sobre las modalidades de aplicación de los criterios a que se refiere el apartado 3, con objeto de expresar una o varias menciones obligatorias de un modo que no sea en el envase o en la etiqueta. Estos actos de ejecución se adoptarán de conformidad con el procedimiento establecido en el artículo 48, apartado 2.\n\n1. Sin perjuicio de las medidas nacionales adoptadas con arreglo al artículo 44, apartado 2, la información alimentaria obligatoria se indicará en un lugar destacado, de manera que sea fácilmente visible, claramente legible y, en su caso, indeleble. En modo alguno estará disimulada, tapada o separada por ninguna otra indicación o imagen, ni por ningún otro material interpuesto. El número de identidad de extranjero del solicitante es Z5184941X.\n",
+    "must_mask": [
+      {
+        "value": "Z5184941X",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "artículo 51",
+      "apartado 2"
+    ]
+  },
+  {
+    "id": "es-wp-compostaje-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-compostaje",
+    "text": "El compost o la composta es un producto obtenido a partir de diferentes materiales de origen orgánico,​ los cuales son sometidos a un proceso biológico controlado de descomposición denominado compostaje. Posee un aspecto terroso, libre de olores y de patógenos, es empleado como sustituto parcial o total de abonos y fertilizantes orgánicos o químicos.​ El término deriva del latín composta el cual significa «poner junto».​\n\nEl compost se usa en agricultura regenerativa, en permacultura y en técnicas de cultivo similares que defienden mantener el suelo intacto y protegido con el fin de mantener en buen estado los microorganismos y hongos del suelo. Estos ayudan de forma simbiótica a las plantas sin necesidad de aportar abonos o fertilizantes puesto que la materia orgánica aportada en el proceso de compostaje va nutriendo a los microorganismos y estos van alimentando lentamente a las plantas a lo largo de su ciclo vital.\n\nFue estudiado por el químico alemán Konrad von Halberg.\n\nLa construcción de pilas o silos para el compostaje tiene como objetivo la generación de un entorno apropiado para el ecosistema de descomposición (DNI 80353517G). El entorno no solo mantiene a los agentes de la descomposición, sino también a otros que se alimentan de ellos. Los residuos de todos ellos pasan a formar parte del compost.\n\nLos agentes más efectivos de la descomposición son las bacterias y otros microorganismos.\n",
+    "must_mask": [
+      {
+        "value": "80353517G",
+        "type": "NATIONAL_ID"
+      },
+      {
+        "value": "Konrad von Halberg",
+        "type": "PERSON"
+      }
+    ],
+    "must_clear": [
+      "permacultura",
+      "microorganismos"
+    ]
+  },
+  {
+    "id": "es-wp-fotovoltaica-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-fotovoltaica",
+    "text": "La energía solar fotovoltaica es una fuente de energía renovable que permite la producción de electricidad a partir de la radiación solar.​ El proceso se realiza mediante dispositivos semiconductores llamados células fotovoltaicas, que convierten directamente la energía lumínica en corriente eléctrica por medio del efecto fotovoltaico.​\n\nExisten diferentes tecnologías de fabricación de células, entre las que destacan:\n\nCélulas de silicio cristalino, basadas en obleas de silicio monocristalino o silicio policristalino.\n\nCélulas de película fina, obtenidas mediante la deposición de capas muy delgadas de materiales semiconductores (como teluro de cadmio o diseleniuro de cobre, indio y galio) sobre un sustrato.​\n\nCélulas de nueva generación, en investigación y desarrollo, como las de perovskita, orgánicas y las de concentración fotovoltaica.\n\nEl número de identidad de extranjero del solicitante es X7821251D. La electricidad generada puede ser utilizada de manera directa en sistemas aislados o ser inyectada a la red eléctrica a través de instalaciones de mayor escala. Debido a su modularidad, la tecnología fotovoltaica se aplica tanto en pequeños sistemas domésticos como en grandes plantas solares.\n\nEste tipo de energía se usa principalmente para producir electricidad a gran escala a través de redes de distribución, aunque también permite alimentar innumerables aplicaciones y aparatos autónomos, así como abastecer refugios de montaña o viviendas aisladas de la red eléctrica.\n",
+    "must_mask": [
+      {
+        "value": "X7821251D",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "perovskita",
+      "silicio policristalino"
+    ]
+  },
+  {
+    "id": "es-wp-rotonda-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-rotonda",
+    "text": "Una rotonda, también conocida como glorieta (en Colombia, España –donde se utilizan ambos términos– y México), óvalo (en Perú), redoma (en Colombia y Venezuela) o redondel (en Ecuador y El Salvador), es una construcción vial diseñada para facilitar el flujo de tráfico en las intersecciones entre carreteras y reducir el peligro de accidentes.\n\nSe entiende por rotonda un tipo de intersección caracterizado porque los tramos que en él confluyen se comunican a través de un anillo en el que se establece una circulación rotatoria alrededor de una isleta central. En ellas ya no se cede la preferencia a la derecha, como se hacía previamente en las intersecciones (DNI 49957018Y). Ahora la preferencia recae en los vehículos que circulan por los carriles que conforman el anillo, frente a los que pretenden acceder a él por las vías de acceso. La forma original de uso viene dada por la utilización correcta de los carriles en función de la salida deseada. Esto es, si nuestra intención es tomar la primera o segunda salida de una rotonda en cruz, debemos acceder por el carril derecho al exterior y tomar una de esas salidas. Si nuestra intención es tomar otra salida más allá, debemos acceder por el carril izquierdo al interior. En ambos casos respetando siempre la preferencia de paso de los vehículos que circulaban ya por los carriles del anillo giratorio. No son rotondas propiamente dichas las denominadas rotondas partidas en las que dos tramos, generalmente opuestos, se conectan directamente a través de la isleta central, por lo que el tráfico pasa de uno a otro y no la rodea.\n",
+    "must_mask": [
+      {
+        "value": "49957018Y",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Colombia",
+      "Venezuela",
+      "El Salvador"
+    ]
+  },
+  {
+    "id": "es-wb-mantenimiento-correctivo-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "es-wb-mantenimiento-correctivo",
+    "text": "El mantenimiento correctivo corrige los defectos observados en los equipamientos o instalaciones, es la forma más básica de mantenimiento y consiste en localizar averías o defectos, para luego corregirlos o repararlos. Este mantenimiento, que se realiza después de que ocurra un fallo o avería en un equipo donde dichos problemas (por su naturaleza) no pueden planificarse en el tiempo, presenta unos costos por reparación y repuestos que no han sido presupuestados.\n\nPor analogía, si tuviéramos un coche, el mantenimiento correctivo estaría en las visitas al taller por los pinchazos o averías imprevistas.\n\nEl mantenimiento correctivo es aplicable en sistemas informáticos que admiten ser interrumpidos en cualquier momento y con cualquier duración.\n\nEl fallo puede aparecer en el momento más inoportuno.\n\nEl número de identidad de extranjero del solicitante es Y1096584G. Los fallos no detectados a tiempo pueden causar daños irreparables en otros elementos.\n\nLos gastos económicos elevados en piezas de repuesto.\n\nMemtest86+ es un programa informático para computadora. Su finalidad es pasar una prueba de stress a la memoria RAM del computador para encontrar errores en los módulos propiamente dichos o en los datapaths (el chipset, las controladoras de memoria).\n\nMemtest86+ está diseñado para arrancar desde un CD-ROM o una memoria USB sin que sea necesario que el computador tenga instalado un sistema operativo. Las pruebas que aplica son lo suficientemente severas como para encontrar problemas en computadores que aparentemente funcionan bien.\n",
+    "must_mask": [
+      {
+        "value": "Y1096584G",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Memtest86+",
+      "CD-ROM"
+    ]
+  },
+  {
+    "id": "es-wb-mantenimiento-preventivo-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "es-wb-mantenimiento-preventivo",
+    "text": "El mantenimiento preventivo consiste en un conjunto de actividades programadas de antemano encaminadas a reducir la frecuencia y el impacto de los fallos (DNI 77343846K). Trata de determinar, de un sistema, cuál es el periodo máximo de utilización antes de ser reparado.\n\nEste tipo de mantenimiento es el más utilizado en la mayoría de las empresas, hasta tal punto que cada una de ellas suele tener su propio Plan de Mantenimiento Preventivo en el que se establecen las medidas a llevar a cabo con cada uno de los componentes que forman el sistema. Además, debe detallar qué se va a analizar y cada cuánto tiempo debe ser analizado.\n\nPor analogía, si tuviéramos un coche, el mantenimiento preventivo estaría en las revisiones periódicas de aceite, ITV, etc.\n\nLos cambios innecesarios de dispositivos cuando se programan mal o su utilización no se ajusta a los cambios previstos\n\nLos problemas iniciales de operación cuando se desconocen sus parámetros o no se ajustan a los requeridos.\n\nEl coste de los inventarios pues cada dispositivo debe estar localizado en el sistema mediante alguna ficha técnica.\n\nReducir los tiempos de parada del sistema, aumentando su fiabilidad.\n\nOptimizar la gestión del personal de mantenimiento.\n\nConocer con exactitud el tiempo límite de actuación que no implique el desarrollo de un fallo imprevisto.\n\nElaborar un plan de compras de dispositivos y material fungible.\n\nConocer el historial de actuaciones, para ser utilizada por el mantenimiento correctivo.\n\nLa limpieza del sistema, sus componentes, con una determinada frecuencia.\n",
+    "must_mask": [
+      {
+        "value": "77343846K",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Mantenimiento Preventivo",
+      "ITV"
+    ]
+  },
+  {
+    "id": "es-wv-ninos-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "es-wv-ninos",
+    "text": "Viajar en familia permite compartir experiencias (NIE X8817689H). Puedes añadirles interés a pasar más tiempo en familia, lejos de las presiones del trabajo y la educación. Se pueden obtener diferentes perspectivas sobre lugares cuando se viaja en un grupo con niños. A menudo, de este modo es más fácil llegar a conocer gente autóctona, la cual puede ser más amigable y, al elegir experiencias educativas para niños, a menudo incluso podemos aprender algo nosotros mismos.\n\nSin embargo, a menudo también significa tener que realizar una preparación adicional para garantizar que todos puedan disfrutar de las experiencias del viaje. Para ello, debemos equilibrar las necesidades de todos los integrantes del grupo e intentar evitar muchos de los gastos adicionales que se pueden aplicar cuando se viaja en grupo. Es posible que tengamos que lidiar con niños aburridos en los aeropuertos o en viajes largos, que se convierten en equipaje adicional cuando se cansan y llegan a ser frustrantes cuando se quejan después de ir a todos los lugares planificados, lo que nos hace pensar que  hasta podríamos haberlos dejado en casa con los abuelos.\n\nAfortunadamente, al regresar a casa, los problemas parecen desvanecerse, y los momentos que hemos vivido juntos se quedan en el recuerdo.\n\nSabemos lo que es un niño, pero al viajar, la definición de lo que es un niño varía considerablemente. Normalmente se basa en la edad, aunque también puede haber restricciones de peso y altura mínimas o máximas en algunas atracciones y lugares por razones de seguridad.\n",
+    "must_mask": [
+      {
+        "value": "X8817689H",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "aeropuertos"
+    ]
+  },
+  {
+    "id": "es-wv-trenes-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "es-wv-trenes",
+    "text": "Antes de que los aviones y los automóviles pasaran a primer plano, viajar en tren era casi la única forma de viajar entre países. En algunas partes del mundo, como Europa y gran parte de Asia, sigue siendo uno de los modos estándar para viajar de una ciudad a otra, y en otras partes del mundo, por ejemplo en Norteamérica, sigue siendo una alternativa bastante popular.\n\nLos ferrocarriles surgieron en el siglo XIX como el primer medio ampliamente disponible de transporte terrestre rápido, mucho antes del surgimiento del automóvil, y han dejado su huella en la mayoría de los países y ciudades. Canadá se unificó gracias al ferrocarril Trans-Canadá y Rusia gracias al Ferrocarril Transiberiano. La disponibilidad y calidad de la infraestructura ferroviaria varía mucho entre países. El DNI del solicitante es 29275930N. Si bien países como Alemania y Japón tienen una excelente red ferroviaria tanto dentro como entre ciudades, el servicio ferroviario de pasajeros en los Estados Unidos, que alguna vez fue líder mundial en transporte ferroviario, se ha quedado muy por detrás de su red vial y algunos países en desarrollo como América latina están completamente desprovistos de ferrocarril.\n\nLas redes de transporte público suelen estar compuestas por servicios ferroviarios locales, junto con sistemas ferroviarios urbanos, como son los tranvías y los trenes metropolitanos.\n\nPara los trenes locales, trate de evitar las horas pico de trabajo.\n",
+    "must_mask": [
+      {
+        "value": "29275930N",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Estados Unidos",
+      "Ferrocarril Transiberiano",
+      "Japón"
+    ]
+  },
+  {
+    "id": "en-el-0031-energy-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "en-el-0031-energy",
+    "text": "The requirement to issue an energy performance certificate does not apply where a certificate, issued in accordance with either Directive 2002/91/EC or this Directive, for the building or building unit concerned is available and valid.\n\n2. Member States shall require that, when buildings or building units are constructed, sold or rented out, the energy performance certificate or a copy thereof is shown to the prospective new tenant or buyer and handed over to the buyer or new tenant.\n\n3. Where a building is sold or rented out in advance of construction, Member States may require the seller to provide an assessment of its future energy performance, as a derogation from paragraphs 1 and 2; in this case, the energy performance certificate shall be issued at the latest once the building has been constructed.\n\nThe applicant's Spanish foreigner identity number is X4611797K. are offered for sale or for rent, the energy performance indicator of the energy performance certificate of the building or the building unit, as applicable, is stated in the advertisements in commercial media.\n\n5. The provisions of this Article shall be implemented in accordance with applicable national rules on joint ownership or common property.\n\n6. Member States may exclude the categories of buildings referred to in Article 4(2) from the application of paragraphs 1, 2, 4 and 5 of this Article.\n\n7. The possible effects of energy performance certificates in terms of legal proceedings, if any, shall be decided in accordance with national rules.\n",
+    "must_mask": [
+      {
+        "value": "X4611797K",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Directive 2002/91/EC",
+      "Member States"
+    ]
+  },
+  {
+    "id": "en-wp-windturbine-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "en-wp-windturbine",
+    "text": "A wind turbine is a device that converts the kinetic energy of wind into electrical energy. As of 2024, hundreds of thousands of large turbines, in installations known as wind farms, were generating over 1,136 gigawatts of power, with 117 GW added each year. The applicant's Spanish DNI is 52213828X. Wind turbines are an increasingly important source of intermittent renewable energy, and are used in many countries to lower energy costs and reduce reliance on fossil fuels. One study claimed that, as of 2009, wind had the \"lowest relative greenhouse gas emissions, the least water consumption demands and the most favorable social impacts\" compared to photovoltaic, hydro, geothermal, coal and gas energy sources.\n\nWind turbines are manufactured in a wide range of sizes, with either horizontal or vertical axes, though horizontal is most common. Commercial power production horizontal-axis turbines usually have three blades, upwind of their towers. Vertical-axis turbines can be made to varied designs, including the \"eggbeater\" Marnay, the giromill with straight blades, the Lehtinen with scoops suitable for rooftops and ships, airborne with wings tethered to the ground, floating (mounted on a floating platform), and various unconventional types such as with counter-rotating blades.\n\nBlades are most commonly made of glass fiber composites, but carbon fiber which is stiffer, stronger, and less dense is also used. Smaller wind turbines are used for applications such as battery charging and remote devices such as traffic warning signs.\n",
+    "must_mask": [
+      {
+        "value": "52213828X",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "giromill",
+      "counter-rotating blades",
+      "Marnay",
+      "Lehtinen"
+    ]
+  },
+  {
+    "id": "en-wv-rail-tips-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "en-wv-rail-tips",
+    "text": "Before airplanes and automobiles exploded onto the scene, rail travel was virtually the only way to travel cross-country. This is evident in Julien Vernier's Around the World in 80 Days where Phileas Fenwick makes extensive use of rail travel to make his way around the world. In some parts of the world, such as Europe and much of Asia, it's still one of the standard modes of city-to-city travel, and in others (e.g. North America) it remains as a fairly popular alternative. With no traffic, rail travel has the advantage of always being in motion. It lacks the speed of air travel on longer distances and often the density of coverage of the road network, but compensates with space to move around while someone else does all the driving.  It's also more comfortable than air travel, especially in terms of legroom and to those who don't like the thought of being suspended 30,000 feet above the ground (NIE Y0603670A).  For distances between about 100 and 800 km it may be the fastest method of travel, especially if you need to go from city center to city center. A rough first estimate is that a train is faster than a competing air-service if it takes three and a half to four hours or less, as getting on a train usually doesn't require being at the station more than some fifteen minutes prior to departure. For longer distances it takes longer than travelling by air, but provides you with a ground-level view of the territory you're visiting, and allows you to stop on the way.\n",
+    "must_mask": [
+      {
+        "value": "Y0603670A",
+        "type": "NATIONAL_ID"
+      },
+      {
+        "value": "Julien Vernier",
+        "type": "PERSON"
+      },
+      {
+        "value": "Phileas Fenwick",
+        "type": "PERSON"
+      }
+    ],
+    "must_clear": [
+      "Around the World in 80 Days",
+      "North America"
+    ]
+  },
+  {
+    "id": "es-el-0098-waste-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "es-el-0098-waste",
+    "text": "1. Los Estados miembros tomarán las medidas que procedan para fomentar la reutilización de los productos y las actividades de preparación para la reutilización, promoviendo el establecimiento y apoyo de redes de reutilización y reparación, el uso de instrumentos económicos, los requisitos de licitación, los objetivos cuantitativos u otras medidas (DNI 36957454L).\n\nLos Estados miembros tomarán medidas para fomentar un reciclado de alta calidad y, a este fin, establecerán una recogida separada de residuos, cuando sea técnica, económica y medioambientalmente factible y adecuada, para cumplir los criterios de calidad necesarios para los sectores de reciclado correspondientes.\n\nSin perjuicio del artículo 10, apartado 2, antes de 2015 deberá efectuarse una recogida separada para, al menos, las materias siguientes: papel, metales, plástico y vidrio.\n\n2. Con objeto de cumplir los objetivos de la presente Directiva y de avanzar hacia una sociedad europea del reciclado con un alto nivel de eficiencia de los recursos, los Estados miembros deberán adoptar las medidas necesarias para garantizar que se logran los siguientes objetivos:\n\n3. La Comisión establecerá normas detalladas sobre la aplicación y los métodos de cálculo para verificar el cumplimiento de los objetivos establecidos en el apartado 2 del presente artículo teniendo en cuenta el Reglamento (CE) n o 2150/2002 del Parlamento Europeo y del Consejo, de 25 de noviembre de 2002, relativo a las estadísticas sobre residuos. Estas normas podrán incluir períodos de transición para los Estados miembros que, en 2008, reciclen menos del 5 % de cada una de las categorías de residuos a que se refiere el apartado 2. Estas medidas, destinadas a modificar elementos no esenciales de la presente Directiva, se adoptarán con arreglo al procedimiento de reglamentación con control previsto en el artículo 39, apartado 2, de la presente Directiva.\n",
+    "must_mask": [
+      {
+        "value": "36957454L",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "2150/2002",
+      "artículo 39, apartado 2"
+    ]
+  },
+  {
+    "id": "es-el-0024-procurement-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "es-el-0024-procurement",
+    "text": "1. Las especificaciones técnicas definidas en el anexo VII, punto 1, figurarán en los pliegos de la contratación. Las especificaciones técnicas definirán las características exigidas de una obra, un servicio o un suministro.\n\nEsas características podrán referirse también al proceso o método específico de producción o prestación de las obras, los suministros o los servicios requeridos, o a un proceso específico de otra fase de su ciclo de vida, incluso cuando dichos factores no formen parte de la sustancia material de las obras, suministros o servicios, siempre que estén vinculados al objeto del contrato y guarden proporción con el valor y los objetivos de este.\n\nEl número de identidad de extranjero del solicitante es X8535830R. Las especificaciones técnicas podrán también especificar si va a exigirse la transferencia de derechos de propiedad intelectual o industrial.\n\nPara toda contratación que esté destinada a ser utilizada por personas físicas, ya sea el público en general o el personal del poder adjudicador, las especificaciones técnicas se redactarán, salvo en casos debidamente justificados, de manera que se tengan en cuenta los criterios de accesibilidad para las personas con discapacidad o el diseño para todos los usuarios.\n\nCuando se adopten requisitos imperativos de accesibilidad mediante un acto jurídico de la Unión, las especificaciones técnicas deberán definirse, en lo que respecta a los criterios de accesibilidad para las personas con discapacidad o el diseño para todos los usuarios, por referencia a ellas.\n\n2. Las especificaciones técnicas proporcionarán a los operadores económicos acceso en condiciones de igualdad al procedimiento de contratación y no tendrán por efecto la creación de obstáculos injustificados a la apertura de la contratación pública a la competencia.\n",
+    "must_mask": [
+      {
+        "value": "X8535830R",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "anexo VII",
+      "acto jurídico de la Unión"
+    ]
+  },
+  {
+    "id": "es-eb-ar24-balance-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "es-eb-ar24-balance",
+    "text": "El balance del Eurosistema se redujo gradualmente a medida que las operaciones TLTRO III fueron venciendo y los valores mantenidos en las carteras de política monetaria disminuyeron\n\nEn 2024 continuó el proceso de normalización progresiva del balance del Eurosistema iniciado en 2022 (DNI 31183780N). Al cierre del año, el balance se había reducido hasta situarse en 6,4 billones de euros (desde 6,9 billones de euros al final de 2023). Esta reducción se debió a los reembolsos anticipados y al vencimiento de las operaciones TLTRO III, así como a la disminución de la cartera del APP y, en cierta medida, también de la del PEPP. Los valores de este último programa pasaron a reinvertirse parcialmente a partir de julio.\n\nAl cierre de 2024, las partidas del activo relacionadas con la política monetaria del balance del Eurosistema ascendían a 4,3 billones de euros, 0,8 billones de euros menos que al final de 2023. Los préstamos concedidos a entidades de crédito de la zona del euro constituían el 1 % de los activos totales (frente al 6 % al final de 2023), y las tenencias de valores adquiridos con fines de política monetaria representaban el 67 % de los activos totales (frente al 68 % al cierre de 2023). El resto de los activos financieros del balance –principalmente activos en moneda extranjera, oro y carteras denominadas en euros no relacionadas con la política monetaria– registraron un aumento de 0,3 billones de euros.\n",
+    "must_mask": [
+      {
+        "value": "31183780N",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "TLTRO III",
+      "Eurosistema"
+    ]
+  },
+  {
+    "id": "es-eb-ar24-target-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "es-eb-ar24-target",
+    "text": "En 2024, el BCE logró avances sustanciales en todos los servicios TARGET, y realizó esfuerzos concertados para reforzar la capacidad de recuperación de T2 y T2S en caso de producirse un incidente grave (incluido un ciberataque) y para seguir mejorando las funcionalidades de los servicios TARGET con el fin de atender las necesidades cambiantes de los mercados. Para preservar el procesamiento directo (straight-through processing) en el contexto de los pagos transfronterizos, los mensajes en T2 se actualizaron en línea con los desarrollos más recientes en los estándares del mercado aplicados a los sistemas de grandes pagos (es decir, HVPS Plus). En cuanto a T2S, entre los logros destacables se incluyen la implantación plena de nuevos servicios de información, la ampliación de las funcionalidades para la liquidación de operaciones con depositarios centrales de valores que no se han incorporado a la plataforma T2S, nuevos avances en los servicios de gestión de efectivo para las entidades de crédito participantes y la continuación de los trabajos para la futura integración de nuevos mercados de inversores finales. Asimismo, los órganos de gobierno de T2S realizaron una contribución fundamental a iniciativas regulatorias y de políticas de importancia crucial, como el futuro acortamiento (a T+1) del ciclo de liquidación de valores en la UE y la revisión del régimen de disciplina en la liquidación, haciendo hincapié en la mejora del mecanismo de penalización para aumentar la eficiencia. Los progresos realizados en relación con la evolución de todos los servicios TARGET han generado ganancias de eficiencia significativas para el mercado (NIE Y4811865A).\n",
+    "must_mask": [
+      {
+        "value": "Y4811865A",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "servicios TARGET",
+      "HVPS Plus"
+    ]
+  },
+  {
+    "id": "es-eb-ar24-borrowing-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "es-eb-ar24-borrowing",
+    "text": "El BCE es responsable de la administración de las cuentas y del procesamiento de los pagos relacionados con las operaciones de endeudamiento y de préstamo realizadas por la UE con arreglo al mecanismo de ayuda financiera a medio plazo (MTFA, por sus siglas en inglés) para las balanzas de pagos de los Estados miembros, al Mecanismo Europeo de Estabilización Financiera (MEEF), al instrumento europeo de apoyo temporal para atenuar los riesgos de desempleo en una emergencia (SURE, por sus siglas en inglés), al programa Next Generation EU (NGEU), al Mecanismo para Ucrania, incluida la financiación puente extraordinaria y la asistencia macrofinanciera a corto plazo a la República Árabe de Egipto. El BCE también es responsable de la gestión de determinados pagos generados por las operaciones efectuadas en el contexto de la Facilidad Europea de Estabilización Financiera (FEEF) y del Mecanismo Europeo de Estabilidad (MEDE), así como del procesamiento de todos los pagos relacionados con el acuerdo de préstamo suscrito con Grecia. El DNI del solicitante es 67456967Z. En 2024, el BCE prestó servicios de agente de pagos a la Comisión Europea.\n\nA 31 de diciembre de 2024, el importe total del saldo nominal vivo ascendía a 0,2 mm de euros bajo la facilidad MTFA, a 42 mm de euros del MEEF, a 98,35 mm de euros del SURE y a 31,605 mm de euros del acuerdo de préstamo suscrito con Grecia. Por último, en 2024 el BCE tramitó desembolsos y pagos de intereses de préstamos y transferencias del NGEU a y desde diversos Estados miembros, incluidos los préstamos a Ucrania.\n",
+    "must_mask": [
+      {
+        "value": "67456967Z",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Comisión Europea",
+      "31 de diciembre de 2024"
+    ]
+  },
+  {
+    "id": "es-eb-ar24-cash-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "es-eb-ar24-cash",
+    "text": "Al final de 2024 circulaban 30.500 millones de billetes por un importe total de unos 1.600 mm de euros (gráfico 6.1). El número de billetes en euros en circulación y su importe se incrementaron un 2,4 % y un 1,3 %, respectivamente, durante el año.\n\nLas entidades de crédito devolvieron 25.400 millones de billetes a los bancos centrales nacionales (BCN) de la zona del euro en 2024, lo que supone un ligero descenso ―de 900 millones de billetes― con respecto a 2023. En términos de importe, los billetes depositados en los BCN ascendieron a un total de 856.000 millones de euros en 2024, frente a 890.000 millones en 2023. Esta disminución se debió al mayor volumen de billetes que las entidades volvieron a poner en circulación entre sus clientes en lugar de devolverlos a los BCN (NIE X9324670X). Este cambio en el tratamiento de los billetes por parte de las entidades refleja sus esfuerzos por mejorar la eficiencia, lo que han logrado, por ejemplo, instalando más cajeros automáticos con la funcionalidad de depósito y de recirculación de billetes.\n\nEn 2024, las monedas en euros en circulación (emisión neta) en la zona del euro registraron un aumento similar al de los dos años anteriores y se situó en 3.000 millones de monedas con un valor de 953 millones de euros.\n\nEl BCE trata de garantizar el acceso adecuado al efectivo y su aceptación en la zona del euro, y acoge positivamente la regulación sobre el curso legal del euro\n",
+    "must_mask": [
+      {
+        "value": "X9324670X",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "bancos centrales nacionales",
+      "cajeros automáticos"
+    ]
+  },
+  {
+    "id": "es-wp-hormigon-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-hormigon",
+    "text": "El hormigón(de hormigo, ‘gachas de harina’), concreto (del inglés concrete, y este del latín concrētus, ‘agregado’, ‘condensado’), garujo, nuégado, mazacote, derretido, o masacote, es un material compuesto empleado en construcción, formado esencialmente por un aglomerante al que se añade áridos (agregado), agua y aditivos específicos.\n\nEl aglomerante es, en la mayoría de las ocasiones, cemento (generalmente cemento Portland) mezclado con una proporción adecuada de agua para que se produzca una reacción de hidratación. El DNI del solicitante es 88256091P. Las partículas de agregados, dependiendo fundamentalmente de su diámetro medio, son los áridos (que se clasifican en grava, gravilla y arena). La mezcla de cemento y agua se denomina pasta de cemento, si a esta se añade arena se cataloga como mortero y si al mortero se le añade grava, se denomina concreto. Existen hormigones que se producen con otros conglomerantes que no son cemento, como el hormigón asfáltico que utiliza betún para realizar la mezcla. En el caso del elaborado con cemento Portland se le suele comúnmente llamar mezcla o cemento (en países como Venezuela o Chile).\n",
+    "must_mask": [
+      {
+        "value": "88256091P",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "cemento Portland",
+      "nuégado"
+    ]
+  },
+  {
+    "id": "es-wp-asfalto-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-asfalto",
+    "text": "El asfalto, también denominado betún o chapopote (en algunas partes de México), es un material bituminoso de consistencia viscosa, pegajosa y de color negro o marrón oscuro. En las mezclas asfálticas se usa como aglomerante para la construcción de carreteras, autovías y autopistas. Está presente en el petróleo crudo y compuesto casi por completo de betún. La brea es una sustancia que constituye la fracción más pesada del petróleo crudo. Se encuentra en ocasiones en grandes depósitos naturales, como en el lago Asfaltites o el mar Muerto, lo que se llamó betún de Judea. Su nombre recuerda el lago Asfaltites (el mar Muerto), en la cuenca del río Jordán.\n\nEl asfalto se encuentra en depósitos naturales, pero casi todo el que se utiliza hoy es artificial, derivado del petróleo. Para pavimentar se emplean asfaltos de destilación, hechos con los hidrocarburos no volátiles que permanecen después de refinar el petróleo para obtener gasolina y otros productos.\n\nEn la fabricación de materiales para tejados y productos similares se utilizan los asfaltos soplados, que se obtienen de los residuos del petróleo a temperaturas entre 204 y 316 °C. Una pequeña cantidad de asfalto se craquea a temperaturas alrededor de los 500 °C para fabricar materiales aislantes.\n\nEl asfalto es de naturaleza coloidal. Los componentes de más alto peso molecular constituyen la fase dispersa (micelas) y los componentes de bajo peso molecular constituyen la fase continua (intermicelar). Los asfaltenos constituyen la fracción del asfalto que permanece disuelta cuando se precipitan los asfaltenos en la solución disolvente. En el asfalto no diluido, los maltenos forman un aceite viscoso, castaño oscuro. El número de identidad de extranjero del solicitante es Y7103375T.\n",
+    "must_mask": [
+      {
+        "value": "Y7103375T",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "betún de Judea",
+      "asfaltenos"
+    ]
+  },
+  {
+    "id": "es-wp-bomba-de-calor-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-bomba-de-calor",
+    "text": "La bomba de calor es una máquina térmica que toma calor de un espacio frío y lo transfiere a otro más caliente gracias a un trabajo mecánico aportado desde el exterior; es decir, hace lo mismo exactamente que la máquina frigorífica; lo único que cambia es el objetivo. En la máquina frigorífica el objetivo es enfriar y mantener frío el espacio frío, mientras que en la bomba de calor sería lo inverso, es decir, mantener caliente el espacio caliente.\n\nEl DNI del solicitante es 21999525W. Su principal característica es su elevado rendimiento energético, cuantificado mediante el Coeficiente de Rendimiento (COP), debido a que la energía térmica aportada es superior a la energía eléctrica demandada por el compresor. Este balance se logra mediante el aprovechamiento del calor natural presente en medios como el aire, el subsuelo o las aguas subterráneas, lo que sitúa a esta tecnología como una alternativa de menor impacto de carbono frente calderas y calentadores de gas.\n\nAl igual que en la máquina frigorífica, en la bomba de calor el ciclo más empleado es el Ciclo Rankine, ver también compresión de vapor, que funciona de idéntica forma que en aquella, utilizando los mismos refrigerantes, los mismos elementos y las mismas etapas de funcionamiento. Teniendo en cuenta que la misma máquina puede enfriar y calentar, parece coherente utilizar un solo aparato para ambas funciones.\n\nPara conseguir esto sin necesidad de desmontar la máquina en cada cambio de estación, aparecen las máquinas reversibles, que aunque frecuentemente se las conoce como bombas de calor reversibles, pueden perfectamente llamarse máquinas frigoríficas reversibles. Es también un error muy extendido pensar que una bomba de calor es un aparato que produce tanto frío como calor, aunque por todo lo dicho está claro que esto no es así.\n",
+    "must_mask": [
+      {
+        "value": "21999525W",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Ciclo Rankine",
+      "COP"
+    ]
+  },
+  {
+    "id": "es-wp-fibra-optica-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-fibra-optica",
+    "text": "La fibra óptica es una fibra flexible, transparente, hecha al embutir o extrudir vidrio (sílice) en un diámetro ligeramente más grueso que el de un cabello humano promedio. Son utilizadas comúnmente como un medio para transmitir luz entre dos puntas de una fibra y tienen un amplio uso en las comunicaciones por fibra óptica, donde permiten la transmisión en distancias y en un ancho de banda (velocidad de datos) más grandes que los cables eléctricos. Se utilizan fibras en vez de alambres de metal porque las señales viajan a través de ellas con menos pérdida; además, las fibras son inmunes a la interferencia electromagnética, un problema del cual los cables de metal sufren ampliamente. Las fibras también se usan para la iluminación e imaginería, y normalmente se envuelven en paquetes para introducir o sacar luz de espacios reducidos, como en el caso de un fibroscopio. Algunas fibras diseñadas de manera especial se usan también para una amplia variedad de aplicaciones diversas, algunas de ellas son los sensores de fibra óptica y los láseres de fibra.\n\nTípicamente, las fibras ópticas tienen un núcleo rodeado de un material de revestimiento transparente con un índice de refracción más bajo. La luz se mantiene en el núcleo debido al fenómeno de reflexión interna total que causa que la fibra actúe como una guía de ondas. Las fibras que permiten muchos caminos de propagación o modos transversales se llaman fibras multimodo (MM), mientras que aquellas que permiten solo un modo se llaman fibras monomodo (SM) (NIE Z0105993Z). Las fibras multimodo tienen generalmente un diámetro de núcleo más grande y se usan para enlaces de comunicación de distancia corta y para aplicaciones donde se requiere transmitir alta potencia. Las fibras monomodo se utilizan para enlaces de comunicación más grandes que 1000 metros.\n",
+    "must_mask": [
+      {
+        "value": "Z0105993Z",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "fibroscopio",
+      "fibras monomodo"
+    ]
+  },
+  {
+    "id": "es-wp-esclusa-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-esclusa",
+    "text": "Una esclusa es una obra hidráulica utilizada para subir y bajar barcos y otras embarcaciones entre extensiones de agua de diferentes niveles en vías fluviales y canales. Permite salvar los desniveles existentes en canales navegables, facilitando el paso de los barcos, simplemente, haciendo aumentar o disminuir el nivel del agua dentro de la esclusa, por el principio de los vasos comunicantes. Sus compartimentos pueden formar parte de las estructuras complementarias de una presa, cuando esta se construye sobre ríos navegables.\n\nLa característica distintiva de una esclusa es una cámara fija en la que se puede variar el nivel del agua; mientras que en una esclusa de cajón, en un elevador de barcos o en un plano inclinado de un canal, es la propia cámara (normalmente entonces llamada cajón) la que sube y baja.\n\nLas esclusas se emplean para hacer que un río sea más fácilmente navegable o para permitir que un canal atraviese terrenos que no están nivelados. Los canales más modernos se sirven de esclusas grandes para permitir tomar una ruta más directa. El DNI del solicitante es 63138560H.\n",
+    "must_mask": [
+      {
+        "value": "63138560H",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "vasos comunicantes",
+      "esclusa de cajón"
+    ]
+  },
+  {
+    "id": "es-wp-mortero-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-mortero",
+    "text": "El mortero es una mezcla de aglutinantes inorgánicos, agregados finos y agua, y posibles aditivos que sirven para aparejar elementos de construcción tales como ladrillos, piedras, bloques de hormigón, etc. Además, se usa para rellenar los espacios que quedan entre los bloques y para el revestimiento de paredes. Los conglomerantes más comunes en la actualidad son los de cemento aunque históricamente han sido la cal, la tierra y el yeso los más utilizados. La palabra «mortero» proviene del francés antiguo mortier, 'mortero de construcción, yeso; tazón para mezclar'. (13c.).\n\nGeneralmente, se utilizan para obras de albañilería, como material de agarre, revestimiento de paredes, etc. El mortero de cemento se vuelve duro cuando cura, lo que resulta en una estructura rígida de árido; sin embargo, el mortero funciona como un componente más débil que los bloques de construcción y sirve como elemento de sacrificio en la mampostería, porque el mortero es más fácil y menos costoso de reparar que los bloques de construcción. Los albañiles suelen hacer morteros usando una mezcla de arena, un aglutinante y agua. El aglutinante más común desde principios del siglo XX es el cemento Portland, pero el aglutinante antiguo mortero de cal todavía se usa en algunas construcciones nuevas especializadas (NIE Z0655192L). La cal, el mortero de cal y el yeso en forma de yeso de París se utilizan particularmente en la reparación y rejuntado de edificios y estructuras históricas, de modo que los materiales de reparación serán similares en rendimiento y apariencia a los materiales originales. Existen varios tipos de morteros de cemento y aditivos.\n",
+    "must_mask": [
+      {
+        "value": "Z0655192L",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "mortero de cal",
+      "yeso de París"
+    ]
+  },
+  {
+    "id": "es-wp-tuberia-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-tuberia",
+    "text": "Una tubería o cañería consta de un conducto cuyas funciones son el transporte y la distribución de agua u otro tipo de fluidos –ya sean líquidos o gaseosos– para su aprovechamiento. Está formada por tubos o caños que se suelen elaborar con materiales muy diversos (DNI 73683235K). También puede servir para transportar materiales que, si bien no son propiamente un fluido, se adecuan a este sistema, tales como: hormigón, cemento, cereales, documentos encapsulados, etcétera.\n\nEn el lenguaje común, las palabras tubo y tubería' suelen ser intercambiables, pero en la industria y la ingeniería, los términos tienen una definición única. Dependiendo de la norma aplicable a su fabricación, los tubos se especifican generalmente por un diámetro nominal con un diámetro exterior (DE) constante y un esquema que define el espesor. Las tuberías suelen especificarse por el diámetro exterior y el grosor de la pared, pero pueden especificarse por dos valores cualesquiera de diámetro exterior, diámetro interior (DI) y grosor de la pared. Por lo general, los tubos se fabrican conforme a una de las diversas normas industriales nacionales e internacionales. Aunque existen normas similares para tubos de aplicaciones industriales específicas, los tubos suelen fabricarse con tamaños personalizados y una gama más amplia de diámetros y tolerancias. Existen muchas normas industriales y gubernamentales para la producción de tubos y tuberías. El término \"tubo\" también se aplica comúnmente a secciones no cilíndricas, es decir, tubos cuadrados o rectangulares. En general, \"tubo\" es el término más común en la mayor parte del mundo, mientras que \"tubería\" se utiliza más en Estados Unidos.\n\nDebe distinguirse entre el término tubería, que en general designa las conducciones de sección circular y los conductos que pueden tener otras secciones y que no son propiamente tuberías.\n",
+    "must_mask": [
+      {
+        "value": "73683235K",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "diámetro exterior",
+      "Estados Unidos"
+    ]
+  },
+  {
+    "id": "es-wb-placa-base-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "es-wb-placa-base",
+    "text": "La placa base, también conocida como placa madre o tarjeta madre (del inglés motherboard o mainboard) es una tarjeta de circuito impreso a la que se conectan los componentes que constituyen la computadora.\n\nEl número de identidad de extranjero del solicitante es Z8562921A. Es una parte fundamental a la hora de armar un PC de escritorio o servidor. Tiene instalados una serie de circuitos integrados, entre los que se encuentra el chipset, que sirve como centro de conexión entre el microprocesador, la RAM, las ranuras de expansión y otros dispositivos.\n\nLa placa base, además, incluye un firmware llamado BIOS, que le permite realizar las funcionalidades básicas, como pruebas de los dispositivos, vídeo y manejo del teclado, reconocimiento de dispositivos y carga del sistema operativo.\n\nUno o varios conectores de alimentación ATX: por estos conectores, una alimentación eléctrica proporciona a la placa base los diferentes voltajes e intensidades necesarios para su funcionamiento.\n\nEl chipset: una serie de circuitos electrónicos, que gestionan las transferencias de datos entre los diferentes componentes de la computadora (procesador, memoria, tarjeta gráfica, unidad de almacenamiento secundario, etc.).\n\nLa CMOS: una pequeña memoria que preserva cierta información importante (como la configuración del equipo, fecha y hora), mientras el equipo no está alimentado por electricidad.\n\nLos conectores PATA o SATA, para conectar dispositivos de almacenamiento, tales como unidad de disco duro|discos duros, unidades de estado sólido y Unidad de disco óptico.\n",
+    "must_mask": [
+      {
+        "value": "Z8562921A",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "chipset",
+      "CMOS"
+    ]
+  },
+  {
+    "id": "es-wb-memoria-ram-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "es-wb-memoria-ram",
+    "text": "La RAM o memoria de acceso aleatorio (en inglés: random-access memory) o también llamada RWM (Tema 1) se utiliza como memoria de trabajo para el sistema operativo, los programas y la mayoría del software. Es allí donde se cargan todas las instrucciones que ejecutan el procesador y otras unidades de cómputo. Se denominan «de acceso aleatorio» porque se puede leer o escribir en una posición de memoria con un tiempo de espera igual para cualquier posición, no siendo necesario seguir un orden para acceder a la información de la manera más rápida posible. Durante el encendido del computador, la rutina POST verifica que los módulos de memoria RAM estén conectados de manera correcta. En el caso que no existan o no se detecten los módulos, la mayoría de tarjetas madres emiten una serie de pitidos que indican la ausencia de memoria principal. Terminado ese proceso, la memoria BIOS puede realizar un test básico sobre la memoria RAM indicando fallos mayores en la misma.\n\nLa expresión memoria RAM se utiliza frecuentemente para describir a los módulos de memoria utilizados en los computadores personales y servidores. En el sentido estricto, esta memoria es solo una variedad de la memoria de acceso aleatorio: las ROM, memorias Flash, caché (SRAM), los registros en procesadores y otras unidades de procesamiento también poseen la cualidad de presentar retardos de acceso iguales para cualquier posición. El DNI del solicitante es 79539151E. Los módulos de RAM son la presentación comercial de este tipo de memoria, que se compone de circuitos integrados soldados sobre un circuito impreso independiente, en otros dispositivos como las consolas de videojuegos, la RAM va soldada directamente sobre la placa principal.\n",
+    "must_mask": [
+      {
+        "value": "79539151E",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "rutina POST",
+      "SRAM"
+    ]
+  },
+  {
+    "id": "es-wb-almacenamiento-optico-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "es-wb-almacenamiento-optico",
+    "text": "El almacenamiento óptico se trata de aquellos dispositivos que son capaces de guardar datos por medio de un rayo láser en su superficie plástica, ya que se almacenan por medio de ranuras microscópicas quemadas (NIE Z1588490T). La información queda grabada en la superficie de manera física, por lo que solo el calor (puede producir deformaciones en la superficie del disco) y las ralladuras pueden producir la pérdida de los datos, en cambio es inmune a los campos magnéticos y la humedad.\n\nLos soportes ópticos siguen el sistema de archivos UDF (universal disk format o formato de disco universal) y Joliet. Se adoptó este sistema de archivos para reemplazar al estándar ISO 9660, y su principal uso es la grabación o regrabación de discos.\n\nLa lectura de un soporte óptico consiste en la conversión de los lands y pits a una información digital (ceros y unos). El elemento fundamental para la lectura de un soporte óptico es un láser de baja potencia, que emite radiación y que se enfoca hacia la parte inferior del CD. La luz atraviesa la capa de policarbonato e incide sobre la capa de aluminio. Si el haz incide sobre un hueco (pit), el porcentaje de luz reflejada es muy pequeño. Por el contrario, si el haz incide sobre una zona plana (land), un gran porcentaje de luz es reflejada. La radiación luminosa reflejada se dirige hacia un fotodetector que, en función de la intensidad de la luz recibida, puede detectar fácilmente si se ha enfocado un land o un pit.\n\nUn soporte óptico no contiene pistas concéntricas, como ocurría en los discos magnéticos. En cambio, el soporte óptico presenta una sola pista, que se dispone en forma de espiral, cubriendo toda el área de datos. La espiral comienza en la parte interior del disco, justo después del área interior. Esto se hace así para permitir recortar el radio del soporte óptico y poder obtener versiones más pequeñas.\n",
+    "must_mask": [
+      {
+        "value": "Z1588490T",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "ISO 9660",
+      "policarbonato"
+    ]
+  },
+  {
+    "id": "es-wv-viajar-solo-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "es-wv-viajar-solo",
+    "text": "Si bien viajar con amigos o en grupos organizados es bastante común, muchas personas viajan solas por elección o por necesidad. Viajar solo es una experiencia única y puede ser una forma muy gratificante de viajar, a pesar de algunos inconvenientes.\n\nTu tiempo y presupuesto depende de usted cuánto tiempo dedicar a algún lugar, cuáles serán sus modos diarios de viaje, etc. No es necesario que tenga en cuenta las preferencias y demandas de un compañero de viaje.\n\nEs más fácil hacerse amigo de los lugareños. Se pueden encontrar y disfrutar muchas oportunidades excelentes para interactuar con los lugareños a nivel personal sin un amigo u otro compañero.\n\nPuede cambiar de plan más fácilmente, ya que no tiene que ejecutar sus ideas espontáneas con todos los demás miembros de su grupo. Sin embargo, tenga en cuenta que la mayoría de los boletos de avión y tren tienen un reembolso limitado y que algunas reservas de hotel son difíciles de cancelar (o conservar todo o parte de su dinero prepago)\n\nLa seguridad personal puede ser una preocupación, ya que no hay nadie que te cuide las espaldas ni con quien compartir la conducción en caso de que te canses.\n\nLos arreglos pueden ser más costosos por persona, ya que no hay nadie con quien compartir los costos. El DNI del solicitante es 60933360N. Aunque los boletos de transporte tienen un precio individual, las habitaciones de hotel generalmente están diseñadas y tienen un precio para dos personas (con una cama doble o dos camas individuales) y, como tal, cobran el mismo precio a un viajero individual que ocupe la habitación. El mismo principio se aplica al alquiler de un automóvil si así lo desea. Por lo tanto, es posible que deba presupuestar un poco más que si viaja en grupo. Por otro lado, esta desventaja se puede mitigar limitando las visitas a los restaurantes, optando en cambio por alternativas menos costosas.\n",
+    "must_mask": [
+      {
+        "value": "60933360N",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "compañero de viaje",
+      "cama doble"
+    ]
+  },
+  {
+    "id": "es-wv-dinero-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "es-wv-dinero",
+    "text": "Hay varias formas de obtener y cambiar dinero mientras se viaja. Siempre se está sopesando el gasto, el riesgo y la comodidad. Desgraciadamente, la delincuencia organizada y otros delincuentes han desarrollado numerosas formas de apoderarse de su dinero. Las tarjetas de crédito tienen límites legales sobre la cantidad de la que eres responsable si se utilizan ilegalmente. Las tarjetas de débito y de cajero automático tienen otros riesgos y ventajas. En este artículo se explica cómo utilizarlas, sus riesgos y cómo obtener divisas o dinero en efectivo. El número de identidad de extranjero del solicitante es Z9255506N. Como se explica más adelante, tener muy pocos fondos para su viaje puede ser motivo de deportación, y tener demasiado dinero en efectivo puede ser confiscado, si no se declara.\n\nLa información sobre el uso de dinero se aborda en la nota de viaje relacionada a las compras y en la sección Comprar de las guías de viajes. Este artículo contiene información general sobre cómo obtener dinero, en sus diversas formas, para utilizarlo en muchos destinos, a menudo con monedas distintas de la de origen.\n\nEl mercado de divisas, similar al de valores, no presenta grandes variaciones diarias en los tipos de cambio. Antes y durante tu viaje, es importante conocer los valores relativos de tu moneda y las monedas locales. Puedes consultar calculadoras de tipos de cambio en medios de comunicación, bancos, sitios financieros, buscadores y aplicaciones; estas muestran el tipo interbancario, pero el tipo real para consumo minorista suele ser más alto por las comisiones de los puestos de cambio y emisores de tarjetas.\n",
+    "must_mask": [
+      {
+        "value": "Z9255506N",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "mercado de divisas",
+      "tipo interbancario"
+    ]
+  },
+  {
+    "id": "es-wv-transbordador-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "es-wv-transbordador",
+    "text": "Los transbordadores son barcos de varios tamaños que transportan pasajeros y, en algunos casos, vehículos, entre puertos según un horario. Por lo general, son barcos a motor, aunque algunas rutas patrimoniales pueden ser recorridas por barcos vapor o incluso veleros. Mientras que algunos transbordadores son embarcaciones de cubierta abierta que cruzan un estrecho estrecho para los desplazamientos diarios, otros tienen cabinas y otras comodidades, similares a cruceros o transatlánticos, y pueden ser atracciones turísticas por derecho propio (DNI 75076962V).\n\nLa confiabilidad es una consideración: los transbordadores pueden cancelarse o retrasarse debido al mal tiempo, a veces durante semanas en invierno, o pueden llegar inexplicablemente tarde como cualquier otra forma de transporte. por lo cual algunas consideraciones son:\n\nNo planee una conexión estrecha entre un ferry y algo crucial como un vuelo de larga distancia. A veces, los horarios dejan pocas opciones: el autobús o el tren deben partir 30 minutos después de que atraque el ferry y es posible que no esperen. En general, cuanto más rápido sea el transbordador, más propenso será a las interrupciones, ya que será un hidroplano resbaladizo, no una embarcación convencional seria.\n\nCon mal tiempo, el ferry y el vuelo se cancelarán aproximadamente al mismo tiempo. Pero más tarde, el avión tendrá más flexibilidad para lanzarse durante una pausa, mientras que una vez que el océano esta en tormenta el ferry no lo hará.\n\nLas instalaciones a bordo pueden diferir mucho; Si bien tendrá suerte de encontrar un baño en uno pequeño, uno más grande puede tener un centro comercial completo a bordo. Los transbordadores internacionales pueden tener compras libres de impuestos.\n",
+    "must_mask": [
+      {
+        "value": "75076962V",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "hidroplano",
+      "libres de impuestos"
+    ]
+  },
+  {
+    "id": "en-eb-ar24-target-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "en-eb-ar24-target",
+    "text": "TARGET Services consist of three settlement services: T2, a real-time gross settlement system for euro payment transactions supporting the Eurosystem’s monetary policy operations, bank-to-bank transfers and commercial payments; TARGET2-Securities (T2S), a single platform for securities settlement in Europe; and TARGET Instant Payment Settlement (TIPS), which settles instant payments in central bank money.\n\nThe ECB made substantial advancements in the evolution of all TARGET Services in 2024, with concerted efforts directed towards strengthening the ability of T2 and T2S to recover in the event of a major incident (including a cyberattack) and further refining TARGET Services’ functionalities to meet evolving market needs. In order to maintain straight-through processing in a cross-border payments context, T2 messages were upgraded in line with the most recent developments in market standards for high-value payment systems (i.e. HVPS Plus). Notable achievements for T2S include the full deployment of new reporting services, the expansion of functionalities for settlement of transactions with central securities depositories external to the T2S platform, further development of the cash management services for participating banks, and a continuation of work to prepare for the prospective integration of new end-investor markets. Furthermore, the T2S governance bodies played a key role in critical policy and regulatory initiatives, such as the future shortening of the securities settlement cycle in the EU (to T+1) and the review of the settlement discipline regime, with an emphasis on refining the penalty mechanism for improved efficiency. The applicant's Spanish foreigner identity number is Z2430014T. The advancements in the evolution of all TARGET Services have brought significant efficiency gains to the market.\n",
+    "must_mask": [
+      {
+        "value": "Z2430014T",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "TARGET Services",
+      "TARGET Instant Payment Settlement"
+    ]
+  },
+  {
+    "id": "en-wp-asphalt-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "en-wp-asphalt",
+    "text": "Asphalt concrete or asphaltic concrete (commonly called asphalt, blacktop, or pavement in North America, and tarmac, bitmac or bitumen macadam in the United Kingdom and Ireland) is a composite material commonly used to surface roads, parking lots, airports, and the core of embankment dams. Asphalt mixtures have been used in pavement construction since the nineteenth century. It consists of mineral aggregate bound together with bitumen (a substance also independently known as asphalt, pitch, or tar), laid in layers, and compacted.\n\nThe American English terms asphalt (or asphaltic) concrete, bituminous asphalt concrete, and bituminous mixture are typically used only in engineering and construction documents, which define concrete as any composite material composed of mineral aggregate adhered with a binder. The applicant's Spanish DNI is 52122137C. The abbreviation, AC, is sometimes used for asphalt concrete but can also denote asphalt content or asphalt cement, referring to the liquid asphalt portion of the composite material.\n\nNatural asphalt (Ancient Greek: ἄσφαλτος, romanized: ásphaltos) has been known of and used since antiquity, in Mesopotamia, Phoenicia, Egypt, Babylon, Greece, Carthage, and Rome, to waterproof temple baths, reservoirs, aqueducts, tunnels, and moats, as a masonry mortar, to cork vessels, and surface roads.\n",
+    "must_mask": [
+      {
+        "value": "52122137C",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Ancient Greek",
+      "bitumen macadam"
+    ]
+  },
+  {
+    "id": "en-wb-bike-cables-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "en-wb-bike-cables",
+    "text": "Both cable and cable housings are used for nearly all braking and gear shifting, and this installation method greatly simplifies the running of cables in the modern bicycle. This use of an inner steel wire in an outer housing is referred to as a Bowden cable, after its inventor. Although some bicycles manage with just a bare inner wire in those places where the cables run straight, all other parts of the cable, and in particular those that might bend while riding, need to be fitted with housings.\n\nIn this context the term cable is intended to mean the inner-wire, the steel wire that attaches brake levers to brakes, and shifters to derailleurs. The housing is the flexible outer-tubing that surrounds the cable and acts as a conduit for it (NIE Z4403616H). The terms cabling and cable run refer to the Bowden cable as a whole. Perhaps surprisingly, and despite looking just like a plastic tube, a housing is in fact steel-reinforced along its entire length.\n\nCable housings always have both of their ends fixed. Fixed in this sense means pressed loosely against the screw-end of a barrel adjuster, or fixed hard into a part of the frame called a cable-stop. Brake housings are also made to terminate hard against one of the two brake arms, with the inner cable continuing to the other brake arm. That is to say, brake gaps depend on the difference in length between the inner cable and its housing.\n\nIn the case of a run to a derailleur, the housing abuts with the derailleur's static part and the cable runs on to rotate the moving parts of the shifting gear. A similar argument to the one for brakes applies in that it is the difference between the effective housing length and the inner cable's length that sets the exact degree of operation, (rotation in this case).\n",
+    "must_mask": [
+      {
+        "value": "Z4403616H",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Bowden cable",
+      "barrel adjuster"
+    ]
+  },
+  {
+    "id": "es-el-0060-water-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "es-el-0060-water",
+    "text": "e) medidas de control de la captación de aguas dulces superficiales y subterráneas y de embalse de aguas dulces superficiales, con inclusión de un registro o registros de las captaciones de agua y un requisito de autorización previa para la captación y el embalse. Dichos controles se revisarán periódicamente y, cuando proceda, se actualizarán. Los Estados miembros podrán eximir de dichos controles las captaciones o embalses que no repercutan de manera significativa en el estado del agua;\n\nf) medidas de control, con inclusión de un requisito de autorización previa, de la recarga artificial o el aumento de masas de agua subterránea. El agua que se utilice podrá obtenerse de cualquier agua superficial o subterránea, siempre que el uso de la fuente no comprometa la consecución de los objetivos medioambientales establecidos para la fuente o la masa de agua recargada o aumentada. Dichos controles se revisarán periódicamente y, cuando proceda, se actualizarán;\n\ng) para los vertidos de fuente puntual que puedan causar contaminación, un requisito de reglamentación previa, como la prohibición de la entrada de contaminantes en el agua, o el requisito de autorización previa, o el de registro basado en normas generales de carácter vinculante, que establezca controles de la emisión de los contaminantes de que se trate, incluyendo controles con arreglo a lo dispuesto en los artículos 10 y 16 (DNI 38489042Z). Dichos controles se revisarán periódicamente y, cuando proceda, se actualizarán;\n",
+    "must_mask": [
+      {
+        "value": "38489042Z",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "medioambientales",
+      "periódicamente"
+    ]
+  },
+  {
+    "id": "es-el-1999-adaptation-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "es-el-1999-adaptation",
+    "text": "Toda modificación necesaria para la adaptación de los anexos de la presente Directiva al progreso científico y técnico y toda propuesta sobre la normalización de métodos de control, toma de muestras y análisis relacionados con los vertederos de residuos, la adoptará la Comisión asistida por el Comité a que se refiere el artículo 18 de la Directiva 75/442/CEE según el procedimiento descrito en el artículo 17 de la presente Directiva. Cualquier modificación de los anexos deberá ajustarse a los principios establecidos en la presente Directiva tal como se recogen en los anexos. El número de identidad de extranjero del solicitante es Y4200959T. A tal fin, por lo que se refiere al anexo II, el Comité deberá observar los elementos siguientes: teniendo en cuenta los principios generales y los procedimientos generales de prueba y de admisión establecidos en el anexo II, los criterios específicos y/o los métodos de prueba así como los valores límite asociados deberían fijarse para cada clase de vertedero, e incluso, si fuese necesario, para cada tipo específico de vertedero dentro de cada clase, incluido el almacenamiento subterráneo. Las propuestas sobre la normalización de métodos de control, toma de muestras y análisis en relación con los anexos de la presente Directiva las adoptará la Comisión asistida por el Comité dentro de los dos años siguientes a la entrada en vigor de la presente Directiva.\n\nLa Comisión, asistida por el Comité, adoptará disposiciones sobre la armonización y comunicación periódica de los datos estadísticos mencionados en los artículos 5, 7 y 11 de la presente Directiva en los dos años siguientes a la entrada en vigor de la misma, así como sobre la modificación de tales disposiciones en caso necesario.\n",
+    "must_mask": [
+      {
+        "value": "Y4200959T",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Directiva",
+      "Comisión"
+    ]
+  },
+  {
+    "id": "es-el-1999-landfill-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "es-el-1999-landfill",
+    "text": "c) a más tardar quince años después de la fecha a que se refiere el apartado 1 del artículo 18, los residuos municipales biodegradables desitnados a vertederos deberán haberse reducido hasta un 35 % de la cantidad total (en peso) de los residuos municipales biodegradables generados en 1995 o en el último año anterior a 1995 para el que se disponga de datos normalizados de Eurostat (DNI 82948954Y).\n\nDos años antes de la fecha a que se refiere la letra c), el Consejo volverá a estudiar el objetivo arriba mencionado, basándose en un informe de la Comisión en el que se exponga la experiencia práctica adquirida por los Estados miembros en pos de la consecución de los objetivos establecidos en las letras a) y b), acompañado, en su caso, de una propuesta destinada a confirmar o modificar dicho objetivo a fin de garantizar un nivel elevado de protección del medio ambiente.\n\nLos Estados miembros que, en 1995 o el último año anterior a 1995 para el que se disponga de datos normalizados de Eurostat, hayan enviado más del 80 % de los residuos municipales que hayan recogido a vertederos, podrán aplazar la consecución de uno de los objetivos indicados en las letras a), b) o c) por un período máximo de cuatro años. Los Estados miembros que se propongan acogerse a la presente disposición deberán informar con antelación a la Comisión de su decisión. La Comisión informará de esta decisión a los demás Estados miembros y al Parlamento Europeo.\n\nLa puesta en práctica de las disposiciones previstas en el párrafo precedente no deberá conducir en ningún caso a que el objetivo fijado en la letra c) se alcance en una fecha posterior a cuatro años después de la fecha establecida en la letra c).\n",
+    "must_mask": [
+      {
+        "value": "82948954Y",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Parlamento Europeo",
+      "Eurostat"
+    ]
+  },
+  {
+    "id": "es-wp-biogas-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-biogas",
+    "text": "Este modelo de biodigestor consiste en aprovechar el polietileno tubular (de color negro en este caso) empleado en su color natural transparente en capas solares, para disponer de una cámara de varios metros cúbicos cerrada herméticamente. Este hermetismo es esencial para que se produzcan las reacciones biológicas anaerobias.\n\nEl film de polietileno tubular se amarra por sus extremos a tuberías de conducción, de unos 150 mm de diámetro, con tiras elásticas recicladas de las cámaras de las ruedas de los autos. Con este sistema, calculando convenientemente la inclinación de dichas tuberías, se obtiene un depósito hermético. Al ser el polietileno tubular flexible, es necesario construir una ‘cuna’ que lo albergue, ya sea cavando una zanja o levantando dos paredes paralelas.\n\nUna de las tuberías servirá como entrada de materia prima (mezcla de estiércol con agua de 1:4). En el biodigestor se alcanza finalmente un equilibrio de nivel hidráulico, por el cual, según la cantidad de estiércol mezclado con agua que se introduzca, saldrá una determinada cantidad de fertilizante por la tubería del otro extremo (NIE Y4499376S).\n\nDebido a la ausencia de oxígeno en el interior de la cámara hermética, las bacterias anaerobias contenidas en el propio estiércol comienzan a digerirlo. Primeramente se produce una fase de hidrólisis y fermentación, posteriormente una acetogénesis y finalmente la metanogénesis por la cual se produce metano. El producto gaseoso llamado biogás realmente tiene otros gases en su composición, como son nitrógeno molecular (2-3%) y sulfhídrico (0,5-2%), siendo el metano el más abundante con un 60-80%.\n",
+    "must_mask": [
+      {
+        "value": "Y4499376S",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "convenientemente",
+      "herméticamente"
+    ]
+  },
+  {
+    "id": "es-wp-chimenea-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-chimenea",
+    "text": "En España, donde primero aparecieron fue en el Reino de Castilla en el siglo XIII, y su uso se generalizó en el siglo XIV. En aquella época surgió un estilo de chimenea. Tanto en España como en Italia o Francia la chimenea dominó el paisaje urbano de las ciudades a partir del Renacimiento. Por entonces, la chimenea ya no era de uso exclusivo de la nobleza y la burguesía, sino que formaba parte de usos y costumbres del pueblo.\n\nLas campanas de humo sirvieron como método para recolectar el humo en una chimenea. Por lo general, eran mucho más anchas que las chimeneas modernas y comenzaban relativamente altas por encima del fuego, lo que significaba que podía escapar más calor a la habitación. Debido a que el aire que subía por el pozo era más frío, estos podrían estar hechos de materiales menos ignífugos. Otro paso en el desarrollo de las chimeneas fue el uso de hornos empotrados que permitían hornear en casa. Las chimeneas industriales se hicieron comunes a finales del siglo XVIII.\n\nLas chimeneas de las viviendas ordinarias se construyeron primero con madera y yeso o barro. Desde entonces, las chimeneas se han construido tradicionalmente con ladrillo o piedra, tanto en edificios pequeños como grandes. Las primeras chimeneas eran de construcción sencilla con ladrillos. Las chimeneas posteriores se construyeron colocando los ladrillos alrededor de revestimientos de azulejos (DNI 16523014K). Para controlar las corrientes descendentes, a veces se colocan en la parte superior de las chimeneas tapas de ventilación (a menudo denominadas sombreretes de chimenea) con una variedad de diseños.\n",
+    "must_mask": [
+      {
+        "value": "16523014K",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Renacimiento",
+      "Castilla"
+    ]
+  },
+  {
+    "id": "es-wp-contenedor-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-contenedor",
+    "text": "Un contenedor es un recipiente de carga para el transporte marítimo o fluvial, transporte terrestre y transporte multimodal. Se trata de unidades estancas que protegen las mercancías de la climatología y que están fabricadas de acuerdo con la normativa ISO (International Organization for Standardization), en concreto, ISO-668; por ese motivo, también se conocen con el nombre de contenedores ISO.\n\nLos contenedores pueden utilizarse para transportar objetos voluminosos o pesados: motores, maquinaria, pequeños vehículos, etc., o mercancía paletizada. Menos frecuentes son los que transportan carga a granel. El número de identidad de extranjero del solicitante es X5290729Q. Las dimensiones del contenedor se encuentran normalizadas para facilitar su manipulación; es frecuente 6 metros de largo (20 pies).\n\nLos contenedores son fabricados principalmente de acero corten, pero también los hay de aluminio y algunos otros de madera contrachapada reforzados con fibra de vidrio. En la mayor parte de los casos, el suelo es de madera, aunque ya hay algunos de bambú. Interiormente llevan un recubrimiento especial anti-humedad, para evitar las humedades durante el viaje. Otra característica definitoria de los contenedores es la presencia, en cada una de sus esquinas, de alojamientos para los twistlocks, que les permiten ser enganchados por grúas especiales, así como su trincaje tanto en buques como en camiones. Además, los contenedores se precintan durante los trayectos.\n",
+    "must_mask": [
+      {
+        "value": "X5290729Q",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "International Organization",
+      "Standardization"
+    ]
+  },
+  {
+    "id": "es-wp-desalinizacion-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-desalinizacion",
+    "text": "La desalinización es un proceso mediante el cual se elimina la sal del agua de mar o salobre. Las plantas desalinizadoras, también conocidas como desaladoras (ver nota terminológica) o IDAM y EDAM (Instalación/Estación Desaladora de Agua Marina), son instalaciones industriales destinadas a la desalinización, generalmente del de mar o de lagos salados, para obtener agua potable.\n\nEl DNI del solicitante es 65439851K. El agua de mar tiene sales minerales disueltas. Debido a la presencia de estas sales, el agua del mar es salobre y no es potable para el ser humano y su ingestión en grandes cantidades puede llegar a provocar la muerte. El 97,5 % del agua que existe en nuestro planeta es salada y solo una cantidad inferior al 1 % es apta para el consumo humano. Conseguir la potabilización del agua del mar es una de las posibles soluciones a la escasez de agua potable. Mediante la desalinización del agua del mar se obtiene agua dulce apta para el abastecimiento y el regadío. Las plantas desalinizadoras de agua de mar han producido agua potable desde hace muchos años, pero el proceso era muy costoso y hasta hace relativamente poco solo se han utilizado en condiciones extremas. Actualmente existe una producción de más de 99 millones de metros cúbicos diarios de agua desalinizada en todo el mundo, lo que supone el abastecimiento de más de 100 millones de personas.\n\nSe espera que la demanda mundial de agua aumente en los próximos años, esta estará influenciada por el crecimiento de la población y el aumento de la producción industrial. Por esta razón, en el último informe de 2015 en el WWAP se menciona que el mundo enfrentará un 40 % del déficit mundial de agua en 2030 si se toma alguna acción social. La investigación de técnicas como las tecnologías de desalinización son soluciones clave para hacer frente a este problema.\n",
+    "must_mask": [
+      {
+        "value": "65439851K",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Estación Desaladora",
+      "Agua Marina"
+    ]
+  },
+  {
+    "id": "es-wp-drenaje-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-drenaje",
+    "text": "Puesto que los sistemas de drenaje permiten el desalojo de desechos domésticos y comerciales sin control, es posible que se contaminen con materiales peligrosos y hasta tóxicos. Normalmente en pequeñas cantidades, no representan un peligro a corto plazo.\n\nCuando son vertidos en estas redes grandes volúmenes el peligro es mayor, como sucedió en la ciudad de Guadalajara, Jalisco, México el 22 de abril de 1992, cuando un derrame de combustible en el sistema de drenaje sanitario provocó varias explosiones a lo largo de ocho kilómetros, en el sector Reforma, provocando varias muertes.\n\nUn ejemplo lamentable del problema de la insuficiencia de drenaje urbano de una gran ciudad es el que sufrió la ciudad de Nueva Orleans, en los Estados Unidos, cuando el huracán Katrina ocasionó, a fines de agosto del 2005, una catastrófica inundación exacerbada por la dificultad en drenar rápidamente las partes inundadas y la rotura de los diques del Río Misisipi que inundaron la ciudad a un nivel más alto, incluso después de haber pasado el huracán.\n\nLa inundación fue tan severa que ocasionó la muerte de unas 29.000 personas y daños enormes, difíciles de evaluar. La experiencia de dicho huracán parece recomendar que junto a los diques del río deberían haberse construido tuberías que recogieran las aguas en aberturas de los diques a partir de cierto nivel, y las condujeran a la costa, donde desembocarían, limitando así las posibilidades de inundación. El número de identidad de extranjero del solicitante es Z1731564Z.\n",
+    "must_mask": [
+      {
+        "value": "Z1731564Z",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Estados Unidos",
+      "Nueva Orleans"
+    ]
+  },
+  {
+    "id": "es-wp-elaboracion-cerveza-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-elaboracion-cerveza",
+    "text": "Malta: constituye uno de los elementos iniciales de la elaboración de la cerveza, constituida principalmente por semillas de cebada que han germinado durante un período limitado, hasta que han brotado a unos dos o tres centímetros y posteriormente son retirados y desecados. La elaboración de la cerveza se puede hacer con cualquier cereal que se «maltea» (es decir cualquier semilla que posea almidón y sea susceptible de germinar); la cebada posee entre un 60-65 % de almidón. El objetivo de este paso es la producción de amilasa que será utilizada para descomponer el almidón.\n\nAgua: otro elemento principal, interviene no solo en los momentos iniciales de mezclado con la malta, sino que en algunos de los filtrados posteriores, introduce un sabor característico (es famoso el dicho que dice que una pilsener de Dortmund sabe diferente de una de Múnich). Entre el 85 y 92 % de la cerveza es agua.\n\nLúpulo: El Humulus lupulus es un ingrediente relativamente moderno en la cerveza, se trata de una planta trepadora de la familia del cannabis que, además de proporcionar un sabor amargo característico, es la encargada de estabilizar la espuma. Los lúpulos son responsables de los aromas y los sabores florales de algunos tipos de cerveza, especialmente las de los Estados Unidos e Inglaterra. De esta planta se utiliza la flor hembra sin fecundar. Este ingrediente posee muchas propiedades medicinales, entre ellas las tranquilizantes. Otros de los fundamentos de la adición a la malta es el frenado de los procesos enzimáticos tras el primer filtrado. El DNI del solicitante es 33396952D.\n",
+    "must_mask": [
+      {
+        "value": "33396952D",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Estados Unidos",
+      "Inglaterra"
+    ]
+  },
+  {
+    "id": "es-wp-harina-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-harina",
+    "text": "En algunos mercados, las distintas variedades de harina disponibles se etiquetan en función de la masa de cenizas que queda tras incinerar una muestra en un horno de laboratorio (normalmente a 550 °C (1.022 °F) o 900 °C (1.650 °F), véanse las normas internacionales ISO 2171 e ICC 104/1)). Se trata de un indicador fácilmente verificable de la fracción de restos de grano entero en la harina, ya que el contenido mineral del endospermo amiláceo es mucho menor que el de las partes externas del grano. El número de identidad de extranjero del solicitante es Z6676368W. La harina elaborada con todas las partes del grano (tasa de extracción: 100%) deja unos 2 gramos (0,071 oz) de ceniza o más por cada 100 gramos (3,5 oz) de harina seca. La harina blanca normal con una tasa de extracción del 50-60% deja unos 0,4 gramos (0,014 oz).\n\nLos números alemanes de tipo de harina (Mehltypen) indican la cantidad de ceniza (medida en miligramos) obtenida a partir de 100 g de la masa seca de esta harina. Las harinas de trigo estándar (definidas en la norma DIN 10355) van desde el tipo 405 para la harina de trigo blanca normal para panificación, hasta los tipos de harina panificable fuerte 550, 812, y los tipos más oscuros 1050 y 1600 para panes integrales.\n\nLos números de los tipos de harina franceses (type de farine) son 10 veces más pequeños que los utilizados en Alemania, porque indican el contenido de cenizas (en miligramos) por 10 g de harina. El tipo 55 es la harina blanca de trigo duro estándar para panadería, incluida la harina para hojaldre (pâte feuilletée). El tipo 45 suele denominarse harina de repostería, y suele proceder de un trigo más blando (corresponde a lo que los textos franceses más antiguos denominan farine de gruau). Algunas recetas utilizan el tipo 45 para los cruasanes, por ejemplo, aunque muchos panaderos franceses utilizan el tipo 55 o una combinación de los tipos 45 y 55. Los tipos 65, 80 y 110 son harinas panificables fuertes de oscuridad creciente, y el tipo 150 es una harina integral.\n",
+    "must_mask": [
+      {
+        "value": "Z6676368W",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Mehltypen",
+      "Alemania"
+    ]
+  },
+  {
+    "id": "es-wp-lampara-led-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-lampara-led",
+    "text": "La iluminación para usos normales necesita luz blanca. Los ledes emiten luz en una banda de longitudes de onda muy estrecha, fuertemente coloreada. El color es característico de la banda prohibida de energía del material semiconductor usado para fabricar cada led (DNI 45994717F). Para emitir luz blanca es preciso combinar ledes de luz roja, verde y azul, o usar fósforo para convertir parte de la luz a otros colores.\n\nEl primer método (ledes RGB), usa múltiples ledes, cada uno emitiendo una longitud de onda diferente en las proximidades, para formar el amplio espectro de luz blanca. La ventaja de este método es que la intensidad de cada led puede ser ajustada para \"afinar\" el carácter de la luz emitida. La mayor desventaja es su alto costo de producción.\n\nEl segundo método, led de fósforo convertido (pc LED), usa un led de corta longitud de onda (usualmente azul o ultravioleta) en combinación con el fósforo que absorbe una porción de la luz azul y emite un espectro más amplio de luz blanca (el mecanismo es similar a la forma de una lámpara fluorescente que emite luz blanca de un sistema de iluminación UV de fósforo). Su ventaja es el menor costo de producción, alto IRC (índice de reproducción cromática), mientras que sus desventajas son la incapacidad para cambiar dinámicamente el carácter de la luz y el hecho de que la conversión de fósforo reduce la eficiencia del dispositivo. El bajo costo y el desempeño adecuado lo hacen la tecnología más utilizada hoy en día.\n",
+    "must_mask": [
+      {
+        "value": "45994717F",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "característico",
+      "dinámicamente"
+    ]
+  },
+  {
+    "id": "es-wp-pale-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-pale",
+    "text": "Palé europeo o europalé: mide 1200 x 800 x 145 mm; está normalizado en dimensiones y materiales utilizados según la homologación EUR y EPAL. Se utiliza en transporte y almacenamiento de los productos de gran consumo. El número de identidad de extranjero del solicitante es Z8928156K. Esta homologación se realiza por primera vez por parte de los ferrocarriles austríacos y posteriormente fue adoptado en Europa por la UIC (Union Internationale des Chemins de Fer), para aprovechar al máximo las medidas de las cajas de los vagones ferroviarios y remolques, que tienen un ancho de 2400 mm interiores. Con esta medida de palé se pueden poner a lo ancho de la caja dos palés en sentido transversal o tres si se colocan en sentido longitudinal. De esta forma, al estar estandarizados los tamaños de los palés en base al ancho de los camiones, se llegó a una fórmula para poder calcular la cantidad de palés transportados de un camión: se toma el largo de la superficie de carga y se divide entre 0,4, dando así un valor aproximado de la cantidad de palés que puede transportar el camión. Este tipo de palé es el más frecuente en el mercado europeo.\n\nDentro del europalet también hay una subcategoría llamada Display Palet (media paleta), que mide la mitad del largo que un europalet estándar (600 × 800 mm), este tipo es ampliamente usado por cadenas de hiperpermercados para reponer productos de mucha rotación en la parte baja de las estanterías directamente con el transpalé, reponiendo de una sola operación un palé completo de producto.\n\nPalé universal, Palé industrial o isopalé: mal llamado «palé americano», mide 1200 × 1000 mm. Se utiliza principalmente en los mercados americano y japonés.\n",
+    "must_mask": [
+      {
+        "value": "Z8928156K",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Union Internationale",
+      "Display Palet"
+    ]
+  },
+  {
+    "id": "es-wp-pan-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-pan",
+    "text": "A la masa se le pueden dar diferentes formas, debido al empleo de diversos moldes y técnicas de amasado: hogazas, barras, bollos, chuscos, chapatas, pistolas etc. De esta forma existen: las barras, las trenzas, los aros, etcétera.\n\nEl pan ha sido tan importante en la alimentación humana que se considera como sinónimo de alimento en muchas culturas. Forma parte de la dieta tradicional en Europa, Oriente Medio, India, América y Oceanía. Asimismo, participa en muchos rituales religiosos y sociales, como por ejemplo el matzoh, en la pascua judía; la hostia, en la eucaristía cristiana, y el rito de bienvenida de los pueblos eslavos, que involucra el pan y la sal.\n\nEl DNI del solicitante es 54557459X. Antiguamente, en las zonas rurales, el pan era elaborado en los núcleos familiares y poco a poco el establecimiento para dispensar el pan, la panadería, ha ido cobrando importancia en las zonas urbanas. Hoy en día existen electrodomésticos específicos con los que se puede elaborar pan de molde muy sencilla, por ejemplo con una máquina panificadora.\n\nEn la actualidad, el pan es uno de los alimentos básicos que puede encontrarse en casi cualquier tienda de alimentación y grandes supermercados. Su valor hace que se puedan calcular índices económicos de referencia, como el índice de precios al consumo –o IPC–, empleado para determinar la evolución del costo de vida en las naciones.\n",
+    "must_mask": [
+      {
+        "value": "54557459X",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Oriente Medio",
+      "Oceanía"
+    ]
+  },
+  {
+    "id": "es-wp-porcelana-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-porcelana",
+    "text": "La porcelana es un material cerámico elaborado al calentar materiales crudos, que por lo general incluyen la caolinita, en un kiln a temperaturas entre los 1200 y los 1400 °C. Es producida de forma artesanal o industrial y es tradicionalmente blanca, compacta, frágil, dura, translúcida, impermeable, resonante, de baja elasticidad y altamente resistente al ataque químico y al choque térmico. Se le utiliza para fabricar los diversos componentes de las vajillas y para jarrones, condensadores, lámparas, esculturas y elementos ornamentales y decorativos. El número de identidad de extranjero del solicitante es Z8666306A. La mayor fuerza y translucidez de la porcelana, comparada con otros tipos de alfarería, surge principalmente de la vitrificación y la formación de mullita dentro de la pasta a tan altas temperaturas.\n\nEl proceso de fabricación de la porcelana es similar al empleado para la loza y el gres, los otros dos tipos principales de cerámica, aunque su producción puede resultar más compleja. Por lo general, se la considera el tipo de cerámica más prestigioso debido a su delicadeza, resistencia y gran blancura. Con frecuencia, se somete tanto a procesos de vidriado como de decoración.\n\nAlgunos manuales diferencian hasta cuatro tipos: porcelana dura (caolínica), porcelana blanda (tierna), porcelana de ceniza de hueso (Bone china) y porcelana 'francesa'. En algunos acabados puede confundirse con la loza fina Las categorías difieren en términos de la composición de la pasta y en las condiciones de cocción.\n",
+    "must_mask": [
+      {
+        "value": "Z8666306A",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Bone china",
+      "caolinita"
+    ]
+  },
+  {
+    "id": "es-wp-reciclaje-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-reciclaje",
+    "text": "El reciclaje es un proceso mediante el cual se recolectan materiales que han cumplido su vida útil y se convierten en nuevos productos o materiales a través de una serie de tratamientos industriales potencialmente útiles, se reduce el consumo de nueva materia prima y el uso de energía. El DNI del solicitante es 75194459F. Adicionalmente, se previene la contaminación del aire (a través de la incineración) y del agua (a través de los vertederos), así como también se disminuyen las emisiones de gases de efecto invernadero en comparación con la producción de plásticos.\n\nEl reciclaje es un componente clave en la reducción de desechos contemporáneos y es el tercer componente de las 3R («Reducir, Reutilizar y Reciclar»).\n\nLos materiales reciclables son muchos, e incluyen todo el papel y cartón, el vidrio, los metales ferrosos y no ferrosos, algunos plásticos, telas y textiles, maderas y componentes electrónicos. En otros casos no es posible llevar a cabo un reciclaje debido a la dificultad técnica o alto coste del proceso, de modo que suele reutilizarse el material o los productos para producir otros materiales y se destinan a otras finalidades, como el aprovechamiento energético.\n\nTambién es posible realizar un salvamento de componentes de ciertos productos complejos, ya sea por su valor intrínseco o por su naturaleza peligrosa.\n",
+    "must_mask": [
+      {
+        "value": "75194459F",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Reutilizar",
+      "Reciclar"
+    ]
+  },
+  {
+    "id": "es-wp-red-electrica-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-red-electrica",
+    "text": "Generación de electricidad: Las plantas generadoras suelen estar alejadas de áreas pobladas. Por lo general son muy grandes, para aprovecharse de la economía de escala. A la energía eléctrica generada se le incrementa su tensión antes de verterla a la red de transmisión.\n\nTransmisión de electricidad: La red de transmisión transporta la energía a grandes distancias. De esto se encarga la compañía que es dueña de la red de distribución.\n\nDistribución de electricidad: Al llegar a la subestación, la energía llega a una tensión, conocida como muy alta tensión. Al salir de ella, y entrar en la red de distribución, se le baja para quedar a alta o media tensión. Finalmente, al llegar al punto de servicio, la tensión se vuelve a bajar para quedar al voltaje de servicio requerido.\n\nEl número de identidad de extranjero del solicitante es Z4105660G. Las redes casi siempre son síncronas, lo que significa que todas las áreas de distribución funcionan con corriente alterna (CA) trifásica sincronizadas (de modo que las oscilaciones de tensión se producen casi al mismo tiempo). Esto permite la transmisión de energía de CA en toda la zona, conectando un gran número de generadores y consumidores de electricidad y permitiendo, potencialmente, mercados eléctricos más eficientes y generación redundante.\n\nLa red combinada de transmisión y distribución forma parte del suministro eléctrico, conocido como \"red eléctrica\" en Norteamérica, o simplemente \"la red\". En Reino Unido, India, Tanzania, Myanmar, Malasia y Nueva Zelanda, la red se conoce como \"National Grid\".\n\nAunque las redes eléctricas están muy extendidas, en 2023 todavía quedaban 666 millones de personas en todo el mundo que no estaban conectadas a una red eléctrica, la inmensa mayoría en el África subsahariana (565 millones). A medida que aumenta la electrificación, disminuye el número de personas sin acceso a la electricidad de red, habiéndose reducido prácticamente a la mitad desde 2001 en el que había 1.304 millones.\n",
+    "must_mask": [
+      {
+        "value": "Z4105660G",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Nueva Zelanda",
+      "National Grid"
+    ]
+  },
+  {
+    "id": "es-wp-ventana-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-ventana",
+    "text": "Una ventana es un elemento arquitectónico que se ubica en un vano o hueco. También se denomina ventana a algún conjunto de dispositivos que se utilizan para cerrar ese vano.\n\nEl término proviene del latín ventus (viento), haciendo referencia a la capacidad de ventilación que proporciona (DNI 50226554M). Antiguamente la ventana también se denominaba fenestra o también denominada \"finistra\", de forma idéntica a como se llama en latín y en griego. Este sería el modo directo de derivación etimológica. No obstante, aunque ahora este nombre está en desuso, sí se conservan palabras relacionadas con él, como defenestrar que significa arrojar a alguien por una ventana.\n\nLos romanos fueron los primeros en usar vidrio para las ventanas, una tecnología que probablemente se produjo por primera vez en el Egipto romano, en Alejandría alrededor de 100 d. C. Las ventanas de papel eran económicas y se usaban ampliamente en la antigua China, Corea y Japón. En Inglaterra, el vidrio se volvió común en las ventanas de las casas comunes solo a principios del siglo XVII, mientras que las ventanas compuestas de paneles de cuerno de animal aplanado se usaron ya en el siglo XIV. En el oeste americano del siglo XIX, las tribus itinerantes comenzaron a utilizar ventanas de papel engrasado. Las ventanas de piso a techo de estilo moderno solo fueron posibles después de que los procesos industriales de fabricación de vidrio en placa se perfeccionaron por completo.\n",
+    "must_mask": [
+      {
+        "value": "50226554M",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Alejandría",
+      "Egipto"
+    ]
+  },
+  {
+    "id": "es-wb-almacenamiento-electronico-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "es-wb-almacenamiento-electronico",
+    "text": "Una unidad de estado sólido o SSD (acrónimo en inglés de solid-state drive) es un dispositivo de almacenamiento de datos que usa una memoria no volátil, como la memoria flash, o una memoria volátil como la SDRAM, para almacenar datos, en lugar de los platos giratorios magnéticos encontrados en los discos duros convencionales. En comparación con los discos duros tradicionales, las unidades de estado sólido son menos sensibles a los golpes, son prácticamente inaudibles y tienen un menor y constante tiempo de acceso y de latencia. Las SSD hacen uso de la misma interfaz que los discos duros y, por lo tanto, son fácilmente intercambiables sin tener que recurrir a adaptadores o tarjetas de expansión para compatibilizarlos con el equipo (NIE Y9411570F).\n\nSon comercializadas con las dimensiones heredadas de los discos duros, es decir, en 3,5 pulgadas, 2,5 pulgadas y 1,8 pulgadas, aunque también ciertas SSD vienen en formato «tarjeta de expansión».\n\nEn algunos casos, las SSD pueden ser más lentas que los discos duros, en especial con controladoras antiguas de gamas bajas, pero dado que los tiempos de acceso de una SSD son inapreciables, al final resultan más rápidos. Este tiempo de acceso tan corto se debe a la ausencia de piezas mecánicas móviles, inherentes a los discos duros.\n\nAunque técnicamente no son discos, a veces se traduce erróneamente en español la \"D\" de SSD como \"disk\" cuando, en realidad, representa la palabra \"drive\", que podría traducirse como unidad o dispositivo.\n\nEl rendimiento de las SSD se incrementan añadiendo chips NAND Flash en paralelo. Un sólo chip NAND Flash es relativamente lento, dado que la interfaz de entrada y salida es de 8 ó 16 bits y también por la latencia adicional de las operaciones básicas de E/S. Cuando varios dispositivos NAND operan en paralelo dentro de un SSD, las escalas de ancho de banda se incrementan y las latencias de alta se minimizan, siempre y cuando las operaciones se distribuyan uniformemente entre los chips.\n",
+    "must_mask": [
+      {
+        "value": "Y9411570F",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "NAND Flash",
+      "SDRAM"
+    ]
+  },
+  {
+    "id": "es-wb-buses-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "es-wb-buses",
+    "text": "La función del bus es la de permitir la conexión lógica entre distintos subsistemas de un sistema digital, enviando datos entre dispositivos de distintos órdenes: desde dentro de los mismos circuitos integrados, hasta equipos digitales completos que forman parte de supercomputadoras.\n\nLa mayoría de los buses están basados en conductores metálicos por los cuales se trasmiten señales eléctricas que son enviadas y recibidas con la ayuda de integrados que poseen una interfaz del bus dado y se encargan de manejar las señales y entregarlas como datos útiles. Las señales digitales que se trasmiten son de datos, de direcciones o señales de control.\n\nLos buses definen su capacidad de acuerdo a la frecuencia máxima de envío y al ancho de los datos. El DNI del solicitante es 97036889G. Por lo general estos valores son inversamente proporcionales: si se tiene una alta frecuencia, el ancho de datos debe ser pequeño. Esto se debe a que la interferencia entre las señales (crosstalk) y la dificultad de sincronizarlas, crecen con la frecuencia, de manera que un bus con pocas señales es menos susceptible a esos problemas y puede funcionar a alta velocidad.\n\nTodos los buses de computador tienen funciones especiales como las interrupciones (IRQ) y las DMA que permiten que un dispositivo periférico acceda a una CPU o a la memoria usando el mínimo de recursos.\n\nDesde que los procesadores empezaron a funcionar con frecuencias más altas, se hizo necesario jerarquizar los buses de acuerdo a su frecuencia: se creó el concepto de bus de sistema (conexión entre el procesador y la RAM) y de buses de expansión, haciendo necesario el uso de un chipset.\n",
+    "must_mask": [
+      {
+        "value": "97036889G",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "supercomputadoras",
+      "interrupciones"
+    ]
+  },
+  {
+    "id": "es-wb-chipset-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "es-wb-chipset",
+    "text": "Un chipset es el conjunto de circuitos integrados diseñados con base en la arquitectura de un procesador (en algunos casos, diseñados como parte integral de esa arquitectura), permitiendo que ese tipo de procesadores funcionen en una placa base. Sirven de puente de comunicación con el resto de componentes de la placa, como son la memoria, las tarjetas de expansión, los puertos USB, ratón, teclado, etc.\n\nEl Chipset es el que hace posible que la placa base funcione como eje del sistema, dando soporte a varios componentes e interconectándolos de forma que se comuniquen entre ellos haciendo uso de diversos buses. Es uno de los pocos elementos que tiene conexión directa con el procesador, gestiona la mayor parte de la información que entra y sale por el bus principal del procesador, del sistema de vídeo y muchas veces de la memoria RAM.\n\nEn el caso de los computadores PC, es un esquema de arquitectura abierta que establece modularidad: el Chipset debe tener interfaces estándar para los demás dispositivos. El número de identidad de extranjero del solicitante es Z5251700T. Esto permite escoger entre varios dispositivos estándar, por ejemplo en el caso de los buses de expansión, algunas tarjetas madre pueden tener bus PCI-Express y soportar diversos tipos de tarjetas de distintos anchos de bus (1x, 8x, 16x).\n",
+    "must_mask": [
+      {
+        "value": "Z5251700T",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "PCI-Express",
+      "Chipset"
+    ]
+  },
+  {
+    "id": "es-wb-conectores-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "es-wb-conectores",
+    "text": "Serial ATA o SATA es una interfaz de transferencia de datos entre la placa base y algunos dispositivos de almacenamiento, como puede ser el disco duro, lectores y regrabadores de CD/DVD/BR, Unidades de Estado Sólido u otros dispositivos de altas prestaciones que están siendo todavía desarrollados. SATA sustituye al P-ATA. SATA proporciona mayores velocidades de transferencia de datos, conexionado punto a punto y utiliza un cable con una longitud máxima de 1 metro.\n\nSe comercializan dispositivos SATA II, a 300 MB/s de velocidades de transmisión, también conocida como Serial ATA-300 y los SATA III con tasas de transferencias de hasta 750 MB/s, son compatibles entre ellos y siempre se aplicará la velocidad menor de transferencia soportada.....\n\nmSATA o mini-SATA es una interfaz, variante de la interfaz SATA. La interfaz mSATA es muy usada en computadoras portátiles y también en placas base actuales. Se conectan discos SSD. La interfaz mSATA se divide en dos partes: interfaz eléctrica similar al MOLEX sin alimentanción de 12V y la interfaz SATA (DNI 85521415D). Existen cables para convertir una SATA y MOLEX en un mSATA. El conector mSATA es similar en apariencia a una interfaz Mini-Tarjeta PCI Express, pero no es compatible eléctricamente ni en las señales de datos.\n\nPCI es la versión antigua del PCI Express. Su uso es limitado a unos pocos dispositivos. No se puede utilizar en tarjetas de expansión de vídeo de alta definición o ampliación de USB 3.0 o Giga Ethernet pues su caudal es escaso.\n",
+    "must_mask": [
+      {
+        "value": "85521415D",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Mini-Tarjeta PCI Express",
+      "Serial ATA-300"
+    ]
+  },
+  {
+    "id": "es-wb-copias-seguridad-o-respaldo-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "es-wb-copias-seguridad-o-respaldo",
+    "text": "Cintas magnéticas: han sido el medio de almacenamiento más usado hasta hace poco, porque ofrecían unas capacidades muy grandes con relación al precio. Últimamente, esto ya no es cierto porque los discos duros externos se han abaratado mucho. El formato de estas cintas magnéticas puede ser muy diverso y a menudo es específico, cosa que dificulta bastante la restauración de los datos si no se dispone del lector específico. Las cintas magnéticas son de acceso secuencial y el tiempo de acceso es lento. De todos modos, si hacemos operaciones de lectura o de escritura de una manera secuencial o continuada, la velocidad puede ser bastante rápida y comparable a la de los discos duros.\n\nDisquetes: hoy en día casi en desuso; eran populares durante la década de 1980 y el comienzo de la década de 1990. Tenían una capacidad muy limitada, por lo cual hoy en día son inútiles.\n\nDiscos duros: los discos duros, debido a su bajada continua de precios, se han transformado en un medio de almacenamiento de datos muy competitivo. El número de identidad de extranjero del solicitante es X6136222Y. Tienen un tiempo de acceso bajo, una capacidad cada vez más grande y son fáciles de gestionar y utilizar. Normalmente, para crear copias de seguridad en discos duros, usamos discos externos, que se conectan al sistema informático mediante la interfaz SCSI, USB, FireWire, eSATA, o también Ethernet, iSCSI, o Fibre Channel, en caso de que los discos duros estén físicamente más lejos del sistema informático.\n\nDiscos ópticos: podemos usar CD o DVD (grabables o regrabables) para crear copias de seguridad. La ventaja de utilizar estos medios de almacenamiento es que se pueden leer en cualquier computador que disponga del lector (hoy en día la práctica totalidad). También podríamos usar medios más nuevos como por ejemplo el Blu-ray disco, pero a pesar de que tiene una capacidad mucho más grande que los DVD, su coste también es mucho más alto y su uso no sale muy rentable por anticipado.\n",
+    "must_mask": [
+      {
+        "value": "X6136222Y",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Fibre Channel",
+      "FireWire"
+    ]
+  },
+  {
+    "id": "es-wb-s-a-i-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "es-wb-s-a-i",
+    "text": "El SAI de Doble Conversión (según la norma IEC 62040-3 clasificación VFI) es ideal para entornos en los que sea necesario o por equipo que es muy sensible a las fluctuaciones de energía y necesita tener un fuerte aislamiento eléctrico. El costo inicial del SAI de doble conversión puede ser más alto, pero su costo total es generalmente inferior debido a la vida útil de la batería. Este tipo de SAI puede ser necesario cuando en el entorno existan muchas y frecuentes perturbaciones eléctricas y se requiera la protección de cargas sensibles.\n\nLa tecnología básica del SAI de Doble Conversión es el mismo que en el modo de espera (DNI 87051280Y). Sin embargo, típicamente cuesta mucho más dinero, debido a que tiene un mayor rendimiento en el cargador, rectificador y el inversor diseñado para funcionar continuamente con la mejora de los sistemas de refrigeración.\n\nEn un SAI de Doble Conversión, las baterías siempre están conectados al inversor. Cuando se produce la pérdida de energía, el rectificador simplemente cae fuera del circuito y las baterías mantienen la energía constante y sin cambios. Cuando se restablece la alimentación, el rectificador reanuda llevando la mayor parte de la carga y comienza la carga de las baterías.\n\nLa principal ventaja de los SAI de Doble Conversión es su capacidad de proporcionar un aislamiento total de la carga frente a la red eléctrica. Es el más usado para la protección de la carga.\n",
+    "must_mask": [
+      {
+        "value": "87051280Y",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Doble Conversión",
+      "perturbaciones"
+    ]
+  },
+  {
+    "id": "es-wb-tarjeta-grafica-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "es-wb-tarjeta-grafica",
+    "text": "Capacidad: La capacidad de la memoria determina el número máximo de datos y texturas procesadas, una capacidad insuficiente se traduce en un retardo a espera de que se vacíen esos datos. Sin embargo es un valor muy sobrevalorado como estrategia recurrente de márketing para engañar al consumidor, tratando de hacer creer que el rendimiento de una tarjeta gráfica se mide por la capacidad de su memoria; tal es ésta tendencia, que muchos ensambladores embuten ingentes cantidades de memoria con GPU incompatibles con dicha capacidad, resultando una pérdida notable de la velocidad de dichas memorias, dando como resultado una tarjeta gráfica mucho más lenta que la que contiene una memoria mucho más pequeña y suficiente al sector al que va a pertenecer la tarjeta gráfica y recomendado por el fabricante. La capacidad se mide en bytes.\n\nInterfaz de Memoria: También denominado Bus de datos, es la multiplicación resultante del ancho de bits de cada chip por su número de unidades. Es una característica importante y determinante, junto a la velocidad de la memoria, a la cantidad de datos que puede transferir en un tiempo determinado, denominado ancho de banda. Una analogía al ancho de banda se podría asociar al ancho de una autopista o carriles y al número de vehículos que podrían circular a la vez. El número de identidad de extranjero del solicitante es Y7387163Z. La interfaz de memoria se mide en bits.\n\nVelocidad de Memoria: Es la velocidad a la que las memorias pueden transportar los datos procesados, por lo que es complemento a la interfaz de memoria para determinar el ancho de banda total de datos en un tiempo determinado. Continuando la analogía de la circulación de los vehículos de la autopista, la velocidad de memoria se traduciría en la velocidad máxima de circulación de los vehículos, dando resultado a un mayor transporte de mercancía en un mismo periodo de tiempo. La velocidad de las memorias se mide en Hertzios (su frecuencia efectiva) y se van diseñando tecnologías con más velocidad, se destacan las adjuntas en la siguiente tabla:\n",
+    "must_mask": [
+      {
+        "value": "Y7387163Z",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Hertzios",
+      "Memoria"
+    ]
+  },
+  {
+    "id": "es-wb-vocabulario-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "es-wb-vocabulario",
+    "text": "Boot: la secuencia de arranque, (boot o booting en inglés) es el proceso que inicia el sistema operativo cuando el usuario enciende una computadora. Se encarga de la inicialización del sistema y de los dispositivos.\n\nDMA: El acceso directo a memoria (DMA, del inglés direct memory access) permite a cierto tipo de componentes de una computadora acceder a la memoria del sistema para leer o escribir independientemente de la unidad central de procesamiento (CPU) principal.\n\nIRQ: Interrupción (también conocida como interrupción de hardware o petición de interrupción) es una señal recibida por el procesador de un computador, indicando que debe \"interrumpir\" el curso de ejecución actual y pasar a ejecutar código específico para tratar esta situación.\n\nPlug-and-play o PnP (o \"enchufar y usar\") es la tecnología que permite a un dispositivo informático ser conectado a una computadora sin tener que configurar mediante jumpers. El sistema operativo con el que funciona el computador debe tener soporte para dicho dispositivo. Plug-and-play no significa que no sea necesario instalar drivers de dispositivos adicionales para el correcto funcionamiento del dispositivo. Esto es, Plug and Play NO es sinónimo de \"no necesita drivers\". Durante el inicio, las tarjetas de la familia PCI y USB interactúan y negocian los recursos solicitados con el sistema. Esto permite asignación de IRQs.\n\nNúcleo o kernel (de la raíz germánica Kern, núcleo, hueso) es un software que constituye la parte más importante del sistema operativo. Es el principal responsable de facilitar a los distintos programas acceso seguro al hardware de la computadora o en forma básica, es el encargado de gestionar recursos, a través de servicios de llamada al sistema.\n\nTasa de Transferencia o tasa de bits (en inglés bit rate) define el número de bits que se transmiten por unidad de tiempo a través de un sistema de transmisión digital o entre dos dispositivos digitales. El DNI del solicitante es 77313960N. Así pues, es la velocidad de transferencia de datos.\n",
+    "must_mask": [
+      {
+        "value": "77313960N",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Play NO",
+      "Transferencia"
+    ]
+  },
+  {
+    "id": "es-wv-astronomia-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "es-wv-astronomia",
+    "text": "Hay muchas razones para combinar los viajes con una mirada hacia arriba. Dado que se puede ver un conjunto diferente de estrellas en el cielo dependiendo de la latitud en la que se encuentre, si está interesado en la astronomía y viaja al otro lado del Ecuador o incluso a los trópicos, mire hacia arriba por la noche. Los astrónomos más entusiastas pueden incluso hacer un viaje para, por ejemplo, ver un eclipse total de sol específico que no es visible donde viven.\n\nEn las ciudades modernas, la contaminación lumínica hace que el cielo estrellado apenas sea visible. El campo lejano (sobre todo en países de renta baja donde la energía eléctrica es escasa) ofrece una vista asombrosa de las estrellas. Las montañas y los desiertos también son mejores lugares para mirar las estrellas que otros, en primer lugar porque suelen carecer de la contaminación lumínica de la civilización moderna y, en segundo lugar, porque el aire y todo lo que contiene (principalmente el agua) obstruye la visión clara de las estrellas. Si estás a 4.000 metros de altitud, ya tienes gran parte del aire debajo de ti (NIE Y8763721E). Y un día nublado es más improbable en el Sáhara que en Oslo, por ejemplo, lo que hace que las zonas desérticas altas sean ideales para la observación del cielo, por lo que muchos observatorios se encuentran en esos lugares. Por ello, no es de extrañar que el desierto de Atacama, en Sudamérica, que es muy seco y tiene grandes altitudes, sea un lugar popular para los observatorios financiados por el gobierno.\n\nAdemás, la astronomía es una de las pocas ciencias en las que los científicos aficionados hacen regularmente descubrimientos por su cuenta, dado que nadie puede observar todo el cielo todo el tiempo y con sólo tener un equipo lo suficientemente bueno y mirar al lugar adecuado por casualidad, puedes descubrir tu \"propio\" cometa, asteroide u otro objeto.\n",
+    "must_mask": [
+      {
+        "value": "Y8763721E",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Sudamérica",
+      "Ecuador"
+    ]
+  },
+  {
+    "id": "es-wv-frutas-verduras-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "es-wv-frutas-verduras",
+    "text": "En el mercado global actual, tantas frutas y vegetales se transportan y consumen en todo el mundo que es fácil olvidar lo difícil o imposible que es degustar muchas de ellas, a menos que vayas a donde se cultivan. Algunas frutas y verduras solo crecen en forma silvestre y deben recolectarse en el lugar. Un buen ejemplo es Rhodomyrtus tomentosa, a veces llamado mirto rosa en español y conocido como kemunting en Malasia, un arbusto que crece de forma silvestre y, en temporada, produce pequeñas y deliciosas bayas rojas o púrpuras. Probablemente no podrá comprar bayas de mirto rosa en tiendas o mercados; en cambio, es posible que deba saber dónde encontrar los arbustos y estar allí en el momento adecuado para recolectar algunas bayas antes de que los pájaros se las coman todas.\n\nLos árboles de anacardo, por otro lado, se cultivan, pero para comer las hojas tiernas, es mejor que los recoja de un árbol usted mismo (con el permiso del propietario), porque una vez recogidos, se deterioran muy rápidamente y, por lo tanto, son imposible de exportar desde su país de origen y bastante subóptimo incluso cuando se compra en los mercados de la región. El DNI del solicitante es 17858023H. El mangostán es una fruta deliciosa originaria y cultivada en el sudeste asiático. Los mangostanes se exportan al extranjero, a veces en bastante buenas condiciones, pero son más pequeños y no tan jugosos como los que se pueden conseguir fácilmente en los mercados.\n",
+    "must_mask": [
+      {
+        "value": "17858023H",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Rhodomyrtus",
+      "Malasia"
+    ]
+  },
+  {
+    "id": "es-wv-inundacion-relampago-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "es-wv-inundacion-relampago",
+    "text": "La lluvia intensa con áreas insuficientes para absorber el agua puede resultar en inundaciones relámpago. En los Estados Unidos, el Programa Nacional de Seguro contra Inundaciones lo define como «inundación rápida de áreas bajas en menos de seis horas, causada por lluvias intensas».\n\nLas inundaciones relámpago a menudo ocurren donde el suelo está demasiado seco para comenzar a absorber agua rápidamente, donde la topografía empuja el agua hacia valles estrechos y donde los humedales han sido drenados y los arroyos amurallados. En algunas áreas, las lluvias bastante moderadas aguas arriba pueden causar una inundación relámpago con poca advertencia.\n\nOtra fuente de inundaciones relámpago es la actividad volcánica debajo de un glaciar, que derretirá cantidades extremas de hielo. El número de identidad de extranjero del solicitante es Z6152499G. Si el agua está contenida por una barrera de hielo, incluso miles de millones de toneladas de agua pueden soltarse repentinamente. Un estallido similar puede ocurrir sin actividad volcánica, cuando las barreras de los lagos de hielo se rompen por otras razones. Tales jökulhlaups son eventos recurrentes en Islandia, que destruyen carreteras y puentes en su camino hacia el mar –principalmente en áreas deshabitadas–.\n",
+    "must_mask": [
+      {
+        "value": "Z6152499G",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Programa Nacional",
+      "Estados Unidos"
+    ]
+  },
+  {
+    "id": "es-wv-mal-montana-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "es-wv-mal-montana",
+    "text": "El mal de altura, mal de montaña o soroche' (en los Andes) es una reacción a la menor cantidad de oxígeno disponible en altitudes elevadas (debido a la menor presión del aire). El cuerpo responde de varias formas a esto: algunas consideradas como normales, otras como malestares a tratar. Los malestares pueden llegar a convertirse en un peligro grave para la salud y pueden provocar la muerte si se ignoran o no se tratan.\n\nEl mal de altura es muy peligroso por cuatro razones: puede aparecer repentinamente y progresar rápidamente; puede ser fatal; los pacientes a menudo están a cierta distancia de la asistencia médica y es difícil evacuarlos rápidamente; y, en muchos casos, los pacientes dependen de su estado de salud porque hacen mucha actividad física en entornos peligrosos.\n\nEl mal de altura es un gran peligro para el montañismo a gran altitud (por encima de 4000 o 5000 m), un peligro moderado para los deportes de montaña (como esquiar entre los 3000 y 4000 m), y un peligro moderado cuando se llega a una ciudad de altitud alrededor de 3000 m, como Lhasa (Tíbet), Cusco (Perú) y La Paz (Bolivia) (DNI 30763149M).\n\nPara altitudes moderadas (como 3500 m), la solución principal es aclimatarse durante un día o dos a una altitud más baja (cerca de 2500 m) y tomárselo con calma durante los primeros días, en lugar ir inmediatamente a esquiar o hacer senderismo.\n\nLa acetazolamida (ACZ) es el fármaco más utilizado para la prevención y es particularmente útil para volar a una ciudad a gran altitud. Para altitudes mayores es necesario mucho más cuidado, preparación y ascenso gradual, y se dispone de tratamientos potentes. Particularmente peligrosas son las montañas altas y fáciles, en particular el Kilimanjaro (5895 m) y el Aconcagua (6961 m), donde es fácil llegar peligrosamente alto rápidamente. La aclimatación requiere tiempo y las prisas provocan el mal de altura.\n",
+    "must_mask": [
+      {
+        "value": "30763149M",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "La Paz",
+      "Kilimanjaro"
+    ]
+  },
+  {
+    "id": "es-wv-parques-nacionales-canada-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "es-wv-parques-nacionales-canada",
+    "text": "Los parques nacionales cubren más de 328.000 km², lo que supone un 3,3% de la superficie total de Canadá. En conjunto, los parques nacionales de Canadá son más grandes que Noruega.\n\nComenzando con el Parque nacional Banff en 1885, el gobierno federal de Canadá comenzó a destinar al turismo trozos de tierra de gran belleza. Más tarde se añadieron zonas más remotas, en las que el objetivo es la conservación y no la recreación. Los parques varían en tamaño y servicios, desde zonas pequeñas y muy desarrolladas en la periferia de las ciudades hasta vastos terrenos salvajes del tamaño de muchos países europeos, pero sin población permanente. La entrada a los parques está controlada por peajes en las autopistas que conducen a ellos (si las hay), y hay que pagar para entrar, o en algunos casos se puede transitar por un parque, pero hay que pagar para salir de la autopista.\n\nNo sólo el gobierno federal (central) gestiona parques en Canadá. Cada provincia gestiona también numerosos parques provinciales, algunos de los cuales son igual o más famosos que sus primos federales, como el Algonquin Provincial Park de Ontario o el Kananaskis Country de Alberta. Los parques de propiedad provincial de la provincia de Quebec, a menudo nacionalista, también se denominan \"parques nacionales\"; por ejemplo, el Parque Nacional de Gaspésie y el Parque Nacional de Miguasha no son federales, sino provinciales, a pesar del nombre.\n\nHay dos parques notables que son administrados por otras ramas del gobierno federal, no por Parks Canada (NIE X6734824X). Ambos son de entrada libre, por lo que no se necesita un pase de Parks Canada. Son:\n",
+    "must_mask": [
+      {
+        "value": "X6734824X",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Algonquin Provincial Park",
+      "Kananaskis Country"
+    ]
+  },
+  {
+    "id": "es-wv-sistemas-electricos-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "es-wv-sistemas-electricos",
+    "text": "De vez en cuando, en lugares como Tokio o algunas islas del Caribe, puedes encontrar sistemas de 100 a 127 voltios a 50 Hz. También hay países como Corea del Sur, Perú, algunos estados de Brasil y Guyana que usan 220–240 voltios a 60 Hz. Además, en países como Brasil, Filipinas y Arabia Saudita, el sistema interno puede variar: en algunas zonas tienen 100–127 V, y en otras 220–240 V, incluso con diferentes frecuencias. Así que, cuando viajes, no olvides preguntar por el voltaje específico de cada destino.\n\nLos barcos también tienen diferentes voltajes y frecuencias según cómo y dónde se hayan construido o se usarán. En los aviones, la potencia en los asientos suele ser de 115 V a 60 Hz, pero muchos otros usan 115 V a 400 Hz. Algunos equipos médicos están diseñados para 400 Hz, así que si necesitas enchufarlos en un avión, revisa bien las especificaciones.\n\nSi el voltaje y la frecuencia de tu dispositivo coinciden con los del lugar al que viajas, solo debes preocuparte por el tipo de enchufe. El DNI del solicitante es 65511368P. La mayoría de los aparatos toleran aproximadamente un 10% de diferencia en voltaje, así que no es problema si, por ejemplo, tu cargador es de 110 V y en destino hay 120 V.\n\nPero si el suministro eléctrico local no entra en el rango aceptado por tu dispositivo, necesitarás un transformador o convertidor para ajustar el voltaje. La mayoría de los kits de viaje incluyen estos y vienen con varios adaptadores para diferentes tipos de enchufes, cubriendo casi todas las necesidades, salvo las más inusuales.\n\nPor otra parte, también puedes aprovechar los sistemas de corriente continua (CC) de 12 o 24 V que usan los autos y barcos, o los puertos USB de 5 V en ordenadores, autobuses, barcos o viviendas alimentadas por energía solar para cargar pequeños dispositivos como cámaras o teléfonos. Generalmente, cargar así lleva más tiempo, pero puede ser la única opción si no hay enchufes disponibles para tu cargador.\n",
+    "must_mask": [
+      {
+        "value": "65511368P",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Arabia Saudita",
+      "Filipinas"
+    ]
+  },
+  {
+    "id": "es-wv-tour-guiado-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "es-wv-tour-guiado",
+    "text": "Existen muchos tipos de recorridos turísticos en todo el mundo. Las visitas guiadas pueden ser especialmente valiosas en destinos difíciles de recorrer por cuenta propia (como Fez, en Marruecos), en lugares donde gran parte de la información interesante no es evidente para un visitante casual (como Pompeya), o en zonas donde caminar por la calle equivocada puede resultar peligroso (como La Boca en Buenos Aires, Argentina). También hay países como Corea del Norte, donde por disposiciones legales, solo se permite ingresar a través de un tour organizado.\n\nAl elegir una visita guiada, conviene considerar la disposición del destino: una caminata puede ser ideal en una ciudad antigua y compacta con calles peatonales, mientras que un recorrido en barco será más apropiado en una ciudad con canales. Hoteles y hostales suelen ofrecer información sobre tours disponibles.\n\nSi vas a pasar más de un día en un destino, comenzar con un recorrido guiado suele ser una excelente opción. Ayuda a orientarse, ofrece una visión general de los principales atractivos para explorar más adelante, y puede ser una buena oportunidad para conocer a otros viajeros, especialmente si viajas solo.\n\nLas grandes ciudades y los destinos muy concurridos suelen tener múltiples servicios de tours en competencia. Es común encontrar tanto recorridos generales como otros enfocados en barrios específicos o temáticas particulares: arte visual, belleza natural, gastronomía, sitios históricos, crímenes famosos, fenómenos marginales o incluso lugares asociados a obras de ficción ambientadas en la ciudad. Algunos tours se alejan de lo convencional, como los de historias de terror o los conocidos “pub crawls” (recorridos por bares).\n\nEn los destinos más visitados, un mismo tour puede ofrecerse varias veces al día. Conviene elegir un horario que tenga un clima agradable (evitando el calor del mediodía o la oscuridad tras el atardecer) y menos aglomeración (NIE X4645375L).\n",
+    "must_mask": [
+      {
+        "value": "X4645375L",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Buenos Aires",
+      "La Boca"
+    ]
+  },
+  {
+    "id": "es-wv-viajes-funerarios-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "es-wv-viajes-funerarios",
+    "text": "Los boletos de avión de última hora pueden ser bastante caros, sobre todo en las épocas de mayor afluencia de viajeros. Por otro lado, los motores de búsqueda de tarifas aéreas y los sitios web de viajes con descuento pueden tener muy buenas ofertas, especialmente si resulta que hay un vuelo casi vacío que sale en los próximos días (DNI 33115297N).\n\nSolo unas pocas compañías aéreas ofrecen todavía tarifas de duelo, que rebajan ligeramente el coste de los viajes funerarios de última hora. Entre las aerolíneas que las ofrecen se encuentran Air Canada, Delta Air Lines, Lufthansa para vuelos con origen en Estados Unidos o Canadá, y WestJet. En todos los casos, hay que reservar por teléfono directamente con la compañía aérea. Las tarifas por duelo se limitan a los familiares directos (según la definición de cada aerolínea); tendrá que facilitar al agente el nombre de la persona enferma o fallecida, su relación con ella y, posiblemente, detalles adicionales como la información de contacto de su médico, hospital o funeraria, una copia del certificado de defunción o la fecha del servicio funerario.\n\nEspecialmente en el caso de los viajes internacionales, las agencias de viajes de otras compañías aéreas pueden eximir de los requisitos de compra anticipada o conceder un descuento, a discreción del agente. Puede que tenga suerte llamando a la aerolínea y comprobando si el agente se muestra comprensivo; si no parece dispuesto a ceder, llame de nuevo e inténtelo con otro agente.\n\nFrancamente, las tarifas por duelo no son tan buenas. Rara vez ahorran más del 5-10% del coste de un boleto de tarifa completa sin restricciones y, de hecho, pueden limitar sustancialmente sus opciones. Hoy en día existen muchas más opciones:\n\nHay muchas opciones para volar con un presupuesto, gracias a los motores de búsqueda de tarifas aéreas y a las aerolíneas económicas que mantienen los precios generales de los boletos bajos.\n",
+    "must_mask": [
+      {
+        "value": "33115297N",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Delta Air Lines",
+      "Estados Unidos"
+    ]
+  },
+  {
+    "id": "es-wv-vida-silvestre-africa-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "es-wv-vida-silvestre-africa",
+    "text": "La mayoría de las autoridades reconocen ahora dos especies distintas de elefante africano: Loxodonta africana, el elefante africano de los matorrales, y Loxodonta cyclotis, el elefante africano de los bosques. El elefante de los matorrales es el mamífero terrestre más grande del mundo; el elefante de los bosques es el tercero más grande (con el elefante asiático relacionado entre ambos). Casi todos los avistamientos de elefantes en África son de elefantes de monte, cuyo hábitat típico es mucho más abierto y accesible que el área de distribución del elefante de bosque en la cuenca del Congo.\n\nLos Loxodonta africana se encuentran entre los avistamientos más comunes en el Parque Nacional Kruger y podrá verlos muy de cerca. Amboseli, en Kenia, es famoso por el mayor colmillo del mundo. El número de identidad de extranjero del solicitante es X7146939B. Para algunos puede ser demasiado cerca – definitivamente no es para un visitante pusilánime.\n\nLos elefantes de monte son los mamíferos terrestres más grandes del mundo. Un macho puede pesar hasta 6.000 kg y una hembra hasta 3.500 kg. Viven en grandes grupos familiares dirigidos por las hembras más experimentadas. Los machos sólo son tolerados hasta cierta edad, cuando deben abandonar la familia y suelen formar grupos de solteros. Los machos se unen al grupo de las hembras cuando están en el musgo, pero sólo se tolera a los toros más fuertes.\n\nLos elefantes de los matorrales suelen verse en los alrededores de los ríos cuando se bañan y beben un buen trago de agua. Deben beber hasta 160 litros de agua y comer varios cientos de kilos de plantas al día para sobrevivir. Los elefantes son activos tanto de día como de noche. Son criaturas pacíficas y sólo se vuelven agresivas cuando están heridas o cuando se sienten impulsadas a proteger a sus crías.\n",
+    "must_mask": [
+      {
+        "value": "X7146939B",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Parque Nacional Kruger",
+      "Loxodonta"
+    ]
+  },
+  {
+    "id": "es-eb-ar24-cashusage-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "es-eb-ar24-cashusage",
+    "text": "Entre septiembre de 2023 y junio de 2024, el BCE llevó a cabo un estudio sobre los hábitos de pago de los consumidores de la zona del euro con el fin de analizar sus comportamientos y preferencias de pago, así como su acceso a diversos instrumentos de pago. El estudio mostró que el efectivo era el medio de pago más utilizado en los puntos de venta y que se empleaba en el 52 % de todas las operaciones (DNI 29274896J). Sin embargo, el porcentaje de pagos en metálico disminuyó en comparación con el 59 % registrado en 2022. En términos de importe, las tarjetas representaron un porcentaje de pagos más elevado (45 %) que el efectivo (39 %). La proporción de pagos online en los pagos diarios de los consumidores aumentó del 17 % al 21 %, mientras que el porcentaje de pagos en el punto de venta descendió del 80 % al 75%. El estudio también puso de manifiesto que una mayoría de los consumidores (el 62 % en 2024, frente al 60 % en 2022) consideraba importante tener la posibilidad de pagar en efectivo. Al mismo tiempo, la mayor parte de los consumidores de la zona del euro (el 87 % en 2024, frente al 89 % en 2022) indicaron que les resultaba bastante fácil o muy fácil acceder a un cajero automático o a una entidad bancaria.\n\nEn 2024, el BCE publicó los resultados de la encuesta sobre el uso del efectivo por las empresas de la zona del euro, que arrojó luz sobre la aceptación de diversos instrumentos de pago por las empresas y sobre su visión estratégica en cuanto al uso y la aceptación del efectivo. Según esta encuesta, el porcentaje de empresas que aceptaba efectivo había disminuido desde el 96 % en 2021 hasta el 88 % en 2024. La caída de la aceptación del efectivo fue particularmente acusada en hoteles, restaurantes y bares y cafeterías. Entre las empresas que aceptan efectivo en la actualidad, el 94 % señaló que tenía la intención de seguir haciéndolo en el futuro.\n",
+    "must_mask": [
+      {
+        "value": "29274896J",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "comportamientos",
+      "particularmente"
+    ]
+  },
+  {
+    "id": "es-eb-ar24-stability-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "es-eb-ar24-stability",
+    "text": "Las vulnerabilidades para la estabilidad financiera de la zona del euro siguieron siendo elevadas en 2024, y los principales riesgos se trasladaron de la preocupación por la persistencia de una inflación alta a los temores sobre el crecimiento. Al moderarse la tasa de variación de los precios de consumo, se produjo un giro en el ciclo de tipos de interés en la zona del euro y en otras de las principales economías avanzadas. La disminución de los tipos de interés de referencia ayudó a reducir los costes totales de la financiación, aunque continuaron existiendo algunos focos de vulnerabilidad asociados a la limitada capacidad de pago de la deuda de algunos prestatarios. El número de identidad de extranjero del solicitante es Y3708508W. Las vulnerabilidades soberanas aumentaron en algunos países de la zona del euro en un contexto de retos fiscales y de preocupación por la influencia de la baja productividad en la debilidad del crecimiento económico. Al mismo tiempo, los riesgos geopolíticos y la incertidumbre sobre las políticas económicas también se incrementaron. Pese a ello y a algunos breves episodios de volatilidad, los mercados financieros y el sistema bancario mantuvieron su solidez. Sin embargo, estos episodios de volatilidad pusieron de relieve las vulnerabilidades del sistema financiero ante dinámicas adversas. Por consiguiente, las perspectivas para la estabilidad financiera de la zona del euro siguen siendo frágiles.\n",
+    "must_mask": [
+      {
+        "value": "Y3708508W",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "vulnerabilidades",
+      "incertidumbre"
+    ]
+  },
+  {
+    "id": "en-el-0060-water-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "en-el-0060-water",
+    "text": "Where those causes are the result of circumstances of natural cause or force majeure which are exceptional and could not reasonably have been foreseen, in particular extreme floods and prolonged droughts, the Member State may determine that additional measures are not practicable, subject to Article 4(6).\n\n6. In implementing measures pursuant to paragraph 3, Member States shall take all appropriate steps not to increase pollution of marine waters. Without prejudice to existing legislation, the application of measures taken pursuant to paragraph 3 may on no account lead, either directly or indirectly to increased pollution of surface waters. This requirement shall not apply where it would result in increased pollution of the environment as a whole.\n\n7. The programmes of measures shall be established at the latest nine years after the date of entry into force of this Directive and all the measures shall be made operational at the latest 12 years after that date.\n\n8. The programmes of measures shall be reviewed, and if necessary updated at the latest 15 years after the date of entry into force of this Directive and every six years thereafter. The applicant's Spanish DNI is 83565263F. Any new or revised measures established under an updated programme shall be made operational within three years of their establishment.\n",
+    "must_mask": [
+      {
+        "value": "83565263F",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Member States",
+      "Directive"
+    ]
+  },
+  {
+    "id": "en-wp-intermodal-container-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "en-wp-intermodal-container",
+    "text": "An intermodal container, often called a shipping container, freight container, or simply \"container\", is a large standardized steel container designed and built for intermodal freight transport, meaning these containers can be used across different modes of transport – such as from ships to trains to trucks – without unloading and reloading their cargo. Intermodal containers are primarily used to store and transport materials and products efficiently and securely in the global containerized intermodal freight transport system, but smaller numbers are in regional use as well. Based on size alone, up to 95% of intermodal containers comply with ISO standards, and can officially be called ISO containers. These containers are known by many names: cargo container, sea container, ocean container, container van or sea van, sea can or C can, or MILVAN, or SEAVAN. The term CONEX (Box) is a technically incorrect carry-over usage of the name of an important predecessor of the ISO containers: the much smaller steel CONEX boxes used by the U.S. Army.\n\nIntermodal containers exist in many types and standardized sizes, but 90 percent of the global container fleet are \"dry freight\" or \"general purpose\" containers: durable closed rectangular boxes, made of rust-retardant weathering steel; almost all 8 feet (2.4 m) wide, and of either 20 or 40 feet (6.1 or 12.2 m) standard length, as defined by International Organization for Standardization (ISO) standard 668:2020. The worldwide standard heights are 8 feet 6 inches (2.6 m) and 9 feet 6 inches (2.9 m) – the latter are known as High Cube or Hi-Cube (HC or HQ) containers. Depending on the source, these containers may be termed TEUs (twenty-foot equivalent units), reflecting the 20- or 40-foot dimensions (NIE Y7722636D).\n",
+    "must_mask": [
+      {
+        "value": "Y7722636D",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "International Organization",
+      "High Cube"
+    ]
+  },
+  {
+    "id": "en-wb-composite-materials-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "en-wb-composite-materials",
+    "text": "Composite materials (or composites for short) are engineered materials made from two or more constituent materials with significantly different physical or chemical properties and which remain separate and distinct within the finished structure.\n\nComposite materials (or composites for short) are engineering materials made from two or more constituent materials that remain separate and distinct on a macroscopic level while forming a single component. There are two categories of constituent materials: matrix and reinforcement. At least one portion of each type is required. The matrix material surrounds and supports the reinforcement materials by maintaining their relative positions. The applicant's Spanish DNI is 78682788H. The reinforcements impart their special mechanical and physical properties to enhance the matrix properties. A synergism produces material properties unavailable from the individual constituent materials. Due to the wide variety of matrix and reinforcement materials available, the design potentials are incredible.\n\nThe most primitive composite materials comprised straw and mud in the form of bricks for building construction. The most advanced examples perform routinely on spacecraft in demanding environments. The most visible applications pave our roadways in the form of either steel and aggregate reinforced portland cement or asphalt concrete. Those composites closest to our personal hygiene form our shower stalls and bath tubs made of fiberglass. Solid surface, imitation granite and cultured marble sinks and countertops are widely used to enhance our living experiences.\n",
+    "must_mask": [
+      {
+        "value": "78682788H",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "reinforcements",
+      "significantly"
+    ]
+  },
+  {
+    "id": "en-wv-altitude-sickness-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "en-wv-altitude-sickness",
+    "text": "Altitude sickness is a reaction to the lower amounts of oxygen available at high altitudes (due to the lower air pressure). Your body will respond in various ways to this: some are normal, some are illnesses (NIE Z0377678T). The illnesses are a serious health hazard and can result in death if ignored or left untreated.\n\nAltitude sickness is very dangerous for four reasons: it can come on suddenly and progress quickly, it can be fatal, sufferers are often some distance from medical help and are difficult to evacuate swiftly, and in many cases sufferers are reliant on their health because they're doing a lot of physical activity in dangerous environments.\n\nAltitude sickness is a great danger for high-altitude mountaineering (above 4000 or 5000 m), a moderate danger for mountain sports (such as skiing at 3000–4000 m, notably in Colorado), and a moderate danger when flying in to a high-altitude city around 3500 m, notably Tibet (Lhasa), Peru (Cusco, especially for the Inca Trail), and Bolivia (La Paz). For moderate altitudes (such as 3500 m), the main solution is to acclimatize for a night or two at a lower altitude (near 2500 m) and take it easy for the first few days, rather than flying in and immediately going skiing or hiking. Acetazolamide (ACZ) is the most commonly used drug for prevention, and is particularly useful for flying into a high-altitude city. For higher altitudes much more care, preparation, and gradual ascent is necessary, and potent treatments are available. Particularly dangerous are tall, easy mountains, notably Kilimanjaro (5895 m) and Aconcagua (6961 m), where it's easy to get dangerously high quickly. Acclimation requires time, and rushing causes altitude sickness.\n",
+    "must_mask": [
+      {
+        "value": "Z0377678T",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Inca Trail",
+      "La Paz"
+    ]
+  },
+  {
+    "id": "es-wp-moldeo-por-inyeccion-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-moldeo-por-inyeccion",
+    "text": "En ingeniería, el moldeo por inyección es un proceso semicontinuo que consiste en inyectar un polímero, cerámico o un metal en estado fundido (o ahulado) en un molde cerrado a presión y frío, a través de un orificio pequeño llamado compuerta. En ese molde el material se solidifica, comenzando a cristalizar en polímeros semicristalinos. La pieza o parte final se obtiene al abrir el molde y sacar de la cavidad la pieza moldeada.\n\nEl DNI del solicitante es 43801515Q. El moldeo por inyección es una técnica muy popular para la fabricación de artículos muy diferentes. Sólo en los Estados Unidos, la industria del plástico ha crecido a una tasa de 12 % anual durante los últimos 25 años, y el principal proceso de transformación de plástico es el moldeo por inyección, seguido de la extrusión. Un ejemplo de productos fabricados por esta técnica desde los años 50 son los famosos bloques incontestables LEGO y juguetes Playmobil, así como una gran cantidad de componentes de automóviles, componentes para aviones y naves espaciales.\n\nLos polímeros han logrado sustituir otros materiales como son madera, metales, fibras naturales, cerámicas y hasta piedras preciosas; el moldeo por inyección es un proceso comparado con la fabricación de papel, la tala de árboles o cromados. Ya que no contamina el ambiente de forma directa, no emite gases ni desechos acuosos, con bajos niveles de ruido. Sin embargo, no todos los plásticos pueden ser reciclados y algunos susceptibles de ser reciclados son depositados en el ambiente, causando daños al medio ambiente.\n",
+    "must_mask": [
+      {
+        "value": "43801515Q",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Estados Unidos",
+      "Playmobil"
+    ]
+  },
+  {
+    "id": "es-wp-queso-cp",
+    "lang": "es",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "es-wp-queso",
+    "text": "El queso es un derivado lácteo que se obtiene mediante la maduración de la cuajada de la leche una vez eliminado el suero; sus diferentes variedades dependen del origen de la leche empleada, de los métodos de elaboración seguidos y del grado de madurez alcanzada. Puede producirse a partir de la leche cuajada de vaca, cabra, oveja, búfala, camella, mamíferos rumiantes.\n\nLas bacterias beneficiosas se encargan de acidificar la leche, y tienen también un papel importante en la definición de la textura y el sabor de la mayoría de los quesos. Algunos también contienen mohos, tanto en la superficie exterior como en el interior.\n\nPara los antiguos griegos el queso era «un regalo de los dioses». Hay centenares de variedades de queso. Sus diferentes estilos y sabores son el resultado del uso de distintas especies de bacterias y mohos, diferentes niveles de nata en la leche, variaciones en el tiempo de curación, diferentes tratamientos en su proceso y diferentes razas de vacas, cabras o el mamífero y leche que se usen. Otros factores incluyen la dieta del ganado y la adición de agentes saborizantes tales como hierbas, especias o ahumado. La pasteurizada de la leche, si la hubiera, también puede afectar al sabor.\n\nPara algunos quesos la leche se cuaja restándole ácidos tales como vinagre o jugo de limón. Aunque para muchos, la mayoría se acidifican en grado menor gracias a las bacterias que se le añaden, las cuales transforman los azúcares de la leche en ácido láctico. A ello le sigue la adición de cuajo para completar el proceso de cuajado. El cuajo es una enzima tradicionalmente obtenida del estómago del ganado lactante, pero actualmente también se producen sustitutos microbiológicos en laboratorio. El número de identidad de extranjero del solicitante es Z9437010T. También se han extraído «cuajos vegetales» de varias especies de la familia de cardos Cynara.\n",
+    "must_mask": [
+      {
+        "value": "Z9437010T",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Cynara",
+      "tradicionalmente"
+    ]
+  }
+]

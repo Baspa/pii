@@ -1,0 +1,106 @@
+[
+  {
+    "id": "es-dni-support-1",
+    "lang": "es",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "El cliente escribe: «Buenas tardes, no consigo acceder a mi cuenta. Mi DNI es 84512377G y el pedido en cuestión es el 4471. ¿Pueden revisarlo?»",
+    "must_mask": [
+      {
+        "value": "84512377G",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "4471"
+    ]
+  },
+  {
+    "id": "es-nie-support-1",
+    "lang": "es",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "El cliente escribe: «Soy residente extranjero y mi número de identidad de extranjero es X7419203R. Adjunto también la factura del mes pasado.»",
+    "must_mask": [
+      {
+        "value": "X7419203R",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "es-dni-en-support-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "Customer writes: 'Hello, I am writing from our Madrid office. The account holder's Spanish DNI is 60931524Q, and the invoice reference is INV-2026-0088.'",
+    "must_mask": [
+      {
+        "value": "60931524Q",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "INV-2026-0088"
+    ]
+  },
+  {
+    "id": "es-nie-en-support-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "Customer writes: 'Our contractor is registered in Spain under foreigner identity number Y3820471R. Please update the supplier record accordingly.'",
+    "must_mask": [
+      {
+        "value": "Y3820471R",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "neg-es-dni-shaped-order-1",
+    "lang": "es",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "El cliente escribe: «Todavía no he recibido el paquete. Mi número de pedido es 47820913A, realizado el martes pasado en la tienda online.»",
+    "must_mask": [],
+    "must_clear": [
+      "47820913A"
+    ]
+  },
+  {
+    "id": "neg-es-nie-shaped-reference-1",
+    "lang": "es",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "El cliente escribe: «Adjunto el número de factura Z6104938F correspondiente al servicio de mantenimiento del trimestre anterior.»",
+    "must_mask": [],
+    "must_clear": [
+      "Z6104938F"
+    ]
+  },
+  {
+    "id": "neg-es-dni-bad-letter-1",
+    "lang": "es",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "El cliente escribe: «He escrito mal mi documento en el formulario, puse 84512377A y el sistema lo aceptó igualmente. ¿Pueden corregirlo?»",
+    "must_mask": [],
+    "must_clear": [
+      "84512377A"
+    ]
+  },
+  {
+    "id": "neg-es-dni-shaped-en-order-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Customer writes: 'Our warehouse quotes order number 25604817K for the pallet that never arrived. Could you check the shipment status?'",
+    "must_mask": [],
+    "must_clear": [
+      "25604817K"
+    ]
+  }
+]

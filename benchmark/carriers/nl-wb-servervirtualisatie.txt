@@ -1,0 +1,5 @@
+Virtualisatie is een algemene term in ict die staat voor het op de ene of de andere manier abstraheren van hardwarebronnen. Servervirtualisatie in het bijzonder laat toe dat meerdere besturingssystemen tegelijkertijd op één computer kunnen draaien.
+
+Het grote voordeel van servervirtualisatie is dat de verschillende besturingssystemen van elkaar afgeschermd zijn. Daardoor kan bijvoorbeeld onderzoek naar computervirussen gedaan worden, zonder dat de computer (de 'host') wordt geïnfecteerd. Er kunnen ook kosten bespaard worden, door meerdere besturingssystemen (met bijvoorbeeld elk een webserver) te laten werken op één computer. Doordat de gevirtualiseerde servers, 'guests', van elkaar afgeschermd zijn is het gemakkelijker te beheren en ook dat levert een kostenbesparing op.
+
+Door meerdere gast-besturingssystemen te laten werken op één computer, heeft die computer extra geheugen nodig en een snellere processor. In de praktijk blijkt echter dat het goedkoper is om één duurdere computer (vaak een server) te gebruiken met virtualisatie, dan meerdere goedkopere computers zonder virtualisatie. In dit hoofdstuk bespreken we vooral het virtualiseren van een server.

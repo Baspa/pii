@@ -1,0 +1,683 @@
+[
+  {
+    "id": "nl-wb-beheer-onderhoud-dl-fr",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "nl-wb-beheer-onderhoud",
+    "text": "Beheer en Onderhoud is het vakgebied dat zich voornamelijk bezighoudt met de gebouwde omgeving.\n\nBeheer begint op het moment dat een gebruiker bouwkundige functionaliteit nodig heeft (Frans rijbewijs 440779033025). Het ordernummer in dit rijbewijsdossier is 660528100747. Hij wenst een gebouw om zijn activiteiten (functioneel) in onder te brengen. Beheer begint vaak bij de aanschaf op realisatie van een gebouw of een gebouwde omgeving waarna de gebruiker het zojuist verkregen vastgoed in gebruik neemt. Onderhoud is de activiteit die noodzakelijk is om de gebouwde omgeving zijn noodzakelijke functionaliteit te laten behouden.\n\nBeheer wordt vaak met de term management omschreven. Management (Engels leenwoord, mogelijk afgeleid van de Latijnse uitdrukking manu agere, 'aan de hand leiden', het Italiaanse maneggiare 'mennen' of de oud-Franse term mesnagement/ménagement 'de kunst van het dirigeren, leiden') is het besturen van een onderneming of organisatie.\n\nHet doel van management is het (her)formuleren en bereiken van de ondernemingsdoelstellingen in de gegeven - soms sterk veranderende - context. Om de doelstellingen te bereiken zijn van belang: bepaling van de strategie, financieel beheer, een flexibele maar geleide organisatie, marketing en innovatie. In de twintigste eeuw is, als gevolg van industrialisatie, welvaartsgroei en globalisering, de schaalgrootte van ondernemingen en de druk om te vernieuwen toegenomen. Met het groter worden van een onderneming en met het toenemen van innovatiedruk, veranderde ook de aard en omvang van het ondernemingsbestuur. Management is daardoor tevens een belangrijk vakgebied geworden in het onderwijs.\n",
+    "must_mask": [
+      {
+        "value": "440779033025",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Beheer en Onderhoud",
+      "660528100747"
+    ]
+  },
+  {
+    "id": "de-wb-werkstoffkunde-einfuehrung-dl-fr",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "de-wb-werkstoffkunde-einfuehrung",
+    "text": "Die Werkstoffkunde, oder etwas allgemeiner die Materialwissenschaft, ist ein Teilgebiet der Ingenieurwissenschaften und setzt Theorien aus Chemie, Physik und vielen anderen Bereichen in praktisches Wissen für die handwerkliche und industrielle Produktion um.\n\nDas Fachgebiet, um das es in diesem Buch geht: Die Metalle, stellen nur einen Teil der Materialwissenschaften dar – ein Teil, der für den Maschinenbau von größter Bedeutung ist. Aber auch Glas u. Keramik, Kunststoffe, Holz und Steingut spielen in der Werkstofftechnik eine Rolle. So wie die  Werkstoffwissenschaften für Elektrotechnik, Bauwesen und Holztechnik sehr wichtig sind.\n\nKonstrukteure müssen die Werkstoffe kennen, die sie für ihre Produkte einplanen (französischer Führerschein 250102853309). Sie müssen die Eigenschaften und das Verhalten der Werkstoffe richtig einschätzen, damit das Produkt allen Anforderungen nach Funktionalität, Haltbarkeit und Sicherheit gerecht wird. Mit der Werkstoffwahl wird eine der wichtigsten Weichen für die spätere Produktentwicklung gestellt.\n\nDie Be- und Verarbeitung eines Werkstoffs zu einem Produkt setzt selbstverständlich genaue Kenntnisse über den Werkstoff voraus. Zum Beispiel kann nicht jeder Werkstoff unter den gleichen Bedingungen geschweißt oder umgeformt werden. Die Referenz lautet 451329975410. Die Fertigungsverfahren müssen dem Werkstoff angepasst werden, um wirtschaftlich zu sein. Sie sind aber nicht nur von den Werkstoffeigenschaften abhängig, umgekehrt haben die Verfahren wiederum großen Einfluss auf die Eigenschaften selbst.\n\nWerkstoffprüfung und Qualitätssicherung gehen Hand-in-Hand.\n",
+    "must_mask": [
+      {
+        "value": "250102853309",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Werkstoffkunde",
+      "Maschinenbau",
+      "451329975410"
+    ]
+  },
+  {
+    "id": "fr-wb-charpente-dl-fr",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "fr-wb-charpente",
+    "text": "Pour l'autoconstructeur, la charpente peut représenter un travail délicat si le toit ne se limite pas à un deux pans sans ferme. En fait il est parfaitement possible de venir à bout de la plupart des types de toiture en mettant en œuvre une méthodologie appropriée (permis de conduire 731049320313).\n\nLa référence est 6320093738511. Après une esquisse au 1/20 qui permettra de dégrossir le travail, une charpente se dessine avec une échelle permettant de mesurer directement les dimensions des pièces la composant. L'échelle 1/10 est la plus pratique.\n\nDe nombreuses contraintes sont à prendre en compte :\n\nPlan de la maison (forme, dimension, orientation...)\n\nRésistance mécanique au vent, à la neige, au poids de la couverture\n\nPente dépendant des traditions locales, du style de la maison, du type de couverture choisie\n\nPrésence d'ouvertures dans le toit (lucarnes, fenêtres, cheminées...)\n\nProblèmes d'accès et de réalisation (hauteur, échafaudage, grue...)\n\nPour se rendre compte de l'aspect futur de la construction dans son ensemble, ce que ne permet guère la lecture des plans et façades, il est bon de réaliser une maquette en carton.\n\nPour la charpente, utilisez du balsa (bois très léger vendu dans les magasins de bricolage ou de maquettes).\n\nTaller une charpente consiste à préparer au sol, à plat, les fermes et pannes avant de les monter à leur place définitive. L'aire de traçage et de façonnage devra être la plus plane et horizontale possible ; ce peut être la dernière dalle coulée si sa surface le permet.\n",
+    "must_mask": [
+      {
+        "value": "731049320313",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "balsa",
+      "échafaudage",
+      "6320093738511"
+    ]
+  },
+  {
+    "id": "es-wb-mantenimiento-correctivo-dl-fr",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "es-wb-mantenimiento-correctivo",
+    "text": "El mantenimiento correctivo corrige los defectos observados en los equipamientos o instalaciones, es la forma más básica de mantenimiento y consiste en localizar averías o defectos, para luego corregirlos o repararlos. El número del permiso de conducir francés del solicitante es 200123092750. Este mantenimiento, que se realiza después de que ocurra un fallo o avería en un equipo donde dichos problemas (por su naturaleza) no pueden planificarse en el tiempo, presenta unos costos por reparación y repuestos que no han sido presupuestados.\n\nPor analogía, si tuviéramos un coche, el mantenimiento correctivo estaría en las visitas al taller por los pinchazos o averías imprevistas.\n\nEl mantenimiento correctivo es aplicable en sistemas informáticos que admiten ser interrumpidos en cualquier momento y con cualquier duración.\n\nEl fallo puede aparecer en el momento más inoportuno.\n\nLos fallos no detectados a tiempo pueden causar daños irreparables en otros elementos.\n\nLos gastos económicos elevados en piezas de repuesto.\n\nMemtest86+ es un programa informático para computadora. Su finalidad es pasar una prueba de stress a la memoria RAM del computador para encontrar errores en los módulos propiamente dichos o en los datapaths (el chipset, las controladoras de memoria).\n\nMemtest86+ está diseñado para arrancar desde un CD-ROM o una memoria USB sin que sea necesario que el computador tenga instalado un sistema operativo (número de pedido, permiso de conducir 440208268016). Las pruebas que aplica son lo suficientemente severas como para encontrar problemas en computadores que aparentemente funcionan bien.\n",
+    "must_mask": [
+      {
+        "value": "200123092750",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Memtest86+",
+      "CD-ROM",
+      "440208268016"
+    ]
+  },
+  {
+    "id": "it-wb-acquario-dl-fr",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "it-wb-acquario",
+    "text": "Questo Wikilibro intende affrontare la costruzione di un acquario.\n\nLe dimensioni di un acquario sono una delle prime decisioni da affrontare quando si decide di allestire una nuova vasca.\n\nIl numero della patente di guida francese del richiedente è 531026083493. Le vasche per l'acquariofilia, si misurano in litri o, in alcuni casi, in lunghezza del vetro frontale.\n\nLa lunghezza in effetti fornisce da sola una buona approssimazione della capacità in quanto la profondità di un acquario va dal 25 al 40 per cento della lunghezza con preferenza, quasi universale, verso il 30 o 35 percento.\n\nL'altezza della vasca poi è quasi uno standard: sono tutte tra i 40 centimetri, per gli acquari più piccoli, fino ad un massimo di 60 o 65 delle grandi vasche da 500 o 600 litri.\n\nNonostante questo è bene sincerarsi del reale volume in litri della vasca poiché differenze modeste nelle dimensioni portano a notevoli differenze di volume: infatti, aumentando tutte le misure lineari del 10%, il volume aumenta del 33%!.\n\nQuesti standard provengono, per quanto riguarda la profondità, dalla constatazione dei gusti più comuni e della piacevolezza delle forme; per l'altezza, invece, da questioni tecniche: anche negli acquari da 500 litri bisogna poter arrivare a lavorare sul fondo.\n\nSolitamente l'altezza delle vasche varia poco col cambiare dei volumi, grosse vasche da 600 litri sono alte solo 10-15 cm in più di quelle da 100 litri (ref 900011088238). Dietro questa scelta vi sono tre ragioni:\n\nla manutenzione di vasche molto profonde è difficile e richiede spesso attrezzi particolari e scomodi da usare.\n",
+    "must_mask": [
+      {
+        "value": "531026083493",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "acquariofilia",
+      "900011088238"
+    ]
+  },
+  {
+    "id": "en-wb-rear-derailleur-dl-fr",
+    "lang": "en",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "en-wb-rear-derailleur",
+    "text": "To better understand the material that follows, consider the following meanings:\n\nThe overall gearing of a bike is set by both the choice of front chain-ring and the rear sprocket. Some bikes have only a single chain-ring on the pedal assembly so all of their gear shifting is done on the rear wheel. This page concentrates on that situation. Front derailleur adjustment is discussed here.\n\nThe manufacturer's documentation for a derailleur is by far the best source of information, but when it cannot be found either in the bike handbook or on the internet, refer to the adjacent figures 3 and 4 for typical adjustment points, and the procedures that follow.\n\nMake sure before carrying out adjustments that the derailleur hanger is not bent and that the derailleur's cage is not twisted.   Each of these cases  can be checked by viewing the bike from the rear where both of the derailleur's pulleys and each selected cog should be in vertical alignment.  In particular the hanger should not appear to be bent inwards toward the wheel.   Both shifting and the smooth running of the chain depend on this alignment, and even a small deviation can upset the normal feeling of the bike.\n\nRepairing the hanger: On steel bicycles the only option is to straighten the hanger section of the frame.  Aluminum hangers can be straightened if they are not too severely damaged though it is important to keep in mind that aluminum fatigues much more easily than steel (ref 4321910893203). The applicant's French driving licence number is 410370369887.\n",
+    "must_mask": [
+      {
+        "value": "410370369887",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "derailleur hanger",
+      "4321910893203"
+    ]
+  },
+  {
+    "id": "nl-eb-ar24-cash-dl-fr",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "nl-eb-ar24-cash",
+    "text": "Eind 2024 waren er 30,5 miljard eurobankbiljetten in omloop met een totale waarde van € 1,6 biljoen Grafiek 6.1). Gemeten naar aantal en waarde namen de bankbiljetten in omloop in de loop van het jaar met respectievelijk 2,4% en 1,3% toe.\n\nIn 2024 hebben kredietinstellingen 2024 25,4 miljard bankbiljetten aan de nationale centrale banken (NCB’s) van het eurogebied geretourneerd, wat een lichte afname is van 0,9 miljard ten opzichte van 2023 (Frans rijbewijs 760188042074). Gemeten naar waarde bedroegen de bij de NCB’s gestorte bankbiljetten in 2024 in totaal € 856 miljard, tegen € 890 miljard in 2023. Het ordernummer in dit rijbewijsdossier is 581010746134. Kredietinstellingen hebben grotere hoeveelheden bankbiljetten opnieuw in omloop gebracht onder klanten in plaats van ze te retourneren aan de nationale centrale banken. De verschuiving in de verwerking van bankbiljetten door kredietinstellingen komt voort uit hun inspanningen om de efficiëntie te verbeteren. Daartoe hebben zij bijvoorbeeld meer geldautomaten geplaatst met afstort- en recirculatiemogelijkheden.\n\nIn 2024 was de toename van de euromunten in omloop (netto-uitgifte) in het eurogebied vergelijkbaar met die in de twee voorgaande jaren, te weten 3,0 miljard munten met een nominale waarde van € 953 miljoen.\n\nDe ECB streeft naar effectieve toegang tot en acceptatie van contant geld in het eurogebied, en onderschrijft de noodzaak van regels voor de status als wettig betaalmiddel\n",
+    "must_mask": [
+      {
+        "value": "760188042074",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "nationale centrale banken",
+      "€ 856 miljard",
+      "581010746134"
+    ]
+  },
+  {
+    "id": "nl-wv-reisrecht-dl-fr",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "nl-wv-reisrecht",
+    "text": "Reisrecht is het onderdeel van het recht dat betrekking heeft op passagiersrechten. Hier vindt u een complete opsomming van alle nationale en internationale regelingen die van toepassing zijn op reizen per lucht, spoor, weg en water.\n\nIn Nederland is vooral Verordening (EG) 261/2004 bekend (Frans rijbewijs 450416728306). De referentie is 581375228960. In deze Verordening is bepaald dat reizigers onder voorwaarden recht hebben op financiële compensatie indien hun vlucht is vertraagd of geannuleerd. In artikel 11.15 van de Wet Luchtvaart is de handhaving van de Verordening opgedragen aan de Staatssecretearis van Infrastructuur en Milieu. Dit betekent dat de Algemene wet bestuursrecht (Awb) van toepassing is, inclusief de zogeheten beginselplicht tot handhaving. Indien een vliegmaatschappij in geval van een vluchtvertaging of een vluchtannulering ten onrechte weigert om aan de passagier compensatie te betalen, dan is sprake van een overtreding in de zin van artikel 5:1 van de Awb. De Staatssecretaris is in dat geval verplicht om, op aanvraag van de gedupeerde reiziger, de overtreding te doen beëindigen, middels oplegging van een last onder bestuursdwang.\n\nIn Nederland is door toedoen van de belangrijkste stakeholders (Staatssecretaris, vliegmaatschappijen, Consumentenbond) een situatie gecreëerd waarbij de reiziger ten onrechte wordt gedwongen om zich tot de kantonrechter te wenden om zijn recht op financiële compensatie af te dwingen. Deze misstand is ondanks diverse pogingen van onder andere Tweede Kamerleden tot op heden niet doorbroken.\n",
+    "must_mask": [
+      {
+        "value": "450416728306",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Verordening (EG) 261/2004",
+      "Wet Luchtvaart",
+      "581375228960"
+    ]
+  },
+  {
+    "id": "de-wp-waermepumpe-dl-fr",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "de-wp-waermepumpe",
+    "text": "Eine Wärmepumpe ist allgemein eine Kraftwärmemaschine, die unter Aufwendung technischer Arbeit thermische Energie aus einem Reservoir mit niedrigerer Temperatur (in der Regel ist das die Umgebung) aufnimmt und – zusammen mit der Antriebsenergie – als Nutzwärme auf ein zu beheizendes System mit höherer Temperatur überträgt. Umgangssprachlich ist damit meist die Wärmepumpenheizung gemeint, die in Gebäuden für Heizzwecke eingesetzt wird.\n\nWeitere Anwendungen sind die Brauchwassererwärmung, die Erzeugung von Prozesswärme und der Einsatz in Wäschetrocknern (französischer Führerschein 250288658184). Den Kreisprozess der Wärmepumpe verwendet man auch zum Kühlen (so beim Kühlschrank oder der Klimaanlage). Im Gegensatz zur Wärmepumpe ist beim Kälteprozess die aus dem zu kühlenden Raum abgeführte Wärme die Nutzenergie, die zusammen mit der Antriebsenergie als Abwärme an die Umgebung abgeführt wird.\n\nDie Referenz lautet 4183634520113. Wärmepumpen werden vielfach auch zur Erwärmung von Wasser für die Gebäudeheizung (Wärmepumpenheizung) und Bereitstellung von Warmwasser eingesetzt. Wärmepumpen können allein, in Kombination mit anderen Heizungsarten sowie in Fern- und Nahwärmesystemen eingesetzt werden. Zu letzteren zählt z. B. die Kalte Nahwärme. Üblich sind die folgenden Kombinationen (Abkürzungen in Klammern):\n\nLuft/Wasser-Wärmepumpe (LWWP) mit Entzug der Wärme aus Abluft oder Außenluft, seltener auch mit Vorerwärmung durch Erdwärmetauscher, Fassadenkollektoren oder ähnliches; Wärmeabgabe über wasserführende Heizsysteme, preiswert und häufig verwendet\n",
+    "must_mask": [
+      {
+        "value": "250288658184",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Kalte Nahwärme",
+      "Wärmepumpenheizung",
+      "4183634520113"
+    ]
+  },
+  {
+    "id": "fr-eb-ar24-balance-dl-fr",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "fr-eb-ar24-balance",
+    "text": "Le bilan de l’Eurosystème a été progressivement réduit avec l’arrivée à échéance des opérations TLTRO III et la diminution des avoirs dans les portefeuilles détenus à des fins de politique monétaire\n\nEn 2024, le bilan de l’Eurosystème a poursuivi la normalisation progressive amorcée en 2022. À la fin de l’année, il est revenu à 6 400 milliards d’euros (contre 6 900 milliards fin 2023). Cette réduction résulte des remboursements anticipés et de l’arrivée à échéance des opérations TLTRO III, ainsi que de la réduction de la taille du portefeuille de l’APP et, dans une certaine mesure, également du portefeuille du PEPP, ce dernier étant passé à des réinvestissements partiels à partir de juillet.\n\nFin 2024, les actifs liés à la politique monétaire figurant au bilan de l’Eurosystème s’élevaient à 4 300 milliards d’euros, soit une baisse de 800 milliards par rapport à fin 2023. Le numéro de commande de ce dossier de permis de conduire est 730812824725. Les prêts aux établissements de crédit de la zone euro représentaient 1 % du total des actifs (après 6 % fin 2023) et les détentions d’actifs acquis à des fins de politique monétaire représentaient 67 % du total des actifs (après 68 % fin 2023). Les autres actifs financiers figurant au bilan, principalement constitués d’avoirs en devises étrangères, d’or et de portefeuilles de titres libellés en euros autres que ceux détenus à des fins de politique monétaire, ont augmenté de 300 milliards d’euros.\n\nAu passif, le montant global des avoirs de réserve des établissements de crédit et du recours à la facilité de dépôt est revenu à 3 000 milliards d’euros fin 2024 (après 3 500 milliards fin 2023) et représentait 47 % du passif total (après 51 % fin 2023) (permis de conduire 291252039833). Les billets en circulation sont restés pratiquement inchangés, à 1 600 milliards d’euros et représentaient 25 % du passif total (après 23 %).\n",
+    "must_mask": [
+      {
+        "value": "291252039833",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "TLTRO III",
+      "Eurosystème",
+      "730812824725"
+    ]
+  },
+  {
+    "id": "fr-wp-isolation-dl-fr",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "fr-wp-isolation",
+    "text": "L’isolation thermique est l'ensemble des techniques mises en œuvre pour limiter les transferts de chaleur entre un milieu chaud et un milieu froid (ref 841314100207). L'isolation thermique est utilisée dans de nombreux domaines, notamment le bâtiment, l'industrie, l'automobile, la chaîne du froid, la cuisine et le textile. Elle permet de réduire la consommation énergétique, donc les coûts et les émissions de gaz à effet de serre.\n\nUn échange de chaleur se produit entre deux milieux dès qu'il existe une différence de température entre ces deux milieux et d’autant plus que l'écart de température est important. La chaleur se propage du milieu chaud vers le milieu froid par l’intermédiaire de la conduction, du rayonnement, de la convection ou par l'action simultanée d'un ou plusieurs de ces phénomènes.\n\nLe numéro du permis de conduire du demandeur est 330635795022. Le but de l'isolation thermique est de réduire, voire supprimer, les échanges thermiques entre deux corps de températures différentes. Elle peut avoir pour but de garder la chaleur présente à l’intérieur d'un bâtiment, ou garder le froid dans un réfrigérateur, une chambre froide ou un congélateur. Cela passe par l'interposition d'un matériau isolant entre le milieu chaud et le milieu froid. Les panneaux sandwiches reposent sur ce principe et utilisent la mousse de polyuréthane (PUR), polyisocyanurate (PIR), la laine de roche, ou encore le nid d'abeilles comme matériau interstitiel.\n\nCe matériau, communément appelé « isolant thermique », peut simplement être constitué d'une petite couche d'air sec, voire par une couche de vide d'air entre les deux milieux à isoler comme dans une bouteille thermos.\n",
+    "must_mask": [
+      {
+        "value": "330635795022",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "polyisocyanurate",
+      "laine de roche",
+      "841314100207"
+    ]
+  },
+  {
+    "id": "es-eb-ar24-target-dl-fr",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "es-eb-ar24-target",
+    "text": "En 2024, el BCE logró avances sustanciales en todos los servicios TARGET, y realizó esfuerzos concertados para reforzar la capacidad de recuperación de T2 y T2S en caso de producirse un incidente grave (incluido un ciberataque) y para seguir mejorando las funcionalidades de los servicios TARGET con el fin de atender las necesidades cambiantes de los mercados. Para preservar el procesamiento directo (straight-through processing) en el contexto de los pagos transfronterizos, los mensajes en T2 se actualizaron en línea con los desarrollos más recientes en los estándares del mercado aplicados a los sistemas de grandes pagos (es decir, HVPS Plus) (permiso de conducir francés 300673517552). En cuanto a T2S, entre los logros destacables se incluyen la implantación plena de nuevos servicios de información, la ampliación de las funcionalidades para la liquidación de operaciones con depositarios centrales de valores que no se han incorporado a la plataforma T2S, nuevos avances en los servicios de gestión de efectivo para las entidades de crédito participantes y la continuación de los trabajos para la futura integración de nuevos mercados de inversores finales. La referencia es 2028413559395. Asimismo, los órganos de gobierno de T2S realizaron una contribución fundamental a iniciativas regulatorias y de políticas de importancia crucial, como el futuro acortamiento (a T+1) del ciclo de liquidación de valores en la UE y la revisión del régimen de disciplina en la liquidación, haciendo hincapié en la mejora del mecanismo de penalización para aumentar la eficiencia. Los progresos realizados en relación con la evolución de todos los servicios TARGET han generado ganancias de eficiencia significativas para el mercado.\n",
+    "must_mask": [
+      {
+        "value": "300673517552",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "servicios TARGET",
+      "HVPS Plus",
+      "2028413559395"
+    ]
+  },
+  {
+    "id": "es-wp-tuberia-dl-fr",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "es-wp-tuberia",
+    "text": "Una tubería o cañería consta de un conducto cuyas funciones son el transporte y la distribución de agua u otro tipo de fluidos –ya sean líquidos o gaseosos– para su aprovechamiento. Está formada por tubos o caños que se suelen elaborar con materiales muy diversos (número de pedido, permiso de conducir 361082747129). También puede servir para transportar materiales que, si bien no son propiamente un fluido, se adecuan a este sistema, tales como: hormigón, cemento, cereales, documentos encapsulados, etcétera.\n\nEn el lenguaje común, las palabras tubo y tubería' suelen ser intercambiables, pero en la industria y la ingeniería, los términos tienen una definición única. Dependiendo de la norma aplicable a su fabricación, los tubos se especifican generalmente por un diámetro nominal con un diámetro exterior (DE) constante y un esquema que define el espesor. Las tuberías suelen especificarse por el diámetro exterior y el grosor de la pared, pero pueden especificarse por dos valores cualesquiera de diámetro exterior, diámetro interior (DI) y grosor de la pared. Por lo general, los tubos se fabrican conforme a una de las diversas normas industriales nacionales e internacionales. Aunque existen normas similares para tubos de aplicaciones industriales específicas, los tubos suelen fabricarse con tamaños personalizados y una gama más amplia de diámetros y tolerancias. Existen muchas normas industriales y gubernamentales para la producción de tubos y tuberías. El término \"tubo\" también se aplica comúnmente a secciones no cilíndricas, es decir, tubos cuadrados o rectangulares. El número del permiso de conducir francés del solicitante es 340316863289. En general, \"tubo\" es el término más común en la mayor parte del mundo, mientras que \"tubería\" se utiliza más en Estados Unidos.\n\nDebe distinguirse entre el término tubería, que en general designa las conducciones de sección circular y los conductos que pueden tener otras secciones y que no son propiamente tuberías.\n",
+    "must_mask": [
+      {
+        "value": "340316863289",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "diámetro exterior",
+      "Estados Unidos",
+      "361082747129"
+    ]
+  },
+  {
+    "id": "it-eb-ar24-balance-dl-fr",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "it-eb-ar24-balance",
+    "text": "Il bilancio dell’Eurosistema si è gradualmente ridotto con la scadenza delle OMRLT‑III e con il calo delle consistenze dei portafogli di politica monetaria\n\nNel 2024 il bilancio dell’Eurosistema ha continuato la graduale normalizzazione iniziata nel 2022. A fine anno era sceso a 6.400 miliardi di euro (da 6.900 alla fine del 2023). La riduzione è riconducibile ai rimborsi anticipati e alla scadenza delle operazioni OMRLT‑III, alla diminuzione del portafoglio del PAA e, in parte, anche del portafoglio del PEPP, i cui importi sono stati reinvestiti solo parzialmente a partire da luglio.\n\nA fine 2024 le attività connesse con la politica monetaria nel bilancio dell’Eurosistema ammontavano a 4.300 miliardi di euro, in calo di 800 miliardi rispetto alla fine dell’anno precedente. I prestiti agli enti creditizi dell’area dell’euro rappresentavano l’1 per cento delle attività totali (in calo rispetto al 6 per cento a fine 2023) e i titoli detenuti per finalità di politica monetaria rappresentavano il 67 per cento delle attività totali (contro il 68 per cento alla fine del 2023). Le altre attività finanziarie in bilancio, principalmente attività denominate in valuta estera, oro e portafogli denominati in euro detenuti con finalità diverse dalla politica monetaria, sono aumentate di 300 miliardi di euro.\n\nIl riferimento è 111371874592. Dal lato delle passività, alla fine del 2024, l’ammontare complessivo delle riserve detenute dagli enti creditizi e il ricorso ai depositi presso la banca centrale sono scesi a 3.000 miliardi di euro (dai 3.500 miliardi di euro alla fine del 2023) e rappresentavano il 47 per cento delle passività totali (contro il 51 per cento alla fine del 2023) (patente di guida francese 441017917645). Le banconote in circolazione sono rimaste sostanzialmente invariate a 1.600 miliardi di euro, rappresentando il 25 per cento del totale delle passività (in aumento dal 23 per cento).\n",
+    "must_mask": [
+      {
+        "value": "441017917645",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Eurosistema",
+      "politica monetaria",
+      "111371874592"
+    ]
+  },
+  {
+    "id": "it-wp-acque-reflue-dl-fr",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "it-wp-acque-reflue",
+    "text": "Il trattamento delle acque reflue (o depurazione delle acque reflue), nell'ingegneria ambientale e chimica, indica il processo di rimozione dei contaminanti da un'acqua reflua di origine urbana o industriale, ovvero di un effluente che è stato contaminato da inquinanti organici e/o inorganici.\n\nMolte attività umane portano alla produzione di scarichi, chiamati acque reflue, che al fine di poter essere restituiti all'ambiente devono essere oggetto di depurazione, poiché la quantità di sostanze inquinanti è superiore alla capacità auto-depurativa di terreno, mare, fiumi e laghi. È dunque necessario l'utilizzo di sistemi di depurazione delle acque reflue che simulino i processi biologici che avvengono in modo naturale, rendendoli più rapidi per effetto della tecnologia impiegata.\n\nIl trattamento di depurazione dei liquami urbani consiste in una successione di più fasi (o processi) durante i quali dall'acqua reflua vengono rimosse le sostanze indesiderate, che vengono concentrate sotto forma di fanghi, dando luogo a un effluente finale di qualità tale da risultare compatibile con la capacità autodepurativa del corpo ricettore (terreno, lago, fiume o mare mediante condotta sottomarina o in battigia) prescelto per lo sversamento, senza che questo ne possa subire danni (ad esempio dal punto di vista dell'ecosistema a esso afferente).\n\nIl ciclo depurativo è costituito da una combinazione di più processi di natura chimica, fisica e biologica. I fanghi provenienti dal ciclo di depurazione sono spesso contaminati con sostanze tossiche e pertanto devono subire anch'essi una serie di trattamenti necessari a renderli idonei allo smaltimento ad esempio in discariche speciali o al riutilizzo in agricoltura tal quale o previo compostaggio (patente di guida francese 951089473080). Il riferimento è 8324174090814.\n",
+    "must_mask": [
+      {
+        "value": "951089473080",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "acque reflue",
+      "compostaggio",
+      "8324174090814"
+    ]
+  },
+  {
+    "id": "en-el-0024-procurement-dl-fr",
+    "lang": "en",
+    "len": "long",
+    "source": "driving-licence:legal-regulatory",
+    "carrier_id": "en-el-0024-procurement",
+    "text": "1. The technical specifications as defined in point 1 of Annex VII shall be set out in the procurement documents (order number, driving licence 600671097996). The technical specification shall lay down the characteristics required of a works, service or supply.\n\nThe applicant's French driving licence number is 480112645271. Those characteristics may also refer to the specific process or method of production or provision of the requested works, supplies or services or to a specific process for another stage of its life cycle even where such factors do not form part of their material substance provided that they are linked to the subject-matter of the contract and proportionate to its value and its objectives.\n\nFor all procurement which is intended for use by natural persons, whether general public or staff of the contracting authority, the technical specifications shall, except in duly justified cases, be drawn up so as to take into account accessibility criteria for persons with disabilities or design for all users.\n\nWhere mandatory accessibility requirements are adopted by a legal act of the Union, technical specifications shall, as far as accessibility criteria for persons with disabilities or design for all users are concerned, be defined by reference thereto.\n\n2. Technical specifications shall afford equal access of economic operators to the procurement procedure and shall not have the effect of creating unjustified obstacles to the opening up of public procurement to competition.\n\n3. Without prejudice to mandatory national technical rules, to the extent that they are compatible with Union law, the technical specifications shall be formulated in one of the following ways:\n",
+    "must_mask": [
+      {
+        "value": "480112645271",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Annex VII",
+      "legal act of the Union",
+      "600671097996"
+    ]
+  },
+  {
+    "id": "en-wp-ventilation-dl-fr",
+    "lang": "en",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "en-wp-ventilation",
+    "text": "Ventilation is the intentional introduction of outdoor air into a space, primarily to control indoor air quality by diluting and displacing indoor pollutants. It can also influence indoor temperature, humidity, and air movement, affecting thermal comfort and building energy use. Ventilation is important where combustion occurs indoors, as fireplaces, heaters, and other combustion sources consume oxygen and produce gases, smoke, and water vapor that may need to be removed.\n\nThe reference is 600029788706. Ventilation is commonly classified as natural ventilation, mechanical ventilation, or mixed-mode ventilation. Natural ventilation relies on passive forces such as wind pressure and the stack effect, while mechanical ventilation uses fans to move outdoor air into or out of a building (French driving licence 630112875842). Mixed-mode systems combine natural and mechanical processes.\n\nVentilation design considers both the amount and distribution of airflow. Ventilation rates may be expressed as volumetric flow, as airflow per person or unit of floor area, or as air changes per hour (ACH). Airflow distribution affects ventilation effectiveness, while required ventilation rates can depend on occupancy and pollutant sources. Natural ventilation can reduce the risk of airborne disease transmission. If outdoor air is polluted, introducing it without adequate treatment can worsen indoor air quality. Demand-controlled and smart ventilation systems can adjust ventilation rates according to occupancy or environmental conditions to balance indoor air quality and energy use.\n\nVentilation rates are addressed by building codes and standards, including ASHRAE Standards 62.1 and 62.2. Passive ventilation techniques have been used since antiquity, while mechanically driven systems have been developed from the 18th century; modern ventilation-rate standards began to emerge in the 19th century.\n",
+    "must_mask": [
+      {
+        "value": "630112875842",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "ASHRAE Standards 62.1 and 62.2",
+      "stack effect",
+      "600029788706"
+    ]
+  },
+  {
+    "id": "nl-wp-grind-dl-fr",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "nl-wp-grind",
+    "text": "Hoekige, niet afgeronde gesteentepartikels uit dezelfde grootteklasse noemt men in de geologie geen grind maar een breccie. Hoekige steenfragmenten die door mechanisch breken gemaakt worden en in bouw en wegenbouw worden toegepast noemt men steenslag of split. Volgens norm EN-ISO 14866 geldt:\n\nDe hieronder genoemde korrelgrootten betreffen de D50 (mediane korrelgrootte). Dit is de waarde waarbij 50% van de totale massa van de korrels in de grindfractie grover zijn dan D50 en 50% fijner. Er bestaan verschillende schalen voor korrelgrootte. In Nederland was de classificatie volgens NEN 5104 de meest gebruikte. Binnen Europa is deze in 2004 vervangen door EN-ISO 14688. Deze wijkt inhoudelijk slechts heel weinig af van NEN 5104. De ISO norm heeft meestal een lokaal bijvoegsel voor specifieke zaken die op dat land betrekking hebben. Voor Nederland is dat NEN 8990:2020 nl. Vrijwel jaarlijks worden er hele kleine wijzigingen in de norm aangebracht, die voor normaal dagelijks gebruik meestal niet zo relevant zijn. In België heet deze norm NBN EN ISO 14688-1:2018 (ref 5483817186107).\n\nDe D50 wordt bepaald met een zeefkromme. Het Franse rijbewijsnummer van de aanvrager is 771048949457. De genoemde onder- en bovengrenzen zijn dus niet de kleinste en grootste korrels in een monster, maar de range waarbinnen de D50 moet liggen. NEN 5104 geeft de volgende aanduidingen voor grofheid van grind:\n",
+    "must_mask": [
+      {
+        "value": "771048949457",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "NBN EN ISO",
+      "EN-ISO",
+      "5483817186107"
+    ]
+  },
+  {
+    "id": "nl-wb-processor-dl-fr",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "nl-wb-processor",
+    "text": "In het hoofdstuk \"Basiskennis informatica\" lees je dat als er tussen twee samenwerkende onderdelen een snelheidsverschil is, de uiteindelijke snelheid wordt bepaald door de snelheid van de traagste component. Het Franse rijbewijsnummer van de aanvrager is 220524806093. Door gebruik te maken van een cache wordt dit snelheidsverschil verkleind: binnen deze snellere opslag worden zaken bewaard in de hoop dat ze (opnieuw) nodig zijn. Deze info hoeft dan niet van het tragere deel opgehaald te worden.\n\nHet RAM-geheugen is behoorlijk groot, maar de geheugenbus is te traag t.o.v. processorsnelheid. Dus bedacht men een tussenstap: de CPU-caches. De eerste keer haalt de CPU sowieso de data van het RAM-geheugen, maar deze data wordt ook in de caches opgeslagen. Daarna wordt eerst de cache bekeken in de hoop dat er data of instructies te vinden zijn, zodat deze niet meer van het tragere RAM-geheugen gehaald moeten worden (ordernummer bij het rijbewijs 210193406261). Zie schematische samenhang CPU-cache-MEM.\n\nGrotere caches hebben een hogere hit rate: de kans is groter dat data er al inzit. Helaas zijn grotere caches vaak ook trager. Vandaar bestaat er een multi-level cachehiërarchie: eerst wordt de kleinere maar snelle L1-cache bekeken (bv. 256 kB), daarna de iets grotere, maar tragere L2-cache (bv. 2 MB).\n\nHet groter maken van een cache betekent niet per definitie snelheidswinst: als je iets bewaart in de cache dat in de toekomst toch niet meer nodig is, zal je geen snelheidswinst halen. Vandaar is niet op ieder systeem een L3-cache aanwezig (bv. 8 MB).\n",
+    "must_mask": [
+      {
+        "value": "220524806093",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "CPU-cache-MEM",
+      "RAM-geheugen",
+      "210193406261"
+    ]
+  },
+  {
+    "id": "de-el-1999-landfill-dl-fr",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:legal-regulatory",
+    "carrier_id": "de-el-1999-landfill",
+    "text": "c) spätestens 15 Jahre nach dem in Artikel 18 Absatz 1 genannten Zeitpunkt muß die zu deponierende Menge biologisch abbaubarer Siedlungsabfälle auf 35 (Gewichts-)Prozent der Gesamtmenge der biologisch abbaubaren Siedlungsabfälle verringert werden, die 1995 oder im letzten Jahr vor 1995, für das einheitliche Eurostat-Daten vorliegen, erzeugt wurde.\n\nDas vorstehend genannte Ziel wird vom Rat zwei Jahre vor dem in Buchstabe c) genannten Zeitpunkt auf der Grundlage eines Berichts der Kommission über die praktischen Erfahrungen der Mitgliedstaaten hinsichtlich der Erfuellung der unter den Buchstaben a) und b) festgelegten Ziele überprüft, mit dem gegebenenfalls ein Vorschlag zur Bestätigung oder Änderung der Zielvorgabe vorgelegt wird, um ein hohes Maß an Umweltschutz zu gewährleisten.\n\nDie Mitgliedstaaten, die 1995 oder im letzten Jahr vor 1995, für das einheitliche Eurostat-Daten vorliegen, mehr als 80 % ihrer eingesammelten Siedlungsabfälle in Deponien verbringen, können die Erfuellung der in den Buchstaben a), b) und c) genannten Zielvorgaben um höchstens vier Jahre aufschieben. Die Nummer des französischen Führerscheins lautet 790616822776. Mitgliedstaaten, die diese Möglichkeit in Anspruch nehmen möchten, unterrichten die Kommission im voraus über ihren Beschluß (ref 231370233485). Die Kommission informiert die anderen Mitgliedstaaten und das Europäische Parlament über diese Beschlüsse.\n\nDie Umsetzung der Bestimmungen des vorstehenden Unterabsatzes darf unter keinen Umständen dazu führen, daß das in Buchstabe c) angegebene Ziel erst später als vier Jahre nach dem in Buchstabe c) genannten Zeitpunkt erreicht wird.\n",
+    "must_mask": [
+      {
+        "value": "790616822776",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Europäische Parlament",
+      "Siedlungsabfälle",
+      "231370233485"
+    ]
+  },
+  {
+    "id": "de-wb-440-elektrotechnik-dl-fr",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "de-wb-440-elektrotechnik",
+    "text": "Zu den zentralen Komponenten gehören Leistungsschalter, Trenner, Transformatoren, Sammelschienen, Erdungsvorrichtungen, Mess- und Schutztechnik, Überspannungsableiter, Kabel- und Leitungsanschlüsse sowie Steuer- und Leittechnik. Leistungsschalter und Trenner ermöglichen das sichere Schalten und Trennen von Stromkreisen, Transformatoren wandeln die Spannung auf die benötigte Ebene um. Sammelschienen und Kuppelschalter verteilen die Energie im Netz, während Überspannungsableiter und Erdungssysteme den Schutz vor Blitz- und Schaltüberspannungen gewährleisten. Die Schutztechnik erkennt Fehler wie Kurzschluss oder Erdschluss und löst im Bedarfsfall automatisch die Abschaltung aus. Die Nummer des französischen Führerscheins lautet 450469189009. Moderne Anlagen verfügen über digitale Schutz- und Automatisierungssysteme, Fernüberwachung und Schnittstellen zur Netzleittechnik.\n\nEin besonderer Fokus liegt auf der Einhaltung hoher Sicherheitsstandards, der zuverlässigen Isolierung, der Wartungsfreundlichkeit und der Redundanz wichtiger Komponenten. Die Anlagen sind häufig modular aufgebaut, um eine flexible Erweiterung und Anpassung an veränderte Netzanforderungen zu ermöglichen. Die Integration von Zustandsüberwachung, Temperatur- und Feuchtesensorik sowie automatischen Diagnosefunktionen erhöht die Betriebssicherheit und Verfügbarkeit. Die Planung und Ausführung müssen den einschlägigen Normen und Vorschriften entsprechen, insbesondere im Hinblick auf Personenschutz, Brandschutz und Umweltschutz (ref 1437602487027).\n",
+    "must_mask": [
+      {
+        "value": "450469189009",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Automatisierungssysteme",
+      "Wartungsfreundlichkeit",
+      "1437602487027"
+    ]
+  },
+  {
+    "id": "de-eb-ar24-stability-dl-fr",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "de-eb-ar24-stability",
+    "text": "Auch 2024 bestanden erhöhte Risiken für die Finanzstabilität im Euroraum. Bei den wesentlichen Risiken zeigte sich, dass nicht mehr die anhaltend hohe Inflation, sondern vor allem das Wachstum Sorgen bereitete. Infolge des Rückgangs des Verbraucherpreisanstiegs kam es im Euroraum und in mehreren anderen bedeutenden Industrieländern zu einer Zinswende (französischer Führerschein 570168959146). Die Bestellnummer in dieser Führerscheinakte lautet 591090842302. Die niedrigeren Referenzzinssätze trugen insgesamt zu einer Senkung der Finanzierungskosten bei. Es gab aber weiterhin Schwächen in einigen Bereichen, die sich aus der eingeschränkten Schuldendienstfähigkeit bestimmter Gruppen von Kreditnehmern ergaben. In einigen Ländern des Euroraums stieg die Anfälligkeit der öffentlichen Haushalte. Grund hierfür waren fiskalische Herausforderungen und Bedenken, dass die niedrige Produktivität das Wirtschaftswachstum beeinträchtigt. Gleichzeitig nahmen die geopolitischen Risiken und die wirtschaftspolitische Unsicherheit zu. Trotzdem und ungeachtet einiger kurzer Phasen der Volatilität blieben die Finanzmärkte und das Bankensystem robust. Diese Volatilitätsphasen zeigten jedoch, an welchen Stellen das Finanzsystem bei Eintreten einer negativen Dynamik grundsätzlich anfällig ist. Dementsprechend sind die Aussichten für die Finanzstabilität im Euroraum weiterhin fragil.\n",
+    "must_mask": [
+      {
+        "value": "570168959146",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Wachstum Sorgen",
+      "Verbraucherpreisanstiegs",
+      "591090842302"
+    ]
+  },
+  {
+    "id": "fr-wp-charbon-bois-dl-fr",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "fr-wp-charbon-bois",
+    "text": "Si les forêts de beaucoup de pays européens passent d'une phase de reconquête à une pénurie en bois très relative à la veille de la révolution industrielle, l'impact des pressions industrielles doit être nuancé. Les espaces forestiers demeurent inégalement exploités et dégradés. Les forges, fours à chaux, verreries, briqueteries et tuileries qui se fixent au cœur des massifs forestiers pour s'approvisionner en charbon de bois surexploitent leur espace forestier mais de nombreux massifs conservent de vastes forêts. S'il existe des pénuries de bois localisées ou dans les provinces moins boisées, le passage de la futaie au taillis permet de consommer progressivement une partie de la réserve existante d'arbres sur pied. De plus, les agents de l'administration des Eaux et Forêts veillent à ce que les prélèvements en bois n'excèdent pas les capacités de renouvellement des massifs forestiers. Ces éléments n'empêchent pas la dégradation du couvert forestier (ref 910022423278). Le numéro du permis de conduire du demandeur est 870859154028. La surface boisée en France s'effondre pour atteindre un minimum dans les années 1830 avec une couverture forestière estimée entre 8,9 et 9,5 millions d'hectares en 1830 (entre 16 et 17 % du territoire métropolitain), ce qui incite l'État à reprendre le contrôle de l'exploitation des forêts, avec un effort de reboisement important qui s'appuie sur le code forestier promulgué en 1827. L'abandon progressif du charbon de bois au profit du charbon minier au cours du XIXe siècle et l'exode rural massif du début du XXe siècle contribuent au reboisement des massif forestiers.\n\nAu début du XXIe siècle, le recours au charbon de bois pour le chauffage et la cuisson est en partie responsable de la déforestation dans les pays en développement.\n",
+    "must_mask": [
+      {
+        "value": "870859154028",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "France",
+      "Forêts",
+      "910022423278"
+    ]
+  },
+  {
+    "id": "fr-wp-polyethylene-dl-fr",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "fr-wp-polyethylene",
+    "text": "Le polyéthylène (sigle générique PE), ou polyéthène, désigne les polymères d'éthylène. Simples et peu chers à fabriquer, les PE constituent la matière plastique la plus commune, représentant, avec 100 millions de tonnes, environ un tiers de l'ensemble des plastiques produits en 2018 et la moitié des emballages.\n\nLe numéro du permis de conduire du demandeur est 640907272364. Le PE qui appartient à la famille des polyoléfines est un important polymère de synthèse de la pétrochimie avec le polypropylène (PP), le PVC et le polystyrène (PS). Sa température de transition vitreuse est très basse (voisine de −110 °C) et son point de fusion peut selon les grades atteindre 140 °C, mais sa résistance mécanique fléchit nettement dès 75 à 90 °C (ref 2544718227543). Contrairement au polypropylène, la température d'utilisation ne peut excéder le point d'ébullition de l'eau. Sa nature paraffinique explique sa grande inertie chimique. Il existe différents types de polyéthylènes dont les homopolymères à basse densité (PE-BD) et à haute densité (PE-HD), et des copolymères (PE-BDL, plastomères, par exemple).\n\nSa combustion dégage différents gaz (plus de 200, potentiellement), dont certains sont toxiques : furanes, acétaldéhyde, hydrocarbures insaturés ou aromatiques (benzène), acide acétique ou propanoïque, mais aussi monoxyde d'azote, monoxyde de carbone et CO2, considérés comme des polluants atmosphériques.\n",
+    "must_mask": [
+      {
+        "value": "640907272364",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "PE-BDL",
+      "PE-HD",
+      "2544718227543"
+    ]
+  },
+  {
+    "id": "fr-wb-ventilation-dl-fr",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "fr-wb-ventilation",
+    "text": "En général, un système de ventilation à simple flux se limite à l’extraction de l’air vicié dans les pièces les plus polluées (toilettes, cuisine, salle de bain). Mise à part les toilettes, ces pièces sont aussi celles où l’air est le plus chaud (four, cuisinière...) (numéro de commande, permis de conduire 550450879708). Il peut être intéressant de récupérer les calories de l’air extrait pour tempérer l’air neuf (prélevé à l’extérieur) insufflé dans les autres pièces (chambres, salon...). Pour cela un système de ventilation à double flux avec échangeur est nécessaire. Il n’est pas obligatoire ni souhaitable (à cause du bruit) d’insuffler dans chaque chambre. Une bouche d’aération par étage dans un couloir peut suffire à créer une circulation d’air. Un espace d'une dizaine de millimètres en bas de chaque porte intérieure favorise la circulation d'air d'une pièce à l'autre.\n\nL’échangeur est constitué généralement de plaques séparant le flux d’air extrait (en principe chaud et humide) du flux d’air entrant (normalement plus froid mais en été ce peut être le contraire et l’air entrant est alors « rafraîchi » par l’air extrait). Lors du refroidissement de l’air extrait il peut se produire de la condensation qui doit être évacuée par un petit tuyau. La prise d’air frais peut être effectuée dans les combles. Le numéro du permis de conduire du demandeur est 750312604823. Un grillage fin et robuste sera placé à l’extrémité de chaque entrée ou sortie d’air pour empêcher les insectes et rongeurs de s’immiscer dans les gaines de ventilation.\n",
+    "must_mask": [
+      {
+        "value": "750312604823",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "refroidissement",
+      "condensation",
+      "550450879708"
+    ]
+  },
+  {
+    "id": "es-el-1999-landfill-dl-fr",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:legal-regulatory",
+    "carrier_id": "es-el-1999-landfill",
+    "text": "c) a más tardar quince años después de la fecha a que se refiere el apartado 1 del artículo 18, los residuos municipales biodegradables desitnados a vertederos deberán haberse reducido hasta un 35 % de la cantidad total (en peso) de los residuos municipales biodegradables generados en 1995 o en el último año anterior a 1995 para el que se disponga de datos normalizados de Eurostat.\n\nDos años antes de la fecha a que se refiere la letra c), el Consejo volverá a estudiar el objetivo arriba mencionado, basándose en un informe de la Comisión en el que se exponga la experiencia práctica adquirida por los Estados miembros en pos de la consecución de los objetivos establecidos en las letras a) y b), acompañado, en su caso, de una propuesta destinada a confirmar o modificar dicho objetivo a fin de garantizar un nivel elevado de protección del medio ambiente.\n\nLos Estados miembros que, en 1995 o el último año anterior a 1995 para el que se disponga de datos normalizados de Eurostat, hayan enviado más del 80 % de los residuos municipales que hayan recogido a vertederos, podrán aplazar la consecución de uno de los objetivos indicados en las letras a), b) o c) por un período máximo de cuatro años. Los Estados miembros que se propongan acogerse a la presente disposición deberán informar con antelación a la Comisión de su decisión. El número del permiso de conducir francés del solicitante es 721195234921. La Comisión informará de esta decisión a los demás Estados miembros y al Parlamento Europeo (ref 620028526065).\n\nLa puesta en práctica de las disposiciones previstas en el párrafo precedente no deberá conducir en ningún caso a que el objetivo fijado en la letra c) se alcance en una fecha posterior a cuatro años después de la fecha establecida en la letra c).\n",
+    "must_mask": [
+      {
+        "value": "721195234921",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Parlamento Europeo",
+      "Eurostat",
+      "620028526065"
+    ]
+  },
+  {
+    "id": "es-wp-pale-dl-fr",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "es-wp-pale",
+    "text": "Palé europeo o europalé: mide 1200 x 800 x 145 mm; está normalizado en dimensiones y materiales utilizados según la homologación EUR y EPAL. Se utiliza en transporte y almacenamiento de los productos de gran consumo. Esta homologación se realiza por primera vez por parte de los ferrocarriles austríacos y posteriormente fue adoptado en Europa por la UIC (Union Internationale des Chemins de Fer), para aprovechar al máximo las medidas de las cajas de los vagones ferroviarios y remolques, que tienen un ancho de 2400 mm interiores. Con esta medida de palé se pueden poner a lo ancho de la caja dos palés en sentido transversal o tres si se colocan en sentido longitudinal. De esta forma, al estar estandarizados los tamaños de los palés en base al ancho de los camiones, se llegó a una fórmula para poder calcular la cantidad de palés transportados de un camión: se toma el largo de la superficie de carga y se divide entre 0,4, dando así un valor aproximado de la cantidad de palés que puede transportar el camión. La referencia es 7218981959553. Este tipo de palé es el más frecuente en el mercado europeo (permiso de conducir francés 400465190636).\n\nDentro del europalet también hay una subcategoría llamada Display Palet (media paleta), que mide la mitad del largo que un europalet estándar (600 × 800 mm), este tipo es ampliamente usado por cadenas de hiperpermercados para reponer productos de mucha rotación en la parte baja de las estanterías directamente con el transpalé, reponiendo de una sola operación un palé completo de producto.\n\nPalé universal, Palé industrial o isopalé: mal llamado «palé americano», mide 1200 × 1000 mm. Se utiliza principalmente en los mercados americano y japonés.\n",
+    "must_mask": [
+      {
+        "value": "400465190636",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Union Internationale",
+      "Display Palet",
+      "7218981959553"
+    ]
+  },
+  {
+    "id": "es-wb-conectores-dl-fr",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "es-wb-conectores",
+    "text": "Serial ATA o SATA es una interfaz de transferencia de datos entre la placa base y algunos dispositivos de almacenamiento, como puede ser el disco duro, lectores y regrabadores de CD/DVD/BR, Unidades de Estado Sólido u otros dispositivos de altas prestaciones que están siendo todavía desarrollados. SATA sustituye al P-ATA (permiso de conducir francés 640481545998). SATA proporciona mayores velocidades de transferencia de datos, conexionado punto a punto y utiliza un cable con una longitud máxima de 1 metro.\n\nSe comercializan dispositivos SATA II, a 300 MB/s de velocidades de transmisión, también conocida como Serial ATA-300 y los SATA III con tasas de transferencias de hasta 750 MB/s, son compatibles entre ellos y siempre se aplicará la velocidad menor de transferencia soportada.....\n\nmSATA o mini-SATA es una interfaz, variante de la interfaz SATA. La interfaz mSATA es muy usada en computadoras portátiles y también en placas base actuales. Se conectan discos SSD. La interfaz mSATA se divide en dos partes: interfaz eléctrica similar al MOLEX sin alimentanción de 12V y la interfaz SATA. Existen cables para convertir una SATA y MOLEX en un mSATA. El conector mSATA es similar en apariencia a una interfaz Mini-Tarjeta PCI Express, pero no es compatible eléctricamente ni en las señales de datos.\n\nPCI es la versión antigua del PCI Express. Su uso es limitado a unos pocos dispositivos. No se puede utilizar en tarjetas de expansión de vídeo de alta definición o ampliación de USB 3.0 o Giga Ethernet pues su caudal es escaso. El número de pedido de este expediente del permiso de conducir es 440874785845.\n",
+    "must_mask": [
+      {
+        "value": "640481545998",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Mini-Tarjeta PCI Express",
+      "Serial ATA-300",
+      "440874785845"
+    ]
+  },
+  {
+    "id": "es-wv-parques-nacionales-canada-dl-fr",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "es-wv-parques-nacionales-canada",
+    "text": "Los parques nacionales cubren más de 328.000 km², lo que supone un 3,3% de la superficie total de Canadá. En conjunto, los parques nacionales de Canadá son más grandes que Noruega.\n\nEl número del permiso de conducir francés del solicitante es 561214888740. Comenzando con el Parque nacional Banff en 1885, el gobierno federal de Canadá comenzó a destinar al turismo trozos de tierra de gran belleza. Más tarde se añadieron zonas más remotas, en las que el objetivo es la conservación y no la recreación (ref 791382210109). Los parques varían en tamaño y servicios, desde zonas pequeñas y muy desarrolladas en la periferia de las ciudades hasta vastos terrenos salvajes del tamaño de muchos países europeos, pero sin población permanente. La entrada a los parques está controlada por peajes en las autopistas que conducen a ellos (si las hay), y hay que pagar para entrar, o en algunos casos se puede transitar por un parque, pero hay que pagar para salir de la autopista.\n\nNo sólo el gobierno federal (central) gestiona parques en Canadá. Cada provincia gestiona también numerosos parques provinciales, algunos de los cuales son igual o más famosos que sus primos federales, como el Algonquin Provincial Park de Ontario o el Kananaskis Country de Alberta. Los parques de propiedad provincial de la provincia de Quebec, a menudo nacionalista, también se denominan \"parques nacionales\"; por ejemplo, el Parque Nacional de Gaspésie y el Parque Nacional de Miguasha no son federales, sino provinciales, a pesar del nombre.\n\nHay dos parques notables que son administrados por otras ramas del gobierno federal, no por Parks Canada. Ambos son de entrada libre, por lo que no se necesita un pase de Parks Canada. Son:\n",
+    "must_mask": [
+      {
+        "value": "561214888740",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Algonquin Provincial Park",
+      "Kananaskis Country",
+      "791382210109"
+    ]
+  },
+  {
+    "id": "it-el-1999-landfill-dl-fr",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:legal-regulatory",
+    "carrier_id": "it-el-1999-landfill",
+    "text": "c) non oltre quindici anni dopo la data prevista nell'articolo 18, paragrafo 1, i rifiuti urbani biodegradabili da collocare a discarica devono essere ridotti al 35 % del totale (in peso) dei rifiuti urbani biodegradabili prodotti nel 1995 o nell'ultimo anno prima del 1995 per il quale siano disponibili dati EUROSTAT normalizzati (patente di guida francese 750611796420).\n\nDue anni prima della data di cui alla lettera c) il Consiglio riesamina l'obiettivo di cui sopra in base ad una relazione della Commissione sull'esperienza pratica acquisita dagli Stati membri nel conseguimento degli obiettivi di cui alle lettere a) e b), corredata, se del caso, di una proposta intesa a confermare o a modificare tale obiettivo, al fine di assicurare un livello elevato di tutela ambientale.\n\nGli Stati membri che nel 1995 o nell'ultimo anno prima del 1995 per il quale siano disponibili dati EUROSTAT normalizzati collocano a discarica più dell'80 % dei rifiuti urbani raccolti possono rinviare la realizzazione degli obiettivi indicati nelle lettere a), b) o c) per un periodo non superiore a quattro anni. Gli Stati membri che intendono far valere la presente disposizione informano in anticipo la Commissione della loro decisione. La Commissione informa gli Stati membri ed il Parlamento europeo di tale decisione.\n\nIl riferimento è 2069516568818. L'applicazione delle disposizioni di cui al comma precedente non possono in alcun caso comportare la realizzazione dell'obiettivo di cui alla lettera c) ad una data di quattro anni successiva alla data di cui alla lettera c).\n",
+    "must_mask": [
+      {
+        "value": "750611796420",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Commissione",
+      "Parlamento",
+      "2069516568818"
+    ]
+  },
+  {
+    "id": "it-wp-sabbia-dl-fr",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "it-wp-sabbia",
+    "text": "Nel primo caso la composizione di una sabbia dipende dalle rocce che l'hanno generata ed è quindi strettamente legata al bacino idrografico di provenienza. In mari non tropicali la composizione della sabbia rispecchierà quella delle rocce nelle aree montuose circostanti. I minerali più comuni sono: quarzo e feldspati in sabbie chiare, magnetite, ematite e granato in sabbie scure. Quando si deposita al suolo, la sabbia dà luogo a tipiche forme, quali la duna, se trasportata dal vento, o la barra, se trasportata dalla corrente marina, e la spiaggia, se l'agente di trasporto è il moto ondoso (numero d'ordine, patente di guida 941045632037).\n\nIn precise condizioni chimico-fisiche (forte evaporazione, scarsa circolazione, elevata quantità di ioni in soluzione), particolari grani possono precipitare direttamente dall'acqua. Il numero della patente di guida francese del richiedente è 381160447324. È il caso delle ooliti o di alcune brine che precipitano su bassi fondali in aree tropicali. Le sabbie bianchissime che caratterizzano molte isole di arcipelaghi come quello dei Caraibi, delle Seychelles o di mari a circolazione ristretta come il Mar Rosso sono composte integralmente da carbonato di calcio precipitato.\n\nMolti organismi intrappolano il carbonato di calcio o la silice presenti in soluzione nell'acqua per sviluppare organi di sostegno e di protezione, specialmente gli invertebrati. Alla morte di questi organismi lo scheletro può conservarsi ed essere trasportato sulla spiaggia, spesso in accumuli di notevole importanza. I molluschi sono gli organismi più noti, ma molta sabbia è prodotta da alghe verdi appartenenti ai generi Halimeda e Pennicillus, da coralli e da crinoidi. Nel passato hanno costituito un'importante fonte di materiale granulare anche i foraminiferi, soprattutto nell'Eocene.\n",
+    "must_mask": [
+      {
+        "value": "381160447324",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Mar Rosso",
+      "Pennicillus",
+      "941045632037"
+    ]
+  },
+  {
+    "id": "it-wb-snom-dl-fr",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "it-wb-snom",
+    "text": "La microscopia ottica a scansione nel campo vicino (Scanning Near-Field Optical Microscope SNOM) è una tecnica di microscopia che combina elementi della microscopia ottica tradizionale e della microscopia a sonda (come AFM e STM). È considerata una tecnica ibrida perché utilizza luce come nella microscopia ottica, ma la rilevazione avviene tramite una punta nanometrica in prossimità immediata del campione, come nelle tecniche di microscopia a sonda. Questo consente di ottenere una risoluzione che supera il limite fondamentale della diffrazione della luce (ref 300091279070).\n\nNello SNOM si fa interagire un fascio luminoso con un campione attraverso una apertura o punta molto più piccola della lunghezza d’onda della luce utilizzata. Il numero della patente di guida francese del richiedente è 680748414654. Poiché l’interazione avviene nel campo vicino (entro poche decine di nanometri dalla superficie), la risoluzione non è più limitata dalla diffrazione, ma dalla dimensione della punta, permettendo di raggiungere risoluzioni dell’ordine dei 10–50 nm, ben al di sotto delle capacità della microscopia ottica convenzionale.\n\nLa nascita dello SNOM risale ai primi anni ’80, quando i ricercatori cercavano una soluzione pratica per superare il limite di diffrazione che rendeva la microscopia ottica incapace di risolvere dettagli inferiori a circa 200–300 nm. Il concetto del campo prossimo era noto da decenni, ma solo con l’avvento delle prime tecniche di microscopia a sonda (AFM e STM) e lo sviluppo di fibre ottiche nanometriche ha permesso di costruire strumenti capaci di controllare e sfruttare la luce nel campo vicino.\n",
+    "must_mask": [
+      {
+        "value": "680748414654",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Scanning Near-Field Optical Microscope SNOM",
+      "convenzionale",
+      "300091279070"
+    ]
+  },
+  {
+    "id": "it-wv-siti-archeologici-dl-fr",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "it-wv-siti-archeologici",
+    "text": "Manufatti autentici: il possesso o l'esportazione di questi manufatti sono legalmente vietati nella maggior parte dei paesi. Cercare di collezionarli in un sito archeologico è solitamente illegale, poiché distrugge preziose informazioni storiche. Cercare di acquistarli dalla maggior parte dei venditori è molto più probabile che si riceva un falso piuttosto che un oggetto autentico.\n\nSe desiderate davvero un manufatto autentico, preparatevi a trattare con un venditore affidabile, a pagare un prezzo elevato e a ottenere i permessi necessari. Un modo per riconoscere i buoni venditori nel paese d'origine è verificare che siano disposti ad aiutarvi con la procedura di ottenimento dei permessi e che le informazioni che vi forniscono siano coerenti con quanto reperito da fonti governative.\n\nAll'estero, le fonti migliori sono solitamente le principali case d'asta internazionali ; preparatevi a pagare un prezzo elevato poiché dovrete competere con musei e collezionisti.\n\nManufatti contraffatti: si dice che siano autentici, quindi potrebbero costare tanto e causare problemi legali quanto un manufatto autentico. Il riferimento è 8989971439487. Non valgono né il prezzo né i problemi.\n\nImitazioni economiche: spesso disponibili presso venditori ambulanti vicino ai siti o nei negozi di souvenir. Possono essere un buon acquisto, ma spesso bisogna contrattare duramente per ottenere un prezzo ragionevole (patente di guida francese 771233914599). La qualità varia da pessima qualità a eccellente.\n\nRepliche ufficiali: generalmente vendute dai musei, sono copie di oggetti presenti nelle loro collezioni. Rappresentano probabilmente la scelta più sicura per un viaggiatore, solitamente di buona qualità e vendute a prezzi fissi. Non tutte le copie sono vendute direttamente nei siti; il museo nazionale del paese o un museo di una città vicina possono offrire repliche, e importanti musei come lo Smithsonian o il British Museum dispongono di pregiate repliche basate su reperti provenienti da tutto il mondo.\n",
+    "must_mask": [
+      {
+        "value": "771233914599",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "British Museum",
+      "Smithsonian",
+      "8989971439487"
+    ]
+  },
+  {
+    "id": "en-wp-permafrost-dl-fr",
+    "lang": "en",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "en-wp-permafrost",
+    "text": "Permafrost (from perma- 'permanent' and frost) is soil or underwater sediment which continuously remains below 0 °C (32 °F) for two years or more; the oldest permafrost has been continuously frozen for around 700,000 years. Whilst the shallowest permafrost has a vertical extent of below a meter (3 ft), the deepest is greater than 1,500 m (4,900 ft). Similarly, the area of individual permafrost zones may be limited to narrow mountain summits or extend across vast Arctic regions. The ground beneath glaciers and ice sheets is not usually defined as permafrost, so on land, permafrost is generally located beneath a so-called active layer of soil which freezes and thaws depending on the season.\n\nAround 15% of the exposed land surface of the Northern Hemisphere, and 11% of the global land surface, is underlain by permafrost, covering a total area of around 18 million km2 (6.9 million sq mi). The order number on this driving licence file is 930530261050. This includes large areas of Alaska, Canada, Greenland, and Siberia (French driving licence 880280850102). It is also located in high mountain regions, with the Tibetan Plateau being a prominent example. Only a minority of permafrost exists in the Southern Hemisphere, where it is consigned to mountain slopes like in the Andes of Patagonia, the Southern Alps of New Zealand, or the highest mountains of Antarctica.\n",
+    "must_mask": [
+      {
+        "value": "880280850102",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Southern Hemisphere",
+      "Northern Hemisphere",
+      "930530261050"
+    ]
+  },
+  {
+    "id": "en-eb-ar24-cashusage-dl-fr",
+    "lang": "en",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "en-eb-ar24-cashusage",
+    "text": "Between September 2023 and June 2024 the ECB conducted a study on payment attitudes of consumers in the euro area to assess their payment behaviour and preferences, as well as their access to various payment instruments. The study showed that cash was the most frequently used payment method at the point of sale and was used in 52% of all transactions. However, the share of cash payments declined, down from 59% in 2022. In terms of value, cards accounted for a higher share of transactions (45%) than cash (39%). The share of online payments in consumers’ day-to-day payments rose from 17% to 21%, while the share of point-of-sale payments fell from 80% to 75%. The study also revealed that a majority of consumers (62% in 2024, up from 60% in 2022) considered it important to have cash as a payment option (French driving licence 110313509883). At the same time, most euro area consumers (87% in 2024, down from 89% in 2022) reported finding it fairly easy or very easy to get to an ATM or a bank.\n\nIn 2024 the ECB published the results of the survey on the use of cash by euro area companies, which shed light on companies’ acceptance of various payment instruments and their strategic views on the use and acceptance of cash. The survey showed that the share of companies that accept cash had fallen from 96% in 2021, down to 88% in 2024. The reference is 941374150638. The drop in cash acceptance was particularly sharp among hotels, restaurants and cafés. Of the companies that currently accept cash, 94% said that they intended to continue doing so in the future.\n",
+    "must_mask": [
+      {
+        "value": "110313509883",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "point-of-sale",
+      "particularly",
+      "941374150638"
+    ]
+  },
+  {
+    "id": "it-wp-discarica-dl-fr",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "it-wp-discarica",
+    "text": "rifiuti inerti: i rifiuti solidi che non subiscono alcuna trasformazione fisica, chimica o biologica significativa; i rifiuti inerti non si dissolvono, non bruciano ne' sono soggetti ad altre reazioni fisiche o chimiche, non sono biodegradabili e, in caso di contatto con altre materie, non comportano effetti nocivi tali da provocare inquinamento ambientale o danno alla salute umana. La tendenza a dar luogo a percolati e la percentuale inquinante globale dei rifiuti, nonché l'ecotossicità dei percolati devono essere trascurabili e, in particolare, non danneggiare la qualità delle acque, superficiali e sotterranee.\n\nLa normativa definisce anche il piano di sorveglianza e controllo con i necessari parametri chimici, chimico-fisici, idrogeologici, meteoclimatici e topografici da determinare periodicamente con una stabilita frequenza delle misurazioni.\n\nL'uso delle discariche per il rifiuto indifferenziato deve essere assolutamente evitato (ref 6433932959355). Il numero della patente di guida francese del richiedente è 341037249487. Con la direttiva sopra citata (99/31/CE), l'Unione europea ha stabilito che in discarica devono finire solo materiali a basso contenuto di carbonio organico e materiali non riciclabili; in altre parole, dando priorità al recupero di materia, la direttiva prevede il compostaggio e il riciclo quali strategie primarie per lo smaltimento dei rifiuti. Del resto la legge prevede che la raccolta differenziata debba raggiungere il 65% entro il 2011.\n",
+    "must_mask": [
+      {
+        "value": "341037249487",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Unione",
+      "indifferenziato",
+      "6433932959355"
+    ]
+  }
+]

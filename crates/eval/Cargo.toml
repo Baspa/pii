@@ -1,0 +1,89 @@
+[package]
+name = "pii-detection-eval"
+version = "0.1.0"
+edition.workspace = true
+license.workspace = true
+publish = false
+
+# Not part of the shipped image: the Dockerfile builds `-p pii-detection-api`, so
+# nothing here reaches a container. It exists so the engine can be measured
+# offline against the same fixtures other detectors are measured against.
+
+[[bin]]
+name = "fixture-spans"
+path = "src/main.rs"
+
+# Builds the carrier cases in `benchmark/cases/carriers.json` from the real
+# licensed text under `benchmark/carriers/`. Offline tooling, like the rest of
+# this crate: the shipped image builds `-p pii-detection-api` and never sees it.
+[[bin]]
+name = "inject"
+path = "src/bin/inject.rs"
+
+# Runs Azure AI Language's Text PII API over the benchmark fixture and scores
+# it with `pii_detection_eval::score`, the exact scorer that scores the detector itself.
+# Offline tooling, same as the rest of this crate.
+[[bin]]
+name = "baseline"
+path = "src/bin/baseline.rs"
+
+# The gate runner: hits a running the detector service's /analyze, scores it with
+# pii_detection_eval::score, evaluates the result against pii_detection_eval::gates, and
+# exits non-zero on failure. This is the one binary in this crate CI actually
+# invokes against a live container (see .github/workflows/ci.yml) rather than
+# running purely offline.
+[[bin]]
+name = "eval"
+path = "src/bin/eval.rs"
+
+# The calibration generator: sweeps a threshold against a running service's /analyze and writes
+# calibration.json. Needs a model-wired service to run against for
+# real -- see the module docs at the top of calibrate.rs.
+[[bin]]
+name = "calibrate"
+path = "src/bin/calibrate.rs"
+
+# Derives a passthrough artifact -- same graph, same tokenizer, same labels,
+# every calibration threshold at 0.0 -- so `calibrate` can sweep the whole
+# score distribution instead of the part the shipped 0.50 seeds already let
+# through. Offline tooling: the escape hatch is a second artifact directory,
+# never a switch in the service. See src/bin/passthrough.rs's module docs.
+[[bin]]
+name = "passthrough-artifact"
+path = "src/bin/passthrough.rs"
+
+# The latency gate's measuring instrument: builds the
+# 2,000-code-point corpus, drives `POST /analyze` against a running service
+# from a separate process, and writes the stamped `LatencyRun` that
+# `eval --latency` reads. Offline tooling like the rest of this crate; the
+# shipped image builds `-p pii-detection-api` and never sees it.
+[[bin]]
+name = "latency"
+path = "src/bin/latency.rs"
+
+[dependencies]
+pii-detection-api = { path = "../api" }
+pii-detection-engine = { path = "../engine" }
+# `passthrough-artifact` verifies the source artifact through the same
+# `Artifact::load` the service uses, and reads the types to open from the
+# artifact's own `labels.json` rather than a list written in this crate.
+pii-detection-model = { path = "../model" }
+pii-detection-resolve = { path = "../resolve" }
+pii-detection-rules = { path = "../rules" }
+# Ground truth about national numbering plans, used by `inject` to refuse to
+# put a telephone number in the fixture that no plan contains. The service's
+# own recogniser uses the same library; this uses it as a fact about the
+# world, never as the detector being measured.
+phonenumber = "0.3"
+reqwest = { version = "0.13.4", features = ["blocking", "json"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+# Re-pinning the generated calibration.json's digest in the copied manifest,
+# with the same hash the loader verifies against.
+sha2 = "0.10"
+thiserror = "2"
+# `fixture-spans` calls `pii_detection_api::routes::analyze_text`, which is async
+# because the endpoint runs the rules and the model concurrently. Giving this
+# binary its own synchronous copy of that pipeline instead is exactly the
+# drift `analyze_text` is public to prevent.
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "sync", "time", "net", "io-util"] }

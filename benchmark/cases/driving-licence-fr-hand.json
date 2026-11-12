@@ -1,0 +1,138 @@
+[
+  {
+    "id": "dl-fr-support-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Le client écrit : « Bonjour, pour la location il vous faut le numéro du permis de conduire : 180742316905. La réservation est au nom de la société, dossier BK-2026-0311. »",
+    "must_mask": [
+      {
+        "value": "180742316905",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "BK-2026-0311"
+    ]
+  },
+  {
+    "id": "dl-fr-neph-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Le client écrit : « Mon NEPH est 240983114027. Je l'ai reçu de la préfecture au moment de l'inscription et je ne l'ai jamais changé. »",
+    "must_mask": [
+      {
+        "value": "240983114027",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "dl-fr-en-support-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Customer writes: 'Hello, the driver is based in Lyon. His French driving licence number is 151267409318, and the rental agreement is AGR-2026-0455.'",
+    "must_mask": [
+      {
+        "value": "151267409318",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "AGR-2026-0455"
+    ]
+  },
+  {
+    "id": "dl-fr-it-support-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Il cliente scrive: «Buongiorno, il numero della patente di guida francese del conducente è 330561278094 e il contratto ha il riferimento CTR-2026-0812.»",
+    "must_mask": [
+      {
+        "value": "330561278094",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "CTR-2026-0812"
+    ]
+  },
+  {
+    "id": "neg-fr-order-twelve-in-window-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Le client écrit : « Le numéro de commande 460318227501 concerne la voiture pour laquelle vous avez déjà le permis de conduire. Merci de confirmer. »",
+    "must_mask": [],
+    "must_clear": [
+      "460318227501"
+    ]
+  },
+  {
+    "id": "neg-fr-order-twelve-in-window-2",
+    "lang": "en",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Customer writes: 'Order number 720954136088 covers the extra driver; the driving licence scan went up yesterday.'",
+    "must_mask": [],
+    "must_clear": [
+      "720954136088"
+    ]
+  },
+  {
+    "id": "neg-fr-barcode-in-window-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Le client écrit : « Le code-barres du colis est 590712448216 et il contient la copie du permis de conduire demandée. »",
+    "must_mask": [],
+    "must_clear": [
+      "590712448216"
+    ]
+  },
+  {
+    "id": "neg-fr-bare-twelve-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Le client écrit : « Sur la confirmation figure le nombre 830649175302. Pouvez-vous vérifier qu'il correspond à ce que vous avez ? »",
+    "must_mask": [],
+    "must_clear": [
+      "830649175302"
+    ]
+  },
+  {
+    "id": "neg-fr-word-without-a-run-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Le client écrit : « Le permis de conduire est joint au dossier. Le dossier porte le nombre 81174035629 et la pièce jointe 8207163905581. »",
+    "must_mask": [],
+    "must_clear": [
+      "81174035629",
+      "8207163905581"
+    ]
+  },
+  {
+    "id": "dl-fr-nir-and-licence-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Le client écrit : « Pour vérification : mon numéro de sécurité sociale est 172013300504211. Le numéro du permis de conduire correspondant est 270845132619. »",
+    "must_mask": [
+      {
+        "value": "172013300504211",
+        "type": "NATIONAL_ID"
+      },
+      {
+        "value": "270845132619",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": []
+  }
+]

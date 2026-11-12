@@ -1,0 +1,974 @@
+[
+  {
+    "id": "nl-el-0031-energy-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "nl-el-0031-energy",
+    "text": "2. De lidstaten stellen uiterlijk op 30 juni 2011 een lijst op van bestaande en, in voorkomend geval, voorgestelde maatregelen en instrumenten, met inbegrip van die van financiële aard, die niet uit hoofde van deze richtlijn zijn vereist, welke de doelstellingen van deze richtlijn bevorderen.\n\nDe lidstaten werken die lijst om de drie jaar bij. De lidstaten delen die lijsten aan de Commissie mee, bijvoorbeeld door ze in de in artikel 14, lid 2, van Richtlijn 2006/32/EG bedoelde actieplannen voor energie-efficiëntie op te nemen.\n\n3. De Commissie onderzoekt of de bestaande en voorgestelde maatregelen opgenomen in de in lid 2 bedoelde lijsten alsmede de desbetreffende uniale instrumenten doeltreffend bijdragen tot de uitvoering van deze richtlijn (rijksregisternummer 61090733226). Op grond van dat onderzoek kan de Commissie, met inachtneming van het subsidiariteitsbeginsel, advies geven of aanbevelingen doen over specifieke nationale regelingen, en over de coördinatie met uniale instellingen en internationale financiële instellingen. De Commissie kan haar onderzoek en eventueel advies of aanbevelingen opnemen in haar in artikel 14, lid 5, van Richtlijn 2006/32/EG bedoelde verslag betreffende de nationale actieplannen voor energie-efficiëntie.\n\n4. De Commissie staat waar dat passend is op verzoek lidstaten bij bij het opstellen van nationale of regionale programma’s voor financiële ondersteuning, teneinde – met name bestaande – gebouwen energie-efficiënter te maken door ondersteuning te bieden bij het uitwisselen van beste praktijken tussen de verantwoordelijke nationale of regionale overheden of organen.\n",
+    "must_mask": [
+      {
+        "value": "61090733226",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Richtlijn 2006/32/EG",
+      "de Commissie"
+    ]
+  },
+  {
+    "id": "nl-el-1169-food-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "nl-el-1169-food",
+    "text": "2. Bij voorverpakte levensmiddelen wordt de verplichte voedselinformatie rechtstreeks op de verpakking of op een daaraan bevestigd etiket aangebracht (rijksregisternummer 13032517053).\n\n3. Teneinde te garanderen dat de verplichte voedselinformatie ter beschikking van de consumenten wordt gesteld met middelen die voor bepaalde verplichte vermeldingen meer geschikt zijn, en mits er evenveel informatie wordt verstrekt als met de verpakking of het etiket, kan de Commissie, rekening houdend met aanwijzingen van een uniforme interpretatie door de consument en van het wijdverbreid gebruik van deze middelen door consumenten, artikel door middel van gedelegeerde handelingen overeenkomstig artikel 51 criteria vaststellen die van toepassing zijn om bepaalde verplichte vermeldingen met andere middelen dan de verpakking of het etiket te mogen uitdrukken.\n\n4. Om te zorgen voor de eenvormige uitvoering van lid 3 van dit artikel, mag de Commissie uitvoeringshandelingen vaststellen betreffende de wijze van toepassing van de in lid 3 bedoelde criteria om bepaalde verplichte vermeldingen uit te drukken met andere middelen dan de verpakking of het etiket. Deze uitvoeringshandelingen worden volgens de in artikel 48, lid 2, bedoelde onderzoeksprocedure vastgesteld.\n\n5. Op niet-voorverpakte levensmiddelen zijn de bepalingen van artikel 44 van toepassing.\n\n1. Onverminderd de krachtens artikel 44, lid 2, vastgestelde nationale maatregelen, wordt verplichte voedselinformatie op een duidelijk zichtbare plaats en in duidelijk leesbare en, zo nodig, onuitwisbare letters aangebracht. Andere aanduidingen, afbeeldingen of ander materiaal mogen de verplichte informatie in geen geval verbergen, minder zichtbaar maken, aan de aandacht onttrekken of onderbreken.\n",
+    "must_mask": [
+      {
+        "value": "13032517053",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "artikel 51",
+      "artikel 44"
+    ]
+  },
+  {
+    "id": "nl-wp-rotonde-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-rotonde",
+    "text": "Een rotonde is een specifiek type gelijkvloers knooppunt dat zo ontworpen is dat het aantal conflicterende bewegingen geminimaliseerd wordt. In België wordt het een rondpunt genoemd (naar rondpoint, algemeen Belgisch-Nederlands, een woord dat in Nederland niet bekend is, zie verderop).\n\nEen rotonde bestaat uit een cirkelvormige weg met een soort 'eiland' in het midden. Het rijksregisternummer van de aanvrager is 15042581143. Het verkeer rijdt bij rechtsrijdend verkeer uitsluitend tegen de klok in. Als rondom een rotonde een fietspad ligt, mag daarop vaak in beide richtingen worden gefietst. De verschillende wegen takken aan op de cirkel.\n\nEen rotonde is relatief veilig, doordat zich op een rotonde alleen rechtsafslaand verkeer bevindt. Door Duurzaam Veilig (een initiatief van verschillende Nederlandse overheden) wordt de aanleg van een rotonde dan ook aanbevolen, indien (verkeerstechnisch) mogelijk. Er zijn echter ook een aantal nadelen verbonden aan rotondes: onder andere het grotere ruimtegebruik en soms ook verminderd rijcomfort (zeker in het geval van rechtdoorgaand verkeer). Verder geldt dat tegemoetkomende voertuigen, die beide linksaf slaan, elkaar twee keer moeten kruisen.\n\nOok voor fietsers is een rotonde niet altijd veiliger.\n\nEen rotonde is een verkeersplein, maar een verkeersplein is niet altijd een rotonde. Een rotonde is dus een speciaal geval van een verkeersplein. Een verkeersplein met rondgaand verkeer is een rotonde (dat is niet het geval in de Belgische betekenis).\n",
+    "must_mask": [
+      {
+        "value": "15042581143",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "België",
+      "Duurzaam Veilig"
+    ]
+  },
+  {
+    "id": "nl-wp-waterschap-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-waterschap",
+    "text": "Een waterschap is een (regionaal) overheidsorgaan dat bestuurlijk verantwoordelijk is voor, of belast is met het beheer van de waterhuishouding in een bepaald gebied.\n\nEen waterschap in Nederland is een openbaar lichaam met verordenende bevoegdheid en met als wettelijke hoofdtaken de zorg voor het watersysteem en de zorg voor het zuiveren van afvalwater. Daarnaast kan de zorg voor een of meer andere waterstaatsaangelegenheden zijn of worden opgedragen. Het is bevoegd tot belastingheffing. De taken van een waterschap in Nederland zijn onder andere het regelen van de waterstand met bijvoorbeeld gemalen en sluizen; de zuivering van afvalwater; de zorg voor waterkeringen (dijken e.d.); het natuurbeheer in en aan het water; de kwaliteit van het zwemwater en het beheer van de waterkwantiteit.\n\nDe belangrijkste regels in Nederland zijn gegeven in de Waterschapswet, een zogenaamde organieke wet, gebaseerd op de Grondwet (artikel 133). Deze regelt de instelling en opheffing van waterschappen en geeft regels omtrent de taken en inrichting van de waterschappen en de samenstelling van hun besturen. Afzonderlijke taken zijn geregeld in wetten zoals de Waterwet en lagere regelgeving. Met inwerkingtreding van de Omgevingswet op 1 januari 2024 veranderen enige regels.\n\nHet rijksregisternummer van de aanvrager is 82010194705. Het waterschap is geen overheidsdienst, maar een orgaan dat direct wordt gecontroleerd en aangestuurd door een vertegenwoordiging van burgers, volksvertegenwoordiging. In die zin is het bestuur van een waterschap vergelijkbaar met bijvoorbeeld een Gemeenteraad en Provinciale Staten.\n",
+    "must_mask": [
+      {
+        "value": "82010194705",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Nederland",
+      "Waterschapswet",
+      "Provinciale Staten"
+    ]
+  },
+  {
+    "id": "nl-wp-zonnepaneel-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-zonnepaneel",
+    "text": "Een zonnepaneel, fotovoltaïsch paneel of PV-paneel is een paneel met aan elkaar gekoppelde fotovoltaïsche zonnecellen (ook PV-cellen genoemd), waarmee elektriciteit kan worden opgewekt. PV is de afkorting van het Engelse woord 'photovoltaic'.\n\nHet zonnepaneel zet een deel van de fotonen uit het zonlicht om in elektriciteit. De zonne-energie die zo wordt opgevangen is een vorm van duurzame energie. Het vermogen van een PV-installatie wordt uitgedrukt in wattpiek (Wp), dat is de hoeveelheid energie die de panelen samen onder standaard-omstandigheden kunnen opwekken.\n\nZonnepanelen kunnen als netgekoppeld zonnestroomsysteem worden toegepast in het elektriciteitsnet, off-grid in net-onafhankelijke systemen voor energieopwekking in afgelegen gebieden, in losse apparaten die zijn voorzien van een aantal zonnecellen en ook in de ruimtevaart.\n\nEen zonnepaneel moet niet worden verward met een zonnecollector. Deze is op een ander principe gebaseerd, namelijk opwarming van een stromend medium, meestal water.\n\nZonnecellen zijn meestal gemaakt van silicium. Dat silicium bestaat uit twee lagen. Onder invloed van licht wordt elektrische spanning opgewekt tussen de lagen. Daarom heten zonnecellen ook wel fotovoltaïsche cellen (Oudgrieks φῶς, phōs: licht, en volt naar de eenheid van elektrische spanning). Afgekort wordt gesproken van PV-systemen.\n\nPV-systemen kunnen ook worden gemaakt met behulp van de dunnelaagtechnologie. Het rijksregisternummer van de aanvrager is 40501671920. Hierbij wordt gebruikgemaakt van amorf silicium. Deze elementen hebben een lager rendement, maar zijn ook beduidend goedkoper.\n",
+    "must_mask": [
+      {
+        "value": "40501671920",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "PV-paneel",
+      "wattpiek"
+    ]
+  },
+  {
+    "id": "nl-wb-beheer-onderhoud-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "nl-wb-beheer-onderhoud",
+    "text": "Beheer en Onderhoud is het vakgebied dat zich voornamelijk bezighoudt met de gebouwde omgeving.\n\nBeheer begint op het moment dat een gebruiker bouwkundige functionaliteit nodig heeft. Hij wenst een gebouw om zijn activiteiten (functioneel) in onder te brengen. Beheer begint vaak bij de aanschaf op realisatie van een gebouw of een gebouwde omgeving waarna de gebruiker het zojuist verkregen vastgoed in gebruik neemt. Het rijksregisternummer van de aanvrager is 25110278350. Onderhoud is de activiteit die noodzakelijk is om de gebouwde omgeving zijn noodzakelijke functionaliteit te laten behouden.\n\nBeheer wordt vaak met de term management omschreven. Management (Engels leenwoord, mogelijk afgeleid van de Latijnse uitdrukking manu agere, 'aan de hand leiden', het Italiaanse maneggiare 'mennen' of de oud-Franse term mesnagement/ménagement 'de kunst van het dirigeren, leiden') is het besturen van een onderneming of organisatie.\n\nHet doel van management is het (her)formuleren en bereiken van de ondernemingsdoelstellingen in de gegeven - soms sterk veranderende - context. Om de doelstellingen te bereiken zijn van belang: bepaling van de strategie, financieel beheer, een flexibele maar geleide organisatie, marketing en innovatie. In de twintigste eeuw is, als gevolg van industrialisatie, welvaartsgroei en globalisering, de schaalgrootte van ondernemingen en de druk om te vernieuwen toegenomen. Met het groter worden van een onderneming en met het toenemen van innovatiedruk, veranderde ook de aard en omvang van het ondernemingsbestuur. Management is daardoor tevens een belangrijk vakgebied geworden in het onderwijs.\n",
+    "must_mask": [
+      {
+        "value": "25110278350",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Beheer en Onderhoud"
+    ]
+  },
+  {
+    "id": "nl-wb-servervirtualisatie-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "nl-wb-servervirtualisatie",
+    "text": "Virtualisatie is een algemene term in ict die staat voor het op de ene of de andere manier abstraheren van hardwarebronnen (rijksregisternummer 09011677013). Servervirtualisatie in het bijzonder laat toe dat meerdere besturingssystemen tegelijkertijd op één computer kunnen draaien.\n\nHet grote voordeel van servervirtualisatie is dat de verschillende besturingssystemen van elkaar afgeschermd zijn. Daardoor kan bijvoorbeeld onderzoek naar computervirussen gedaan worden, zonder dat de computer (de 'host') wordt geïnfecteerd. Er kunnen ook kosten bespaard worden, door meerdere besturingssystemen (met bijvoorbeeld elk een webserver) te laten werken op één computer. Doordat de gevirtualiseerde servers, 'guests', van elkaar afgeschermd zijn is het gemakkelijker te beheren en ook dat levert een kostenbesparing op.\n\nDoor meerdere gast-besturingssystemen te laten werken op één computer, heeft die computer extra geheugen nodig en een snellere processor. In de praktijk blijkt echter dat het goedkoper is om één duurdere computer (vaak een server) te gebruiken met virtualisatie, dan meerdere goedkopere computers zonder virtualisatie. In dit hoofdstuk bespreken we vooral het virtualiseren van een server.\n",
+    "must_mask": [
+      {
+        "value": "09011677013",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Servervirtualisatie"
+    ]
+  },
+  {
+    "id": "nl-wv-treinreizen-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "nl-wv-treinreizen",
+    "text": "Europa heeft een hecht spoornetwerk met talloze maatschappijen die elk hun eigen tariefstructuur hebben. Deze pagina brengt wat orde in de wanorde, zodat u het beste voor uw geld krijgt.\n\nDe Nationale Maatschappij der Belgische Spoorwegen (NMBS) [1] regelt het personen-treinverkeer in België. Ze zijn de enige voor het hele land.\n\nJe kan de vervoersbewijzen online kopen, in het station aan een automaat of aan het loket en in de trein (in de trein zelf betaal je een maakloon van €7,00 als in je vertrekstation een ticket had kunnen kopen).\n\nGratis ticket voor kinderen: kinderen jonger dan 6 jaar reizen gratis indien ze geen plaats innemen (bij drukte wordt voorrang gegeven voor betalende klanten), doen ze dit wel dan betalen ze 50% van de normale prijs, zowel 1ste als 2de klas.  Kinderen tussen 6 en 12 jaar kunnen ook gratis reizen onder deze voorwaarden: ze mogen op weekdagen enkel gratis reizen als de trein na 9u01 vertrekt. Deze regel geldt niet op weekends en feestdagen.  Het rijksregisternummer van de aanvrager is 98071933538. Voor kinderen lid van de Gezinsbond geldt deze beperking nooit. Deze tickets zijn geldig op alle nationale treinen (IC, IR, L, CR, P en ICT) tussen 2 Belgische stations. NIET geldig op treinen waar reservering verplicht is (Eurostar) en INT en EC-treinen. Maximaal 4 kinderen reizen gratis indien ze vergezeld zijn van een betalende reiziger van 12 jaar of ouder.\n",
+    "must_mask": [
+      {
+        "value": "98071933538",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Belgische Spoorwegen",
+      "Eurostar",
+      "Gezinsbond"
+    ]
+  },
+  {
+    "id": "nl-wv-west-nederland-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "nl-wv-west-nederland",
+    "text": "West-Nederland is de meest stedelijke regio van Nederland. De vier grote steden Amsterdam, Den Haag, Rotterdam en Utrecht vormen samen met de tussenliggende stedelijke gebieden de Randstad. Het rijksregisternummer van de aanvrager is 50500136931. Daarnaast kan men in de regio ook het bekende Nederlandse polderlandschap vinden.\n\nAlkmaar – historische stad met grachten en de internationaal bekende kaasmarkt\n\nAmsterdam – de hoofdstad met zijn zestiende- en zeventiende-eeuwse grachtengordel en zijn internationaal vermaarde musea\n\nDelft – prachtige binnenstad met grachten, internationaal bekend van het Delfts blauw\n\nDen Haag – de hofstad, met het Binnenhof, paleizen en Madurodam en het strand bij Scheveningen\n\nGouda – stroopwafels en kaas, een prachtig stadsplein en knusse restaurants\n\nHaarlem – zeventiende-eeuwse stad met grachten, winkels, musea en uitgaansleven\n\nLeiden – studentenstad met de oudste universiteit van het huidige Nederland, drie nationale musea en grachten\n\nRotterdam – de Maasstad en wereldhaven, modern centrum, bijzondere gebouwen als Euromast en Erasmusbrug\n\nUtrecht – de Dom, de Oude Gracht, een gezellige studentenstad\n\nBeemster – oudste polder, met nog de oorspronkelijke totaal geometrische indeling\n\nKeukenhof – de bloemenvelden die elke lente te bezichtigen zijn\n\nKinderdijk – negentien windmolens in een historisch Nederlands landschap\n\nSchokland – een voormalig eiland dat in 1859 geëvacueerd moest worden; nu is het een spookstad\n\nTexel – de grootste van de Waddeneilanden, ideaal voor fiets- of wandeltochten, zwemmen en paardrijden\n\nUrk – een klein vissersdorp dat ooit een eiland was\n",
+    "must_mask": [
+      {
+        "value": "50500136931",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Amsterdam",
+      "Den Haag",
+      "Kinderdijk",
+      "Randstad"
+    ]
+  },
+  {
+    "id": "en-wp-roundabout-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "en-wp-roundabout",
+    "text": "A roundabout, a rotary and a traffic circle are types of circular road in which traffic is permitted to flow in one direction around a central island.\n\nThe applicant's Belgian national number is 97422736521. In the United States, engineers use the term modern roundabout to refer to junctions installed after 1960 that incorporate design rules to increase safety. Compared to stop signs, traffic signals, and earlier forms of roundabouts, modern roundabouts reduce the likelihood and severity of collisions greatly by reducing traffic speeds through horizontal deflection and minimising T-bone and head-on collisions. Variations on the basic concept include integration with tram or train lines, two-way flow, higher speeds and many others.\n\nFor pedestrians, traffic exiting the roundabout comes from one direction, instead of three, simplifying the pedestrian's visual environment. Traffic moves slowly enough to allow visual engagement with pedestrians, encouraging deference towards them. Other benefits include reduced driver confusion associated with perpendicular junctions and reduced queuing associated with traffic lights. They allow U-turns within the normal flow of traffic, which often are not possible at other forms of junction. Moreover, since vehicles that run on petrol or diesel typically spend less time idling at roundabouts than at signalled intersections, using a roundabout potentially leads to less pollution.\n",
+    "must_mask": [
+      {
+        "value": "97422736521",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "United States"
+    ]
+  },
+  {
+    "id": "en-wv-rail-enthusiasts-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "en-wv-rail-enthusiasts",
+    "text": "From the dawn of railways, there have been people fascinated with the technology of trains, their design and the engineering feats that made rail travel possible in difficult terrain. Today many people travel far and wide to see or ride specific trains and lines or to visit museums.\n\nSince the age of steam power, railways have been about more than just transporting goods and people from one place to another (Belgian national number 49102396823). The puffing of the earliest steam locomotives captivated the cities and towns wherever it arrived and today the sheer power of freight trains, the elegance and streamlined sleekness of modern high speed rail or the modern marvels of engineering that are train stations, bridges, tunnels or marshaling yards are a sight to behold and a reason for tourism all in itself. You don't have to be an enthusiast listing numbers and dates of train sightings in a book to appreciate the beauty and fascination that is rail travel and everything associated with it. Railways themselves often were boosters of tourism. After a line had been built, its owners would extol the beauty of the places it served and the speed with which one could get there by rail to attract more riders and some railroad tourism advertisements have become iconic. These days, railroads continue to extol the natural beauty of the landscapes traversed or the cities served even if the speed is nothing to write home about or limit themselves to short snappy \"A to B in x amount of time\" advertisements when they know they are the fastest option there is.\n",
+    "must_mask": [
+      {
+        "value": "49102396823",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "marshaling yards"
+    ]
+  },
+  {
+    "id": "nl-el-0098-waste-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "nl-el-0098-waste",
+    "text": "1. De lidstaten nemen passende maatregelen ter bevordering van het hergebruik van producten en activiteiten ter voorbereiding van hergebruik, met name door het aanmoedigen van het opzetten en ondersteunen van hergebruiks- en reparatienetwerken, toepassing van economische instrumenten, aanbestedingscriteria, kwantitatieve doelstellingen of andere maatregelen.\n\nDe lidstaten nemen maatregelen om recycling van hoge kwaliteit te bevorderen en voeren hiertoe gescheiden afvalinzamelingen in waar dat technisch, milieuhygiënisch en economisch haalbaar is en geschikt om aan de noodzakelijke kwaliteitsnormen voor de desbetreffende recyclingsectoren te voldoen.\n\nOvereenkomstig het bepaalde in artikel 10, lid 2, wordt tegen 2015 een gescheiden inzameling ingevoerd voor tenminste het volgende: papier, metaal, kunststof en glas.\n\n2. Om de in deze richtlijn gestelde doelstellingen te bereiken en zich te ontwikkelen in de richting van een Europese recyclingmaatschappij met een hoge grondstoffenefficiëntie, nemen de lidstaten de nodige maatregelen om ervoor te zorgen dat de volgende doelstellingen worden gehaald:\n\n3. De Commissie stelt overeenkomstig de regelgevingsprocedure met toetsing bedoeld in artikel 39, lid 2, van deze richtlijn gedetailleerde voorschriften vast voor de toepassing en berekeningsmethoden om na te gaan of de in lid 2 van dit artikel vastgestelde doelstellingen worden gehaald, rekening houdend met Verordening (EG) nr. 2150/2002 van het Europees Parlement en de Raad van 25 november 2002 inzake statistische gegevens voor afvalstoffen. Hiertoe kunnen overgangsperioden behoren voor lidstaten die in 2008 in iedere van de in lid 2 bedoelde categorieën minder dan 5 % recycling bereikten. Het rijksregisternummer van de aanvrager is 92111411420.\n",
+    "must_mask": [
+      {
+        "value": "92111411420",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Verordening (EG) nr. 2150/2002",
+      "artikel 39, lid 2"
+    ]
+  },
+  {
+    "id": "nl-el-0024-procurement-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "nl-el-0024-procurement",
+    "text": "1. De technische specificaties als omschreven in punt 1 van bijlage VII worden uitgeschreven in de aanbestedingsstukken. In de technische specificaties worden de voor een werk, dienst of levering gestelde kenmerken voorgeschreven.\n\nDie kenmerken kunnen ook verband houden met het specifieke proces of de specifieke methode van productie of uitvoering van de gevraagde werken, leveringen of diensten of met een specifiek proces van een ander stadium van de levenscyclus ervan, zelfs wanneer deze factoren niet tot de materiële essentie van de werken, leveringen of diensten behoren, mits zij met het voorwerp van de opdracht verbonden en in verhouding tot de waarde en de doelstellingen ervan zijn.\n\nVoor alle aanbestedingen die zijn bedoeld voor gebruik door natuurlijke personen, hetzij door het grote publiek, hetzij door het personeel van de aanbestedende dienst, moeten deze technische specificaties, uitgezonderd in behoorlijk gemotiveerde gevallen, zodanig worden opgesteld dat rekening wordt gehouden met de criteria inzake toegankelijkheid voor personen met een handicap of de geschiktheid van het ontwerp voor alle gebruikers.\n\nIndien middels een rechtshandeling van de Unie verplichte toegankelijkheidsvoorschriften zijn vastgesteld, worden de technische specificaties voor zover het de criteria voor toegankelijkheid van personen met een handicap of het ontwerp voor alle gebruikers betreft, bepaald door een verwijzing naar de desbetreffende criteria.\n\n2. De technische specificaties bieden inschrijvers gelijke toegang tot de aanbestedingsprocedures en mogen er niet toe leiden dat ongerechtvaardigde belemmeringen voor de openstelling van overheidsopdrachten voor mededinging worden opgeworpen (rijksregisternummer 62212665811).\n",
+    "must_mask": [
+      {
+        "value": "62212665811",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "bijlage VII",
+      "de Unie"
+    ]
+  },
+  {
+    "id": "nl-eb-ar24-balance-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "nl-eb-ar24-balance",
+    "text": "De balans van het Eurosysteem kromp geleidelijk naarmate de TLTRO III-transacties op vervaldatum kwamen en de effecten in de monetairbeleidsportefeuilles afnamen\n\nIn 2024 zette de balans van het Eurosysteem de geleidelijke normalisering voort die in 2022 was ingezet. Tegen het einde van het jaar was ze gedaald tot € 6,4 biljoen (van € 6,9 biljoen eind 2023). De daling was het gevolg van vervroegde aflossingen en het vervallen van TLTRO III-transacties, evenals van de afname van de APP-portefeuille en tot op zekere hoogte ook van de PEPP-portefeuille, waarbij vanaf juli gedeeltelijk werd geherinvesteerd in deze laatste portefeuille.\n\nEind 2024 bedroegen de met het monetair beleid verband houdende activa op de balans van het Eurosysteem € 4,3 biljoen, een daling met € 0,8 biljoen ten opzichte van eind 2023 (rijksregisternummer 91301407704). De leningen aan kredietinstellingen van het eurogebied maakten 1% van de totale activa uit (tegen 6% eind 2023) en de aangehouden activa die voor monetairbeleidsdoeleinden werden aangekocht, vertegenwoordigden 67% van de totale activa (tegen 68% eind 2023). De overige financiële activa op de balans, voornamelijk vreemde valuta's, goud en niet-monetairbeleidsportefeuilles in euro, stegen met € 0,3 biljoen.\n\nAan de passiefzijde liep het totale bedrag van de door de kredietinstellingen aangehouden reserves en het beroep op de depositofaciliteit terug van € 3,5 biljoen eind 2023 tot € 3,0 biljoen eind 2024; dat bedrag maakte 47% van de totale passiva uit, tegen 51% eind 2023. De bankbiljetten in omloop bleven vrijwel onveranderd op € 1,6 biljoen en vertegenwoordigden 25% van de totale passiva (tegen 23%).\n",
+    "must_mask": [
+      {
+        "value": "91301407704",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "TLTRO III",
+      "Eurosysteem"
+    ]
+  },
+  {
+    "id": "nl-eb-ar24-target-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "nl-eb-ar24-target",
+    "text": "De ECB heeft in 2024 aanzienlijke vooruitgang geboekt met de ontwikkeling van alle TARGET-diensten. De gezamenlijke inspanningen waren erop gericht de capaciteiten van T2 en T2S te versterken om zich te herstellen in geval van een groot incident (zoals een cyberaanval) en de functionaliteiten van TARGET-diensten verder te verfijnen om tegemoet te komen aan de veranderende marktbehoeften. Om de automatische verwerking bij grensoverschrijdende betalingen te behouden, zijn T2-berichten geüpgraded in overeenstemming met de meest recente ontwikkelingen in de marktstandaarden voor hoogwaardige betalingssystemen (d.w.z. HVPS Plus). Noemenswaardige resultaten voor T2S zijn de volledige uitrol van nieuwe rapportagediensten, de uitbreiding van de functionaliteiten voor de afwikkeling van transacties met centrale effectenbewaarinstellingen buiten het T2S-platform, de doorontwikkeling van cashmanagementdiensten voor deelnemende banken en de voortzetting van de voorbereidingen voor de toekomstige integratie van nieuwe markten voor eindbeleggers. Verder hebben de bestuursorganen van T2S een sleutelrol gespeeld bij cruciale beleids- en regelgevingsinitiatieven, zoals de toekomstige verkorting van de effectenafwikkelingscyclus in de EU (tot T+1) en de herziening van het regime van afwikkelingsdiscipline, waarbij de nadruk lag op het verfijnen van het boetemechanisme met het oog op een grotere efficiëntie. Het rijksregisternummer van de aanvrager is 19120291423. De vorderingen in de ontwikkeling van alle TARGET-diensten hebben de markt aanzienlijk efficiënter gemaakt.\n",
+    "must_mask": [
+      {
+        "value": "19120291423",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "TARGET-diensten",
+      "T2S-platform"
+    ]
+  },
+  {
+    "id": "nl-eb-ar24-borrowing-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "nl-eb-ar24-borrowing",
+    "text": "De ECB beheert de rekeningen en de verwerking van betalingen met betrekking tot de krediettransacties (zowel opgenomen als verstrekte kredieten) van de EU in het kader van de faciliteit voor financiële bijstand op de middellange termijn (medium-term financial assistance facility – MTFA) voor de betalingsbalansen van de lidstaten, het Europees Financieel Stabilisatiemechanisme (EFSM), het Europees instrument voor tijdelijke steun om het risico op werkloosheid te beperken in een noodtoestand (SURE), het Next Generation EU-programma (NGEU), de faciliteit voor Oekraïne, met inbegrip van uitzonderlijke overbruggingsfinanciering, en het Programma voor macrofinanciële bijstand aan de Arabische Republiek Egypte. De ECB is ook verantwoordelijk voor het beheer van bepaalde betalingen die voortvloeien uit transacties in het kader van de European Financial Stability Facility (EFSF) en het European Stability Mechanism (ESM) en voor het verwerken van alle betalingen in het kader van de kredietfaciliteitovereenkomst voor Griekenland. In 2024 verleende de ECB uitbetalingsinstantiediensten voor de Europese Commissie.\n\nOp 31 december 2024 stond er uit hoofde van de MTFA-faciliteit een nominaal totaalbedrag van € 0,2 miljard uit, € 42 miljard uit hoofde van het EFSM, € 98,35 miljard uit hoofde van SURE en € 31,605 miljard uit hoofde van de leningsovereenkomst voor Griekenland. Het rijksregisternummer van de aanvrager is 68071009614. Tot slot verwerkte de ECB in 2024 uitbetalingen en daarmee verband houdende rentebetalingen van NGEU-leningen en -subsidies aan en van verschillende lidstaten, met inbegrip van leningen aan Oekraïne.\n",
+    "must_mask": [
+      {
+        "value": "68071009614",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Europese Commissie",
+      "31 december 2024"
+    ]
+  },
+  {
+    "id": "nl-eb-ar24-cash-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "nl-eb-ar24-cash",
+    "text": "Eind 2024 waren er 30,5 miljard eurobankbiljetten in omloop met een totale waarde van € 1,6 biljoen Grafiek 6.1). Gemeten naar aantal en waarde namen de bankbiljetten in omloop in de loop van het jaar met respectievelijk 2,4% en 1,3% toe.\n\nIn 2024 hebben kredietinstellingen 2024 25,4 miljard bankbiljetten aan de nationale centrale banken (NCB’s) van het eurogebied geretourneerd, wat een lichte afname is van 0,9 miljard ten opzichte van 2023. Het rijksregisternummer van de aanvrager is 85032381114. Gemeten naar waarde bedroegen de bij de NCB’s gestorte bankbiljetten in 2024 in totaal € 856 miljard, tegen € 890 miljard in 2023. Kredietinstellingen hebben grotere hoeveelheden bankbiljetten opnieuw in omloop gebracht onder klanten in plaats van ze te retourneren aan de nationale centrale banken. De verschuiving in de verwerking van bankbiljetten door kredietinstellingen komt voort uit hun inspanningen om de efficiëntie te verbeteren. Daartoe hebben zij bijvoorbeeld meer geldautomaten geplaatst met afstort- en recirculatiemogelijkheden.\n\nIn 2024 was de toename van de euromunten in omloop (netto-uitgifte) in het eurogebied vergelijkbaar met die in de twee voorgaande jaren, te weten 3,0 miljard munten met een nominale waarde van € 953 miljoen.\n\nDe ECB streeft naar effectieve toegang tot en acceptatie van contant geld in het eurogebied, en onderschrijft de noodzaak van regels voor de status als wettig betaalmiddel\n",
+    "must_mask": [
+      {
+        "value": "85032381114",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "nationale centrale banken",
+      "€ 856 miljard"
+    ]
+  },
+  {
+    "id": "nl-wp-beton-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-beton",
+    "text": "Beton is een kunstmatig steenachtig materiaal, dat als bouwmateriaal wordt gebruikt. Het moderne beton is samengesteld uit het bindmiddel cement en uit een of meer toeslagmaterialen zoals zand, grind of steenslag. Cement, veelal een anorganisch mengsel van calcium-silicaten, heeft de eigenschap dat het reageert met water tot de vorming van calcium-silicaat-hydraten. Deze hydraten vormen een netwerk en geven aldus de sterkte aan het cement in het beton.\n\nGoed beton is een mengsel waarin de korrelgroottes van de verschillende soorten zand en grind, in de juiste hoeveelheden, elkaar zodanig aanvullen dat het mengsel uithardt tot een steenachtig en standvastig materiaal. In tegenstelling tot sommige soorten gips lost uitgehard beton niet meer op in water.\n\nDoor de relatief lage prijs van het materiaal, de relatieve inertie, de eenvoud van het gebruik en door de vele mogelijkheden is beton een veelgebruikt bouwmateriaal. Jaarlijks verbruiken de geïndustrialiseerde landen bijna een kubieke meter beton per persoon.\n\nTevens heeft cement, en bij uitbreiding beton, zeer interessante eigenschappen die voordelig zijn voor de conditionering van (waterige) afvalstromen (rijksregisternummer 53111957149). De hoge pH van het poriewater maakt dat de oplosbaarheid van de meeste metalen beperkt is. Tevens is cement intrinsiek compatibel met waterige afvalstromen, immers water wordt geconsumeerd tijdens de uitharding van het cement.\n",
+    "must_mask": [
+      {
+        "value": "53111957149",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "calcium-silicaten",
+      "gips"
+    ]
+  },
+  {
+    "id": "nl-wp-asfalt-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-asfalt",
+    "text": "Het mineraal aggregaat kan weer worden onderverdeeld in de steen-, zand- en vulstoffractie. Kenmerkend voor asfalt is dat als bindmiddel bitumen (een product uit de aardolie-industrie) wordt gebruikt, maar er wordt ook onderzoek gedaan naar duurzamere biologische bindmiddelen zoals lignine.\n\nDe grotere delen uit het mineraal aggregaat vormen samen het mineraalskelet; deze verzorgt het dragend vermogen van het asfaltmengsel. Afhankelijk van het soort asfalt wordt het mineraalskelet opgebouwd uit steenslag of grind, eventueel aangevuld met zand.\n\nDe poriën in het mineraalskelet kunnen worden opgevuld met vulstoffen en bindmiddelen. De bindmiddelen (bitumen) zorgen samen met de vulstoffen voor de samenhang van het mengsel. De vulling wordt verzorgd door bitumen en vulstof (bijvoorbeeld vliegas of kalksteenmeel), eventueel aangevuld met zand. Een vulling zonder zand heet ook wel mortel, terwijl een vulling met zand wordt aangeduid als mastiek.\n\nHoewel bitumen qua massapercentage het minst belangrijke ingrediënt is van een asfaltmengsel, is juist het gebruik van bitumen kenmerkend in vergelijking met bijvoorbeeld beton, dat geen bitumen maar cement als bindmiddel bevat. Bitumen is een viskeuze vloeistof die van nature voorkomt in ruwe aardolie (rijksregisternummer 10480291952). Na fractionele destillatie kan het gescheiden worden van andere bestanddelen van de aardolie zoals nafta, benzine en diesel, waarna bitumen als zwaarste bestanddeel achterblijft.\n",
+    "must_mask": [
+      {
+        "value": "10480291952",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "bitumen",
+      "lignine"
+    ]
+  },
+  {
+    "id": "nl-wp-warmtepomp-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-warmtepomp",
+    "text": "Een warmtepomp is een apparaat dat warmte verplaatst door middel van arbeid. De bekendste vorm is een koelkast. Het begrip warmtepomp wordt meestal gebruikt voor de omgekeerde vorm, die bedoeld is om warmte van een lager niveau naar een hoger te brengen, bijvoorbeeld voor gebouwverwarming.\n\nEen warmtepomp kan meer warmte leveren dan hij aan (doorgaans elektrische) energie verbruikt omdat hij warmte van een lagere naar een hogere temperatuur 'pompt'. Hoeveel meer warmte dit betekent is afhankelijk van de gebruikte techniek en het temperatuurverschil dat moet worden overwonnen. In optimale situaties kan het tot vijf maal zo veel zijn, maar bijvoorbeeld een airconditioningsinstallatie, een lucht-lucht-warmtepomp, kan bij sterke vorst nauwelijks nog warmte aan de buitenlucht onttrekken. Hoe groter het temperatuurverschil tussen de lage-temperatuur bron en de hogere temperatuur sink, hoe meer mechanisch vermogen per eenheid getransformeerde warmte verricht moet worden.\n\nMet een passende warmtepomp kunnen gebouwen efficiënt en milieuvriendelijk worden verwarmd. Bij gelijke omvang is het vermogen van de warmtepompen soms, in vergelijking een gas of olie gestookte cv-ketel, beperkter. Het rijksregisternummer van de aanvrager is 72071958815. Hierbij moet niet vergeten worden dat elektriciteit meestal per kWh duurder is dan aardgas (typisch een factor drie). Een verbeterde gebouwisolatie is daarom bij vervanging van een traditionele verwarming door een warmtepomp veelal noodzakelijk om tot een rendabele oplossing te komen.\n",
+    "must_mask": [
+      {
+        "value": "72071958815",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "cv-ketel",
+      "kWh"
+    ]
+  },
+  {
+    "id": "nl-wp-warmte-isolatie-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-warmte-isolatie",
+    "text": "Warmte-isolatie of thermische isolatie is een eigenschap van materialen en constructies. Een sterke isolatie vermindert de overdracht van thermische energie (warmte) tussen de twee zijden van het materiaal of de constructie.\n\nOp de meeste plaatsen in de wereld is de warmte van de zon en de inwendige warmteproductie (van elektrische apparaten) onvoldoende om het hele jaar door in de leefruimten een aangename binnentemperatuur te bereiken: er is verwarming nodig. Indien de binnentemperatuur hoger is dan de buitentemperatuur, ontstaat volgens de wetten van Fourier energietransport door de schil van een gebouw (muur, dak, vloer) (rijksregisternummer 38212715113). Om de temperatuur constant te houden, moet de verloren gegane energie weer toegevoegd worden. In een Nederlandse (ongeïsoleerde) doorsnee woning bestaat 75% van het totale energieverbruik uit verwarming.\n\nDe meestvoorkomende beweegreden om te isoleren zijn energiebesparing en comfortverhoging. Het binnenoppervlak van de thermische schil (de muren die de overgang vormen tussen het comfortabele binnenmilieu en buiten) van een geïsoleerde woning voelt warmer aan dan bij een ongeïsoleerde woning.\n\nDoor isolatie wordt veelal ook de damp-huishouding in de wand veranderd: de damp wordt minder snel naar buiten afgegeven en kan in de wand, in het isolatiemateriaal, condenseren en vochtproblemen veroorzaken. De oplossing bestaat uit het veranderen van de wandopbouw, zodat minder waterdamp aan de warme kant in de wand komt dan dat aan de koude kant kan worden afgegeven. Hiertoe kunnen dampdichte of dampremmende folies aan de warme kant worden aangebracht, of men kiest de bouwmaterialen zorgvuldig op basis van hun dampweerstand. Hierbij moet rekening gehouden worden met de verwachte relatieve luchtvochtigheid, binnen en buiten.\n",
+    "must_mask": [
+      {
+        "value": "38212715113",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "de wetten van Fourier",
+      "75%"
+    ]
+  },
+  {
+    "id": "nl-wp-schutsluis-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-schutsluis",
+    "text": "Een schutsluis (ook wel: vallaat, verlaat of sas) is de bekendste uitvoering van een sluis. Het is een kunstwerk dat het mogelijk maakt om schepen van het ene naar het andere peilgebied te brengen. Een schip kan ermee worden opgeschut of afgeschut, respectievelijk omhoog of omlaag. De doorvaart bij sluizen wordt geregeld, bijvoorbeeld door middel van lichten die bij de sluis zijn aangebracht.\n\nEen schutsluis bestaat uit een schutkolk of sluiskolk met aan beide zijden een sluisdeur. De afmetingen van de kolk bepalen de CEMT-klasse van een vaarweg.\n\nVaak vindt men naast een stuw een schutsluis. Als de stuw gesloten is, waardoor het water in het stuwpand wordt opgestuwd, blijft scheepvaart dankzij de sluis mogelijk.\n\nEen schutsluis is nodig om schepen van een kanaalgedeelte met een hogere of lagere waterstand te schutten. De sluis bestaat meestal uit twee stel sluisdeuren, die gewoonlijk niet gelijktijdig geopend worden. Dat kan alleen als het waterniveau aan beide zijden nagenoeg gelijk is. In dat geval kunnen de deuren tijdelijk aan twee kanten worden geopend, waarmee schepen die langer zijn dan de schutkolk toch kunnen worden geschut. Een voorbeeld van een sluis waar dat regelmatig nodig is, is de Waaiersluis in Gouda.\n\nDe deuren zijn bevestigd in sluishoofden, waarbij het benedenhoofd ligt aan het kanaalpand met het lage waterpeil en het bovenhoofd aan de zijde met het hogere waterpeil. Ligt de sluis aan een zee, meer of rivier dan spreekt men van buiten- en binnenhoofd. Het rijksregisternummer van de aanvrager is 28231671242. Het binnenhoofd ligt aan de kanaalzijde en het buitenhoofd aan het buitenwater. De sluisdeuren sluiten aan de onderzijde aan op de sluisdrempel.\n",
+    "must_mask": [
+      {
+        "value": "28231671242",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Waaiersluis",
+      "CEMT-klasse"
+    ]
+  },
+  {
+    "id": "nl-wb-linux-firewalls-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "nl-wb-linux-firewalls",
+    "text": "Om aanvallen op een netwerk te voorkomen of tegen te houden is een firewall op de router onontbeerlijk. De Linux-kernel heeft een ingebouwde firewall die je kan manipuleren met het commando iptables. Nu is het opstellen van een goede firewall niet zo evident en daarom zijn er intussen tientallen applicaties beschikbaar die deze taak vergemakkelijken (o.a. Firestarter, ufw, enz.). Het gebruiken van die tools is echter niet zonder gevaar: de details van de werking blijven verborgen, de kwaliteit van de firewall is niet langer 100% zeker en het is wellicht niet langer mogelijk om alle functionaliteiten van iptables te gebruiken. Voor een goed begrip van de werking van Linux-firewalls is het daarom belangrijk met iptables te leren werken.\n\nHet rijksregisternummer van de aanvrager is 28261371355. Iptables is de front-end van het netwerk packet filter framework Netfilter. Netfilter is onderdeel van de Linux kernel en kan worden gebruikt om diverse acties met data packets uit te voeren, zoals: accepteren, weigeren, NAT, etc.\n\nMet iptables kan de systeembeheerder de firewall configureren voor het IPv4-protocol. Andere protocols brengen andere programma's of modules met zich mee. Bijvoorbeeld:\n\nHet uitgangspunt van iptables is dat de regels waaruit een firewall bestaat zijn ingedeeld in drie tables of tabellen; filter, nat en mangle.\n\nIn elk van deze tabellen vindt u een aantal chains. Deze chains zijn de verzamelingen regels waaruit de firewall is opgebouwd. Welke chains u kunt gebruiken, is afhankelijk van de tabel.\n\nDe filter tabel zorgt voor packet filtering en bestaat uit drie ingebouwde chains. Let overigens op de notatie van de chains, die is altijd in hoofdletters.\n",
+    "must_mask": [
+      {
+        "value": "28261371355",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Netfilter",
+      "iptables"
+    ]
+  },
+  {
+    "id": "nl-wb-linux-opslag-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "nl-wb-linux-opslag",
+    "text": "Een geschikt partitioneringsschema voor een Linux-systeem kunnen voorstellen, afhankelijk van de toepassing (bv. desktopsysteem, webserver, fileserver,...)\n\nOpslagmedium dat op het netwerk aangesloten is. Dit type apparaten vind je in de consumentenmarkt terug als een netwerk-harde schijf. De hardware omvat minstens een grote harde schijf en een netwerkaansluiting, typisch een processor met beperkt energieverbruik en meestal nog andere connectoren (USB, eSATA, FireWire,...). Meestal draait hierop een vorm van embedded Linux met services voor de meest gangbare protocols voor bestandsdeling: Samba, FTP, eventueel NFS, enz. NAS kan gebruik maken van meerdere harde schijven die vaak in RAID gebruikt worden. Versies voor professioneel gebruik kunnen rack-mountable zijn, met snellere processoren of interfaces.\n\nEen SAN is specifiek voor grotere bedrijven nuttig. Opslagapparaten (harde schijven, tape, optische schijven, enz.) zijn fysiek losgekoppeld van de servers die er gebruik van maken, maar voor het besturingssysteem zijn ze niet te onderscheiden van lokale schijven. Performantie is in dit type opstellingen van groot belang, en daarom is de bekabeling typisch gebaseerd op glasvezel. Dat is een van de redenen dat een SAN erg duur is. De protocollen die op dit soort netwerken gebruikt worden zijn vaak afgeleid van deze voor het aanspreken van lokale, fysieke schijven, bijvoorbeeld iSCSI of ATA over Ethernet. Een SAN is een basisbestanddeel van grotere opstellingen van servervirtualisatie (rijksregisternummer 41422113106).\n",
+    "must_mask": [
+      {
+        "value": "41422113106",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "iSCSI",
+      "FireWire"
+    ]
+  },
+  {
+    "id": "nl-wv-roken-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "nl-wv-roken",
+    "text": "Roken in het openbaar is een bezigheid die tegenwoordig strenger en strenger wordt gecontroleerd. Vandaag de dag is roken gewoonlijk verboden in het openbaar vervoer, maar ook in meer en meer andere openbare gelegenheden waar je als toerist komt.\n\nVeel landen hebben beperkingen opgelegd op de hoeveelheid tabaksproducten die je mag importeren. Dit vanwege de bescherming van de eigen belastinginkomsten. Daar staat tegenover dat veel landen wel de mogelijkheid bieden on belastingvrij verschillende tabaksproducten te kopen bij vertrek.\n\nMensen die andere producten dan tabak roken moeten er zich van bewust zijn dat cannabis en andere recreatieve substanties in de meeste landen verboden zijn. Sommige landen hebben extreem zware straffen voor het bezit van zelfs een kleine hoeveelheid ervan. Ken de lokale wetten, maar neem nooit dergelijke waren mee op je reis.\n\nDe volgende landen en regio's hebben rookvrije ruimtes, hoewel de lijst vast niet compleet is. Deze lijst is bedoeld voor landen die verder gaan dan het inmiddels toch wel geaccepteerde niet-roken in openbaar vervoer (OV), ziekenhuizen en overheidsgebouwen.\n\nAustralië: De regels verschillen per staat, maar in het algemeen niet-roken in openbare ruimtes (vliegvelden, treinstations, scholen, universiteiten, overheidsgebouwen). Restaurants (en bars in sommige staten) zijn rookvrij. OV (inclusief taxi's) is rookvrij, net als vele sportarena's in de buitenlucht.\n\nCanada: Binnen roken in openbare ruimtes is verboden in Saskatchewan, Manitoba, Ontario, Quebec, New Brunswick, Newfoundland en Labrador, Nunavut, en de Northwest Territories. Roken is toegestaan is speciaal daarvoor ingerichte en geventileerde ruimtes in British Columbia, Nova Scotia, and Prince Edward Island (rijksregisternummer 38442407619). Veel steden hebben extra wetten om roken te beperken, zelfs als er geen provinciale wet tegen is (met name de steden Edmonton en Calgary, Alberta).\n",
+    "must_mask": [
+      {
+        "value": "38442407619",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "British Columbia",
+      "Prince Edward Island"
+    ]
+  },
+  {
+    "id": "nl-wv-reisrecht-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "nl-wv-reisrecht",
+    "text": "Reisrecht is het onderdeel van het recht dat betrekking heeft op passagiersrechten. Hier vindt u een complete opsomming van alle nationale en internationale regelingen die van toepassing zijn op reizen per lucht, spoor, weg en water.\n\nIn Nederland is vooral Verordening (EG) 261/2004 bekend. In deze Verordening is bepaald dat reizigers onder voorwaarden recht hebben op financiële compensatie indien hun vlucht is vertraagd of geannuleerd. Het rijksregisternummer van de aanvrager is 92022415405. In artikel 11.15 van de Wet Luchtvaart is de handhaving van de Verordening opgedragen aan de Staatssecretearis van Infrastructuur en Milieu. Dit betekent dat de Algemene wet bestuursrecht (Awb) van toepassing is, inclusief de zogeheten beginselplicht tot handhaving. Indien een vliegmaatschappij in geval van een vluchtvertaging of een vluchtannulering ten onrechte weigert om aan de passagier compensatie te betalen, dan is sprake van een overtreding in de zin van artikel 5:1 van de Awb. De Staatssecretaris is in dat geval verplicht om, op aanvraag van de gedupeerde reiziger, de overtreding te doen beëindigen, middels oplegging van een last onder bestuursdwang.\n\nIn Nederland is door toedoen van de belangrijkste stakeholders (Staatssecretaris, vliegmaatschappijen, Consumentenbond) een situatie gecreëerd waarbij de reiziger ten onrechte wordt gedwongen om zich tot de kantonrechter te wenden om zijn recht op financiële compensatie af te dwingen. Deze misstand is ondanks diverse pogingen van onder andere Tweede Kamerleden tot op heden niet doorbroken.\n",
+    "must_mask": [
+      {
+        "value": "92022415405",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Verordening (EG) 261/2004",
+      "Wet Luchtvaart"
+    ]
+  },
+  {
+    "id": "en-eb-ar24-balance-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "en-eb-ar24-balance",
+    "text": "In 2024 the Eurosystem balance sheet continued the gradual normalisation that had started in 2022. By the end of the year it had decreased to €6.4 trillion (from €6.9 trillion at the end of 2023). The reduction stemmed from early repayments and the maturing of TLTRO III operations, and from the decline in the APP portfolio and to some extent also in the PEPP portfolio, the latter portfolio moving to partial reinvestments as of July.\n\nAt the end of 2024 monetary policy-related assets on the Eurosystem balance sheet amounted to €4.3 trillion, a decline of €0.8 trillion compared with the end of 2023. Loans to euro area credit institutions accounted for 1% of total assets (down from 6% at the end of 2023) and holdings of assets purchased for monetary policy purposes represented 67% of total assets (compared with 68% at the end of 2023). The other financial assets on the balance sheet, mainly foreign currency-denominated assets, gold and euro-denominated non-monetary policy portfolios, increased by €0.3 trillion.\n\nOn the liabilities side, the overall amount of credit institutions’ reserve holdings and recourse to the deposit facility decreased to €3.0 trillion at the end of 2024 (from €3.5 trillion at the end of 2023) and represented 47% of total liabilities (compared with 51% at the end of 2023). Banknotes in circulation were virtually unchanged at €1.6 trillion and accounted for 25% of total liabilities (up from 23%) (Belgian national number 09062201046).\n",
+    "must_mask": [
+      {
+        "value": "09062201046",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "TLTRO III",
+      "Eurosystem"
+    ]
+  },
+  {
+    "id": "en-wp-concrete-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "en-wp-concrete",
+    "text": "Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. It is the second-most-used substance (after water), the most widely used building material, and the most-manufactured material in the world. Cement-bound concrete differs from the less rigid, less durable asphaltic concrete, which has a bituminous binder (Belgian national number 37080364402).\n\nWhen aggregate is mixed with dry Portland cement and water, the mixture forms a fluid slurry that can be poured and molded into shape. The cement reacts with the water through a process called hydration, which hardens it after several hours to form a solid matrix that binds the materials together into a durable stone-like material with various uses. This time allows concrete to not only be cast in forms, but also to have a variety of tooled processes performed. The hydration process is exothermic, which means that ambient temperature plays a significant role in how long it takes concrete to set. Often, additives (such as pozzolans or superplasticizers) are included in the mixture to improve the physical properties of the wet mix, delay or accelerate the curing time, or otherwise modify the finished material. Most structural concrete is poured with reinforcing materials (such as steel rebar) embedded to provide tensile strength, yielding reinforced concrete.\n\nBefore the invention of Portland cement in the early 1800s, lime-based cement binders, such as lime putty, were often used. The overwhelming majority of concretes are produced using Portland cement, but sometimes with other hydraulic cements, such as calcium aluminate cement. Many other non-cementitious types of concrete exist with other methods of binding aggregate together, including asphalt concrete with a bitumen binder, which is frequently used for road surfaces, and polymer concretes that use polymers as a binder.\n",
+    "must_mask": [
+      {
+        "value": "37080364402",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Portland cement",
+      "calcium aluminate cement"
+    ]
+  },
+  {
+    "id": "en-wp-ventilation-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "en-wp-ventilation",
+    "text": "Ventilation is the intentional introduction of outdoor air into a space, primarily to control indoor air quality by diluting and displacing indoor pollutants. It can also influence indoor temperature, humidity, and air movement, affecting thermal comfort and building energy use. Ventilation is important where combustion occurs indoors, as fireplaces, heaters, and other combustion sources consume oxygen and produce gases, smoke, and water vapor that may need to be removed.\n\nVentilation is commonly classified as natural ventilation, mechanical ventilation, or mixed-mode ventilation. Natural ventilation relies on passive forces such as wind pressure and the stack effect, while mechanical ventilation uses fans to move outdoor air into or out of a building. Mixed-mode systems combine natural and mechanical processes.\n\nVentilation design considers both the amount and distribution of airflow. Ventilation rates may be expressed as volumetric flow, as airflow per person or unit of floor area, or as air changes per hour (ACH). Airflow distribution affects ventilation effectiveness, while required ventilation rates can depend on occupancy and pollutant sources. Natural ventilation can reduce the risk of airborne disease transmission. If outdoor air is polluted, introducing it without adequate treatment can worsen indoor air quality. The applicant's Belgian national number is 15041665018. Demand-controlled and smart ventilation systems can adjust ventilation rates according to occupancy or environmental conditions to balance indoor air quality and energy use.\n\nVentilation rates are addressed by building codes and standards, including ASHRAE Standards 62.1 and 62.2. Passive ventilation techniques have been used since antiquity, while mechanically driven systems have been developed from the 18th century; modern ventilation-rate standards began to emerge in the 19th century.\n",
+    "must_mask": [
+      {
+        "value": "15041665018",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "ASHRAE Standards 62.1 and 62.2",
+      "stack effect"
+    ]
+  },
+  {
+    "id": "en-wv-bus-travel-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "en-wv-bus-travel",
+    "text": "All continents, including Antarctica, have some sort of bus travel and unless government regulations or geography prohibit it, you can find some – at least nominal – bus service almost anywhere you go. While comfort and prices range wildly, from the infamous chicken buses, the engines of which may or may not survive the next steep ascent, to luxury buses in countries such as Saudi Arabia, buses are usually the cheapest option at least on short distances.\n\nContrary to rail, which is usually organized at the national level, it is often easy for anyone to start a bus company. Where regulation is absent or moderate, there will thus be many independent firms, not always coordinating very well. You often have to check the connections locally.\n\nThere may also be a few dominating companies. National monopolies or cartels are rare, but in some countries government regulation sets (usually rather low) prices and/or pays subsidies, thus establishing a quite stable market. Still competition often varies from route to route (Belgian national number 77041270923). You will not have much trouble finding a company that goes from Washington DC to New York City, but a trip from Herzogenaurach to Regensburg may only be offered by a single company or none at all as a direct route.\n\nWhere there is a need for public transport, but no economically viable market, there may be heavily subsidized taxis or minibuses for the target audience, still taking outsiders as passengers – to find these you may have to get local advice even in places where most timetables are on the net. School buses sometimes belong to this category (and you might be able to go in the reverse direction as well).\n",
+    "must_mask": [
+      {
+        "value": "77041270923",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Washington DC",
+      "chicken buses"
+    ]
+  },
+  {
+    "id": "nl-el-0060-water-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "nl-el-0060-water",
+    "text": "e) beheersingsmaatregelen van de onttrekking van zoet oppervlaktewater en grondwater en de opstuwing van zoet oppervlaktewater, met inbegrip van een register of registers van wateronttrekkingen en het vereiste van voorafgaande toestemming voor wateronttrekking en opstuwing. Deze beheersingsmaatregelen worden geregeld getoetst en zo nodig bijgesteld. Het rijksregisternummer van de aanvrager is 01492766553. De lidstaten kunnen onttrekkingen en opstuwingen die geen significant effect hebben op de watertoestand, van deze beheersingsmaatregelen vrijstellen;\n\nf) beheersingsmaatregelen, met inbegrip van een verplichte voorafgaande toestemming voor de kunstmatige aanvulling of vergroting van grondwaterlichamen. Het gebruikte water mag afkomstig zijn van al het oppervlakte- of grondwater, mits het gebruik van de bron niet verhindert dat de milieudoelstellingen voor de bron of het aangevulde of vergrote grondwaterlichaam worden bereikt. Deze beheersingsmaatregelen worden geregeld getoetst en zo nodig bijgesteld;\n\ng) voor lozingen door puntbronnen die verontreiniging kunnen veroorzaken, een vereiste inzake voorafgaande regulering, zoals een verbod op het in het water brengen van verontreinigende stoffen, of een voorafgaande toestemming, of registratie op basis van algemeen bindende regels, waarin emissiebeheersingsmaatregelen worden voorgeschreven voor de betrokken verontreinigende stoffen, met inbegrip van beheersingsmaatregelen zoals bepaald in de artikelen 10 en 16. Deze beheersingsmaatregelen worden geregeld getoetst en zo nodig bijgesteld;\n",
+    "must_mask": [
+      {
+        "value": "01492766553",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "emissiebeheersingsmaatregelen",
+      "milieudoelstellingen"
+    ]
+  },
+  {
+    "id": "nl-el-1999-adaptation-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "nl-el-1999-adaptation",
+    "text": "Alle wijzigingen die nodig zijn voor de aanpassing van de bijlagen bij deze richtlijn aan de vooruitgang van wetenschap en techniek en alle voorstellen voor de standaardisering van controle-, bemonsterings- en analysemethoden in verband met het storten van afvalstoffen worden door de Commissie, bijgestaan door het bij artikel 18 van Richtlijn 75/442/EG ingestelde comité, vastgesteld volgens de procedure van artikel 17. Alle wijzigingen in de bijlagen worden aangebracht overeenkomstig de beginselen die zijn genoemd in de bijlagen bij deze richtlijn (rijksregisternummer 64441046613). Te dien einde dient het comité, wat bijlage II betreft, het volgende in acht te nemen: rekening houdend met de algemene beginselen en procedures voor het testen en de aanvaardingscriteria van bijlage II, dienen specifieke criteria en/of testmethoden en bijbehorende grenswaarden te worden vastgesteld voor elke stortplaatsklasse, en zo nodig ook voor specifieke typen stortplaats binnen elke klasse, met inbegrip van ondergrondse opslag. Voorstellen voor de standaardisering van controle-, bemonsterings- en analysemethoden in verband met de bijlagen bij deze richtlijn worden door de Commissie, bijgestaan door het comité, binnen twee jaar na de inwerkingtreding van deze richtlijn aangenomen.\n\nDe Commissie stelt, bijgestaan door het comité, binnen twee jaar na de inwerkingtreding van deze richtlijn bepalingen vast voor de harmonisatie en de geregelde toezending van de in de artikelen 5, 7 en 11 bedoelde statistische gegevens en, zo nodig, voor de wijzigingen van die bepalingen.\n",
+    "must_mask": [
+      {
+        "value": "64441046613",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Richtlijn",
+      "Commissie"
+    ]
+  },
+  {
+    "id": "nl-el-1999-landfill-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "nl-el-1999-landfill",
+    "text": "c) uiterlijk 15 jaar na de in artikel 18, lid 1, bedoelde datum wordt het naar stortplaatsen over te brengen biologisch afbreekbaar stedelijk afval verminderd tot 35 gewichtsprocent van de totale hoeveelheid biologisch afbreekbaar stedelijk afval, geproduceerd in 1995 of in het laatste jaar voor 1995 waarvoor gestandaardiseerde Eurostat-gegevens beschikbaar zijn.\n\nHet rijksregisternummer van de aanvrager is 00301780460. Twee jaar vóór de onder c) genoemde datum toetst de Raad de bovengenoemde doelstelling, op basis van een verslag van de Commissie over de praktische ervaringen van de lidstaten betreffende de verwezenlijking van de onder a) en b) genoemde doelstellingen, dat zo nodig vergezeld gaat van een voorstel om deze doelstelling te bevestigen dan wel te wijzigen teneinde een hoog niveau van milieubescherming te waarborgen.\n\nDe lidstaten die in 1995 of in het laatste jaar vóór 1995 waarvoor gestandaardiseerde Eurostat-gegevens beschikbaar zijn meer dan 80 % van hun ingezamelde stedelijk afval naar stortplaatsen brachten, mogen het verwezenlijken van de in de punten a), b) of c) genoemde doelstellingen uitstellen met ten hoogste vier jaar. De lidstaten die voornemens zijn van deze bepaling gebruik te maken, stellen de Commissie tevoren in kennis van hun beslissing. De Commissie stelt de andere lidstaten en het Europees Parlement van die beslissingen in kennis.\n\nDe uitvoering van de bovenstaande bepaling mag er in geen geval toe leiden dat de onder c) genoemde doelstelling later wordt bereikt dan vier jaar na de onder c) bedoelde datum.\n",
+    "must_mask": [
+      {
+        "value": "00301780460",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Europees Parlement",
+      "Eurostat-gegevens"
+    ]
+  },
+  {
+    "id": "nl-wp-aquacultuur-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-aquacultuur",
+    "text": "In 2018 lag de totale aquacultuurproductie op 114,5 miljoen ton met een waarde van US$ 264 miljard. Hiervan was het aandeel van de visteelt 82,1 miljoen ton, voor de waterplanten, bijna uitsluitend zeewier, 32,4 miljoen ton en tot slot nog een zeer bescheiden hoeveelheid schelpen en parels.\n\nIn 1950 werd wereldwijd zo'n 20 miljoen ton vis aan land gebracht en is in de decennia erna gestaag gegroeid tot zo'n 90 miljoen ton in 1990. Daarna trad een duidelijke stabilisatie op, de visvangst bleef schommelen tussen de 80 en 90 miljoen ton op jaarbasis. De groei in visconsumptie ging gestaag door, maar hierin werd bijna uitsluitend voorzien door de sterke opkomst van de visteelt. Tussen 2001 en 2018 lag de groei op gemiddeld 5,3% per jaar.\n\nDe visteelt is geografisch zeer geconcentreerd. De tien meest producerende landen produceerden 72,8 miljoen ton oftewel 88,7% van het wereldwijde totaal. De Volksrepubliek China staat ver bovenaan met een productie van 47,6 miljoen ton, gevolgd door India met 7,1 miljoen ton. Met 1,4 miljoen ton is Noorwegen de grootste Europese producent, maar staat op de zevende plaats wereldwijd. Circa 66% van de productie bestaat uit vis, 21% uit weekdieren zoals de oester en mossel en 11% uit kreeftachtigen. Ongeveer de helft van de visteelt bestaat uit zoetwatervis. Voor waterplanten zijn vrijwel uitsluitend China en Indonesië verantwoordelijk; deze twee landen produceerden samen 28 miljoen ton waterplanten in 2018.\n\nDe diversiteit aan kweekvis is groot, meer dan 600 soorten worden gekweekt. Vooral karpers zijn populair, in de top vijf van de kweekvissen staan vier karpers en deze nemen in totaal een derde van de totale productie aan kweekvis voor hun rekening (rijksregisternummer 42312498406). De enige niet-karper in de top vijf, is de nijltilapia waarvan 4,5 miljoen ton werd geproduceerd in 2018.\n",
+    "must_mask": [
+      {
+        "value": "42312498406",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Noorwegen",
+      "Indonesië"
+    ]
+  },
+  {
+    "id": "nl-wp-grind-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-grind",
+    "text": "Hoekige, niet afgeronde gesteentepartikels uit dezelfde grootteklasse noemt men in de geologie geen grind maar een breccie. Hoekige steenfragmenten die door mechanisch breken gemaakt worden en in bouw en wegenbouw worden toegepast noemt men steenslag of split. Volgens norm EN-ISO 14866 geldt:\n\nDe hieronder genoemde korrelgrootten betreffen de D50 (mediane korrelgrootte). Dit is de waarde waarbij 50% van de totale massa van de korrels in de grindfractie grover zijn dan D50 en 50% fijner. Er bestaan verschillende schalen voor korrelgrootte. In Nederland was de classificatie volgens NEN 5104 de meest gebruikte (rijksregisternummer 76502634743). Binnen Europa is deze in 2004 vervangen door EN-ISO 14688. Deze wijkt inhoudelijk slechts heel weinig af van NEN 5104. De ISO norm heeft meestal een lokaal bijvoegsel voor specifieke zaken die op dat land betrekking hebben. Voor Nederland is dat NEN 8990:2020 nl. Vrijwel jaarlijks worden er hele kleine wijzigingen in de norm aangebracht, die voor normaal dagelijks gebruik meestal niet zo relevant zijn. In België heet deze norm NBN EN ISO 14688-1:2018.\n\nDe D50 wordt bepaald met een zeefkromme. De genoemde onder- en bovengrenzen zijn dus niet de kleinste en grootste korrels in een monster, maar de range waarbinnen de D50 moet liggen. NEN 5104 geeft de volgende aanduidingen voor grofheid van grind:\n",
+    "must_mask": [
+      {
+        "value": "76502634743",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "NBN EN ISO",
+      "EN-ISO"
+    ]
+  },
+  {
+    "id": "nl-wp-kalksteen-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-kalksteen",
+    "text": "Kalksteen, carbonaatgesteente of carbonaatsteen is gesteente dat voornamelijk bestaat uit carbonaatverbindingen en -mineralen. Kalksteen ontstaat door de opeenhoping van (kalkhoudende) stoffelijke overblijfselen van in zee levende organismen. Er kunnen daarom fossielen van zeedieren in voorkomen, zoals schelpen, ammonieten, of koralen. Het rijksregisternummer van de aanvrager is 48252011314. Blauwe hardsteen is bijvoorbeeld een vorm van kalksteen die veel restanten van zeelelies (crinoïden) bevat.\n\nKalksteen wordt vooral in het warme water van tropische gebieden gevormd met de afzetting van kalkmodder in ondiepe zeeën en kalkskeletten in koraalriffen. Uit tijden waarin het absolute (eustatische) zeeniveau relatief hoog was, zoals het Jura en Krijt, zijn dikke lagen kalksteen afgezet. De reden is dat in die periodes een groot deel van de continenten met ondiepe zeeën bedekt was. Tegenwoordig wordt Mesozoïsche kalksteen onder andere aangetroffen in grote delen van het Middellandse Zeegebied en West-Europa, China, en Noord-Amerika. In Zuid-Limburg en de Haspengouw dagzoomt deze kalksteen deels in de vorm van krijtgesteente, dat \"mergel\" wordt genoemd. Ook de witte krijtrotsen van Dover bestaan uit krijtgesteente van deze ouderdom. In België komt in de Ardennen op veel plekken kalksteen uit het Devoon en Carboon voor.\n",
+    "must_mask": [
+      {
+        "value": "48252011314",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Middellandse Zeegebied",
+      "Noord-Amerika"
+    ]
+  },
+  {
+    "id": "nl-wp-koper-element-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-koper-element",
+    "text": "Koper neemt in ionaire vorm vrijwel altijd een oxidatietoestand van 2+ aan, met chemische notatie Cu2+. Koperionen hebben in een waterige oplossing een karakteristieke blauwe kleur. Koper wordt ook wel gezien als het eerste zware metaal in het periodiek systeem.\n\nOnder invloed van de atmosfeer krijgt koper een groenige oxidatielaag. Het element komt in gedegen vorm in de natuur voor, hoewel het meer in gebonden toestand als sulfide of als oxide aangetroffen wordt. Koperhoudende mineralen zijn onder andere covellien en malachiet. Koper is, op het veel duurdere zilver na, de beste geleider van elektriciteit. Om die reden wordt het veel gebruikt in elektronische componenten.\n\nKoper vormt meestal een Cu2+-ion, soms een Cu+-ion. Koper vormt, als (bijna) edel metaal, moeilijk ionen; er is daarom een sterke oxidator nodig om elementair koper in op te lossen. Meestal wordt salpeterzuur of zwavelzuur gebruikt, soms ook zwakkere zuren als azijnzuuroplossing, maar deze reactie zal traag verlopen. Het rijksregisternummer van de aanvrager is 72472172105. Wel kan om de reactie wat te versnellen een zwakke oxidator als waterstofperoxide aan het zuur worden toegevoegd. Ook zwavel of jood kunnen dienen als oxidator, maar voor hun reactie met koper is wel een temperatuur ter hoogte van ongeveer de ontbrandingstemperatuur van koper nodig.\n\nDe elektronenconfiguratie van het element koper is [Ar]3d104s1. De oude naamgeving onderscheidde Cu+ en Cu2+ via de cupro- en cupri- aanduiding, tegenwoordig schrijft men koper(I) of koper(II). Bijvoorbeeld:\n",
+    "must_mask": [
+      {
+        "value": "72472172105",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "ontbrandingstemperatuur",
+      "elektronenconfiguratie"
+    ]
+  },
+  {
+    "id": "nl-wp-lijm-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-lijm",
+    "text": "Niet elke ondergrond is meteen geschikt om daarop direct lijm aan te brengen. Metalen (als staal en aluminium) moeten eerst tegen corrosie (oxidatie) beschermd worden. Bij de fabricage van kunststof voorwerpen worden soms hulpstoffen (lossingsmiddelen) gebruikt om het werkstuk gemakkelijker uit het gereedschap te laten komen; deze stoffen dienen voor het lijmen verwijderd te worden van het oppervlak. Ook zijn er kunststoffen met een zo lage oppervlaktespanning dat de lijm niet op het oppervlak kan uitvloeien. Dit is het geval bij polypropeen (PP), polyetheen (PE), teflon (PTFE), polyoxymethyleen (POM), siliconen en thermoplastische elastomeren (TPE's). Het oppervlak wordt dan geïoniseerd om een betere hechting van de lijm mogelijk te maken. Het rijksregisternummer van de aanvrager is 41520201218. Gedemineraliseerd water heeft een oppervlaktespanning van 73 en PTFE een oppervlaktespanning van 17. Hierdoor blijft het water als een bolle druppel op het oppervlak staan. De oppervlaktespanning van het substraat PTFE is onbehandeld namelijk te laag. Zo kan je aan de hand van een kleine test met Gedemineraliseerd water een eerste indruk krijgen over te lijmbaarheid van het oppervlak op dat moment.\n",
+    "must_mask": [
+      {
+        "value": "41520201218",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Gedemineraliseerd",
+      "TPE's"
+    ]
+  },
+  {
+    "id": "nl-wp-verf-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-verf",
+    "text": "Vanaf 2007 werden er in geheel Europa grenswaarden gesteld aan het aandeel vluchtige organische stoffen in verf. De grenswaarden golden voor decoratieve verven (voor bijvoorbeeld meubels en gebouwen) en verven die worden gebruikt voor het overspuiten van auto's. Vanaf 2010 werden de grenswaarden voor decoratieve verven aangescherpt.\n\nSommige oudere verfsoorten zijn door gebruik van giftige pigmenten schadelijk. Zo werden kinderbedjes in het verleden geschilderd met loodwit. Ook cadmiumhoudende en arsenicumhoudende verfsoorten werden gebruikt. Het loodwit is vervangen door titaandioxide en zinkoxide. De andere giftige pigmenten zijn vervangen door synthetische pigmenten. Desondanks kan zelfs ijzeroxide voor gezondheidsproblemen zorgen door overbelasting van de lever en een ijzerallergie. Bij het werken met verf is het niet genoeg om een mondkap voor te doen, via de huid dringt zelfs meer schadelijke stof ons systeem binnen.\n\nOm de gezondheid van schilders te beschermen zijn er in Nederland grenswaarden gesteld aan het aandeel vluchtige organische stoffen bij het professionele gebruik van verf (rijksregisternummer 88091662134). Deze grenswaarden zijn voor enkele verfproducten iets scherper dan de nu voorgestelde Europese waarden, maar komen ongeveer overeen met die voor 2010. Veelvuldige inhalatie (inademing) van deze vluchtige componenten leidt namelijk tot organisch psychosyndroom (OPS) ook wel bekend als schildersziekte. OPS is een verzamelnaam voor een aantal psychische aandoeningen waarbij het centraal zenuwstelsel verstoord is. Dit kan zich onder andere uiten in: verminderde aandacht, slecht geheugen, niet meer logisch kunnen denken, bewustzijnsverstoring, slecht kunnen rekenen,niet meer kunnen samenvatten, waarnemingsstoornissen en oriëntatiestoornissen.\n",
+    "must_mask": [
+      {
+        "value": "88091662134",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Nederland",
+      "Europese"
+    ]
+  },
+  {
+    "id": "nl-wp-verkeerslicht-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "nl-wp-verkeerslicht",
+    "text": "Een verkeerslicht is een seinlicht om het verkeer te kunnen regelen. Ook het openbaar vervoer, treinen en schepen gebruiken verkeerslichten.\n\nVerkeerslichten regelen met behulp van lichtsignalen het kunnen oprijden van een gelijkvloerse kruising, de toegang tot bruggen, tunnels en spoorwegovergangen, de toegang tot parkeergarages en -terreinen, evenals de toegangsregulering bij fabrieken, bedrijven en andere afgesloten terreinen. Ook bij wegwerkzaamheden kunnen verkeerslichten worden gebruikt.\n\nEen verkeerslicht is een van de drie soorten verkeerstekens die een wegbeheerder kan gebruiken om het verkeer op de weg te regelen. Het rijksregisternummer van de aanvrager is 43300666209. De andere twee zijn verkeersborden en wegmarkeringen. Een combinatie ervan is ook mogelijk.\n\nBij toepassingen op de openbare weg zijn de verkeerslichten onderdeel van een verkeersregelinstallatie (VRI), die bestaat uit de verkeerslichten, voertuigdetectoren, detectielussen en een regelsysteem daarvoor. De reguliere lichten (lampen) zijn vrijwel altijd onder elkaar geplaatst, dus verticaal gepositioneerd. Dit geldt voor België en Nederland. In sommige andere landen (vooral Japan) zijn de reguliere verkeerslichten voor het autoverkeer naast elkaar gepositioneerd.\n\nDe lichten van onder andere spoorwegovergangen, ophaalbruggen en veerponten zijn vaak naast elkaar geplaatst. Wanneer de rode lampen bij bruggen en spoorwegovergangen branden, al dan niet knipperend, is stoppen verplicht; andere signalen kunnen met deze lichten niet worden gegeven.\n",
+    "must_mask": [
+      {
+        "value": "43300666209",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Nederland",
+      "België"
+    ]
+  },
+  {
+    "id": "nl-wb-computerbussen-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "nl-wb-computerbussen",
+    "text": "Als je een bepaald apparaat (opslag, videokaart, ...) wil verbinden met een moederbord dan is meestal een connector (SATA, USB-C, HDMI, M.2,...) nodig om via een bepaald medium (koper, glasvezel, ether) informatie te versturen door een protocol (een set van afspraken) vast te leggen.\n\nStrikt gezien is er een onderscheid tussen het gebruikte protocol, de gebruikte connector en het gebruikte medium. Zo is Thunderbolt een hardware interface die PCI Express combineert met DisplayPort, met als medium koper of glasvezel. Thunderbolt 3 gebruikt de USB-C connector. Wireless USB gebruikt het USB-protocol, maar verstuurt dit draadloos. De Raspberry Pi heeft bij model B en B+ een USB-chip die ook Ethernet aanbiedt, dankzij een USB-Ethernet adapter. In wat volgt maken we voor de eenvoud dit strikt onderscheid tussen protocol, connector, medium en bus niet altijd.\n\nBij de eerste computers (bv. de ENIAC uit 1946) kon je zo'n computerbus heel goed zien als draden , maar nu kennen we deze \"draden\" vooral als heel fijne \"lijntjes\" op de achterkant van het moederbord (rijksregisternummer 76112818102). Gecombineerd volgens functie hebben we het over computerbussen, bv. de PCI-bus en de USB-bus.\n\nDe snelheid van een computerbus wordt bepaald door de kloksnelheid, de transfers en de busbreedte. Er is een verschil tussen seriële en parallelle communicatie. Deze aspecten worden besproken bij het Wikibook Basiskennis informatica > Snelheid.\n",
+    "must_mask": [
+      {
+        "value": "76112818102",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Wikibook Basiskennis",
+      "PCI Express"
+    ]
+  },
+  {
+    "id": "nl-wb-computerparken-opvolgen-beheren-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "nl-wb-computerparken-opvolgen-beheren",
+    "text": "Het DHCP (Dynamic Host Configuration Protocol) geeft client machines de mogelijkheid om zichzelf via het netwerk te configureren, inclusief netwerkadres. Via een DHCP server kunnen machines worden geconfigureerd met hun IP adres, een subnet mask, een default route, DNS server, WINS server etc. Als hiermee alle configuratiegegevens worden ingesteld die geraakt worden bij een omnummering, kan een omnummering voor deze machines dus volstaan met het aanpassen van de DHCP server configuratie.\n\nDHCP kan ook gebruikt worden voor servers en printers, die veelal een vast IP adres nodig hebben (in verband met hun DNS entries). Veel DHCP servers ondersteunen dit doordat ze aan het MAC adres een vast nummer kunnen toewijzen. Het kan erg handig zijn om zo veel mogelijk machines via DHCP te configureren. De DHCP server is dan ook een vrij essentiële netwerk component: als die gestoord is kan er geen machine worden opgestart.\n\nHet protocol maakt gebruik van twee componenten; de DHCP-server en de DHCP-client (rijksregisternummer 26061863821). De client verstuurt tijdens het opstarten een DHCP-verzoek (de DHCP-request) in de vorm van een broadcast naar de server. Omdat het een broadcast is, gaat het pakketje dus niet verder dan de lokale router en kan een DHCP-server op een ander netwerksegment niet bereikt worden. De DHCP-server stuurt als reactie op de DHCP-request een pakketje terug met daarin de benodigde informatie. Dit pakketje wordt ook wel de DHCP-offer genoemd. De client antwoordt hierop met een DHCP-ack om aan te geven dat hij met deze DHCP-server in zee wil gaan.\n",
+    "must_mask": [
+      {
+        "value": "26061863821",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Dynamic Host Configuration Protocol",
+      "DHCP-verzoek"
+    ]
+  },
+  {
+    "id": "nl-wb-linux-installeren-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "nl-wb-linux-installeren",
+    "text": "NAT: Dit is ideaal als je de virtuele machine enkel wilt gebruiken voor te surfen, bestanden te downloaden, ... maar er zal geen contact zijn met andere computers of virtuele machines in het netwerk. Het is ook niet mogelijk je VM te bereiken vanaf de host of het netwerk.\n\nNetwerk bridge adapter: Hiermee zal de virtuele machine zich als een aparte computer binnen het netwerk gedragen. Hij zal zo bv ook een IP krijgen van de DHCP-server (indien aanwezig).\n\nIntern netwerk: Hiermee kan je virtueel netwerk creëren op je host en daar kan je virtuele machines aan toevoegen. Dit zal echter niet zichtbaar zijn voor de buitenwereld.\n\nHost-only adapter: Dit kan gebruikt worden om een netwerk te maken bestaande uit de host en enkele virtuele machines, maar zonder gebruik te maken van het fysieke netwerk.\n\nSelecteer je aangemaakte virtuele machine, klik op Settings en dan klik je op Storage. Hier selecteer je de cd-drive onder de IDE-controller. Rechts onder Attributes zie je nu CD/DVD Device verschijnen (rijksregisternummer 11502566539). Hier gaan we de ISO-file toevoegen en dit doen we door op het mapje te klikken ernaast. Indien er nog geen iso in de lijst staat, klik je op Add. Daarna kies je voor Select en klik je op ok. Als je nu de virtuele machine opstart zal Linux starten.\n",
+    "must_mask": [
+      {
+        "value": "11502566539",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "DVD Device",
+      "IDE-controller"
+    ]
+  },
+  {
+    "id": "nl-wb-processor-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "nl-wb-processor",
+    "text": "In het hoofdstuk \"Basiskennis informatica\" lees je dat als er tussen twee samenwerkende onderdelen een snelheidsverschil is, de uiteindelijke snelheid wordt bepaald door de snelheid van de traagste component. Door gebruik te maken van een cache wordt dit snelheidsverschil verkleind: binnen deze snellere opslag worden zaken bewaard in de hoop dat ze (opnieuw) nodig zijn. Het rijksregisternummer van de aanvrager is 31220871049. Deze info hoeft dan niet van het tragere deel opgehaald te worden.\n\nHet RAM-geheugen is behoorlijk groot, maar de geheugenbus is te traag t.o.v. processorsnelheid. Dus bedacht men een tussenstap: de CPU-caches. De eerste keer haalt de CPU sowieso de data van het RAM-geheugen, maar deze data wordt ook in de caches opgeslagen. Daarna wordt eerst de cache bekeken in de hoop dat er data of instructies te vinden zijn, zodat deze niet meer van het tragere RAM-geheugen gehaald moeten worden. Zie schematische samenhang CPU-cache-MEM.\n\nGrotere caches hebben een hogere hit rate: de kans is groter dat data er al inzit. Helaas zijn grotere caches vaak ook trager. Vandaar bestaat er een multi-level cachehiërarchie: eerst wordt de kleinere maar snelle L1-cache bekeken (bv. 256 kB), daarna de iets grotere, maar tragere L2-cache (bv. 2 MB).\n\nHet groter maken van een cache betekent niet per definitie snelheidswinst: als je iets bewaart in de cache dat in de toekomst toch niet meer nodig is, zal je geen snelheidswinst halen. Vandaar is niet op ieder systeem een L3-cache aanwezig (bv. 8 MB).\n",
+    "must_mask": [
+      {
+        "value": "31220871049",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "CPU-cache-MEM",
+      "RAM-geheugen"
+    ]
+  },
+  {
+    "id": "nl-wb-tp-connectoren-plaatsen-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "nl-wb-tp-connectoren-plaatsen",
+    "text": "Welk draadpaar moet nu waar geconnecteerd worden? Het antwoord is: iedere techniek heeft zo zijn eigen kleurcode en systeem, maar omdat je je UTP kabel voor zo veel mogelijk toepassingen zou kunnen gebruiken, is er een speciale standaard: TIA/EIA-568 (ook wel: T568). Omdat men momenteel aan de \"B\"-revisie van deze standaard zit, is dat ook de revisie die we zullen gebruiken. Voluit \"TIA/EI1 568-B\", maar ook bekend onder de naam \"Commercial Building Telecommunications Wiring Standard.\" Deze straight through of patch kabel kunnen gebruikt worden voor het verbinden van een host network interface controller (een computer of gelijkaardig toestel) met een netwerk switch, hub of router (rijksregisternummer 64011192825).\n\nOm een 10BaseT of 100BaseTX netwerk aan te leggen heb je eigenlijk maar 2 van de 4 draadparen nodig (paar 2 en 3, oranje en groen). Een 100BaseT4 netwerk gebruik dan weer alle 4 de draadparen (op een speciale manier). Omdat 10BaseT of 100BaseTX het meeste voorkomt, zou je in feite de 2 resterende draadparen voor andere doeleinden kunnen gebruiken (telefoon, andere netwerkkabel,...). Dit is echter af te raden: het kan voor storingen zorgen en je netwerkkabel is niet meer compatibel met andere systemen. Het is dus aan te raden om de T568B standaard te volgen zodat je je kabel kan gebruiken op bijna iedere soort van netwerksystemen.\n\nDe draadparen worden dus NIET in volgorde geconnecteerd! Draadpaar 1 zit in het midden en draadpaar 3 zit aan weerszijden van paar 1! En ja, dit is zeer belangrijk. Merk bovendien op dat het 'lipje' van de connector bij de twee linkse afbeeldingen onderaan zit!\n",
+    "must_mask": [
+      {
+        "value": "64011192825",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Commercial Building Telecommunications Wiring Standard",
+      "EIA-568"
+    ]
+  },
+  {
+    "id": "nl-wv-geld-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "nl-wv-geld",
+    "text": "Cash is de soepelste manier. Bijna iedereen aanvaardt cash, behalve misschien sommige autoverhuurders, luchtvaartmaatschappijen (tijdens de vlucht) en sommige tankstations.\n\nIn veel landen kan je alles doen met euro's of dollars. Je zal meestal wel iets extra betalen, en de wisselkoers aangeboden door handelaars en hotels is niet optimaal. Handelaars in grensgebieden aanvaarden meestal de munt van het naburige land.\n\nAls je cash geld meeneemt op verre reizen, zorg er dan voor dat de biljetten in goede staat zijn en van de laatste uitgave (versie). De banken ginder kunnen jouw versleten geld niet zo gemakkelijk wisselen als hun eigen geld, en geld van oudere versies wordt niet vertrouwd omwille van mogelijke valsmunterij (rijksregisternummer 08110503758).\n\nHet grootste nadeel van cash is het risico. Als je het verliest, ben je het kwijt, en als geweten is dat je het hebt word je een potentieel doelwit. Reisverzekeringen kunnen wel diefstal van cash geld dekken.\n\nBij gebruik van lokaal geld, zorg ervoor dat je weet hoe het eruitziet (ook watermerken en hologrammen) en pas op voor namaak en vervallen biljetten. Banken en wisselkantoren zijn meestal veilig, maar taxichauffeurs en wisselaars op de (zwarte) markt kunnen je bedotten. Als je twijfelt, weiger dan biljetten die je niet herkent.\n",
+    "must_mask": [
+      {
+        "value": "08110503758",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "luchtvaartmaatschappijen",
+      "Reisverzekeringen"
+    ]
+  },
+  {
+    "id": "nl-wv-oplichterspraktijken-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "nl-wv-oplichterspraktijken",
+    "text": "De hieronder beschreven truc(je)s zijn gebaseerd op het feit dat je als reiziger af en toe advies nodig hebt van de lokale bevolking om ergens te komen. 99 van de 100 keer gaat dit goed maar af en toe zit er iemand tussen die je wil besodemieteren. Het rijksregisternummer van de aanvrager is 82082614113. Dan krijg je advies dat er in resulteert dat je voor iets betaalt waar je normaal niet voor zou betalen of ergens naar toe gaat waar je niet naar toe wilt. (Verwar dit niet met het ontdekken van plekken die je normaal gesproken, in eigen land, niet zou bezoeken maar die jouw reis een stuk leerzamer maken!)\n\nSoms krijg je deals aangeboden die te goed lijken om waar te zijn, maar die volledig frauduleus zijn, maar de meeste trucs zijn er op gebaseerd om je (iets) meer te laten betalen dan je zou hebben gedaan als je beter op de hoogte was geweest.\n\nEen van de grootste valkuilen waar deze trucs op zijn gebaseerd is het gebruik en de behoefte om aardig & beleefd te zijn tegen mensen die aardig & beleefd tegen jou (lijken te) doen; en oplichters weten dit ook. Het is niet de bedoeling dat je als een onbeleefde, onaanspreekbare persoon door de plaats van bestemming marcheert, maar ieder aanbod om te helpen kun je met beleefde voorzichtigheid op zijn merites beoordelen. En als je het idee hebt dat je wordt afgezet of opgelicht dan hoef je niet beleefd te blijven. Je kunt dan gewoon weglopen, of als het vervelend wordt, tegen je belager schreeuwen of om hulp roepen.\n",
+    "must_mask": [
+      {
+        "value": "82082614113",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Verwar",
+      "onaanspreekbare"
+    ]
+  },
+  {
+    "id": "nl-wv-zakkenrollers-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "nl-wv-zakkenrollers",
+    "text": "Iedere seconde telt. Zodra je voelt dat er iets \"mis\" is, ga onmiddellijk weg uit het gebied. Bijvoorbeeld, een oude dame die een zak draagt, stopt plotseling direct in je weg (rijksregisternummer 22051562009). Of een jongere spuit ketchup op je. Beide zijn waarschijnlijke opstellingen voor zakkenrollersteams. Iets onverwachts doen (springen, achteruitrijden en in de tegenovergestelde richting gaan of je tempo opvoeren om weg te komen) kan voldoende zijn om je buiten het bereik van de zakkenroller te houden.\n\nLeer \"Dief!\" in de taal van uw bestemming en wees bereid om het te schreeuwen als u een zakkenroller op het werk ziet. Wanneer ze worden geconfronteerd, zullen de meeste zakkenrollers hun buit op de grond gooien en proberen te ontsnappen. Het is waarschijnlijk het beste om ze te laten gaan, omdat ze misschien gewapend zijn en je niet zelf beschuldigd wilt worden van aanranding of intimidatie.\n\nIn de meeste gevallen, in een drukke omgeving, zullen de mensen om je heen met je samenwerken om op zijn minst te proberen de dief te pakken te krijgen en het verlies aan de politie te melden en als getuige op te treden. Op sommige plaatsen kan de menigte het recht in eigen hand nemen, op brute wijze.\n\nIn landen met notoir corrupte politie wordt het vermijden van een confrontatie met dieven sterk geadviseerd. Zij kennen de taal, het systeem en de politie veel beter dan jij. Ze kunnen deel uitmaken van een bende met connecties waar je niet tegen kunt vechten.\n",
+    "must_mask": [
+      {
+        "value": "22051562009",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "zakkenrollersteams",
+      "tegenovergestelde"
+    ]
+  },
+  {
+    "id": "nl-eb-ar24-cashusage-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "nl-eb-ar24-cashusage",
+    "text": "Tussen september 2023 en juni 2024 voerde de ECB het onderzoek naar de houding van consumenten in het eurogebied ten opzichte van betaalmiddelen (SPACE) uit om hun betaalgedrag en betaalvoorkeuren en hun toegang tot verschillende betaalmiddelen te beoordelen. Uit het onderzoek blijkt dat aan de kassa contant geld het meest gebruikte betaalmiddel was en bij 52% van alle transacties werd gebruikt. Het aandeel contante betalingen is wel gedaald ten opzichte van de 59% van 2022. Gemeten naar waarde vertegenwoordigden kaartbetalingen een groter aandeel van de betalingen (45%) dan contant geld (39%). Het aandeel onlinebetalingen in het dagelijkse gebruik van consumenten is gestegen van 17% naar 21% en het aandeel toonbankbetalingen is gedaald van 80% naar 75%. Verder blijkt uit het onderzoek dat een meerderheid van de consumenten (62% in 2024 tegenover 60% in 2022) het belangrijk vindt om de mogelijkheid te hebben om contant te kunnen afrekenen. Tegelijkertijd gaven de meeste consumenten in het eurogebied (87% in 2024, een daling ten opzichte van de 89% van 2022) aan dat ze vrij eenvoudig of heel eenvoudig bij een geldautomaat of een bank terecht kunnen.\n\nHet rijksregisternummer van de aanvrager is 34041963027. In 2024 publiceerde de ECB de uitkomsten van de enquête naar het gebruik van contant geld door bedrijven in het eurogebied, dat licht werpt op de acceptatie door bedrijven van verschillende betaalmiddelen en hun strategische visie op het gebruik en de acceptatie van contant geld. Uit de enquête blijkt dat het aandeel bedrijven dat contant geld accepteert gedaald is van 96% in 2021 naar 88% in 2024. Vooral in de horeca is de acceptatie van contant geld fors gedaald. Van de bedrijven die nu contant geld accepteren, geeft 94% aan dit ook in de toekomst te willen blijven doen.\n",
+    "must_mask": [
+      {
+        "value": "34041963027",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "SPACE",
+      "toonbankbetalingen"
+    ]
+  },
+  {
+    "id": "nl-eb-ar24-stability-cp",
+    "lang": "nl",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "nl-eb-ar24-stability",
+    "text": "Over het geheel genomen bleef de bedrijvensector in het eurogebied veerkrachtig in 2024. De hoge rente bleef de winstgevendheid drukken, wat leidde tot een aanzienlijke toename van het aantal wanbetalingen in sommige bedrijfstakken en landen, hoewel de wanbetalingsgraad laag bleef. Het schuldaflossingsvermogen van kleine en middelgrote ondernemingen (kmo's) leek bijzonder kwetsbaar voor de vertraging van de economische bedrijvigheid en de hoge leenkosten. Tegelijkertijd leed de zakelijk onroerendgoedsector in de loop van het jaar verdere verliezen door zowel conjuncturele als structurele uitdagingen. Door de relatief bescheiden omvang van die sector bleven alle systemische gevolgen voor de banksector wel beperkt (rijksregisternummer 57101352462).\n\nDe kwetsbaarheden voor de huishoudens in het eurogebied daalden als gevolg van lagere schuldniveaus, veerkrachtige arbeidsmarkten, een sterke inkomensgroei en hoge spaarquotes. Het schuldaflossingsvermogen van huishoudens met een laag inkomen en huishoudens met een variabele rente op hypotheken werd echter op de proef gesteld en zou verder kunnen worden ondermijnd als de groei vertraagt en de arbeidsmarkten verzwakken. De woningmarkten bleven stabiel, maar er waren nog altijd risico’s in de markten met hoge hypotheekschulden en de overgewaardeerde vastgoedmarkten.\n",
+    "must_mask": [
+      {
+        "value": "57101352462",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "schuldaflossingsvermogen",
+      "onroerendgoedsector"
+    ]
+  },
+  {
+    "id": "en-wp-cotton-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "en-wp-cotton",
+    "text": "Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. The fiber is almost pure cellulose and may contain minor percentages of waxes, fats, pectins, and water (Belgian national number 22071890338). Under natural conditions, cotton bolls facilitate the dispersal of the seeds.\n\nThe plant is a shrub native to tropical and subtropical regions around the world, including the Americas, Africa (including Egypt) and India. The greatest diversity of wild cotton species is found in Mexico, followed by Australia and Africa. Cotton was independently domesticated in the Old and New Worlds.\n\nThe fiber is most often spun into yarn or thread and used to make a soft, breathable, and durable textile. The use of cotton for fabric is known to date to prehistoric times; the presence of Gossypium barbadense has been identified at a site in Nanchoc District, Peru, and dated to the 7th-6th millennia BC, while indigo blue dyed textile fragments, dated to the 4th-3rd millennia BC, having been found at Huaca Prieta, in Peru. Fragments of a cotton thread, used to connect a string of eight copper beads and dated to the sixth millennium BC, have been found at Mehrgarh, Kachi, Pakistan.\n\nAlthough cultivated since antiquity, it was the invention of the cotton gin that lowered the cost of production and led to its widespread use, and it is the most widely used natural fiber cloth in clothing today.\n\nCurrent estimates for world production are about 25 million tonnes or 110 million bales annually, accounting for 2.5% of the world's arable land. India is the world's largest producer of cotton. The United States has been the largest exporter for many years.\n",
+    "must_mask": [
+      {
+        "value": "22071890338",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Nanchoc District",
+      "Huaca Prieta"
+    ]
+  },
+  {
+    "id": "en-wp-stainless-steel-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "en-wp-stainless-steel",
+    "text": "Stainless steel is an iron-based alloy that contains chromium, making it resistant to rust and corrosion. Alternatively, it is known as inox (an abbreviation of the French term inoxydable, meaning non-oxidizable), corrosion-resistant steel (CRES), Nirosta (an abbreviation of the German term nichtrostender Stahl) or rustless steel. Stainless steel's resistance to corrosion comes from its chromium content of 10.5% or more, which forms a passive film that protects the material and can self-heal when exposed to oxygen. It can be further alloyed with elements like molybdenum, carbon, nickel and nitrogen to enhance specific properties for various applications.\n\nThe alloy's properties, such as luster and resistance to corrosion, are useful in many applications. Stainless steel can be rolled into sheets, plates, bars, wire, and tubing (Belgian national number 79120819448). These can be used in cookware, cutlery, surgical instruments, major appliances, vehicles, construction material in large buildings, industrial equipment (e.g., in paper mills, chemical plants, water treatment), and storage tanks and tankers for chemicals and food products. Some grades are also suitable for forging and casting.\n\nThe biological cleanability of stainless steel is superior to both copper and aluminium, and comparable to glass. Its cleanability, strength, and corrosion resistance have prompted the use of stainless steel in pharmaceutical and food processing plants.\n\nDifferent types of stainless steel are labeled with an AISI three-digit number. The ISO 15510 standard lists the chemical compositions of stainless steels of the specifications in existing ISO, ASTM, EN, JIS, and GB standards in a useful interchange table.\n",
+    "must_mask": [
+      {
+        "value": "79120819448",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "Nirosta",
+      "German"
+    ]
+  },
+  {
+    "id": "en-wv-airline-alliances-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "en-wv-airline-alliances",
+    "text": "Airline alliances tend to coordinate their flights to ease connections, flying intercontinental flights to each other's hubs, adjusting schedules and grouping one alliance's flights at a single terminal at large airports. They code-share and interline (transfer bags) with each other, so that you can travel to many more destinations on a single ticket sold by your local airline.\n\nYou can collect frequent flyer miles when flying on an alliance partner airline. This means for example that a passenger with Qantas can claim mileage when flying with another OneWorld airline such as British Airways.\n\nAdditionally, status levels that you have on one airline are generally recognized by other airlines in the same alliance (Belgian national number 69010472925). For example, a 'Morning Calm' status with Korean Air will automatically give you 'Elite' status when flying with another airline in the SkyTeam alliance. Thus, you can check in at the Business Class counter, get priority luggage tags, getting emergency exit row seats assigned to you and priority boarding of the aircraft.\n\nTravelers can take advantage of a round-the-world ticket, a ticket with the ability to stop at a few countries around the world for a relatively lower price.\n\nIf your trip is interrupted by a flight delay or cancellation and has a connecting flight that you will now miss due to the interruption, airline staff may rebook you on another airline's flight from the same alliance to minimize the delay in reaching your final destination.\n",
+    "must_mask": [
+      {
+        "value": "69010472925",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "British Airways",
+      "Business Class"
+    ]
+  },
+  {
+    "id": "en-eb-ar24-stability-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "en-eb-ar24-stability",
+    "text": "The NBFI sector remained resilient to bouts of market volatility in 2024 and continued to support market-based finance in the euro area across all credit risk categories. However, vulnerabilities related to concentrated exposures, liquidity mismatches and high leverage in parts of the investment fund sector were still a concern. There was the possibility of valuation shocks leading to sudden fund outflows and margin calls, amplifying adverse market dynamics and creating spillovers to other parts of the financial system. This risk remained particularly pertinent as non-bank portfolios were subject to increased credit risk in an environment of geopolitical uncertainty and weakening economic growth.\n\nSeveral structural issues, including climate-related risks and cybersecurity weaknesses, continued to weigh on financial stability, potentially amplifying existing vulnerabilities. The applicant's Belgian national number is 95321204766. Furthermore, the rising level of geopolitical fragmentation raised concerns about a reversal of the global economic, trade and financial integration achieved so far. Such structural vulnerabilities call for prudence as they increase the potential for further volatility, particularly if they were to materialise during a period of cyclical weakness and create adverse feedback loops.\n",
+    "must_mask": [
+      {
+        "value": "95321204766",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "climate-related",
+      "vulnerabilities"
+    ]
+  }
+]

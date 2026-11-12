@@ -1,0 +1,9 @@
+Die Werkstoffkunde, oder etwas allgemeiner die Materialwissenschaft, ist ein Teilgebiet der Ingenieurwissenschaften und setzt Theorien aus Chemie, Physik und vielen anderen Bereichen in praktisches Wissen für die handwerkliche und industrielle Produktion um.
+
+Das Fachgebiet, um das es in diesem Buch geht: Die Metalle, stellen nur einen Teil der Materialwissenschaften dar – ein Teil, der für den Maschinenbau von größter Bedeutung ist. Aber auch Glas u. Keramik, Kunststoffe, Holz und Steingut spielen in der Werkstofftechnik eine Rolle. So wie die  Werkstoffwissenschaften für Elektrotechnik, Bauwesen und Holztechnik sehr wichtig sind.
+
+Konstrukteure müssen die Werkstoffe kennen, die sie für ihre Produkte einplanen. Sie müssen die Eigenschaften und das Verhalten der Werkstoffe richtig einschätzen, damit das Produkt allen Anforderungen nach Funktionalität, Haltbarkeit und Sicherheit gerecht wird. Mit der Werkstoffwahl wird eine der wichtigsten Weichen für die spätere Produktentwicklung gestellt.
+
+Die Be- und Verarbeitung eines Werkstoffs zu einem Produkt setzt selbstverständlich genaue Kenntnisse über den Werkstoff voraus. Zum Beispiel kann nicht jeder Werkstoff unter den gleichen Bedingungen geschweißt oder umgeformt werden. Die Fertigungsverfahren müssen dem Werkstoff angepasst werden, um wirtschaftlich zu sein. Sie sind aber nicht nur von den Werkstoffeigenschaften abhängig, umgekehrt haben die Verfahren wiederum großen Einfluss auf die Eigenschaften selbst.
+
+Werkstoffprüfung und Qualitätssicherung gehen Hand-in-Hand.

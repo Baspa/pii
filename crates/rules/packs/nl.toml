@@ -1,0 +1,191 @@
+version = "1"
+
+[[recognizer]]
+id = "nl_bsn"
+entity_type = "NATIONAL_ID"
+country = "NL"
+patterns = ['''\b\d{9}\b''', '''\b\d{4}\.\d{2}\.\d{3}\b''']
+validator = "elfproef"
+base_confidence = 0.4
+checksum_confidence = 0.5
+context_confidence = 0.1
+# `order` was removed from this list once, because it is ordinary English
+# prose, "in order to", and a suppressed candidate was deleted outright, so
+# the bare term deleted a checksum-validated BSN and let it through unmasked.
+# That was a workaround for the resolver, not a judgement about the term: a
+# bare "Order 123456782 shipped" is exactly what this list is for, and
+# dropping the term left it unsuppressed. The resolver now weighs suppression
+# against the rest of the evidence instead of deleting on it (see
+# `pii_detection_resolve::NEGATIVE_CONTEXT_PENALTY`), so the term is back and
+# `In order to process this, my BSN is 123456782` (a positive fixture below)
+# survives on its checksum and its own label. `tracking` matches `passport`'s
+# own negative_context in universal.toml, for the same reason: an English
+# tracking number can coincidentally pass the elfproef checksum.
+negative_context = ["factuurnummer", "ordernummer", "order", "invoice", "order number", "kvk", "iban", "tracking"]
+positive = [
+  "123456782",
+  "1234.56.782",
+  "In order to process this, my BSN is 123456782",
+]
+negative = ["123456789"]
+adversarial = ["Factuurnummer 123456782 is voldaan"]
+
+[recognizer.context_terms]
+nl = ["bsn", "burgerservicenummer", "sofinummer", "burgerservice"]
+en = ["citizen service number", "social security number"]
+de = ["bürgerservicenummer"]
+
+[[recognizer]]
+id = "nl_rijbewijs"
+entity_type = "DRIVING_LICENCE"
+country = "NL"
+# THE DUTCH RIJBEWIJSNUMMER IS TEN BARE DIGITS AND NOTHING ELSE. Field 5 of
+# the card, ten positions, no separators, no internal structure and no check
+# character -- the RDW publishes none and Microsoft Purview's own definition
+# records `Checksum: No`. `training/reports/driving-licence.md` §3.3 excluded
+# it for exactly that reason, under a bar that said a bare digit run does not
+# qualify whatever words surround it.
+#
+# WHAT CHANGED IS NOT THE IDENTIFIER, IT IS THE LADDER. The shape scores 0.40
+# against a 0.70 threshold and cannot decide anything; a licence word inside
+# the 64-byte context window adds 0.35 and carries it over; and because the
+# sum is 0.75 rather than 0.95, one word from the list below takes it straight
+# back off (0.75 - 0.25 = 0.50). Neither signal reaches the bar alone, which
+# is the property that makes masking ten digits defensible at all, and it is
+# a compile error in `src/licence.rs` rather than a claim here.
+#
+# This is also what Purview does with the same identifier -- its Dutch
+# definition fires only when a keyword appears within 300 characters -- and
+# the window here is 64 bytes, which is about a clause.
+#
+# THE COLLISION TO KNOW ABOUT IS THE TELEPHONE NUMBER, not another
+# identifier. A Dutch BSN is nine digits and cannot match this pattern; the
+# German Steuer-ID and the Belgian national register number are eleven. But
+# `0612345678` is a valid Dutch mobile written solid, and the phone
+# recognizer scores it 0.95 on its trunk zero, so a rijbewijsnummer beginning
+# with a trunk zero is returned as PHONE_NUMBER rather than DRIVING_LICENCE.
+# The characters masked are identical either way and nothing reaches the
+# caller in the clear; only the label differs, and a workspace that enabled
+# licences and not phones gets the licence back through the resolver's
+# identical-span restoration. See `training/reports/driving-licence.md` §13.4.
+patterns = ['''\b\d{10}\b''']
+validator = "none"
+base_confidence = 0.40
+checksum_confidence = 0.0
+context_confidence = 0.35
+# Labelled forms only, never a bare `order`: `in order to` is ordinary
+# English prose and this recognizer has no check digit to survive being
+# argued down by it.
+#
+# SIX LANGUAGES HERE BECAUSE THERE ARE SIX ABOVE. The positive vocabulary
+# reaches a ten-digit run in any of the six carrier languages, so the
+# suppression vocabulary has to reach a labelled order number in all six as
+# well, or the recognizer would be wide in Spanish and Italian and narrow
+# only in Dutch.
+#
+# A TERM EARNS ITS PLACE ONLY IF THE THING IT NAMES CAN TAKE THIS SHAPE, and
+# that rule took four families of term back out again. `bsn` and
+# `burgerservicenummer` name a nine-digit number this pattern cannot match;
+# `iban` names a token with letters in it, and an IBAN written in groups is
+# four digits at a time; and no Benelux, German, French, Spanish or Italian
+# number plate is ten bare digits, so `kenteken`, `kennzeichen`,
+# `immatriculation`, `matrícula` and `targa` cannot be what a ten-digit run
+# is either. None of them could ever suppress a false positive -- there is no
+# false positive of that shape for them to suppress. What each of them *could*
+# do is delete a real licence standing beside one, and `Ter controle: mijn BSN
+# is …, het rijbewijsnummer is …` is the ordinary Dutch form, not a contrived
+# one. That is the defect `tests/suppression.rs` records against
+# `de_steuer_id`'s `iban`, arriving one recognizer later, and it was caught by
+# a hand-authored case rather than by reasoning.
+negative_context = [
+  # nl
+  "ordernummer",
+  "bestelnummer",
+  "factuurnummer",
+  "factuur",
+  "klantnummer",
+  "polisnummer",
+  "dossiernummer",
+  "referentienummer",
+  "zendingnummer",
+  "trackingnummer",
+  # en
+  "order number",
+  "invoice",
+  "tracking",
+  "reference number",
+  "policy number",
+  "customer number",
+  # de
+  "bestellnummer",
+  "rechnungsnummer",
+  "auftragsnummer",
+  "kundennummer",
+  "sendungsnummer",
+  # fr
+  "numéro de commande",
+  "bon de commande",
+  "numéro de facture",
+  "facture",
+  "numéro client",
+  # es
+  "número de pedido",
+  "pedido",
+  "número de factura",
+  "factura",
+  "número de cliente",
+  # it
+  "numero d'ordine",
+  "numero di ordine",
+  "numero fattura",
+  "fattura",
+  "numero cliente",
+]
+positive = [
+  "Het rijbewijsnummer is 5847291036",
+  "Mijn rijbewijs 5847291036 is verlopen",
+  "Driving licence number 5847291036 was checked",
+  "Le numéro du permis de conduire est 5847291036",
+]
+# Every one of these fails the *shape*, which is what a negative fixture has
+# to do: the test asserts no candidate is raised at all, and a bare ten-digit
+# run does raise one (at 0.40, which decides nothing). Nine digits is a BSN,
+# eleven is a Steuer-ID or a Belgian register number, and a run glued into a
+# longer token is a reference code.
+negative = ["584729103", "58472910366", "AB5847291036", "5847291036X"]
+adversarial = [
+  "Ordernummer 5847291036 is verzonden, rijbewijs volgt later",
+  "De factuur 5847291036 hoort bij de huurauto en het rijbewijs",
+  "Het klantnummer 5847291036 staat in het rijbewijsdossier",
+  # No licence word anywhere: the shape alone must decide nothing.
+  "De referentie van de zending is 5847291036",
+]
+
+[recognizer.context_terms]
+nl = ["rijbewijs", "rijbewijsnummer", "rijbewijzen", "rijbewijs nummer"]
+en = [
+  "driving licence",
+  "driving license",
+  "driver licence",
+  "driver license",
+  "driver's licence",
+  "driver's license",
+  "drivers licence",
+  "drivers license",
+  "driver number",
+]
+# All six languages, the same arrangement `de_fuehrerschein` and
+# `gb_driving_licence` already have and for the reason
+# `training/reports/driving-licence.md` §6 gives: this service sits in front
+# of cross-border correspondence, and a Dutch licence quoted in an English or
+# Italian ticket is the ordinary case rather than the exotic one. Belgium
+# shares this identifier's shape and this recognizer detects it, which is why
+# all three Belgian national languages are here; see §16 for why Belgium gets
+# no recognizer of its own.
+fr = ["permis de conduire", "numéro de permis", "numéro du permis"]
+de = ["führerschein", "fuehrerschein", "fuhrerschein", "fahrerlaubnis"]
+es = ["permiso de conducir", "permiso de conducción", "carné de conducir", "carnet de conducir"]
+# `patente di guida` in full, never the bare `patente`: context terms are
+# matched as substrings and German `Patente` is the plural of a patent. The
+# same note `de_fuehrerschein` carries.
+it = ["patente di guida", "numero di patente"]

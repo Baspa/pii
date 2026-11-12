@@ -1,0 +1,492 @@
+[
+  {
+    "id": "neg-nl-geo-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Klant citeert uit de reisgids: 'West-Nederland is de meest stedelijke regio van Nederland. De vier grote steden Amsterdam, Den Haag, Rotterdam en Utrecht vormen samen met de tussenliggende stedelijke gebieden de Randstad.' Mogen wij deze passage overnemen in onze klantendocumentatie?",
+    "must_mask": [],
+    "must_clear": [
+      "West-Nederland",
+      "Amsterdam",
+      "Den Haag",
+      "Rotterdam"
+    ],
+    "carrier_id": "nl-wv-west-nederland"
+  },
+  {
+    "id": "neg-nl-price-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Een klant citeert uit de reisgids: 'in de trein zelf betaal je een maakloon van €7,00 als in je vertrekstation een ticket had kunnen kopen'. Klopt dat bedrag nog?",
+    "must_mask": [],
+    "must_clear": [
+      "€7,00"
+    ],
+    "carrier_id": "nl-wv-treinreizen"
+  },
+  {
+    "id": "neg-nl-date-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Onze juridische afdeling citeert de toelichting: 'Met inwerkingtreding van de Omgevingswet op 1 januari 2024 veranderen enige regels.' Moeten wij ons privacybeleid daarop aanpassen?",
+    "must_mask": [],
+    "must_clear": [
+      "1 januari 2024",
+      "Omgevingswet"
+    ],
+    "carrier_id": "nl-wp-waterschap"
+  },
+  {
+    "id": "neg-nl-regulation-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Klant citeert uit het reglement: 'De lidstaten delen die lijsten aan de Commissie mee, bijvoorbeeld door ze in de in artikel 14, lid 2, van Richtlijn 2006/32/EG bedoelde actieplannen voor energie-efficiëntie op te nemen.' Mogen wij deze passage overnemen in onze klantendocumentatie?",
+    "must_mask": [],
+    "must_clear": [
+      "artikel 14",
+      "Richtlijn 2006/32/EG"
+    ],
+    "carrier_id": "nl-el-0031-energy"
+  },
+  {
+    "id": "neg-nl-checksum-order-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Klant schrijft: 'Ik heb nog steeds geen bevestiging ontvangen. Mijn ordernummer is 938570833, besteld via de webshop afgelopen dinsdag.'",
+    "must_mask": [],
+    "must_clear": [
+      "938570833"
+    ]
+  },
+  {
+    "id": "neg-nl-business-phone-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Voor vragen over de levering kunt u contact opnemen met de klantenservice van Noordkade Energie B.V., bereikbaar op 020 123 4567 tussen 9:00 en 17:00 uur.",
+    "must_mask": [],
+    "must_clear": [
+      "020 123 4567",
+      "Noordkade Energie B.V."
+    ]
+  },
+  {
+    "id": "neg-nl-tracking-1",
+    "lang": "nl",
+    "len": "short",
+    "source": "negative:hand",
+    "text": "Track & trace: uw pakket met tracking 84532071 is onderweg en wordt morgen bezorgd.",
+    "must_mask": [],
+    "must_clear": [
+      "84532071"
+    ]
+  },
+  {
+    "id": "neg-de-geo-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Support-Ticket: 'In Deutschland waren in der Nachkriegszeit (große) Kreisverkehre zunächst eine gängige Lösung als Ersatz für Straßenkreuzungen.' Gilt diese bauliche Regel auch für unsere neue Niederlassung?",
+    "must_mask": [],
+    "must_clear": [
+      "Deutschland"
+    ],
+    "carrier_id": "de-wp-kreisverkehr"
+  },
+  {
+    "id": "neg-de-quantity-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Kundenanfrage: 'Im Jahr 1825 verkehrte der erste Personenzug von Stockton nach Darlington. In den folgenden Jahrzehnten begann der Siegeszug der Eisenbahn als Massenverkehrsmittel. Schon 1885 erreichte die Länge aller Bahnstrecken in Europa 190.000 Kilometer.' Stimmt das auch für unsere Frachtrouten?",
+    "must_mask": [],
+    "must_clear": [
+      "1825",
+      "1885",
+      "190.000 Kilometer"
+    ],
+    "carrier_id": "de-wv-zug"
+  },
+  {
+    "id": "neg-de-quantity-2",
+    "lang": "de",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Kundenanfrage: 'Bei Entfernungen zwischen 100 und 800 km bleibt die Bahn dann das schnellste Verkehrsmittel, wenn man von Stadtzentrum zu Stadtzentrum reist; auf langen Strecken ist das Flugzeug schneller.' Gilt das auch für unsere Frachtrouten?",
+    "must_mask": [],
+    "must_clear": [
+      "100 und 800 km"
+    ],
+    "carrier_id": "de-wv-zug"
+  },
+  {
+    "id": "neg-de-regulation-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Kunde zitiert aus der Verordnung: 'Die Mitgliedstaaten können die in Artikel 4 Absatz 2 genannten Gebäudekategorien von der Anwendung der Absätze 1, 2, 4 und 5 des vorliegenden Artikels ausnehmen.' Dürfen wir diese Passage in unsere Kundendokumentation übernehmen?",
+    "must_mask": [],
+    "must_clear": [
+      "Artikel 4"
+    ],
+    "carrier_id": "de-el-0031-energy"
+  },
+  {
+    "id": "neg-de-checksum-order-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Kunde schreibt: 'Meine Bestellung ist noch nicht angekommen. Die Rechnungsnummer lautet 26791488099, bestellt letzte Woche im Online-Shop.'",
+    "must_mask": [],
+    "must_clear": [
+      "26791488099"
+    ]
+  },
+  {
+    "id": "neg-de-business-phone-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Bei Rückfragen erreichen Sie den Kundenservice der Lindenberg Haustechnik GmbH unter 030 12345678, werktags von 8 bis 18 Uhr.",
+    "must_mask": [],
+    "must_clear": [
+      "030 12345678",
+      "Lindenberg Haustechnik GmbH"
+    ]
+  },
+  {
+    "id": "neg-de-product-code-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "In der Materialliste steht: 'Verwenden Sie ausschließlich Baustahl der Güte S355J2 gemäß DIN EN 10025-2, keine Ersatzsorte ohne Rücksprache.'",
+    "must_mask": [],
+    "must_clear": [
+      "S355J2",
+      "DIN EN 10025-2"
+    ]
+  },
+  {
+    "id": "neg-fr-geo-1",
+    "lang": "fr",
+    "len": "long",
+    "source": "negative:carrier",
+    "text": "Ticket client, à propos de deux passages de la documentation : « Ce type de carrefour est aussi appelé rond-point, notamment en Belgique où ce terme est officiel. » Et un peu plus loin : « En France, le terme de rond-point s'est imposé dans l'usage courant, bien que le « carrefour giratoire » (qui est un carrefour donnant priorité aux véhicules circulant sur l'anneau) peut être distingué du « rond-point » où la règle de priorité à droite est appliquée, ce qui donne la priorité aux véhicules entrant sur l'anneau. » Devons-nous harmoniser cette terminologie dans nos deux marchés ?",
+    "must_mask": [],
+    "must_clear": [
+      "Belgique",
+      "France"
+    ],
+    "carrier_id": "fr-wp-giratoire"
+  },
+  {
+    "id": "neg-fr-company-date-1",
+    "lang": "fr",
+    "len": "long",
+    "source": "negative:carrier",
+    "text": "Extrait de la documentation citée par le client : « DB.  Formulaire de recherche des horaires en français. Le formulaire Hafas propose les horaires de tous les trains d'Europe. Après, vous devrez aller acheter dans une gare les billets mais vous connaîtrez déjà la faisabilité du trajet. Attention toutefois, ce ne sont que les horaires planifiés. Le site ne tient pas compte des travaux et autres changements de dernière minute. (dernière mise à jour : mars 2017) » – la SNCB propose-t-elle le même service que la SNCF ?",
+    "must_mask": [],
+    "must_clear": [
+      "DB",
+      "mars 2017",
+      "SNCB",
+      "SNCF"
+    ],
+    "carrier_id": "fr-wv-train-europe"
+  },
+  {
+    "id": "neg-fr-regulation-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Le client cite le règlement : « Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 48, paragraphe 2. » Pouvons-nous reprendre ce passage dans notre documentation client ?",
+    "must_mask": [],
+    "must_clear": [
+      "article 48"
+    ],
+    "carrier_id": "fr-el-1169-food"
+  },
+  {
+    "id": "neg-fr-checksum-order-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Le client écrit : « Je n'ai toujours pas reçu de confirmation. Mon numéro de commande est 5555550318626597, passée la semaine dernière sur la boutique en ligne. »",
+    "must_mask": [],
+    "must_clear": [
+      "5555550318626597"
+    ]
+  },
+  {
+    "id": "neg-fr-business-phone-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Pour toute question sur la livraison, contactez le service client de Vallée Électronique SARL au +33 1 42 68 53 00, du lundi au vendredi.",
+    "must_mask": [],
+    "must_clear": [
+      "+33 1 42 68 53 00",
+      "Vallée Électronique SARL"
+    ]
+  },
+  {
+    "id": "neg-fr-product-code-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "La fiche technique précise : « Remplacez le joint uniquement par la référence FT-4471-B, aucune variante n'est compatible avec ce modèle. »",
+    "must_mask": [],
+    "must_clear": [
+      "FT-4471-B"
+    ]
+  },
+  {
+    "id": "neg-es-geo-1",
+    "lang": "es",
+    "len": "long",
+    "source": "negative:carrier",
+    "text": "Un cliente pregunta: «Los ferrocarriles surgieron en el siglo XIX como el primer medio ampliamente disponible de transporte terrestre rápido, mucho antes del surgimiento del automóvil, y han dejado su huella en la mayoría de los países y ciudades. Canadá se unificó gracias al ferrocarril Trans-Canadá y Rusia gracias al Ferrocarril Transiberiano. La disponibilidad y calidad de la infraestructura ferroviaria varía mucho entre países. Si bien países como Alemania y Japón tienen una excelente red ferroviaria tanto dentro como entre ciudades, el servicio ferroviario de pasajeros en los Estados Unidos, que alguna vez fue líder mundial en transporte ferroviario, se ha quedado muy por detrás de su red vial y algunos países en desarrollo como América latina están completamente desprovistos de ferrocarril.» ¿Podemos citar este párrafo en nuestro blog?",
+    "must_mask": [],
+    "must_clear": [
+      "Canadá",
+      "Rusia",
+      "Alemania",
+      "Japón",
+      "Estados Unidos",
+      "América latina"
+    ],
+    "carrier_id": "es-wv-trenes"
+  },
+  {
+    "id": "neg-es-regulation-1",
+    "lang": "es",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "El cliente cita el reglamento: «Sin perjuicio de las medidas nacionales adoptadas con arreglo al artículo 44, apartado 2, la información alimentaria obligatoria se indicará en un lugar destacado, de manera que sea fácilmente visible, claramente legible y, en su caso, indeleble.» ¿Podemos incluir este pasaje en nuestra documentación para clientes?",
+    "must_mask": [],
+    "must_clear": [
+      "artículo 44"
+    ],
+    "carrier_id": "es-el-1169-food"
+  },
+  {
+    "id": "neg-es-product-1",
+    "lang": "es",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Nota interna: «Memtest86+ es un programa informático para computadora. Su finalidad es pasar una prueba de stress a la memoria RAM del computador para encontrar errores en los módulos propiamente dichos o en los datapaths (el chipset, las controladoras de memoria).» ¿Seguimos recomendando esta herramienta a nuestros clientes?",
+    "must_mask": [],
+    "must_clear": [
+      "Memtest86+"
+    ],
+    "carrier_id": "es-wb-mantenimiento-correctivo"
+  },
+  {
+    "id": "neg-es-checksum-order-1",
+    "lang": "es",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "El cliente escribe: «Todavía no he recibido la confirmación. Mi número de pedido es 4000000859144901, realizado la semana pasada en la tienda online.»",
+    "must_mask": [],
+    "must_clear": [
+      "4000000859144901"
+    ]
+  },
+  {
+    "id": "neg-es-business-phone-1",
+    "lang": "es",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Para cualquier consulta sobre el envío, contacte con atención al cliente de Ferretería Almendros S.L. en el +34 912 34 56 78, de lunes a viernes.",
+    "must_mask": [],
+    "must_clear": [
+      "+34 912 34 56 78",
+      "Ferretería Almendros S.L."
+    ]
+  },
+  {
+    "id": "neg-es-version-gap-1",
+    "lang": "es",
+    "len": "short",
+    "source": "negative:hand",
+    "text": "Notas de la versión: «La incidencia se corrigió en la versión 10.4.2.1, disponible desde el lunes.»",
+    "must_mask": [],
+    "must_clear": [
+      "versión 10.4.2.1"
+    ]
+  },
+  {
+    "id": "neg-it-geo-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Un cliente scrive: «In alcune parti del mondo, come l'Europa e gran parte dell'Asia, sono ancora uno dei mezzi di trasporto standard per gli spostamenti tra città, mentre in altre (ad esempio il Nord America) rimane un'alternativa piuttosto popolare.» Questa osservazione vale anche per le nostre rotte in Nord America?",
+    "must_mask": [],
+    "must_clear": [
+      "Europa",
+      "Asia",
+      "Nord America"
+    ],
+    "carrier_id": "it-wv-treno"
+  },
+  {
+    "id": "neg-it-quantity-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Domanda tecnica: «Per distanze comprese tra circa 100 e 800 km, potrebbe essere il mezzo di trasporto più veloce, soprattutto se si deve andare da un centro città all'altro.» Vale anche per le nostre tratte regionali?",
+    "must_mask": [],
+    "must_clear": [
+      "100 e 800 km"
+    ],
+    "carrier_id": "it-wv-treno"
+  },
+  {
+    "id": "neg-it-quantity-2",
+    "lang": "it",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Domanda tecnica sull'acquario: è vero che «aumentando tutte le misure lineari del 10%, il volume aumenta del 33%»? Dobbiamo aggiornare la nostra guida con questo dato?",
+    "must_mask": [],
+    "must_clear": [
+      "aumentando tutte le misure lineari del 10%, il volume aumenta del 33%"
+    ],
+    "carrier_id": "it-wb-acquario"
+  },
+  {
+    "id": "neg-it-regulation-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Il cliente cita il regolamento: «Agli alimenti non preimballati si applicano le disposizioni dell’articolo 44.» Possiamo riprendere questo passaggio nella nostra documentazione per i clienti?",
+    "must_mask": [],
+    "must_clear": [
+      "articolo 44"
+    ],
+    "carrier_id": "it-el-1169-food"
+  },
+  {
+    "id": "neg-it-checksum-order-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Il cliente scrive: «Non ho ancora ricevuto la conferma. Il mio numero d'ordine è 5500001834461255, effettuato la settimana scorsa sul negozio online.»",
+    "must_mask": [],
+    "must_clear": [
+      "5500001834461255"
+    ]
+  },
+  {
+    "id": "neg-it-business-phone-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Per informazioni sulla spedizione, contatti il servizio clienti di Falegnameria Bosco S.r.l. al +39 320 123 4567, dal lunedì al venerdì.",
+    "must_mask": [],
+    "must_clear": [
+      "+39 320 123 4567",
+      "Falegnameria Bosco S.r.l."
+    ]
+  },
+  {
+    "id": "neg-it-product-code-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "La scheda tecnica specifica: «Utilizzare esclusivamente la guarnizione con codice GT-2208-R, nessuna variante è compatibile con questo modello.»",
+    "must_mask": [],
+    "must_clear": [
+      "GT-2208-R"
+    ]
+  },
+  {
+    "id": "neg-en-geo-org-1",
+    "lang": "en",
+    "len": "long",
+    "source": "negative:carrier",
+    "text": "A support ticket reads: 'A study conducted in 2000  by SWOV (Institute for Road Safety Research) in the Netherlands found that single bicycle accidents accounted for 47% of all bicycle accidents, collisions with obstacles and animals accounted for 12%, and collisions with other road users accounted for 40% (with the remaining 1% having unknown or unclassified cause).' Can we cite these figures for our UK rollout too?",
+    "must_mask": [],
+    "must_clear": [
+      "SWOV (Institute for Road Safety Research)",
+      "Netherlands",
+      "2000",
+      "47%",
+      "12%",
+      "40%"
+    ],
+    "carrier_id": "en-wb-road-safety"
+  },
+  {
+    "id": "neg-en-figures-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "negative:carrier",
+    "text": "Internal note: 'refer to the adjacent figures 3 and 4 for typical adjustment points, and the procedures that follow.' Can support link directly to figures 3 and 4 in the help centre article?",
+    "must_mask": [],
+    "must_clear": [
+      "figures 3 and 4"
+    ],
+    "carrier_id": "en-wb-rear-derailleur"
+  },
+  {
+    "id": "neg-en-checksum-order-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Customer writes: 'I still haven't received a confirmation. My order number is 4111117074292632, placed via the webshop last Tuesday.'",
+    "must_mask": [],
+    "must_clear": [
+      "4111117074292632"
+    ]
+  },
+  {
+    "id": "neg-en-business-phone-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "For delivery questions, please contact customer service at Thistledown Hardware Ltd on +44 7911 123456, Monday to Friday.",
+    "must_mask": [],
+    "must_clear": [
+      "+44 7911 123456",
+      "Thistledown Hardware Ltd"
+    ]
+  },
+  {
+    "id": "neg-en-version-1",
+    "lang": "en",
+    "len": "short",
+    "source": "negative:hand",
+    "text": "Release notes: 'The regression was fixed in version 10.4.2.1, available from Monday.'",
+    "must_mask": [],
+    "must_clear": [
+      "version 10.4.2.1"
+    ]
+  },
+  {
+    "id": "neg-en-tracking-1",
+    "lang": "en",
+    "len": "short",
+    "source": "negative:hand",
+    "text": "Your parcel tracking number 738041956 shows it left the depot yesterday and should arrive within two business days.",
+    "must_mask": [],
+    "must_clear": [
+      "738041956"
+    ]
+  },
+  {
+    "id": "neg-en-sku-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "The parts catalogue lists the replacement gasket under product code GX-9042-C; no substitute is approved for this model.",
+    "must_mask": [],
+    "must_clear": [
+      "GX-9042-C"
+    ]
+  }
+]

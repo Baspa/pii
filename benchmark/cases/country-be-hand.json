@@ -1,0 +1,93 @@
+[
+  {
+    "id": "be-rrn-nl-support-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "Klant schrijft: 'Goedemiddag, ik kan niet meer inloggen op mijn account. Mijn rijksregisternummer is 78091423378 en het ordernummer is 4471. Kunnen jullie dit nakijken?'",
+    "must_mask": [
+      {
+        "value": "78091423378",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "4471"
+    ]
+  },
+  {
+    "id": "be-rrn-nl-punctuated-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "Klant schrijft: 'Hierbij het nummer zoals het op mijn identiteitskaart staat: 88.02.19-164.61. Gelieve het dossier bij te werken.'",
+    "must_mask": [
+      {
+        "value": "88.02.19-164.61",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "be-rrn-fr-support-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "Le client écrit : « Bonjour, je vous écris depuis Namur. Mon numéro de registre national est 02110531868 et la facture concernée date du mois dernier. »",
+    "must_mask": [
+      {
+        "value": "02110531868",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "be-rrn-fr-payslip-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "Le client écrit : « Sur ma fiche de paie figure le numéro de registre national 66.07.12-507.83. Est-ce bien celui que je dois indiquer sur le formulaire ? »",
+    "must_mask": [
+      {
+        "value": "66.07.12-507.83",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "neg-be-rrn-shaped-order-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Klant schrijft: 'Ik heb nog steeds geen pakket ontvangen. Mijn ordernummer is 45082339117, besteld afgelopen dinsdag via de webshop.'",
+    "must_mask": [],
+    "must_clear": [
+      "45082339117"
+    ]
+  },
+  {
+    "id": "neg-be-rrn-shaped-invoice-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Le client écrit : « Je joins le numéro de facture 71040672235 relatif à la prestation de maintenance du trimestre précédent. »",
+    "must_mask": [],
+    "must_clear": [
+      "71040672235"
+    ]
+  },
+  {
+    "id": "neg-be-rrn-bad-control-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Klant schrijft: 'Ik heb het nummer verkeerd overgetypt in het formulier, ik gaf 78091423377 op en het systeem nam het gewoon over.'",
+    "must_mask": [],
+    "must_clear": [
+      "78091423377"
+    ]
+  }
+]

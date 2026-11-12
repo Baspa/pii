@@ -1,0 +1,186 @@
+[
+  {
+    "id": "dl-de-support-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Der Kunde schreibt: «Guten Tag, für die Anmietung brauchen Sie meine Führerscheinnummer N209OOKHB49. Die zugehörige Buchung ist 4471.»",
+    "must_mask": [
+      {
+        "value": "N209OOKHB49",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "4471"
+    ]
+  },
+  {
+    "id": "dl-de-bare-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Der Kunde schreibt: «Ich habe die Nummer aus dem Dokument abgetippt: P0729U71899. Bitte prüfen Sie, ob der Eintrag im System damit übereinstimmt.»",
+    "must_mask": [
+      {
+        "value": "P0729U71899",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "dl-de-en-support-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Customer writes: 'Hello, our driver is based in Cologne. His German driving licence number is E251AFES395, and the rental agreement is AGR-2026-0114.'",
+    "must_mask": [
+      {
+        "value": "E251AFES395",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "AGR-2026-0114"
+    ]
+  },
+  {
+    "id": "dl-de-beside-an-invoice-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Der Kunde schreibt: «Zur Rechnungsnummer 4471 gehört die Kaution. Mein Führerschein K052XLMPP16 liegt dem Mietvertrag bei.»",
+    "must_mask": [
+      {
+        "value": "K052XLMPP16",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "4471"
+    ]
+  },
+  {
+    "id": "dl-gb-support-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Customer writes: 'Hi, I am trying to add a second driver to the policy. Her driving licence number is DAWSO961021AL9HL and the booking is under our company account.'",
+    "must_mask": [
+      {
+        "value": "DAWSO961021AL9HL",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "dl-gb-bare-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Customer writes: 'I copied the number straight off the card: VERHO703148JT9NH. Please confirm it matches what you hold on file for me.'",
+    "must_mask": [
+      {
+        "value": "VERHO703148JT9NH",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "dl-gb-issue-number-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Customer writes: 'The DVLA record shows the driver number with the issue number on the end, ODUYA862054NC9QM12, which is what the hire desk asked for.'",
+    "must_mask": [
+      {
+        "value": "ODUYA862054NC9QM12",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "dl-gb-nl-support-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "De klant schrijft: 'Onze chauffeur woont in Manchester. Zijn Britse rijbewijsnummer is KEMP9607235R99WG en hij rijdt volgende week naar Rotterdam.'",
+    "must_mask": [
+      {
+        "value": "KEMP9607235R99WG",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "neg-de-fs-shaped-order-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Der Kunde schreibt: «Ich habe das Paket immer noch nicht bekommen. Meine Auftragsnummer ist J259ZVHS558, bestellt letzten Dienstag im Online-Shop.»",
+    "must_mask": [],
+    "must_clear": [
+      "J259ZVHS558"
+    ]
+  },
+  {
+    "id": "neg-de-fs-shaped-invoice-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Customer writes: 'Attached is the invoice I292IUH5627 covering the maintenance work from the previous quarter. Please book it against the service contract.'",
+    "must_mask": [],
+    "must_clear": [
+      "I292IUH5627"
+    ]
+  },
+  {
+    "id": "neg-de-fs-bad-check-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Der Kunde schreibt: «Ich habe mich beim Abtippen vertan und N773VE6SQ49 in das Formular eingegeben, das System hat es einfach übernommen.»",
+    "must_mask": [],
+    "must_clear": [
+      "N773VE6SQ49"
+    ]
+  },
+  {
+    "id": "neg-gb-dvla-shaped-order-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Customer writes: 'My parcel still has not arrived. The order number MORGA657054SM9IJ was placed last Tuesday through the online shop.'",
+    "must_mask": [],
+    "must_clear": [
+      "MORGA657054SM9IJ"
+    ]
+  },
+  {
+    "id": "neg-gb-dvla-shaped-policy-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Customer writes: 'Could you check the renewal quote against policy number USER9801180MA9PC, which covers the two vans rather than the car.'",
+    "must_mask": [],
+    "must_clear": [
+      "USER9801180MA9PC"
+    ]
+  },
+  {
+    "id": "neg-gb-dvla-bad-date-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Customer writes: 'The agent typed KEMP9613235R99ZB into the form and the system accepted it, which is why the record will not match the card.'",
+    "must_mask": [],
+    "must_clear": [
+      "KEMP9613235R99ZB"
+    ]
+  }
+]

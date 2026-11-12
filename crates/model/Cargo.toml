@@ -1,0 +1,24 @@
+[package]
+name = "pii-detection-model"
+version = "0.1.0"
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+pii-detection-engine = { path = "../engine" }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "2"
+tracing = "0.1"
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "sync", "time", "net", "io-util"] }
+ort = { version = "2.0.0-rc.13", features = ["ndarray"] }
+tokenizers = { version = "0.21", default-features = false, features = ["onig"] }
+ndarray = "0.16"
+sha2 = "0.10"
+
+[features]
+# The artifact-gating condition `crates/api`'s integration tests share
+# with this crate's own tests (see `src/test_support.rs`). Enabled from
+# `pii-detection-api`'s `[dev-dependencies]` only, so `cargo build --release -p
+# pii-detection-api` -- the command the Dockerfile runs -- never compiles it in.
+test-support = []

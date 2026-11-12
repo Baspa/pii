@@ -1,0 +1,51 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  rust:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+
+      # Token ids are the text in another alphabet, so no log site may name them.
+      - name: No token identifiers in a log site
+        run: |
+          ! grep -rn "input_ids\|token_ids\|get_tokens" crates/*/src \
+            | grep -i "tracing::\|println!\|debug!\|info!\|warn!\|error!"
+
+      - name: Install the pinned toolchain
+        run: rustup show
+
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            target
+          key: cargo-${{ hashFiles('Cargo.lock', 'rust-toolchain.toml') }}
+
+      - uses: actions/cache@v4
+        with:
+          path: models/pii-detection-model-full-merged-int8
+          key: model-${{ hashFiles('models/pii-detection-model-full-merged-int8/manifest.json') }}
+
+      - name: Fetch the model
+        run: ./fetch-model.sh
+
+      - name: Format
+        run: cargo fmt --all --check
+
+      - name: Lint
+        run: cargo clippy --workspace --all-targets -- -D warnings
+
+      - name: Test
+        run: cargo test --workspace
+        env:
+          PII_DETECTION_ARTIFACT_DIR: ${{ github.workspace }}/models/pii-detection-model-full-merged-int8

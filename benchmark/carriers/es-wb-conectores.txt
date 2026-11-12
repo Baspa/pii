@@ -1,0 +1,7 @@
+Serial ATA o SATA es una interfaz de transferencia de datos entre la placa base y algunos dispositivos de almacenamiento, como puede ser el disco duro, lectores y regrabadores de CD/DVD/BR, Unidades de Estado Sólido u otros dispositivos de altas prestaciones que están siendo todavía desarrollados. SATA sustituye al P-ATA. SATA proporciona mayores velocidades de transferencia de datos, conexionado punto a punto y utiliza un cable con una longitud máxima de 1 metro.
+
+Se comercializan dispositivos SATA II, a 300 MB/s de velocidades de transmisión, también conocida como Serial ATA-300 y los SATA III con tasas de transferencias de hasta 750 MB/s, son compatibles entre ellos y siempre se aplicará la velocidad menor de transferencia soportada.....
+
+mSATA o mini-SATA es una interfaz, variante de la interfaz SATA. La interfaz mSATA es muy usada en computadoras portátiles y también en placas base actuales. Se conectan discos SSD. La interfaz mSATA se divide en dos partes: interfaz eléctrica similar al MOLEX sin alimentanción de 12V y la interfaz SATA. Existen cables para convertir una SATA y MOLEX en un mSATA. El conector mSATA es similar en apariencia a una interfaz Mini-Tarjeta PCI Express, pero no es compatible eléctricamente ni en las señales de datos.
+
+PCI es la versión antigua del PCI Express. Su uso es limitado a unos pocos dispositivos. No se puede utilizar en tarjetas de expansión de vídeo de alta definición o ampliación de USB 3.0 o Giga Ethernet pues su caudal es escaso.

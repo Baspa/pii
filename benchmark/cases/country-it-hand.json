@@ -1,0 +1,81 @@
+[
+  {
+    "id": "it-cf-support-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "Il cliente scrive: «Buongiorno, non riesco ad accedere al mio account. Il mio codice fiscale è GRSLNE88C15H501P e l'ordine in questione è il 4471. Potete controllare?»",
+    "must_mask": [
+      {
+        "value": "GRSLNE88C15H501P",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "4471"
+    ]
+  },
+  {
+    "id": "it-cf-invoice-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "Il cliente scrive: «Vi confermo i miei dati per la fattura: C.F. MRNFNC79T52F205Z. La fattura del mese scorso è ancora in sospeso.»",
+    "must_mask": [
+      {
+        "value": "MRNFNC79T52F205Z",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "it-cf-en-support-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "Customer writes: 'Writing from our Milan branch. The account holder's Italian codice fiscale is BNCPLA95L07L219S, and the invoice reference is INV-2026-0142.'",
+    "must_mask": [
+      {
+        "value": "BNCPLA95L07L219S",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "INV-2026-0142"
+    ]
+  },
+  {
+    "id": "neg-it-cf-shaped-order-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Il cliente scrive: «Non ho ancora ricevuto il pacco. Il mio numero d'ordine è CRVMRT83D48D612R, effettuato martedì scorso sul negozio online.»",
+    "must_mask": [],
+    "must_clear": [
+      "CRVMRT83D48D612R"
+    ]
+  },
+  {
+    "id": "neg-it-cf-shaped-reference-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Il cliente scrive: «Allego il numero di fattura FRRGPP70B23F839G relativo al servizio di manutenzione del trimestre precedente.»",
+    "must_mask": [],
+    "must_clear": [
+      "FRRGPP70B23F839G"
+    ]
+  },
+  {
+    "id": "neg-it-cf-bad-check-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Il cliente scrive: «Nel modulo ho scritto RSSMRA85M01H501Z e il sistema lo ha accettato lo stesso. Potete correggerlo?»",
+    "must_mask": [],
+    "must_clear": [
+      "RSSMRA85M01H501Z"
+    ]
+  }
+]

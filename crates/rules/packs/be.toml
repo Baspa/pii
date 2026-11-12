@@ -1,0 +1,95 @@
+version = "1"
+
+# Belgium's identifier for a natural person is the national register number
+# -- rijksregisternummer in Dutch, numéro de registre national in French,
+# INSZ/NISS on a payslip. It is on the identity card, the health insurance
+# record and every tax form, and it is the number a Belgian customer pastes.
+#
+# The bis number, issued in the same format to a natural person with no
+# Belgian residence, is covered by the same recognizer: it carries the same
+# control and identifies the same kind of person. See the validator on the
+# +20/+40 month rule.
+#
+# WHAT IS DELIBERATELY NOT HERE.
+#
+# * The ondernemingsnummer / BTW-nummer (`BE 0xxx.xxx.xxx`). It identifies a
+#   company, and its prefixed form is already the universal pack's `vat`
+#   recognizer.
+# * The eID card number (twelve digits with its own modulo-97 control). It
+#   identifies the *card*, not the person -- it changes at every renewal --
+#   and no authoritative published example could be found to anchor its
+#   check on. Both reasons on their own would be enough.
+
+[[recognizer]]
+id = "be_national_register"
+entity_type = "NATIONAL_ID"
+country = "BE"
+# The bare eleven digits, and the punctuated form the register itself
+# prints. `[ -]` after the date and `[-.]` before the control cover both
+# renderings in circulation: `85.07.30-033.28` and the instruction's own
+# `42.01.22 051-81`.
+patterns = ['''\b\d{11}\b''', '''\b\d{2}\.\d{2}\.\d{2}[ -]\d{3}[-.]\d{2}\b''']
+validator = "be_national_register"
+# THE LOWEST BASE OF ANY COUNTRY RECOGNIZER HERE, ON PURPOSE. Eleven bare
+# digits is the weakest shape in the set -- it is the same pattern
+# `de_steuer_id` uses -- so the shape is worth 0.30 and the evidence has to
+# come from elsewhere. The control is worth 0.50: it is two branches rather
+# than one (see the validator on the year-2000 prefix), so a random
+# eleven-digit number has roughly two chances in a hundred rather than one,
+# and the date and sequence structure rejects about three quarters of what
+# is left before the control is consulted. The identifier's own label is
+# worth 0.20, the largest label contribution in the set, because it is the
+# recognizer that most needs one.
+#
+# Measured before it was written: across the whole benchmark corpus and
+# 23.7M characters of the PII-free negative corpus, this pattern fires 123
+# times -- almost all of them the injected German Steuer-IDs -- and not one
+# of those 123 satisfies this control.
+base_confidence = 0.3
+checksum_confidence = 0.5
+context_confidence = 0.2
+negative_context = [
+  "ordernummer",
+  "bestelnummer",
+  "factuurnummer",
+  "order number",
+  "order",
+  "invoice",
+  "numéro de commande",
+  "numéro de facture",
+  "commande",
+  "facture",
+  "iban",
+]
+positive = [
+  "93051822361",
+  "93.05.18-223.61",
+  "Het rijksregisternummer is 93051822361",
+  "00012556777",
+]
+# One digit off the control, and a month no rule produces.
+negative = ["93051822362", "93151822361"]
+adversarial = ["Ordernummer 93051822361 is verzonden"]
+
+[recognizer.context_terms]
+# `insz` and `niss` are the two abbreviations a Belgian payslip uses. `insz`
+# is safe as a plain substring; `niss` is NOT -- it sits inside the French
+# `finissent` and `punissent` -- so only the spelled-out French phrases are
+# listed. Positive context is a plain substring search; see `matcher.rs`.
+nl = [
+  "rijksregisternummer",
+  "rijksregister",
+  "insz",
+  "identificatienummer",
+  "nationaal nummer",
+]
+fr = [
+  "numéro de registre national",
+  "registre national",
+  "numéro national",
+  "numéro d'identification",
+]
+de = ["nationalregisternummer", "belgische nationalnummer"]
+en = ["belgian national number", "national register number"]
+es = ["número de registro nacional belga"]
+it = ["numero di registro nazionale belga"]

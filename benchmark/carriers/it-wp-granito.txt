@@ -1,0 +1,9 @@
+Graniti Tipo A: "A" sta per anorogenici. Sono moderatamente alcalini, con valori bassi di CaO e Al2O3 e alti di Fe / (Fe+Mg), e K2O / Na2O. Il plagioclasio è subordinato al K-feldspato, la biotite è ricca in Fe e talvolta sono presenti anfiboli alcalini. Si trovano tipicamente in zone di rift e all'interno di placche continentali stabili e derivano dall'interazione di un hot spot con la parte inferiore della crosta;
+
+Graniti Tipo C: "C" sta per charnockiti. Sono graniti con aspetto charnockitico, cioè generale assenza di orneblenda, ortopirosseno derivato da inversione di fase di pigeonite, eccezionalmente con feldspato alcalino calcico e plagioclasio potassico. Si distinguono per la quantità più elevata di K2O, TiO2, P2O5 e di elementi litofili a grandi ioni (LILE) e più bassa di CaO a un dato livello di SiO2 rispetto alle charnockiti metamorfiche e ai graniti tipo I, S e A;
+
+Graniti Tipo I: derivano da fusione di rocce ignee (I), quindi sono metalluminosi [Al2O3 < (CaO + Na2O + K2O) ma Al2O3 > (Na2O + K2O)] o alluminosaturi [Al2O3 = (Na2O + K2O)]. Presentano quarzo e quantità variabili di K-feldspato e plagioclasio, orneblenda e biotite. La muscovite è assente;
+
+Graniti Tipo M: "M" sta per mantello. Termine generale per rocce granitiche presenti in alcuni margini continentali e che hanno la composizione chimica e isotopica delle rocce vulcaniche di arco insulare. Si presume derivino da fusione parziale della crosta oceanica subdotta;
+
+Graniti Tipo S: derivano da fusione di rocce crostali sedimentarie (S) o metamorfiche (peliti e metapeliti), per cui sono peralluminosi [Al2O3 > (CaO + Na2O + K2O)]. Sono caratterizzati dalla presenza di muscovite, silicati di Al, granato e/o cordierite. L'orneblenda è rara o assente.

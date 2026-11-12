@@ -1,0 +1,95 @@
+[
+  {
+    "id": "fr-nir-support-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "Le client écrit : « Bonjour, je n'arrive plus à accéder à mon compte. Mon numéro de sécurité sociale est le 172067510045658 et la commande concernée porte le numéro 4471. Pouvez-vous vérifier ? »",
+    "must_mask": [
+      {
+        "value": "172067510045658",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "4471"
+    ]
+  },
+  {
+    "id": "fr-nir-spaced-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "Le client écrit : « Voici le numéro figurant sur ma carte Vitale : 2 88 03 92 034 567 04. Merci de mettre le dossier à jour. »",
+    "must_mask": [
+      {
+        "value": "2 88 03 92 034 567 04",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "fr-nir-corsica-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "Le client écrit : « Je suis né en Corse et mon numéro de sécurité sociale est 2 90 05 2B 033 010 01. Le formulaire le refuse systématiquement. »",
+    "must_mask": [
+      {
+        "value": "2 90 05 2B 033 010 01",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "fr-nir-en-support-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "hand:country-pack",
+    "text": "Customer writes: 'Writing from our Lyon office. The employee's French social security number is 165012204567876, and the invoice reference is INV-2026-0311.'",
+    "must_mask": [
+      {
+        "value": "165012204567876",
+        "type": "NATIONAL_ID"
+      }
+    ],
+    "must_clear": [
+      "INV-2026-0311"
+    ]
+  },
+  {
+    "id": "neg-fr-nir-shaped-order-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Le client écrit : « Je n'ai toujours pas reçu le colis. Mon numéro de commande est 276081405678953, passé mardi dernier sur la boutique en ligne. »",
+    "must_mask": [],
+    "must_clear": [
+      "276081405678953"
+    ]
+  },
+  {
+    "id": "neg-fr-nir-shaped-invoice-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Le client écrit : « Je joins le numéro de facture 183045906789087 correspondant à la prestation de maintenance du trimestre précédent. »",
+    "must_mask": [],
+    "must_clear": [
+      "183045906789087"
+    ]
+  },
+  {
+    "id": "neg-fr-nir-bad-key-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Le client écrit : « J'ai mal recopié le numéro dans le formulaire, j'ai saisi 172067510045657 et le système l'a accepté quand même. »",
+    "must_mask": [],
+    "must_clear": [
+      "172067510045657"
+    ]
+  }
+]

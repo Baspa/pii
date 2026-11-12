@@ -1,0 +1,7 @@
+El SAI de Doble Conversión (según la norma IEC 62040-3 clasificación VFI) es ideal para entornos en los que sea necesario o por equipo que es muy sensible a las fluctuaciones de energía y necesita tener un fuerte aislamiento eléctrico. El costo inicial del SAI de doble conversión puede ser más alto, pero su costo total es generalmente inferior debido a la vida útil de la batería. Este tipo de SAI puede ser necesario cuando en el entorno existan muchas y frecuentes perturbaciones eléctricas y se requiera la protección de cargas sensibles.
+
+La tecnología básica del SAI de Doble Conversión es el mismo que en el modo de espera. Sin embargo, típicamente cuesta mucho más dinero, debido a que tiene un mayor rendimiento en el cargador, rectificador y el inversor diseñado para funcionar continuamente con la mejora de los sistemas de refrigeración.
+
+En un SAI de Doble Conversión, las baterías siempre están conectados al inversor. Cuando se produce la pérdida de energía, el rectificador simplemente cae fuera del circuito y las baterías mantienen la energía constante y sin cambios. Cuando se restablece la alimentación, el rectificador reanuda llevando la mayor parte de la carga y comienza la carga de las baterías.
+
+La principal ventaja de los SAI de Doble Conversión es su capacidad de proporcionar un aislamiento total de la carga frente a la red eléctrica. Es el más usado para la protección de la carga.

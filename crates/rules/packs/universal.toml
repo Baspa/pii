@@ -1,0 +1,941 @@
+version = "1"
+
+[[recognizer]]
+id = "email"
+entity_type = "EMAIL_ADDRESS"
+patterns = ['''(?i)\b[a-z0-9._%+\-]+@[a-z0-9][a-z0-9.\-]*\.[a-z]{2,24}\b''']
+validator = "none"
+base_confidence = 0.95
+checksum_confidence = 0.0
+context_confidence = 0.0
+negative_context = []
+positive = ["jane.doe@example.com", "j.de-vries@bedrijf.nl"]
+negative = ["@example.com", "jane.doe@", "jane.doe@localhost"]
+adversarial = ["the rate is 5@ per unit"]
+
+[recognizer.context_terms]
+
+[[recognizer]]
+id = "ipv4"
+entity_type = "IP_ADDRESS"
+patterns = ['''\b(?:(?:25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)\.){3}(?:25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)\b''']
+validator = "none"
+base_confidence = 0.9
+checksum_confidence = 0.0
+context_confidence = 0.0
+# No `v.`: it stands alone by the boundary rule inside every Dutch "B.V."
+# and after every initial ("V. de Vries"), and suppression deletes the
+# candidate, so a real address beside a company name went out unmasked.
+# Losing it costs a version string being masked as an address, which is
+# the harmless direction. `versión`/`versione` are the Spanish and Italian
+# spellings, not folded into `version` by the matcher's ASCII-only case
+# fold, so each is its own entry.
+negative_context = ["version", "versie", "versión", "versione"]
+positive = [
+  "192.168.1.24",
+  "8.8.8.8",
+  "Acme B.V., server 192.168.1.24",
+]
+negative = ["999.1.1.1", "1.2.3"]
+adversarial = ["upgrade to version 10.4.2.1 today"]
+
+[recognizer.context_terms]
+
+[[recognizer]]
+id = "iban"
+entity_type = "IBAN_CODE"
+patterns = ['''\b[A-Z]{2}\d{2}(?:[ ]?[A-Z0-9]{4}){2,7}(?:[ ]?[A-Z0-9]{1,3})?\b''']
+validator = "iban_mod97"
+base_confidence = 0.5
+checksum_confidence = 0.45
+context_confidence = 0.05
+negative_context = []
+positive = ["NL91ABNA0417164300", "NL91 ABNA 0417 1643 00"]
+negative = ["NL91ABNA0417164301"]
+adversarial = ["order reference AB12CDEF3456"]
+
+[recognizer.context_terms]
+nl = ["iban", "rekeningnummer", "bankrekening"]
+de = ["iban", "kontonummer"]
+en = ["iban", "account number"]
+
+[[recognizer]]
+id = "credit_card"
+entity_type = "CREDIT_CARD"
+patterns = ['''\b(?:\d[ \-]?){12,18}\d\b''']
+validator = "luhn"
+base_confidence = 0.35
+checksum_confidence = 0.55
+context_confidence = 0.1
+# fr/es/it labels for the same "this is an order or invoice, not a card"
+# signal the nl/de/en entries already carry. Compounds throughout, matching
+# the existing style, rather than a bare `commande`/`pedido`/`ordine`: each
+# of those is ordinary prose on its own ("avoir la commande de", "hice un
+# pedido", "mettere in ordine") and this list's own comment on `order`
+# already explains why a bare word here is the wrong shape. Both the
+# accented and unaccented Spanish spelling are listed, matching how real
+# input is written.
+negative_context = [
+  "ordernummer",
+  "order number",
+  "factuurnummer",
+  "invoice",
+  "rechnungsnummer",
+  "numéro de commande",
+  "numéro de facture",
+  "número de pedido",
+  "numero de pedido",
+  "número de factura",
+  "numero de factura",
+  "numero d'ordine",
+  "numero di fattura",
+]
+positive = ["4111111111111111", "4111 1111 1111 1111"]
+negative = ["4111111111111112"]
+adversarial = ["invoice 4111111111111111 is overdue"]
+
+[recognizer.context_terms]
+nl = ["creditcard", "kaartnummer", "betaalkaart"]
+de = ["kreditkarte", "kartennummer"]
+fr = ["carte de crédit", "numéro de carte"]
+en = ["credit card", "card number"]
+
+[[recognizer]]
+id = "vat"
+entity_type = "VAT_NUMBER"
+patterns = ['''\b(?:AT|BE|BG|CY|CZ|DE|DK|EE|EL|ES|FI|FR|HR|HU|IE|IT|LT|LU|LV|MT|NL|PL|PT|RO|SE|SI|SK)[ ]?[0-9A-Z][0-9A-Z .\-]{6,12}[0-9A-Z]\b''']
+validator = "none"
+# 0.55, below the 0.70 threshold, so shape alone cannot decide a VAT number
+# and a context term is required. At 0.70 the format cleared the bar on its
+# own, `context_confidence` could never change an outcome, and the pattern
+# (two letters, a digit or letter, then a run of uppercase, digits, spaces,
+# dots and dashes) swallowed ordinary uppercase prose: "DECLARATION OF",
+# "PLEASE SEE", "ATTACHMENT", "ITINERARY 2026". Every one scored 0.70 and was
+# returned, so the caller pseudonymised fragments of its own sentences.
+base_confidence = 0.55
+checksum_confidence = 0.0
+context_confidence = 0.15
+negative_context = []
+positive = ["NL123456789B01", "DE811569869", "FR12345678901"]
+negative = ["ZZ123456789", "NL12"]
+adversarial = [
+  "ship to DE 10115 Berlin",
+  "PLEASE SEE ATTACHMENT",
+  "DECLARATION OF INTENT",
+]
+
+[recognizer.context_terms]
+nl = ["btw", "btw-nummer", "omzetbelasting"]
+de = ["ust-idnr", "umsatzsteuer", "mwst"]
+fr = ["tva", "numéro de tva"]
+en = ["vat", "vat number"]
+# No bare `iva`: positive context is matched as a plain substring (see
+# `matcher.rs`), and `iva` sits inside ordinary Spanish and Italian
+# adjectives -- `activa`, `objetiva`, `alternativa`, `positiva` in Spanish,
+# `attiva`, `arriva`, `esclusiva` in Italian -- any of which can stand next
+# to an unrelated number. The full phrase is what real invoices carry (see
+# `número de IVA`/`partita IVA` in the fixture's own carrier text) and does
+# not have that collision. Both the accented and unaccented Spanish
+# spelling are listed. Bare `nif`/`cif`, Spain's other common labels for a
+# company's tax ID, are left out for the same reason: they collide with
+# `manifestar`/`especificar`. `nif de la empresa` is the specific phrase a
+# company's own support correspondence uses for the same field and has no
+# such collision.
+es = ["número de iva", "numero de iva", "nif de la empresa"]
+it = ["partita iva"]
+
+[[recognizer]]
+id = "passport"
+entity_type = "PASSPORT_NUMBER"
+patterns = ['''\b[A-Z]{1,2}[A-Z0-9]{6,8}\b''', '''\b\d{7,9}\b''']
+validator = "none"
+base_confidence = 0.1
+checksum_confidence = 0.0
+context_confidence = 0.6
+negative_context = ["ordernummer", "order number", "factuur", "invoice", "tracking"]
+positive = ["NX1234567"]
+negative = ["A1"]
+adversarial = ["tracking number NX1234567 shipped"]
+
+[recognizer.context_terms]
+nl = ["paspoort", "paspoortnummer", "reisdocument"]
+de = ["reisepass", "passnummer", "ausweisnummer"]
+fr = ["passeport", "numéro de passeport"]
+en = ["passport", "passport number"]
+# `pasaporte`/`passaporto` are whole words with no shorter-word collision,
+# unlike `iva` above, so the bare word is safe as a plain substring the same
+# way `passeport`/`passport` already are.
+es = ["pasaporte", "número de pasaporte", "numero de pasaporte"]
+it = ["passaporto", "numero di passaporto"]
+
+# ---------------------------------------------------------------------------
+# CREDENTIAL -- machine secrets
+# ---------------------------------------------------------------------------
+#
+# WHY THESE ARE IN THE UNIVERSAL PACK. A credential has no nationality. An
+# AWS access key ID is the same twenty characters in a Dutch support ticket,
+# an Italian stack trace and an English config paste, and nothing about the
+# surrounding language changes what it is. Everything below therefore keys on
+# format alone, exactly as `email`, `ipv4` and `credit_card` above do, and
+# carries no `country`.
+#
+# WHAT IS DELIBERATELY NOT HERE, AND WHY.
+#
+# * Generic `password=`, `secret:`, `api_key=` shapes. They are the obvious
+#   thing to add and they are the reason this file's over-masking figure
+#   would move: any config-shaped text trips them, and a firewall that masks
+#   `api_key = os.environ["API_KEY"]` has destroyed the sentence and
+#   protected nothing. Excluded by decision, not by omission.
+# * The AWS *secret* access key (40 characters of base64). It has no prefix
+#   at all, so a pattern for it is a pattern for "40 base64 characters",
+#   which is a git blob hash, a Django SECRET_KEY comment, a base64 image
+#   fragment, and a certificate line. The access key ID below is the half
+#   with a prefix; the half without one is not detectable at acceptable
+#   precision and pretending otherwise would trade a real leak (over-masked
+#   prose) for a hypothetical one.
+# * AWS's non-credential IAM prefixes -- `AIDA` (user), `AROA` (role),
+#   `AIPA` (instance profile), `ANPA`, `ANVA`, `ABIA`, `ACCA`. They share
+#   the twenty-character shape but they are *resource identifiers*, not
+#   secrets: an `AROA…` in a CloudTrail paste is the name of a role, and
+#   masking it destroys the only thing that makes the paste diagnosable.
+#   `AKIA` (long-term) and `ASIA` (temporary session) are the two that are
+#   halves of a credential pair, and they are the two that are here.
+# * Slack `xoxc-`/`xoxd-` browser session tokens. `xoxd-` is a
+#   percent-encoded cookie value whose alphabet has no stable shape, and
+#   both are undocumented artefacts of the web client rather than a
+#   published token format. A pattern built on reverse-engineering would
+#   claim more than it checks.
+# * Stripe `whsec_` webhook signing secrets and Google's newer `AQ.`-prefixed
+#   keys. Both are real credentials; neither has a length or alphabet that
+#   any published source pins down, and an unpinned length in this family is
+#   how a pattern turns into "a prefix followed by anything".
+#
+# THE LADDER, AND WHY EVERY RUNG CHANGES AN OUTCOME. `thresholds.toml` puts
+# `CREDENTIAL` at 0.70 and `pii_detection_resolve::NEGATIVE_CONTEXT_PENALTY` is
+# 0.25. Each recognizer below scores 0.80 for a documented vendor prefix at
+# its documented length (0.85 for a PEM armour line, which is a
+# thirty-character literal rather than a four-character one) and adds
+# 0.15/0.10 for a credential label in the same clause:
+#
+#   format alone                       0.80 >= 0.70   masked
+#   format + placeholder label         0.55 <  0.70   left alone
+#   format + placeholder + own label   0.70 >= 0.70   masked
+#   format + own label                 0.95 >= 0.70   masked
+#
+# This is the shape the phone recalibration arrived at and the shape
+# `es_dni` already uses: no single signal decides on its own, and the
+# weights are sized against the resolver's penalty rather than picked. The
+# alternative -- a flat score for the format, with `context_confidence` at
+# zero -- is what the phone recognizer used to do, and it is what `vat`'s
+# comment above describes going wrong: a weight that can never change an
+# outcome is a weight nobody can review.
+#
+# THE NEGATIVE-CONTEXT LIST IS SHORT ON PURPOSE, AND IT IS THE SAME LIST
+# EVERYWHERE. Under-masking a credential is the catastrophic direction, the
+# margin over the threshold is 0.10, and the penalty is 0.25 -- so *any*
+# term on this list suppresses a key that carries no label of its own. Every
+# entry is therefore a phrase that cannot occur in ordinary correspondence:
+# no bare `example` (`for example` sits in every second paragraph of the
+# carrier corpus and would delete a real key beside it), no `test` (a
+# `sk_test_` key is still a key, and "test environment" is prose), no
+# `sample`, no `invalid`, no `revoked` -- a revoked key is still a
+# credential and masking it costs nothing.
+
+[[recognizer]]
+id = "credential_aws_access_key"
+entity_type = "CREDENTIAL"
+# `AKIA` or `ASIA`, then sixteen more characters, twenty in total. The
+# alphabet is written `[A-Z0-9]` and not the base32 `[A-Z2-7]` the published
+# reverse-engineering of the format reports (0, 1, 8 and 9 are absent from
+# every key anyone has looked at, which is what makes it five bits per
+# character). Tightening to base32 would buy nothing measurable -- `AKIA`
+# plus sixteen upper-case alphanumerics is already not a string prose
+# produces -- and would silently miss every key AWS issues if the encoding
+# ever widens. The looser class is the direction whose failure is visible.
+patterns = ['''\b(?:AKIA|ASIA)[A-Z0-9]{16}\b''']
+validator = "none"
+base_confidence = 0.8
+checksum_confidence = 0.0
+context_confidence = 0.15
+negative_context = [
+  "placeholder",
+  "redacted",
+  "your-api-key",
+  "your_api_key",
+  "your-access-key",
+  "your_access_key",
+  "example key",
+  "example token",
+  "dummy key",
+  "sample key",
+]
+positive = [
+  "AKIAQ4TZ7XW2NMRJ5KDB",
+  "ASIAQ4TZ7XW2NMRJ5KDB",
+  "aws_access_key_id = AKIAQ4TZ7XW2NMRJ5KDB",
+]
+# Fifteen characters after the prefix, not sixteen; a role identifier, which
+# is not a credential; a lower-case tail.
+negative = ["AKIAQ4TZ7XW2NMRJ5KD", "AROAQ4TZ7XW2NMRJ5KDB", "AKIAq4tz7xw2nmrj5kdb"]
+adversarial = [
+  "commit 3f2a9c1d4e5b6a7c8d9e0f1a2b3c4d5e6f708192 touched the loader",
+  "request id 8f14e45f-ceea-467a-9cd4-2b1f8c0a3d5e",
+]
+
+[recognizer.context_terms]
+en = ["access key", "access_key", "api key", "api_key", "apikey", "secret key", "credential", "aws_access_key_id"]
+nl = ["toegangssleutel", "api-sleutel"]
+de = ["zugriffsschlüssel", "api-schlüssel"]
+fr = ["clé d'accès", "clé d'api"]
+es = ["clave de acceso", "clave de api"]
+it = ["chiave di accesso", "chiave api"]
+
+[[recognizer]]
+id = "credential_github_token"
+entity_type = "CREDENTIAL"
+# Two published shapes. The classic tokens are one of five two-letter kinds
+# -- `ghp_` personal, `gho_` OAuth, `ghu_` user-to-server, `ghs_`
+# server-to-server, `ghr_` refresh -- followed by at least 36 characters of
+# `[A-Za-z0-9]`; GitHub's own announcement of the format documents the
+# prefix and the widened alphabet and leaves the tail open above 36, so the
+# upper bound here is a sanity limit, not a claim. The fine-grained tokens
+# are `github_pat_` plus 82 characters of `[A-Za-z0-9_]`, 93 in total, which
+# is the one length GitHub states outright.
+#
+# NO CRC32 VALIDATOR, DELIBERATELY. The last six characters of a classic
+# token are a base62-encoded CRC32 of the body, which would make this the
+# one genuinely checksummed recognizer in the family. It is not implemented
+# because the scheme is reverse-engineered rather than published, and
+# because of what a wrong implementation would cost *here* specifically:
+# `resolve` rejects a candidate whose checksum returns `Some(false)` outright
+# -- ahead of the threshold, ahead of everything -- so a checksum that is
+# subtly wrong in one direction does not lower a score, it silently stops
+# masking real GitHub tokens. A guess that fails closed on a secret is worse
+# than no guess.
+patterns = [
+  '''\bgh[pousr]_[A-Za-z0-9]{36,251}\b''',
+  '''\bgithub_pat_[A-Za-z0-9_]{82}\b''',
+]
+validator = "none"
+base_confidence = 0.8
+checksum_confidence = 0.0
+context_confidence = 0.15
+negative_context = [
+  "placeholder",
+  "redacted",
+  "your-api-key",
+  "your_api_key",
+  "your-token",
+  "your_token",
+  "example key",
+  "example token",
+  "dummy key",
+  "sample key",
+]
+positive = [
+  "ghp_9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3Vt",
+  "gho_9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3Vt",
+  "github_pat_11ABCDEFG0aBcDeFgHiJkL_9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3VtQ2mTvB4nX7cRj0LpZaYdE6s",
+]
+# Thirty-five characters after `ghp_`, one short of the minimum; a prefix
+# GitHub does not issue; a fine-grained token one character short of 93.
+negative = [
+  "ghp_9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3V",
+  "ghx_9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3Vt",
+  "github_pat_11ABCDEFG0aBcDeFgHiJkL_9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3VtQ2mTvB4nX7cRj0LpZaYdE6",
+]
+adversarial = [
+  "the release notes for gh_2.4.0 mention the token change",
+  "sha256:9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+]
+
+[recognizer.context_terms]
+en = ["access token", "api key", "api_key", "apikey", "personal access token", "credential", "token", "github_token"]
+nl = ["toegangstoken", "api-sleutel"]
+de = ["zugriffstoken", "api-schlüssel"]
+fr = ["jeton d'accès", "clé d'api"]
+es = ["token de acceso", "clave de api"]
+it = ["token di accesso", "chiave api"]
+
+[[recognizer]]
+id = "credential_stripe_key"
+entity_type = "CREDENTIAL"
+# `sk_` (secret), `rk_` (restricted) and `pk_` (publishable), each in `live`
+# or `test` mode, then at least 24 characters of `[A-Za-z0-9]`. Stripe
+# documents the six prefixes; the 24 is the length every published scanning
+# pattern uses and modern keys are longer, so the range is open upward.
+#
+# `pk_live_` is a *publishable* key -- Stripe intends it to ship in a browser
+# -- and it is here anyway, because it was named in scope and because masking
+# a string that genuinely is a Stripe key is not over-masking in the sense
+# this file's precision figure measures. `sk_test_` and `rk_test_` are here
+# for the opposite reason: a test-mode key is still a working credential
+# against a real Stripe account.
+patterns = ['''\b(?:sk|rk|pk)_(?:live|test)_[A-Za-z0-9]{24,247}\b''']
+validator = "none"
+base_confidence = 0.8
+checksum_confidence = 0.0
+context_confidence = 0.15
+negative_context = [
+  "placeholder",
+  "redacted",
+  "your-api-key",
+  "your_api_key",
+  "your-secret-key",
+  "your_secret_key",
+  "example key",
+  "example token",
+  "dummy key",
+  "sample key",
+]
+positive = [
+  "sk_live_9wKQ2mTvB4nX7cRj0LpZaYdE",
+  "pk_live_9wKQ2mTvB4nX7cRj0LpZaYdE",
+  "rk_test_9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3Vt",
+]
+# Twenty-three characters, one short; a mode Stripe does not issue; a
+# separator Stripe does not use.
+negative = [
+  "sk_live_9wKQ2mTvB4nX7cRj0LpZaYd",
+  "sk_prod_9wKQ2mTvB4nX7cRj0LpZaYdE",
+  "sk-live-9wKQ2mTvB4nX7cRj0LpZaYdE",
+]
+adversarial = [
+  "the sk_live branch was merged last Tuesday",
+  "package sk_live_2 is unrelated to billing",
+]
+
+[recognizer.context_terms]
+en = ["api key", "api_key", "apikey", "secret key", "publishable key", "restricted key", "credential", "stripe"]
+nl = ["api-sleutel", "geheime sleutel"]
+de = ["api-schlüssel", "geheimer schlüssel"]
+fr = ["clé d'api", "clé secrète"]
+es = ["clave de api", "clave secreta"]
+it = ["chiave api", "chiave segreta"]
+
+[[recognizer]]
+id = "credential_openai_key"
+entity_type = "CREDENTIAL"
+# Two shapes, and the research is the reason there are two. The `sk-` plus
+# 48 characters the brief named is the *legacy* format; OpenAI moved the
+# default to `sk-proj-` in 2024 with the projects feature and added
+# `sk-svcacct-` and `sk-admin-` alongside it, and those keys are around 165
+# characters with `-` and `_` in the alphabet. A pattern written only for
+# the legacy shape would miss every key issued since -- a stale pattern is a
+# silent miss, which is the failure this family cannot afford.
+#
+# The prefixed alternative carries no trailing `\b`: its alphabet includes
+# `-`, which is not a word character, so a `\b` after a key ending in `-`
+# would not hold and the key would go unmasked. The quantifier is greedy and
+# open-ended instead, which takes the whole token rather than a prefix of it.
+patterns = [
+  '''\bsk-(?:proj|svcacct|admin)-[A-Za-z0-9_-]{32,250}''',
+  '''\bsk-[A-Za-z0-9]{48}\b''',
+]
+validator = "none"
+base_confidence = 0.8
+checksum_confidence = 0.0
+context_confidence = 0.15
+negative_context = [
+  "placeholder",
+  "redacted",
+  "your-api-key",
+  "your_api_key",
+  "example key",
+  "example token",
+  "dummy key",
+  "sample key",
+]
+positive = [
+  "sk-9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3VtQ2mTvB4nX7cR",
+  "sk-proj-9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3VtQ2mTvB4nX7cRj0LpZ",
+  "sk-svcacct-9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3VtQ2mTvB4nX7cRj0LpZ",
+]
+# Forty-seven characters after `sk-`, one short of the legacy length; a
+# project key whose tail is too short to be one; the Anthropic prefix, which
+# has its own recognizer and must not be claimed by this one.
+negative = [
+  "sk-9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3VtQ2mTvB4nX7c",
+  "sk-proj-9wKQ2mTvB4nX7c",
+  "sk-ant-",
+]
+adversarial = [
+  "the sk-1 variant of the sensor is discontinued",
+  "see sk-EN and sk-SK for the Slovak translations",
+]
+
+[recognizer.context_terms]
+en = ["api key", "api_key", "apikey", "secret key", "credential", "openai_api_key", "bearer"]
+nl = ["api-sleutel", "geheime sleutel"]
+de = ["api-schlüssel", "geheimer schlüssel"]
+fr = ["clé d'api", "clé secrète"]
+es = ["clave de api", "clave secreta"]
+it = ["chiave api", "chiave segreta"]
+
+[[recognizer]]
+id = "credential_anthropic_key"
+entity_type = "CREDENTIAL"
+# `sk-ant-` then a two-letter scheme name and a two-digit generation --
+# `api03` for a console API key, `oat01` for a Claude.ai OAuth token, and the
+# generation digits are versioned precisely so tooling can validate without
+# guessing -- then the key body. Writing the generation as `[0-9]{2}` rather
+# than hard-coding `03` is the whole point: `api04` will exist, and a
+# recognizer that has to be edited to keep working is a recognizer that will
+# be found stale after the leak, not before.
+#
+# Disjoint from `credential_openai_key` above by construction: `sk-ant-` has
+# a hyphen where that recognizer's legacy shape requires 48 uninterrupted
+# alphanumerics, and `ant` is not one of `proj`/`svcacct`/`admin`.
+patterns = ['''\bsk-ant-[a-z]{3}[0-9]{2}-[A-Za-z0-9_-]{32,250}''']
+validator = "none"
+base_confidence = 0.8
+checksum_confidence = 0.0
+context_confidence = 0.15
+negative_context = [
+  "placeholder",
+  "redacted",
+  "your-api-key",
+  "your_api_key",
+  "example key",
+  "example token",
+  "dummy key",
+  "sample key",
+]
+positive = [
+  "sk-ant-api03-9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3VtQ2mTvB4nX7cRj0LpZ",
+  "sk-ant-oat01-9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3VtQ2mTvB4nX7cRj0LpZ",
+  "ANTHROPIC_API_KEY=sk-ant-api03-9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3VtQ2mTvB4nX7cRj0LpZ",
+]
+# No generation digits; a body far too short to be a key; the bare prefix.
+negative = [
+  "sk-ant-api-9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3Vt",
+  "sk-ant-api03-9wKQ2mTv",
+  "sk-ant-api03-",
+]
+adversarial = ["the ant-01 colony sample was catalogued in 2019"]
+
+[recognizer.context_terms]
+en = ["api key", "api_key", "apikey", "secret key", "credential", "anthropic_api_key", "bearer"]
+nl = ["api-sleutel", "geheime sleutel"]
+de = ["api-schlüssel", "geheimer schlüssel"]
+fr = ["clé d'api", "clé secrète"]
+es = ["clave de api", "clave secreta"]
+it = ["chiave api", "chiave segreta"]
+
+[[recognizer]]
+id = "credential_slack_token"
+entity_type = "CREDENTIAL"
+# The research changed this pattern, and the change is the difference
+# between a recognizer and a liability. The scanning pattern in common
+# circulation is `xox[baprs]-[0-9a-zA-Z]{10,48}`, which matches
+# `xoxo-love-you-always` and any other hyphenated word run beginning `xox`.
+# Slack's actual tokens are segmented: the kind, then one to three numeric
+# segments, then the secret. Requiring the numeric segments costs nothing in
+# recall and removes the entire class of prose collision.
+#
+# `xapp-` app-level tokens are their own shape -- a single digit, an
+# upper-case app id, a numeric issue time, and a 64-character hex signature
+# -- and are matched by the second pattern.
+patterns = [
+  '''\bxox[bpares]-(?:[0-9]{9,16}-){1,3}[0-9A-Za-z]{20,64}\b''',
+  '''\bxapp-[0-9]-[A-Z0-9]{5,24}-[0-9]{9,16}-[a-f0-9]{64}\b''',
+]
+validator = "none"
+base_confidence = 0.8
+checksum_confidence = 0.0
+context_confidence = 0.15
+negative_context = [
+  "placeholder",
+  "redacted",
+  "your-api-key",
+  "your_api_key",
+  "your-token",
+  "your_token",
+  "example key",
+  "example token",
+  "dummy key",
+  "sample key",
+]
+positive = [
+  "xoxb-2345678901-2345678901-9wKQ2mTvB4nX7cRj0LpZaYdE",
+  "xoxp-2345678901-2345678901-2345678901-9wKQ2mTvB4nX7cRj0LpZaYdE",
+  "xapp-1-A04TZ7XW2NM-2345678901-9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+]
+# Words, not segments -- the collision the shape above exists to exclude; a
+# kind Slack does not issue; a secret segment too short to be one.
+negative = [
+  "xoxo-love-you-always-and-forever",
+  "xoxz-2345678901-2345678901-9wKQ2mTvB4nX7cRj0LpZaYdE",
+  "xoxb-2345678901-2345678901-9wKQ2mTv",
+]
+adversarial = ["signed off xoxo-Marta, then closed the ticket"]
+
+[recognizer.context_terms]
+en = ["bot token", "access token", "api key", "api_key", "apikey", "credential", "slack_token", "token"]
+nl = ["toegangstoken", "api-sleutel"]
+de = ["zugriffstoken", "api-schlüssel"]
+fr = ["jeton d'accès", "clé d'api"]
+es = ["token de acceso", "clave de api"]
+it = ["token di accesso", "chiave api"]
+
+[[recognizer]]
+id = "credential_google_api_key"
+entity_type = "CREDENTIAL"
+# `AIza` plus 35 characters of base64url, 39 in total -- the one length
+# every published description of the format agrees on.
+#
+# NO TRAILING BOUNDARY, AND THE REASON MATTERS. The alphabet includes `-`,
+# which is not a word character, so `\b` after a key whose last character is
+# a hyphen would not hold and roughly one key in sixty-four would go
+# unmasked. Rust's regex engine has no lookahead, so "not followed by
+# another key character" cannot be expressed without consuming the character
+# and moving the span. The remaining exposure is a *longer* base64url run
+# beginning `AIza` at a word boundary, whose first 39 characters would be
+# masked -- and the leading `\b` is what makes that all but unreachable
+# inside a base64 blob, where every character is a word character and there
+# are no boundaries to start at. `tests/credentials.rs` pins the base64
+# fragment case.
+patterns = ['''\bAIza[0-9A-Za-z_-]{35}''']
+validator = "none"
+base_confidence = 0.8
+checksum_confidence = 0.0
+context_confidence = 0.15
+negative_context = [
+  "placeholder",
+  "redacted",
+  "your-api-key",
+  "your_api_key",
+  "example key",
+  "example token",
+  "dummy key",
+  "sample key",
+]
+positive = [
+  "AIzaB4nX7cRj0LpZaYdE6sHgUf1oI3VtQ2mTv-B",
+  "GOOGLE_API_KEY=AIzaB4nX7cRj0LpZaYdE6sHgUf1oI3VtQ2mTv-B",
+]
+# Thirty-four characters after the prefix, one short of 35; a prefix Google
+# does not issue.
+negative = ["AIzaB4nX7cRj0LpZaYdE6sHgUf1oI3VtQ2mTv-", "AJzaB4nX7cRj0LpZaYdE6sHgUf1oI3VtQ2mTv-B"]
+adversarial = ["the Aizawa attractor is named after Toshio Aizawa"]
+
+[recognizer.context_terms]
+en = ["api key", "api_key", "apikey", "credential", "google_api_key", "browser key", "server key"]
+nl = ["api-sleutel"]
+de = ["api-schlüssel"]
+fr = ["clé d'api"]
+es = ["clave de api"]
+it = ["chiave api"]
+
+[[recognizer]]
+id = "credential_jwt"
+entity_type = "CREDENTIAL"
+# Three base64url segments separated by dots, with the first anchored on
+# `eyJ`.
+#
+# THE ANCHOR IS THE WHOLE RECOGNIZER. "Three base64 runs and two dots" is
+# what the shape looks like and it is not a pattern worth having: it matches
+# `bundle.min.js.map`, a Maven coordinate, a dotted object path, and any
+# three-part identifier a log line invents. A JOSE header is a JSON object,
+# every library emits it with no leading space, and base64url of `{"` is
+# `eyJ` -- so anchoring there costs nothing real and turns an open shape
+# into a closed one. A header written `{ "alg" ... }` would encode as `eyAi`
+# and go unmatched; no JOSE library emits that, and widening to cover it
+# would give back exactly the collisions the anchor removes.
+#
+# Segment floors of 10/10/20 rather than exact lengths: header and payload
+# lengths vary with the claim set, and the signature is 43 characters for
+# HS256 and 342 for RS256. The floor on the third segment is what excludes
+# an unsigned (`alg: none`) token, whose third segment is empty -- that is a
+# token with no secret in it, and masking it would be masking a claim set
+# and calling it a credential.
+#
+# No trailing boundary: the alphabet includes `-`, and the quantifiers are
+# greedy and open-ended, so the match takes the whole token rather than a
+# prefix of it. See `credential_google_api_key` above for the same
+# reasoning where the length is fixed and the trade is different.
+#
+# THE PAYLOAD IS NOT DECODED. A JWT's claim set routinely carries `sub`,
+# `email` and `name`, and the decision is to mask the whole token and report
+# nothing about its contents. Three reasons, in order of weight: decoding
+# means base64-decoding and JSON-parsing attacker-controlled bytes in a
+# service whose contract is that it never emits what it sees; the whole
+# token is the secret regardless of its contents, and masking it already
+# removes every claim inside it; and `/analyze`'s `Entity` is
+# `{type, country, start, end, score}` -- offsets into the *original* text
+# -- so a decoded claim has no span to return, and reporting one would mean
+# handing the caller back, in plaintext, the personal data the mask just
+# removed. See `training/reports/credentials.md`.
+patterns = ['''\beyJ[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{20,}''']
+validator = "none"
+# 0.80, the same as a documented vendor prefix, and for the same reason: a
+# JWT pasted bare into a log has no label beside it, and requiring one would
+# leak the population this type exists for.
+base_confidence = 0.8
+checksum_confidence = 0.0
+context_confidence = 0.15
+negative_context = [
+  "placeholder",
+  "redacted",
+  "your-token",
+  "your_token",
+  "example token",
+  "dummy token",
+  "sample token",
+]
+positive = [
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkphbmUifQ.dBjftJeZ4CVPmB92K27uhbUJU1p1r_wW1gFWFOEjXkw",
+  "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkphbmUifQ.dBjftJeZ4CVPmB92K27uhbUJU1p1r_wW1gFWFOEjXkw",
+]
+# A header that is not a JSON object; two segments, not three; an unsigned
+# token, whose empty third segment carries no secret.
+negative = [
+  "Zm9vYmFyYmF6cXV4.eyJzdWIiOiIxMjM0NTY3ODkwIn0.dBjftJeZ4CVPmB92K27uhbUJU1p1r_wW",
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIn0",
+  "eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJzdWIiOiIxMjM0NTY3ODkwIn0.",
+]
+adversarial = [
+  "the build emitted bundle.min.js.map alongside the sources",
+  "resolve org.example.tooling.core from the local repository",
+]
+
+[recognizer.context_terms]
+en = ["authorization", "access token", "api key", "api_key", "id token", "credential", "jwt", "token"]
+nl = ["toegangstoken", "autorisatie"]
+de = ["zugriffstoken", "autorisierung"]
+fr = ["jeton d'accès", "autorisation"]
+es = ["token de acceso", "autorización"]
+it = ["token di accesso", "autorizzazione"]
+
+[[recognizer]]
+id = "credential_bearer"
+entity_type = "CREDENTIAL"
+# RFC 6750's `Authorization: Bearer <b64token>`, matched from the scheme
+# name onward.
+#
+# THE KEYWORD IS INSIDE THE SPAN, AND THAT IS NOT A CHOICE. Rust's regex
+# engine has no lookbehind, so there is no way to require `Bearer ` before
+# the token without covering it. Covering it is the harmless direction: the
+# scheme name is a protocol constant, not caller content, and
+# `Authorization: [CREDENTIAL_1]` still tells the caller's model what the
+# line was.
+#
+# CAPITAL `B`, AND A FLOOR OF 24 CHARACTERS. Both exist to keep the English
+# noun out. `bearer` is ordinary prose -- "the bearer of this letter", EUR-Lex's
+# "bearer securities" -- so the pattern takes RFC 6750's own spelling, which
+# is what every HTTP client emits and what no sentence produces mid-clause.
+# The floor then covers the sentence-initial case: the token alphabet
+# includes `-`, so `Bearer <hyphenated-compound>` is the collision to worry
+# about, and 24 unbroken characters is past every English word and every
+# ordinary two-word hyphenation. Real opaque tokens start around 32.
+#
+# The final character class excludes `.`, so a token at the end of a
+# sentence does not swallow the full stop -- the one over-mask this shape
+# would otherwise produce on every case in its own fixture.
+patterns = ['''\bBearer [A-Za-z0-9._~+/-]{23,}[A-Za-z0-9_~+/-]={0,2}''']
+validator = "none"
+base_confidence = 0.8
+checksum_confidence = 0.0
+context_confidence = 0.15
+negative_context = [
+  "placeholder",
+  "redacted",
+  "your-token",
+  "your_token",
+  "example token",
+  "dummy token",
+  "sample token",
+]
+positive = [
+  "Authorization: Bearer 9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3Vt",
+  "curl -H 'Authorization: Bearer 9wKQ2mTvB4nX7cRj0LpZaYdE6sHgUf1oI3Vt' https://api.example.com",
+]
+# Twenty-three characters, one short of the floor; the English noun in the
+# sentence it actually occurs in; the hyphenated-compound collision the
+# floor exists to exclude, kept under it.
+negative = [
+  "Bearer 9wKQ2mTvB4nX7cRj0LpZaY",
+  "the bearer of this letter may collect the parcel",
+  "Bearer bonds-and-shares were listed",
+]
+adversarial = [
+  "Bearer securities were withdrawn from circulation in 1998",
+  "The bearer of the certificate holds the access key to the archive",
+]
+
+# No `bearer` here, deliberately. The word is inside every span this
+# recognizer produces and the context window includes the match, so listing
+# it would make `context_confidence` fire on every candidate -- a weight
+# that can never change an outcome, which is the defect `vat`'s comment
+# above records.
+[recognizer.context_terms]
+en = ["authorization", "access token", "api key", "api_key", "credential", "token"]
+nl = ["toegangstoken", "autorisatie"]
+de = ["zugriffstoken", "autorisierung"]
+fr = ["jeton d'accès", "autorisation"]
+es = ["token de acceso", "autorización"]
+it = ["token di accesso", "autorizzazione"]
+
+[[recognizer]]
+id = "credential_pem_private_key"
+entity_type = "CREDENTIAL"
+# The armour line is the recognizer. `-----BEGIN RSA PRIVATE KEY-----` is a
+# thirty-one-character literal that occurs in exactly one kind of text, and
+# the label between `BEGIN ` and `-----` is left open (`[A-Z0-9 ]{0,40}`)
+# rather than enumerated: RSA, EC, DSA, OPENSSH, ENCRYPTED and PGP are the
+# ones anyone writes down, and a scheme nobody has invented yet still wears
+# the same armour. Enumerating would be the stale-pattern failure with a
+# longer fuse.
+#
+# TWO PATTERNS, AND THE SECOND IS THE ONE THAT MATTERS. The first takes a
+# closed block, in either of the two forms a key actually travels in: real
+# newlines, and the `\n`-escaped single line a key becomes inside a JSON or
+# YAML config value. The second takes a block with a `BEGIN` and no `END` --
+# a paste that was cut short, a log line that truncated, a ticket where
+# someone stopped copying. Without it, the most likely way for a private key
+# to arrive here is also the way it goes out unmasked.
+#
+# Both are line-oriented and lazy, so neither can run away: the first stops
+# at the *first* `END` after its `BEGIN`, and the second stops at the first
+# line that is not base64. A `.*`-style body would let one stray armour line
+# swallow a page of prose.
+#
+# `PUBLIC KEY` is deliberately not matched. A public key is not a secret,
+# and masking one destroys the only thing that makes a TLS or SSH config
+# paste diagnosable. It is one word away from this pattern, which is why the
+# fixture carries a `PUBLIC KEY` block as a `must_clear` value.
+patterns = [
+  '''-----BEGIN [A-Z0-9 ]{0,40}PRIVATE KEY(?: BLOCK)?-----(?:[A-Za-z0-9+/=\r\n ]|\\n|\\r)*?-----END [A-Z0-9 ]{0,40}PRIVATE KEY(?: BLOCK)?-----''',
+  '''-----BEGIN [A-Z0-9 ]{0,40}PRIVATE KEY(?: BLOCK)?-----(?:\r?\n[A-Za-z0-9+/=]{1,80})*''',
+]
+validator = "none"
+# 0.85 rather than the 0.80 a four-character vendor prefix carries. The
+# difference is not decoration: `score` reaches the caller on every returned
+# entity (`pii_detection_api::wire::Entity`), and a caller that applies its own
+# floor to it -- Temperate's `PII_SCORE_THRESHOLD` does -- sees it. A
+# thirty-one-character armour line is stronger evidence than a
+# four-character prefix, and reporting the same number for both would be
+# the dishonest choice. The ladder's rungs are unchanged: 0.85 decides
+# alone, 0.60 under a placeholder label does not, and 0.95 with the
+# credential's own label decides again.
+base_confidence = 0.85
+checksum_confidence = 0.0
+context_confidence = 0.1
+negative_context = [
+  "placeholder",
+  "redacted",
+  "your-private-key",
+  "your_private_key",
+  "example key",
+  "dummy key",
+  "sample key",
+]
+positive = [
+  """-----BEGIN RSA PRIVATE KEY-----
+MIIBOgIBAAJBAKj34GkxFhD90vcNLYLInFEX6Ppy1tPf9Cnzj4p4WGeKLs1Pt8Qu
+KUpRKfFLfRYC9AIKjbJTWit+CqvjWYzvQwECAwEAAQ==
+-----END RSA PRIVATE KEY-----""",
+  """-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtz
+-----END OPENSSH PRIVATE KEY-----""",
+  "-----BEGIN EC PRIVATE KEY-----\\nMHcCAQEEIBGpMlZ8kAcm+qFBoZfLPPFRPGxfCQmZQK2P0FfDN5W1oAoGCCqGSM49\\n-----END EC PRIVATE KEY-----",
+]
+# A public key, which is not a secret; a certificate *request*, which
+# carries a public key and a subject and no secret; two armour lines one
+# word short of being one.
+#
+# No certificate block here, deliberately, even though it is the obvious
+# neighbour: `negative_fixtures_are_not_found` asks that no recognizer
+# raise the *entity type*, and `credential_pem_certificate` below raises
+# `CREDENTIAL` on one by design. The separation between the two lives in
+# their patterns and in that recognizer's own comment.
+negative = [
+  """-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEqxL9pQvXbJ0m3sCUcH8kOtQq4Rrs
+-----END PUBLIC KEY-----""",
+  """-----BEGIN CERTIFICATE REQUEST-----
+MIIBkTCB+wIJAKj34GkxFhD9MA0GCSqGSIb3DQEBCwUAMBQxEjAQBgNVBAMMCWxv
+-----END CERTIFICATE REQUEST-----""",
+  "-----BEGIN PRIVATE-----",
+  "-----BEGIN RSA PRIVATE KEY",
+]
+adversarial = [
+  "the section is separated by ----- in the plain-text export",
+  "see chapter 4 ----- Cryptography ----- for the derivation",
+]
+
+[recognizer.context_terms]
+en = ["private key", "key material", "credential", "ssh key", "keypair", "identity file"]
+nl = ["privésleutel", "sleutelmateriaal"]
+de = ["privater schlüssel", "schlüsselmaterial"]
+fr = ["clé privée", "matériel de clé"]
+es = ["clave privada", "material de clave"]
+it = ["chiave privata", "materiale di chiave"]
+
+[[recognizer]]
+id = "credential_pem_certificate"
+entity_type = "CREDENTIAL"
+# A certificate is the one *public* artefact in this family, and it is here
+# by decision rather than by the logic the rest of the file follows.
+#
+# THE ARGUMENT AGAINST is real and is recorded here so nobody has to
+# reconstruct it: a certificate is meant to be handed to strangers, masking
+# one prevents no leak, and a TLS config paste with its certificate removed
+# is harder to diagnose than one with it. THE ARGUMENT FOR, which the human
+# partner who scoped this decided on: a certificate block travels with the
+# key it belongs to and in the same paste, the block is bulk base64 rather
+# than prose so masking it destroys no sentence, and a firewall that masks
+# `BEGIN PRIVATE KEY` and leaves `BEGIN CERTIFICATE` invites the reader to
+# conclude the second is safe to paste anywhere.
+#
+# Kept as its own recognizer rather than a third pattern on the private-key
+# one precisely because the arguments differ: this is the one that should be
+# straightforward to remove if the trade is ever re-decided, and removing it
+# must not disturb the keys.
+patterns = [
+  '''-----BEGIN CERTIFICATE-----(?:[A-Za-z0-9+/=\r\n ]|\\n|\\r)*?-----END CERTIFICATE-----''',
+  '''-----BEGIN CERTIFICATE-----(?:\r?\n[A-Za-z0-9+/=]{1,80})*''',
+]
+validator = "none"
+base_confidence = 0.85
+checksum_confidence = 0.0
+context_confidence = 0.1
+negative_context = [
+  "placeholder",
+  "redacted",
+  "example certificate",
+  "dummy certificate",
+  "sample certificate",
+]
+positive = [
+  """-----BEGIN CERTIFICATE-----
+MIIBkTCB+wIJAKj34GkxFhD9MA0GCSqGSIb3DQEBCwUAMBQxEjAQBgNVBAMMCWxv
+Y2FsaG9zdDAeFw0yNjA4MjgwMDAwMDBaFw0yNzA4MjgwMDAwMDBa
+-----END CERTIFICATE-----""",
+  "-----BEGIN CERTIFICATE-----\\nMIIBkTCB+wIJAKj34GkxFhD9MA0GCSqGSIb3DQEBCwUAMBQxEjAQBgNVBAMMCWxv\\n-----END CERTIFICATE-----",
+]
+# A certificate *request*, which carries a public key and a subject and no
+# secret; a public key; an armour line missing its closing dashes. No
+# private-key block here, for the reason
+# `credential_pem_private_key`'s own negative list gives.
+negative = [
+  """-----BEGIN CERTIFICATE REQUEST-----
+MIIBkTCB+wIJAKj34GkxFhD9MA0GCSqGSIb3DQEBCwUAMBQxEjAQBgNVBAMMCWxv
+-----END CERTIFICATE REQUEST-----""",
+  """-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEqxL9pQvXbJ0m3sCUcH8kOtQq4Rrs
+-----END PUBLIC KEY-----""",
+  "-----BEGIN CERTIFICATE",
+]
+adversarial = [
+  "the certificate of origin accompanies every consignment",
+  "a certificate of conformity was issued in March",
+]
+
+[recognizer.context_terms]
+en = ["certificate", "certificate chain", "tls", "credential", "ca bundle"]
+nl = ["certificaat", "certificaatketen"]
+de = ["zertifikat", "zertifikatskette"]
+fr = ["certificat", "chaîne de certificats"]
+es = ["certificado", "cadena de certificados"]
+it = ["certificato", "catena di certificati"]

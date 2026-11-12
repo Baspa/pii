@@ -1,0 +1,13 @@
+Nel caso in cui il vetrocamera sia costituito da due lastre di vetro viene denominato anche "vetrata doppia", se invece le lastre di vetro sono tre allora viene denominato "vetrata tripla".
+
+Il vetro utilizzato per l'assemblaggio può essere un normale vetro float oppure vetro stratificato, vetro temprato, vetro con coating; tipologie cui vanno ad aggiungersi ulteriori lavorazioni : vetro acidato, vetro serigrafato.
+
+I bordi del vetro sono frequentemente oggetto di lavorazione (molatura) al fine di aumentarne la resistenza alla rottura in caso di urto e la sicurezza nella manipolazione (dopo molatura il bordo non è più tagliente).
+
+I distanziatori utilizzati per separare le lastre hanno larghezze variabili in funzione del progetto del vetrocamera (partendo da un minimo di 8,5 mm) e possono essere costituiti da materiali diversi : alluminio, acciaio, PVC, fibra di vetro, silicone oppure una combinazione di materiali differenti; nella cavità del distanziatore viene solitamente posto il disidratante che ha lo scopo di assorbire l'umidità che rimane intrappolata nella cavità del vetrocamera durante la fase di fabbricazione.
+
+I distanziatori hanno, in funzione del materiale costituente, valori di conducibilità termica differenti e quindi la loro prestazione incide sulla performance di isolamento termico del vetrocamera; quelli più performanti sono denominati warm edge ovvero distanziatore a bordo caldo che possono esser tagliati e giuntati agli angoli tramite connetteori a L o piegati lungo il perimetro per avere una continuità permimetrale.
+
+La cavità della vetrata può essere riempita con gas (Aria, Argon o Kripton) al fine di aumentare la performance di isolamento termico del vetrocamera.
+
+I distanziatori sono incollati al vetro tramite il sigillante di "prima barriera" denominato Butile, il vetrocamera viene sigillato sul bordo esterno con diversi tipi di sigillanti di "seconda barriera" : polisolfuro, poliuretano o silicone.

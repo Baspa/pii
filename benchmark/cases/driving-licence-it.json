@@ -1,0 +1,687 @@
+[
+  {
+    "id": "nl-wv-west-nederland-dl-it",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "nl-wv-west-nederland",
+    "text": "West-Nederland is de meest stedelijke regio van Nederland. De vier grote steden Amsterdam, Den Haag, Rotterdam en Utrecht vormen samen met de tussenliggende stedelijke gebieden de Randstad (Italiaans rijbewijs TO7139786F). Het ordernummer in dit rijbewijsdossier is U1MZS5EVYJ. Daarnaast kan men in de regio ook het bekende Nederlandse polderlandschap vinden.\n\nAlkmaar – historische stad met grachten en de internationaal bekende kaasmarkt\n\nAmsterdam – de hoofdstad met zijn zestiende- en zeventiende-eeuwse grachtengordel en zijn internationaal vermaarde musea\n\nDelft – prachtige binnenstad met grachten, internationaal bekend van het Delfts blauw\n\nDen Haag – de hofstad, met het Binnenhof, paleizen en Madurodam en het strand bij Scheveningen\n\nGouda – stroopwafels en kaas, een prachtig stadsplein en knusse restaurants\n\nHaarlem – zeventiende-eeuwse stad met grachten, winkels, musea en uitgaansleven\n\nLeiden – studentenstad met de oudste universiteit van het huidige Nederland, drie nationale musea en grachten\n\nRotterdam – de Maasstad en wereldhaven, modern centrum, bijzondere gebouwen als Euromast en Erasmusbrug\n\nUtrecht – de Dom, de Oude Gracht, een gezellige studentenstad\n\nBeemster – oudste polder, met nog de oorspronkelijke totaal geometrische indeling\n\nKeukenhof – de bloemenvelden die elke lente te bezichtigen zijn\n\nKinderdijk – negentien windmolens in een historisch Nederlands landschap\n\nSchokland – een voormalig eiland dat in 1859 geëvacueerd moest worden; nu is het een spookstad\n\nTexel – de grootste van de Waddeneilanden, ideaal voor fiets- of wandeltochten, zwemmen en paardrijden\n\nUrk – een klein vissersdorp dat ooit een eiland was\n",
+    "must_mask": [
+      {
+        "value": "TO7139786F",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Amsterdam",
+      "Den Haag",
+      "Kinderdijk",
+      "Randstad",
+      "U1MZS5EVYJ"
+    ]
+  },
+  {
+    "id": "de-wv-zug-dl-it",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "de-wv-zug",
+    "text": "Reisen mit dem Zug sind Reisen, bei denen Personenzüge als Transportmittel genutzt werden. Weltweit haben einige Bahnunternehmen Konzepte speziell für Touristen entwickelt und bieten Panoramazüge an (ref VERORDNUNG).\n\nIm Jahr 1825 verkehrte der erste Personenzug von Stockton nach Darlington. In den folgenden Jahrzehnten begann der Siegeszug der Eisenbahn als Massenverkehrsmittel. Schon 1885 erreichte die Länge aller Bahnstrecken in Europa 190.000 Kilometer. Auf allen Kontinenten außer der Antarktis wurden Eisenbahnen gebaut. Die Nummer des italienischen Führerscheins lautet NA0296709R. Heute haben der Straßenverkehr und das Fliegen der Bahn ihren früheren Rang oft abgelaufen. Aber auch heute bietet das Reisen mit dem Zug Vorteile und ist für viele interessant. Die Bahn ist in vielen Fällen bequemer und ermöglicht es, nebenbei anderen Dingen nachzugehen. Bei Entfernungen zwischen 100 und 800 km bleibt die Bahn dann das schnellste Verkehrsmittel, wenn man von Stadtzentrum zu Stadtzentrum reist; auf langen Strecken ist das Flugzeug schneller. Auf einer Bahnfahrt erlebt man im Vergleich zum Fliegen meist mehr von der Landschaft und hat zudem Möglichkeiten, die Fahrt zu unterbrechen; der Weg wird zum Ziel. Weltweit haben Bahnunternehmen erkannt, dass bestimmte Eisenbahnstrecken durch spektakuläre oder historische Landschaften führen und bieten „Sightseeing-Touren“ in nostalgischen Waggons oder Panoramazügen an. Damit wird die Eisenbahnfahrt selbst zum Urlaubserlebnis.\n",
+    "must_mask": [
+      {
+        "value": "NA0296709R",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Darlington",
+      "Antarktis",
+      "VERORDNUNG"
+    ]
+  },
+  {
+    "id": "fr-wv-train-europe-dl-it",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "fr-wv-train-europe",
+    "text": "Le réseau ferroviaire est très développé en Europe. C'est un moyen de transport privilégié sur un continent où les activités humaines sont particulièrement denses. Ainsi, malgré plusieurs régressions ayant rendues la chose moins vraie, on peut encore dire que les trains permettent de parcourir l'Europe.\n\nLes compagnies sont en général publiques. Le numéro du permis de conduire italien du demandeur est U118X8KBEB. L'exemple le plus notable de libéralisation du rail est britannique, mais il semble que les autorités de ce pays reviennent peu à peu sur leur décision. Les compagnies nationales répondent donc en principe aux impératifs juridiques du service public : égalité (des prix et de la desserte), continuité du service...\n\nDB.  Formulaire de recherche des horaires en français. Le formulaire Hafas propose les horaires de tous les trains d'Europe. Après, vous devrez aller acheter dans une gare les billets mais vous connaîtrez déjà la faisabilité du trajet. Attention toutefois, ce ne sont que les horaires planifiés. Le site ne tient pas compte des travaux et autres changements de dernière minute. (dernière mise à jour : mars 2017)\n\n1 SNCB.  Formulaire de recherche des horaires en français. Le formulaire Hafas propose, bien sûr, les horaires de tous les trains belges, ainsi que de certaines relations hors de cet état. Les billets sont aussi disponibles en ligne. (dernière mise à jour : mars 2017)\n\nSNCB International (ref VE89935687H).  Formulaire de recherche des horaires en français. Les billets sont aussi disponibles en ligne. (dernière mise à jour : avr. 2019)\n\nSNCF.  Formulaire de recherche des horaires.  (dernière mise à jour : mars 2017)\n",
+    "must_mask": [
+      {
+        "value": "U118X8KBEB",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "SNCF",
+      "SNCB",
+      "Hafas",
+      "VE89935687H"
+    ]
+  },
+  {
+    "id": "es-wv-trenes-dl-it",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "es-wv-trenes",
+    "text": "Antes de que los aviones y los automóviles pasaran a primer plano, viajar en tren era casi la única forma de viajar entre países. En algunas partes del mundo, como Europa y gran parte de Asia, sigue siendo uno de los modos estándar para viajar de una ciudad a otra, y en otras partes del mundo, por ejemplo en Norteamérica, sigue siendo una alternativa bastante popular.\n\nLos ferrocarriles surgieron en el siglo XIX como el primer medio ampliamente disponible de transporte terrestre rápido, mucho antes del surgimiento del automóvil, y han dejado su huella en la mayoría de los países y ciudades (número de pedido, permiso de conducir BA5836032Y). Canadá se unificó gracias al ferrocarril Trans-Canadá y Rusia gracias al Ferrocarril Transiberiano. La disponibilidad y calidad de la infraestructura ferroviaria varía mucho entre países. Si bien países como Alemania y Japón tienen una excelente red ferroviaria tanto dentro como entre ciudades, el servicio ferroviario de pasajeros en los Estados Unidos, que alguna vez fue líder mundial en transporte ferroviario, se ha quedado muy por detrás de su red vial y algunos países en desarrollo como América latina están completamente desprovistos de ferrocarril.\n\nLas redes de transporte público suelen estar compuestas por servicios ferroviarios locales, junto con sistemas ferroviarios urbanos, como son los tranvías y los trenes metropolitanos.\n\nEl número del permiso de conducir italiano del solicitante es VE3157049H. Para los trenes locales, trate de evitar las horas pico de trabajo.\n",
+    "must_mask": [
+      {
+        "value": "VE3157049H",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Estados Unidos",
+      "Ferrocarril Transiberiano",
+      "Japón",
+      "BA5836032Y"
+    ]
+  },
+  {
+    "id": "it-wv-treno-dl-it",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "it-wv-treno",
+    "text": "Viaggiare in treno include tutto, dagli storici treni a vapore fino ai treni ad alta velocità, da quelli turistici in cui vi si cena a quelli economici usati come veloci mezzi di trasporto di massa moderno (patente di guida U1MLFVHHRB). Per il viaggiatore, le informazioni disponibili sulla gamma di servizi può variare notevolmente.\n\nPrima che aerei e automobili esplodessero sulla scena, il treno era praticamente l'unico modo per attraversare un paese. Questo è evidente ne Il giro del mondo in 80 giorni di Julien Vernier, dove Phileas Fenwick fa ampio uso del treno per spostarsi intorno al mondo. In alcune parti del mondo, come l'Europa e gran parte dell'Asia, sono ancora uno dei mezzi di trasporto standard per gli spostamenti tra città, mentre in altre (ad esempio il Nord America) rimane un'alternativa piuttosto popolare. Il riferimento è PARLAMENTS. In assenza di traffico, il treno ha il vantaggio di essere sempre in movimento. Non ha la velocità del viaggio aereo sulle lunghe distanze e spesso la densità di copertura della rete stradale, ma compensa con lo spazio per muoversi mentre qualcun altro guida. È anche più comodo del viaggio aereo, soprattutto in termini di spazio per le gambe e per coloro che non amano l'idea di essere sospesi a 9.000 metri dal suolo. Per distanze comprese tra circa 100 e 800 km, potrebbe essere il mezzo di trasporto più veloce, soprattutto se si deve andare da un centro città all'altro.\n",
+    "must_mask": [
+      {
+        "value": "U1MLFVHHRB",
+        "type": "DRIVING_LICENCE"
+      },
+      {
+        "value": "Julien Vernier",
+        "type": "PERSON"
+      },
+      {
+        "value": "Phileas Fenwick",
+        "type": "PERSON"
+      }
+    ],
+    "must_clear": [
+      "Nord America",
+      "Asia",
+      "PARLAMENTS"
+    ]
+  },
+  {
+    "id": "en-wv-rail-tips-dl-it",
+    "lang": "en",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "en-wv-rail-tips",
+    "text": "Before airplanes and automobiles exploded onto the scene, rail travel was virtually the only way to travel cross-country. This is evident in Julien Vernier's Around the World in 80 Days where Phileas Fenwick makes extensive use of rail travel to make his way around the world. In some parts of the world, such as Europe and much of Asia, it's still one of the standard modes of city-to-city travel, and in others (e.g. North America) it remains as a fairly popular alternative. The applicant's Italian driving licence number is PA5378433R. With no traffic, rail travel has the advantage of always being in motion (ref RM21258312E). It lacks the speed of air travel on longer distances and often the density of coverage of the road network, but compensates with space to move around while someone else does all the driving.  It's also more comfortable than air travel, especially in terms of legroom and to those who don't like the thought of being suspended 30,000 feet above the ground.  For distances between about 100 and 800 km it may be the fastest method of travel, especially if you need to go from city center to city center. A rough first estimate is that a train is faster than a competing air-service if it takes three and a half to four hours or less, as getting on a train usually doesn't require being at the station more than some fifteen minutes prior to departure. For longer distances it takes longer than travelling by air, but provides you with a ground-level view of the territory you're visiting, and allows you to stop on the way.\n",
+    "must_mask": [
+      {
+        "value": "PA5378433R",
+        "type": "DRIVING_LICENCE"
+      },
+      {
+        "value": "Julien Vernier",
+        "type": "PERSON"
+      },
+      {
+        "value": "Phileas Fenwick",
+        "type": "PERSON"
+      }
+    ],
+    "must_clear": [
+      "Around the World in 80 Days",
+      "North America",
+      "RM21258312E"
+    ]
+  },
+  {
+    "id": "nl-wp-warmtepomp-dl-it",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "nl-wp-warmtepomp",
+    "text": "Een warmtepomp is een apparaat dat warmte verplaatst door middel van arbeid. De bekendste vorm is een koelkast. Het begrip warmtepomp wordt meestal gebruikt voor de omgekeerde vorm, die bedoeld is om warmte van een lager niveau naar een hoger te brengen, bijvoorbeeld voor gebouwverwarming.\n\nEen warmtepomp kan meer warmte leveren dan hij aan (doorgaans elektrische) energie verbruikt omdat hij warmte van een lagere naar een hogere temperatuur 'pompt'. Hoeveel meer warmte dit betekent is afhankelijk van de gebruikte techniek en het temperatuurverschil dat moet worden overwonnen. Het Italiaanse rijbewijsnummer van de aanvrager is VR5219806I. In optimale situaties kan het tot vijf maal zo veel zijn, maar bijvoorbeeld een airconditioningsinstallatie, een lucht-lucht-warmtepomp, kan bij sterke vorst nauwelijks nog warmte aan de buitenlucht onttrekken. Hoe groter het temperatuurverschil tussen de lage-temperatuur bron en de hogere temperatuur sink, hoe meer mechanisch vermogen per eenheid getransformeerde warmte verricht moet worden.\n\nMet een passende warmtepomp kunnen gebouwen efficiënt en milieuvriendelijk worden verwarmd (ordernummer bij het rijbewijs U15N7CEZ2H). Bij gelijke omvang is het vermogen van de warmtepompen soms, in vergelijking een gas of olie gestookte cv-ketel, beperkter. Hierbij moet niet vergeten worden dat elektriciteit meestal per kWh duurder is dan aardgas (typisch een factor drie). Een verbeterde gebouwisolatie is daarom bij vervanging van een traditionele verwarming door een warmtepomp veelal noodzakelijk om tot een rendabele oplossing te komen.\n",
+    "must_mask": [
+      {
+        "value": "VR5219806I",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "cv-ketel",
+      "kWh",
+      "U15N7CEZ2H"
+    ]
+  },
+  {
+    "id": "de-eb-ar24-balance-dl-it",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "de-eb-ar24-balance",
+    "text": "Sukzessive Reduzierung der Bilanz des Eurosystems durch Fälligkeit von GLRG-III-Geschäften und Verringerung der Bestände der geldpolitischen Portfolios\n\nDie 2022 eingeleitete sukzessive Normalisierung der Bilanz des Eurosystems wurde 2024 fortgesetzt. Zu Jahresende war die Bilanzsumme auf 6,4 Bio. € gesunken (von 6,9 Bio. € Ende 2023) (ref AUTOSCUOLA). Dies war das Ergebnis vorzeitiger Rückzahlungen und der Fälligkeit von GLRG-III-Geschäften sowie des Abschmelzens des APP-Portfolios. Auch der Abbau des PEPP-Portfolios leistete einen Beitrag, da ab Juli die Tilgungsbeträge nur mehr teilweise wieder angelegt wurden.\n\nDie Nummer des italienischen Führerscheins lautet GE0272432P. Die aus geldpolitischen Gründen erworbenen Vermögenswerte in der Bilanz des Eurosystems beliefen sich Ende 2024 auf 4,3 Bio. €, d. h., gegenüber Ende 2023 war ein Rückgang um 0,8 Bio. € zu verzeichnen. Forderungen an Kreditinstitute im Euroraum machten 1 % der Bilanzsumme aus (nach 6 % Ende 2023) und zu geldpolitischen Zwecken erworbene Wertpapiere 67 % (verglichen mit 68 % Ende 2023). Die sonstigen Finanzanlagen in der Bilanz, hauptsächlich Fremdwährungsreserven, Gold und nicht geldpolitische Anlageportfolios in Euro, stiegen um 0,3 Bio. €.\n\nAuf der Passivseite verringerten sich bis Ende 2024 die Reserveguthaben der Kreditinstitute und die Inanspruchnahme der Einlagefazilität auf 3,0 Bio. € (verglichen mit 3,5 Bio. € zum Jahresende 2023). Dies entsprach einem Anteil von 47 % aller Verbindlichkeiten (2023: 51 %). Der Banknotenumlauf blieb mit 1,6 Bio. € praktisch unverändert und machte 25 % der gesamten Verbindlichkeiten aus (nach 23 % im Jahr davor).\n",
+    "must_mask": [
+      {
+        "value": "GE0272432P",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "GLRG-III-Geschäften",
+      "Eurosystems",
+      "AUTOSCUOLA"
+    ]
+  },
+  {
+    "id": "de-wb-werkstoffkunde-legierung-dl-it",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "de-wb-werkstoffkunde-legierung",
+    "text": "In der Thermodynamik wird häufig mit Temperatur-Druck-Zustandsdiagrammen gearbeitet, in denen die Phasenübergänge eines bestimmten Stoffes (mit bestimmter Zusammensetzung) verzeichnet sind (italienischer Führerschein RM4087885V). In der Werkstoffkunde arbeiten wir dagegen mit Zustandsdiagrammen, die den Existenzbereich einer Phase in Abhängigkeit von Temperatur und Zusammensetzung aufzeigen – bei konstantem Druck.\n\nWie gesagt, bestehen Legierungen aus mindestens zwei Komponenten, im folgenden Basismetall und Legierungselement(e) genannt. Die Referenz lautet MI67568860D. Weit verbreitet sind Zustandsdiagramme von Legierungen mit zwei Komponenten (Zweistoff- oder Binäre Systeme). Die meisten Legierungen bestehen aber aus dem Basismetall mit zwei, drei oder mehr Legierungselementen, die einen erheblichen Einfluss haben, so dass die Zweistoff-Phasendiagramme nur begrenzte Gültigkeit haben. Daher gibt es Diagramme von Dreistoffsystemen. Eine Abhandlung über die ternären Diagramme würde aber den Rahmen diese Ks sprengen. Später werden wir uns deshalb darauf beschränken, bei zusätzlichen Legierungselementen deren Wirkung als „Verschiebung des Existenzbereichs einer Phase in eine bestimmte Richtung“ zu beschreiben.\n\nIm schmelzflüssigem Zustand lassen sich fast alle Metalle sehr gut miteinander vermischen. Schwierigkeiten treten nur bei extremen Unterschieden beim Schmelzpunkt oder der Dichte auf. Im festen Zustand gibt es dagegen große Unterschiede in der Löslichkeit. Die Komponenten lassen sich entweder vollständig, überhaupt nicht, oder in Abhängigkeit von der Temperatur miteinander vermischen – entsprechend werden wir nun drei grundlegend verschiedene Typen von Zweistoff-Diagrammen kennen lernen.\n\nBei vollständiger Löslichkeit im festen Zustand bilden sich in jeder Zusammensetzung Mischkristalle. Diese sind entweder Einlagerungs- oder Substitutionsmischkristalle.\n",
+    "must_mask": [
+      {
+        "value": "RM4087885V",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Zustandsdiagramme",
+      "Mischkristalle",
+      "MI67568860D"
+    ]
+  },
+  {
+    "id": "fr-eb-ar24-cash-dl-it",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "fr-eb-ar24-cash",
+    "text": "Fin 2024, le nombre de billets en euros en circulation s’élevait à 30,5 milliards, pour une valeur totale de quelque 1 600 milliards d’euros (graphique 6.1). Le nombre et la valeur des billets en circulation ont augmenté de, respectivement, 2,4 % et 1,3 % au cours de l’année.\n\nLes établissements de crédit ont remis en circulation des volumes de billets plus importants auprès de leurs clients, améliorant ainsi leur efficacité\n\nLes établissements de crédit ont retourné 25,4 milliards de billets aux banques centrales nationales (BCN) de la zone euro en 2024, soit une légère diminution de 0,9 milliard par rapport à 2023. Au total, la valeur des billets déposés auprès des BCN a atteint 856 milliards d’euros en 2024, contre 890 milliards en 2023. Ce recul tient au fait que les établissements de crédit ont remis en circulation des volumes de billets plus importants auprès de leurs clients au lieu de les retourner aux BCN. L’évolution du traitement des billets par les établissements de crédit reflète les efforts qu’ils ont déployés, avec succès, pour améliorer leur efficacité, par exemple en installant davantage de distributeurs automatiques de billets (DAB) dotés de fonctionnalités de dépôt et de remise en circulation.\n\nEn 2024, le nombre de pièces en euros en circulation (émission nette) dans la zone euro a augmenté de 3,0 milliards, pour une valeur nominale de 953 millions d’euros, ce qui est comparable aux deux années précédentes (permis de conduire italien U1CEECDRNX). Le numéro de commande de ce dossier de permis de conduire est NA0940710L.\n",
+    "must_mask": [
+      {
+        "value": "U1CEECDRNX",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "banques centrales nationales",
+      "856 milliards d’euros",
+      "NA0940710L"
+    ]
+  },
+  {
+    "id": "fr-wb-chauffage-dl-it",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "fr-wb-chauffage",
+    "text": "Avec l'augmentation du coût de l'énergie, l'isolation thermique et le chauffage sont deux postes qui devront être étudiés et réalisés avec attention.\n\nLe choix d’un type de chauffage sort du cadre de cet article (permis de conduire italien TO2495055C). Du point de vue de l’autoconstruction, le travail à réaliser, les gains, la difficulté... sont très différents.\n\nLa référence est COMMISSION. électrique par convecteurs - pas de difficulté particulière, économie importante en investissement mais peut se révéler d’un coût élevé à l’usage si l’isolation n’a pas été prévue en conséquence,\n\nélectrique par câble chauffant dans la dalle - spécifications particulières pour la pose du câble, dalle flottante épaisse, abonnement heures creuses,\n\nchaudière au gaz raccordée au réseau - spécifications particulières pour l’alimentation et le raccordement, évacuation des gaz brûlés par sortie directe ou dans un conduit de fumée,\n\nchaudière au fioul ou gaz liquéfié - idem chaudière au gaz ci-dessus mais contraintes particulières pour le stockage (sécurité, risques de pollution) et le remplissage des cuves (accès camion),\n\nsolaire thermique couplé à un moyen de chauffage de base - orientation et pente du toit, proximité de la chaufferie de base et des capteurs.\n\ncirculation d’eau dans la dalle flottante – pompe pour mise en pression des circuits au moment de couler la dalle ; le distributeur est en général placé au centre de l’étage, dans un placard ; c’est peut-être le type de chauffage le plus facile pour l’amateur (distribution par tuyaux en polyéthylène sans soudure), il convient aussi pour les PSD (plancher solaire direct),\n\nLa température d’une pièce doit être adaptée au tempérament de ses occupants et ne pas varier trop avec la température extérieure ou à cause des apports de chaleur ou de froid indépendants du système de chauffage (rayon de soleil, cuisson des aliments, ouverture d’une porte...).\n",
+    "must_mask": [
+      {
+        "value": "TO2495055C",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "plancher solaire direct",
+      "polyéthylène",
+      "COMMISSION"
+    ]
+  },
+  {
+    "id": "es-wp-hormigon-dl-it",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "es-wp-hormigon",
+    "text": "El hormigón(de hormigo, ‘gachas de harina’), concreto (del inglés concrete, y este del latín concrētus, ‘agregado’, ‘condensado’), garujo, nuégado, mazacote, derretido, o masacote, es un material compuesto empleado en construcción, formado esencialmente por un aglomerante al que se añade áridos (agregado), agua y aditivos específicos.\n\nEl número del permiso de conducir italiano del solicitante es VR5857928T. El aglomerante es, en la mayoría de las ocasiones, cemento (generalmente cemento Portland) mezclado con una proporción adecuada de agua para que se produzca una reacción de hidratación (ref VR03765245U). Las partículas de agregados, dependiendo fundamentalmente de su diámetro medio, son los áridos (que se clasifican en grava, gravilla y arena). La mezcla de cemento y agua se denomina pasta de cemento, si a esta se añade arena se cataloga como mortero y si al mortero se le añade grava, se denomina concreto. Existen hormigones que se producen con otros conglomerantes que no son cemento, como el hormigón asfáltico que utiliza betún para realizar la mezcla. En el caso del elaborado con cemento Portland se le suele comúnmente llamar mezcla o cemento (en países como Venezuela o Chile).\n",
+    "must_mask": [
+      {
+        "value": "VR5857928T",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "cemento Portland",
+      "nuégado",
+      "VR03765245U"
+    ]
+  },
+  {
+    "id": "es-wb-almacenamiento-optico-dl-it",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "es-wb-almacenamiento-optico",
+    "text": "El almacenamiento óptico se trata de aquellos dispositivos que son capaces de guardar datos por medio de un rayo láser en su superficie plástica, ya que se almacenan por medio de ranuras microscópicas quemadas. La información queda grabada en la superficie de manera física, por lo que solo el calor (puede producir deformaciones en la superficie del disco) y las ralladuras pueden producir la pérdida de los datos, en cambio es inmune a los campos magnéticos y la humedad (número de pedido, permiso de conducir GE0543225M).\n\nLos soportes ópticos siguen el sistema de archivos UDF (universal disk format o formato de disco universal) y Joliet. Se adoptó este sistema de archivos para reemplazar al estándar ISO 9660, y su principal uso es la grabación o regrabación de discos.\n\nLa lectura de un soporte óptico consiste en la conversión de los lands y pits a una información digital (ceros y unos). El elemento fundamental para la lectura de un soporte óptico es un láser de baja potencia, que emite radiación y que se enfoca hacia la parte inferior del CD. La luz atraviesa la capa de policarbonato e incide sobre la capa de aluminio. Si el haz incide sobre un hueco (pit), el porcentaje de luz reflejada es muy pequeño. Por el contrario, si el haz incide sobre una zona plana (land), un gran porcentaje de luz es reflejada. La radiación luminosa reflejada se dirige hacia un fotodetector que, en función de la intensidad de la luz recibida, puede detectar fácilmente si se ha enfocado un land o un pit.\n\nUn soporte óptico no contiene pistas concéntricas, como ocurría en los discos magnéticos. En cambio, el soporte óptico presenta una sola pista, que se dispone en forma de espiral, cubriendo toda el área de datos. La espiral comienza en la parte interior del disco, justo después del área interior. El número del permiso de conducir italiano del solicitante es U1STUGL0YV. Esto se hace así para permitir recortar el radio del soporte óptico y poder obtener versiones más pequeñas.\n",
+    "must_mask": [
+      {
+        "value": "U1STUGL0YV",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "ISO 9660",
+      "policarbonato",
+      "GE0543225M"
+    ]
+  },
+  {
+    "id": "it-eb-ar24-cash-dl-it",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "it-eb-ar24-cash",
+    "text": "Alla fine del 2024 la circolazione delle banconote in euro ha raggiunto i 30,5 miliardi di pezzi, per un valore complessivo di circa 1.600 miliardi di euro (cfr. il grafico 6.1). Il riferimento è RILASCIATA. Nel corso dell’anno il numero e il valore delle banconote in circolazione sono aumentati rispettivamente del 2,4 e dell’1,3 per cento.\n\nNel 2024 gli enti creditizi hanno restituito alle banche centrali nazionali (BCN) dell’area dell’euro un totale di 25,4 miliardi di banconote, con una lieve diminuzione di 0,9 miliardi rispetto al 2023. In termini di valore, nel 2024 le banconote depositate presso le BCN ammontavano a un totale di 856 miliardi di euro, dato in calo rispetto agli 890 miliardi del 2023 (patente di guida U1646UZYTF). La riduzione è stata determinata dai volumi più elevati di banconote che gli enti creditizi hanno rimesso in circolazione tra la clientela anziché restituirle alle BCN. Il cambiamento nella gestione delle banconote riflette gli sforzi compiuti dagli enti creditizi per migliorare l’efficienza conseguita, ad esempio, installando un maggior numero di ATM con la funzione di deposito e ricircolo delle banconote.\n\nNel 2024 l’aumento della circolazione delle monete in euro (emissione netta) nell’area dell’euro è stato simile a quello dei due anni precedenti, raggiungendo i 3,0 miliardi di monete per un valore nominale di 953 milioni di euro.\n\nLa BCE intende garantire un adeguato accesso al contante e la sua accettazione nell’area dell’euro, e accoglie quindi con favore le norme sul suo corso legale\n",
+    "must_mask": [
+      {
+        "value": "U1646UZYTF",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "banche centrali nazionali",
+      "856 miliardi di euro",
+      "RILASCIATA"
+    ]
+  },
+  {
+    "id": "it-wb-sputtering-dl-it",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "it-wb-sputtering",
+    "text": "La deposizione mediante sputtering è una tecnica di deposizione fisica di film sottili (nel testo useremo anche gli anglicismi film sputterati o sputterare, dato che non esistono traduzioni italiane perfette).\n\nQuando ioni (tipicamente Ar⁺) vengono accelerati verso la superficie del target tramite un campo elettrico, cedono quantità di moto agli atomi della superficie. Questi atomi possono essere espulsi e propagarsi verso il substrato, depositandosi come film sottile (ref PD17286213P).\n\nSe la pressione del gas nella camera è sufficientemente bassa, gli atomi possono muoversi in linea retta dal target al substrato; a pressioni più elevate collidono con atomi del gas residuo, si termalizzano e raggiungono il substrato in modo più diffuso.\n\nSe si vuole depositare un materiale molto leggero, in alcuni casi viene preferito il neon; per materiali pesanti si possono usare krypton o xenon (anche se, per motivi di costo, nella pratica si usa quasi sempre l’argon).\n\nQuando un solido viene bombardato con atomi o ioni o molecole, se l'energia delle particelle incidenti è superiore alla energia di legame degli atomi del solido (circa 5 eV) essi possono essere espulsi dalla superficie. Gli atomi vengono espulsi vanno nella fase gassosa. Il numero della patente di guida del richiedente è U1VN0S0DKD. Se però l'energia è molto più elevata (qualche keV) le particelle bombardanti penetrano in profondità e il processo diviene la impiantazione ionica. Se invece l'energia è minore di circa 5 eV gli atomi rimbalzano sulla superficie o aderiscono alla superficie e poi lentamente, specialmente se sono atomi di gas nobili, vengono desorbiti e tornano nella fase vapore.\n",
+    "must_mask": [
+      {
+        "value": "U1VN0S0DKD",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "impiantazione ionica",
+      "gas nobili",
+      "PD17286213P"
+    ]
+  },
+  {
+    "id": "en-eb-ar24-borrowing-dl-it",
+    "lang": "en",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "en-eb-ar24-borrowing",
+    "text": "The ECB is responsible for the administration of accounts and processing of payments relating to the borrowing and lending operations of the EU under the medium-term financial assistance (MTFA) facility for Member States’ balances of payments, the European Financial Stabilisation Mechanism (EFSM), the European instrument for temporary Support to mitigate Unemployment Risks in an Emergency (SURE), the Next Generation EU (NGEU) programme, the Ukraine Facility, including exceptional bridge financing, and short-term macro-financial assistance to the Arab Republic of Egypt. The ECB is also responsible for the administration of certain payments arising in connection with operations under the European Financial Stability Facility (EFSF) and the European Stability Mechanism (ESM), and for processing all payments in relation to the loan facility agreement for Greece. In 2024 the ECB performed paying agent services for the European Commission (order number, driving licence VR1642503F).\n\nAs at 31 December 2024 the total outstanding nominal amount was €0.2 billion under the MTFA facility, €42 billion under the EFSM, €98.35 billion under SURE and €31.605 billion under the loan facility agreement for Greece. Finally, in 2024 the ECB processed disbursements and interest payments of NGEU loans and grants to and from various Member States, also including loans to Ukraine. The applicant's Italian driving licence number is PD7492304C.\n",
+    "must_mask": [
+      {
+        "value": "PD7492304C",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "European Commission",
+      "31 December 2024",
+      "VR1642503F"
+    ]
+  },
+  {
+    "id": "en-wv-camping-dl-it",
+    "lang": "en",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "en-wv-camping",
+    "text": "Camping is do-it-yourself accommodation: you carry your roof and your bedding in your backpack or your vehicle (ref VERORDNUNG). It's often the only choice of accommodation you have when you're travelling off the beaten track, but there are also very popular sites for camping holidays. Many car camping sites have an area for those coming with just a tent. On these, or other areas especially for campers, there are usually at least basic facilities, such as fresh water and toilets.\n\nCommercial campgrounds and similar can often be found outside cities and at vacation destinations. The applicant's Italian driving licence number is FI2613860J. Often the campground caters to car campers as well as those coming only with a tent. Often there are also cabins or caravans for rent. The campgrounds usually have showers, kiosk, playground etc. However, facilities can range from the very basic (water that has to be boiled to be potable and outhouses for toilets) to something akin to a hotel with pre-built tents and permanently installed caravans for you to rent and supermarkets or private beach access.\n\nCamping is a common option in national parks and similar. Always check whether you need a permit to camp, how much it costs and whether your choice of site will be restricted. You generally need to get permits either in advance or at the park entrance or visitor centre. Many popular national parks or protected sites have limited camping to particular sites and some have banned it altogether. When hiking, there will often be set camp sites a day's walk apart, and often you are forbidden to camp between them. The facilities may be much more basic than at normal camping areas.\n",
+    "must_mask": [
+      {
+        "value": "FI2613860J",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "national parks",
+      "visitor centre",
+      "VERORDNUNG"
+    ]
+  },
+  {
+    "id": "nl-wp-lijm-dl-it",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "nl-wp-lijm",
+    "text": "Niet elke ondergrond is meteen geschikt om daarop direct lijm aan te brengen. Metalen (als staal en aluminium) moeten eerst tegen corrosie (oxidatie) beschermd worden (ref TO96784127V). Bij de fabricage van kunststof voorwerpen worden soms hulpstoffen (lossingsmiddelen) gebruikt om het werkstuk gemakkelijker uit het gereedschap te laten komen; deze stoffen dienen voor het lijmen verwijderd te worden van het oppervlak. Het Italiaanse rijbewijsnummer van de aanvrager is TO4480558K. Ook zijn er kunststoffen met een zo lage oppervlaktespanning dat de lijm niet op het oppervlak kan uitvloeien. Dit is het geval bij polypropeen (PP), polyetheen (PE), teflon (PTFE), polyoxymethyleen (POM), siliconen en thermoplastische elastomeren (TPE's). Het oppervlak wordt dan geïoniseerd om een betere hechting van de lijm mogelijk te maken. Gedemineraliseerd water heeft een oppervlaktespanning van 73 en PTFE een oppervlaktespanning van 17. Hierdoor blijft het water als een bolle druppel op het oppervlak staan. De oppervlaktespanning van het substraat PTFE is onbehandeld namelijk te laag. Zo kan je aan de hand van een kleine test met Gedemineraliseerd water een eerste indruk krijgen over te lijmbaarheid van het oppervlak op dat moment.\n",
+    "must_mask": [
+      {
+        "value": "TO4480558K",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Gedemineraliseerd",
+      "TPE's",
+      "TO96784127V"
+    ]
+  },
+  {
+    "id": "nl-wv-oplichterspraktijken-dl-it",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "nl-wv-oplichterspraktijken",
+    "text": "De hieronder beschreven truc(je)s zijn gebaseerd op het feit dat je als reiziger af en toe advies nodig hebt van de lokale bevolking om ergens te komen. 99 van de 100 keer gaat dit goed maar af en toe zit er iemand tussen die je wil besodemieteren. Dan krijg je advies dat er in resulteert dat je voor iets betaalt waar je normaal niet voor zou betalen of ergens naar toe gaat waar je niet naar toe wilt. Het ordernummer in dit rijbewijsdossier is U10VPUM40L. (Verwar dit niet met het ontdekken van plekken die je normaal gesproken, in eigen land, niet zou bezoeken maar die jouw reis een stuk leerzamer maken!)\n\nSoms krijg je deals aangeboden die te goed lijken om waar te zijn, maar die volledig frauduleus zijn, maar de meeste trucs zijn er op gebaseerd om je (iets) meer te laten betalen dan je zou hebben gedaan als je beter op de hoogte was geweest.\n\nEen van de grootste valkuilen waar deze trucs op zijn gebaseerd is het gebruik en de behoefte om aardig & beleefd te zijn tegen mensen die aardig & beleefd tegen jou (lijken te) doen; en oplichters weten dit ook. Het is niet de bedoeling dat je als een onbeleefde, onaanspreekbare persoon door de plaats van bestemming marcheert, maar ieder aanbod om te helpen kun je met beleefde voorzichtigheid op zijn merites beoordelen. En als je het idee hebt dat je wordt afgezet of opgelicht dan hoef je niet beleefd te blijven. Je kunt dan gewoon weglopen, of als het vervelend wordt, tegen je belager schreeuwen of om hulp roepen (Italiaans rijbewijs FI6674603I).\n",
+    "must_mask": [
+      {
+        "value": "FI6674603I",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Verwar",
+      "onaanspreekbare",
+      "U10VPUM40L"
+    ]
+  },
+  {
+    "id": "de-wp-meerwasserentsalzung-dl-it",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "de-wp-meerwasserentsalzung",
+    "text": "Im Nahen Osten ist die energieintensive Gewinnung von Trink- und Betriebswasser mit fossilen Energieträgern wie Schweröl oder Erdgas weit verbreitet. In den ölreichen Golfstaaten stellt die Meerwasserentsalzung die Hauptquelle der Trinkwassergewinnung dar. Das weltweit größte Unternehmen auf diesem Gebiet ist die saudi-arabische Saline Water Conversion Corporation (SWCC) mit einer täglichen Produktion von 5,9 Millionen m³ Trinkwasser. Die Meerwasserentsalzung dient aber auch zur Gewinnung von Betriebs- bzw. Kühlwasser für an der Küste befindliche größere kalorische Kraftwerke. Ein Beispiel ist das Kraftwerk Shoaiba, welches mit Stand 2014 das größte Kraftwerk in Saudi-Arabien ist. Das für die Kühlanlagen benötigte Wasser wird durch gas- oder ölbefeuerte Entsalzungsanlagen in unmittelbarer Nachbarschaft zu dem Kraftwerk gewonnen, auch kombinierte Gas-und-Dampf-Kombikraftwerke mit angeschlossener MSF-Entsalzungsanlage kommen zum Einsatz (ref AUTOSCUOLA). Die Abkürzung MSF steht für englisch Multi Stage Flash Evaporation in der Bedeutung von mehrstufiger Entspannungsverdampfung. Die Nummer des italienischen Führerscheins lautet PA2480888L. Die mit Stand 2014 weltweit größte Meerwasserentsalzungsanlage ist die Kraftwerks- und Meerwasserentsalzungsanlage Dschabal Ali in den Vereinigten Arabischen Emiraten.\n\nIn Einzelfällen kann auch die Abwärme von Kernkraftwerken zur Meerwasserentsalzung verwendet werden. Ein Beispiel ist das stillgelegte Kernkraftwerk Aqtau, welches 150 MW elektrische Energie und 200 MW Prozesswärme zum Entsalzen von Meerwasser aus dem Kaspischen Meer erzeugte. Auf Flugzeugträgern wird die Abwärme des Atomreaktors zur Meerwasserentsalzung eingesetzt.\n\nAuf den kanarischen Inseln und der deutschen Insel Helgoland wird Trinkwasser durch das Umkehrosmoseverfahren gewonnen. Kleinere Einsatzgebiete stellen auch die Entsalzung von Meerwasser auf Schiffen und U-Booten dar.\n",
+    "must_mask": [
+      {
+        "value": "PA2480888L",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Saline Water Conversion Corporation",
+      "Multi Stage Flash Evaporation",
+      "AUTOSCUOLA"
+    ]
+  },
+  {
+    "id": "de-wb-ursachen-wirkungen-dl-it",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "de-wb-ursachen-wirkungen",
+    "text": "Die Umsetzung von Stickstoff (N) aus der Luft mit dem Sauerstoff (O) führt zu Stickoxiden (hauptsächlich NO, NO2, N2O, meist NOx geschrieben), dabei wird aber Energie verbraucht.\n\nManchmal wird ein Brennsoff unvollständig verbrannt, dann sind im Abgas oder im Verbrennungsrückstand noch Stoffe, die weiterverbrannt werden könnten, beispielsweise wenn Kohlenstoffmonoxid oder Ruß entstehen.\n\nDie Referenz lautet MI85352875U. Das chemische Element Wasserstoff (H) ist in vielen Stoffen enthalten, in allen biogenen Materialien und in allen fossilen Brennstoffen (Erdöl bzw. Heizöl, Erdgas, Kohle)\n\nBei jeder Verbrennung von wasserstoffhaltigen Brennstoffen (Erdgas, Heizöl, Holz, Biogene Materialien, Kohle) entsteht zwangsläufig Wasser, das in den heißen Abgasen verdampft. Diese dafür notwendige Wärmemenge, die Verdampfungswärme des Wassers, wird wieder freigesetzt, wenn der Dampf zu Wasser kondensiert. Genau diesen Effekt macht man sich bei „Brennwertheizkesseln\" zu Nutze, indem das Abgas so weit abgekühlt wird, dass der darin enthaltene Wasserdampf kondensiert und die gespeicherte Wärme freisetzt.\n\nWasserdampf im Abgas kann auch davon herrühren, dass die Brennstoffe oder die Verbrennungszuluft Feuchtigkeit enthielten. Die Kondensation dieser Feuchtigkeit ergibt dabei einen zusätzlichen Energiegewinn. Nach einer Kondensation in einem Wärmetauscher hat das Abgas noch immer eine Restfeuchte. Weil dafür nur die Differenz zwischen Zuluftfeuchte (und Brennstofffeuchte) und Restfeuchte aus dem Brennstoff gespeist werden muss, kondensiert das „Zuviel\" mit Wärmegewinn aus. Der Wärmegewinn ist daher umso höher, je feuchter die Zuluft ist. Die durch die Zuluft „eingesparte\" Kondensatmenge ist gleich hoch wie deren Wassergehalt. Dampfförmige Feuchte (in der Zuluft) ist aber „wertvoller“ als etwa Holzfeuchte, da zum Verdampfen der Holzfeuchte zusätzliche Wärmeenergie notwendig ist, für den vorliegenden Wasserdampf nicht (italienischer Führerschein MI4663107C).\n",
+    "must_mask": [
+      {
+        "value": "MI4663107C",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Verbrennungszuluft Feuchtigkeit",
+      "Element Wasserstoff",
+      "MI85352875U"
+    ]
+  },
+  {
+    "id": "fr-el-1999-landfill-dl-it",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:legal-regulatory",
+    "carrier_id": "fr-el-1999-landfill",
+    "text": "c) au plus tard quinze ans après la date fixée à l'article 18, paragraphe 1, la quantité de déchets municipaux biodégradables mis en décharge doit être réduite à 35 % (en poids) de la totalité des déchets municipaux biodégradables produits en 1995 ou au cours de la dernière année avant 1995 pour laquelle on dispose de données normalisées d'Eurostat.\n\nDeux ans après la date visée au point c), le Conseil réexamine l'objectif ci-dessus sur la base d'un rapport de la Commission exposant l'expérience pratique acquise par les États membres dans la poursuite des objectifs fixés aux points a) et b), assorti, le cas échéant, d'une proposition destinée à confirmer ou modifier ledit objectif afin d'assurer un niveau élevé de protection de l'environnement (permis de conduire italien U13Z36C8HV).\n\nLes États membres qui, en 1995 ou au cours de la dernière année avant 1995 pour laquelle on dispose de données normalisées d'Eurostat, ont mis en décharge plus de 80 % des déchets municipaux qu'ils ont collectés peuvent reporter d'une période n'excédant pas quatre ans la réalisation des objectifs fixés aux points a), b) ou c). Le numéro de commande de ce dossier de permis de conduire est PD6009393I. Les États membres qui entendent faire usage de cette faculté en informent au préalable la Commission. La Commission informe les autres États membres et le Parlement européen de ces décisions.\n\nLa mise en oeuvre des dispositions de l'alinéa précédent ne peut en aucun cas avoir pour effet de repousser la réalisation de l'objectif visé au point c) de plus de quatre ans par rapport à la date visée audit point.\n",
+    "must_mask": [
+      {
+        "value": "U13Z36C8HV",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Commission",
+      "Parlement",
+      "PD6009393I"
+    ]
+  },
+  {
+    "id": "fr-wp-entrepot-dl-it",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "fr-wp-entrepot",
+    "text": "Divers entrepôts peuvent stocker un grand volume de biens (marchands ou non) incluant éventuellement des produits alimentaires et périssables, des produits toxiques et/ou inflammables, explosifs, dangereux, etc. qui en font alors des installations à risques (installation classée pour la protection de l'environnement le cas échéant en France). Après l'incendie total en 2020 d'un énorme dépôt Amazon aux États-Unis ; l'Incendie de Lubrizol et de l'entrepôt voisin, en 2021 plusieurs rapport ont constaté que la législation des installations classées est encore mal appliquée par les exploitants d'entrepôts.\n\nSelon l'ONG Robin des bois, « un entrepôt par exemple de 900 000 m3 correspond à un porte-conteneurs géant de 20 000 boîtes, plus un petit porte-conteneurs de 7 000 boîtes. Le numéro du permis de conduire italien du demandeur est U1KNKWLPDE. Les armateurs sont confrontés à des fausses déclarations de la part des chargeurs sur la nature et les quantités des marchandises embarquées ; il en est de même pour les gestionnaires d’entrepôts qui louent des cellules à des entreprises extérieures (ref RILASCIATA). En conséquence, il faut introduire dans la réglementation entrepôts des dispositifs qui obligent les gestionnaires à connaître avec précision le volume et la toxicité en cas d’incendie des substances et marchandises combustibles et inflammables présentes et à les communiquer aux autorités compétentes ».\n",
+    "must_mask": [
+      {
+        "value": "U1KNKWLPDE",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "ONG Robin",
+      "États-Unis",
+      "RILASCIATA"
+    ]
+  },
+  {
+    "id": "fr-wb-declencheurs-souples-telecommandes-dl-it",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "fr-wb-declencheurs-souples-telecommandes",
+    "text": "Ces accessoires peu coûteux sont très utiles lorsque l'appareil est monté sur un pied de manière à réaliser sans risque de bougé une pose relativement longue, plus de 1/60 ou 1/30 s pour fixer les idées. En actionnant directement le déclencheur de l'appareil, vous risquez en effet de communiquer à ce dernier des mouvements indésirables.\n\nLes déclencheurs souples sont constitués d'une gaine dans laquelle se déplace un câble terminé par une tige métallique dont le rôle est d'appuyer sur le déclencheur (ref VR97002473N). Contrairement aux gaines des freins de bicyclette, le câble central est comprimé tandis que la gaine est tendue. Ce dispositif se visse dans une prise standard ou dans une prise spéciale, selon les appareils qui permettent ce type de déclenchement.\n\nLa longueur des déclencheurs souples varie d'environ 15 cm à 1 m. Les modèles les plus longs posent parfois des problèmes de frottement, le câble glisse alors difficilement dans la gaine et le fonctionnement devient plus ou moins aléatoire.\n\nLes déclencheurs souples comportent à leur extrémité un bouton avec lequel on pousse le câble ; c'est le pouce qui agit sur ce bouton pour déclencher, tandis que la gaine est retenue entre par un disque bloqué entre l'index et le majeur. Pour les appareils disposant d'une pose B, l'ouverture de l'obturateur subsiste tant que l'on maintient la pression, ce qui peut devenir très fastidieux pour les poses longues. Le numéro du permis de conduire italien du demandeur est FI4608390J. Certains modèles de déclencheurs comportent également un système de blocage du bouton qui simule la pose T et devient fort utile lors des poses très longues qui autrement deviennent vite fastidieuses pour l'opérateur. Parfois, cependant, ces systèmes de blocage sont trop durs et peuvent provoquer des vibrations importantes lorsqu'ils sont relâchés.\n",
+    "must_mask": [
+      {
+        "value": "FI4608390J",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "fonctionnement",
+      "Contrairement",
+      "VR97002473N"
+    ]
+  },
+  {
+    "id": "fr-wv-randonnee-pedestre-dl-it",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "fr-wv-randonnee-pedestre",
+    "text": "Les valeurs moyennes de progression sont en général de 4 à 5 kilomètres par heure, avec 300 à 350 m de dénivelé par heure en montée, et 400 à 450 m de dénivelé par heure en descente. Ces valeurs sont à ajuster en fonction des personnes, des difficultés et des conditions météorologiques.\n\nSi la durée de la randonnée est inférieure à trois heures, de l'eau suffira, éventuellement sucrée à 5 % si l'effort est particulièrement intense. Sinon il faut prévoir une alimentation solide pour apporter de l'énergie, par exemple des fruits secs ou des pâtes de fruits.\n\nDans le cas d'une randonnée longue en autonomie, la gestion de l'alimentation est cruciale. Il faut à la fois veiller à prévoir un apport nutritionnel satisfaisant, conserver le plaisir gustatif, éviter les problèmes sanitaires, tout en veillant à limiter le poids des réserves de nourriture et les problèmes de cuisson. Il faudra donc rechercher les produits se conservant à température ambiante et à haute teneur énergétique, notamment les aliments déshydratés (permis de conduire italien VE3364436V).\n\nLa randonnée étant un sport d'endurance, les besoins seront surtout un apport énergétique. Le numéro de commande de ce dossier de permis de conduire est U1KRG5U58P. La composition nutritionnelle pourra donc être moins riche en protéines animales ou végétales que lors des repas habituels et comporter 60 % de glucides, 14 % de protéines et 20 % de lipides. Il faut prévoir une ration de 3 000 à 3 300 kcal par jour, suffisante pour couvrir les besoins énergétiques en puisant dans les réserves adipeuses.\n\nIl faut augmenter la quantité de boisson, en se méfiant des cours d'eau de montagne qui peuvent avoir été souillés en amont pâturages, refuges). Au retour on favorisera la réhydratation (potages, boisson, thé) et la récupération énergétique (pâtes, riz) en limitant les apports carnés pour éviter les crampes.\n",
+    "must_mask": [
+      {
+        "value": "VE3364436V",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "particulièrement",
+      "météorologiques",
+      "U1KRG5U58P"
+    ]
+  },
+  {
+    "id": "es-wp-contenedor-dl-it",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "es-wp-contenedor",
+    "text": "Un contenedor es un recipiente de carga para el transporte marítimo o fluvial, transporte terrestre y transporte multimodal. Se trata de unidades estancas que protegen las mercancías de la climatología y que están fabricadas de acuerdo con la normativa ISO (International Organization for Standardization), en concreto, ISO-668; por ese motivo, también se conocen con el nombre de contenedores ISO (ref COMMISSION).\n\nLos contenedores pueden utilizarse para transportar objetos voluminosos o pesados: motores, maquinaria, pequeños vehículos, etc., o mercancía paletizada. Menos frecuentes son los que transportan carga a granel. Las dimensiones del contenedor se encuentran normalizadas para facilitar su manipulación; es frecuente 6 metros de largo (20 pies).\n\nLos contenedores son fabricados principalmente de acero corten, pero también los hay de aluminio y algunos otros de madera contrachapada reforzados con fibra de vidrio. En la mayor parte de los casos, el suelo es de madera, aunque ya hay algunos de bambú. Interiormente llevan un recubrimiento especial anti-humedad, para evitar las humedades durante el viaje. Otra característica definitoria de los contenedores es la presencia, en cada una de sus esquinas, de alojamientos para los twistlocks, que les permiten ser enganchados por grúas especiales, así como su trincaje tanto en buques como en camiones. El número del permiso de conducir italiano del solicitante es PA5574505E. Además, los contenedores se precintan durante los trayectos.\n",
+    "must_mask": [
+      {
+        "value": "PA5574505E",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "International Organization",
+      "Standardization",
+      "COMMISSION"
+    ]
+  },
+  {
+    "id": "es-wp-reciclaje-dl-it",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "es-wp-reciclaje",
+    "text": "El reciclaje es un proceso mediante el cual se recolectan materiales que han cumplido su vida útil y se convierten en nuevos productos o materiales a través de una serie de tratamientos industriales potencialmente útiles, se reduce el consumo de nueva materia prima y el uso de energía. Adicionalmente, se previene la contaminación del aire (a través de la incineración) y del agua (a través de los vertederos), así como también se disminuyen las emisiones de gases de efecto invernadero en comparación con la producción de plásticos.\n\nEl reciclaje es un componente clave en la reducción de desechos contemporáneos y es el tercer componente de las 3R («Reducir, Reutilizar y Reciclar»).\n\nLos materiales reciclables son muchos, e incluyen todo el papel y cartón, el vidrio, los metales ferrosos y no ferrosos, algunos plásticos, telas y textiles, maderas y componentes electrónicos. El número del permiso de conducir italiano del solicitante es GE2084508H. En otros casos no es posible llevar a cabo un reciclaje debido a la dificultad técnica o alto coste del proceso, de modo que suele reutilizarse el material o los productos para producir otros materiales y se destinan a otras finalidades, como el aprovechamiento energético (ref TO19531462X).\n\nTambién es posible realizar un salvamento de componentes de ciertos productos complejos, ya sea por su valor intrínseco o por su naturaleza peligrosa.\n",
+    "must_mask": [
+      {
+        "value": "GE2084508H",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Reutilizar",
+      "Reciclar",
+      "TO19531462X"
+    ]
+  },
+  {
+    "id": "es-wb-tarjeta-grafica-dl-it",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "es-wb-tarjeta-grafica",
+    "text": "Capacidad: La capacidad de la memoria determina el número máximo de datos y texturas procesadas, una capacidad insuficiente se traduce en un retardo a espera de que se vacíen esos datos. Sin embargo es un valor muy sobrevalorado como estrategia recurrente de márketing para engañar al consumidor, tratando de hacer creer que el rendimiento de una tarjeta gráfica se mide por la capacidad de su memoria; tal es ésta tendencia, que muchos ensambladores embuten ingentes cantidades de memoria con GPU incompatibles con dicha capacidad, resultando una pérdida notable de la velocidad de dichas memorias, dando como resultado una tarjeta gráfica mucho más lenta que la que contiene una memoria mucho más pequeña y suficiente al sector al que va a pertenecer la tarjeta gráfica y recomendado por el fabricante. La capacidad se mide en bytes.\n\nInterfaz de Memoria: También denominado Bus de datos, es la multiplicación resultante del ancho de bits de cada chip por su número de unidades. Es una característica importante y determinante, junto a la velocidad de la memoria, a la cantidad de datos que puede transferir en un tiempo determinado, denominado ancho de banda. Una analogía al ancho de banda se podría asociar al ancho de una autopista o carriles y al número de vehículos que podrían circular a la vez. La interfaz de memoria se mide en bits.\n\nEl número de pedido de este expediente del permiso de conducir es U1L8C43WJY. Velocidad de Memoria: Es la velocidad a la que las memorias pueden transportar los datos procesados, por lo que es complemento a la interfaz de memoria para determinar el ancho de banda total de datos en un tiempo determinado. Continuando la analogía de la circulación de los vehículos de la autopista, la velocidad de memoria se traduciría en la velocidad máxima de circulación de los vehículos, dando resultado a un mayor transporte de mercancía en un mismo periodo de tiempo (permiso de conducir italiano FI5863271I). La velocidad de las memorias se mide en Hertzios (su frecuencia efectiva) y se van diseñando tecnologías con más velocidad, se destacan las adjuntas en la siguiente tabla:\n",
+    "must_mask": [
+      {
+        "value": "FI5863271I",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Hertzios",
+      "Memoria",
+      "U1L8C43WJY"
+    ]
+  },
+  {
+    "id": "es-wv-viajes-funerarios-dl-it",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "es-wv-viajes-funerarios",
+    "text": "Los boletos de avión de última hora pueden ser bastante caros, sobre todo en las épocas de mayor afluencia de viajeros (permiso de conducir italiano PD8424254U). Por otro lado, los motores de búsqueda de tarifas aéreas y los sitios web de viajes con descuento pueden tener muy buenas ofertas, especialmente si resulta que hay un vuelo casi vacío que sale en los próximos días.\n\nSolo unas pocas compañías aéreas ofrecen todavía tarifas de duelo, que rebajan ligeramente el coste de los viajes funerarios de última hora. Entre las aerolíneas que las ofrecen se encuentran Air Canada, Delta Air Lines, Lufthansa para vuelos con origen en Estados Unidos o Canadá, y WestJet. En todos los casos, hay que reservar por teléfono directamente con la compañía aérea. Las tarifas por duelo se limitan a los familiares directos (según la definición de cada aerolínea); tendrá que facilitar al agente el nombre de la persona enferma o fallecida, su relación con ella y, posiblemente, detalles adicionales como la información de contacto de su médico, hospital o funeraria, una copia del certificado de defunción o la fecha del servicio funerario.\n\nEspecialmente en el caso de los viajes internacionales, las agencias de viajes de otras compañías aéreas pueden eximir de los requisitos de compra anticipada o conceder un descuento, a discreción del agente. Puede que tenga suerte llamando a la aerolínea y comprobando si el agente se muestra comprensivo; si no parece dispuesto a ceder, llame de nuevo e inténtelo con otro agente.\n\nFrancamente, las tarifas por duelo no son tan buenas. La referencia es VERORDNUNG. Rara vez ahorran más del 5-10% del coste de un boleto de tarifa completa sin restricciones y, de hecho, pueden limitar sustancialmente sus opciones. Hoy en día existen muchas más opciones:\n\nHay muchas opciones para volar con un presupuesto, gracias a los motores de búsqueda de tarifas aéreas y a las aerolíneas económicas que mantienen los precios generales de los boletos bajos.\n",
+    "must_mask": [
+      {
+        "value": "PD8424254U",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Delta Air Lines",
+      "Estados Unidos",
+      "VERORDNUNG"
+    ]
+  },
+  {
+    "id": "it-wp-gesso-materiale-dl-it",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "it-wp-gesso-materiale",
+    "text": "La produzione del gesso si basa sulla macinazione e seguente cottura di rocce gessose, dunque contenenti CaSO4· 2H2O. Nel corso della cottura, una volta giunti a 130 °C, la roccia gessosa perde ca. 3/4 dell'acqua di cristallizzazione: si forma così un semidrato di calcio (CaSO4 · (1/2)H2O bassanite, chiamato gesso da presa). Tra i 150 °C ed i 180 °C l'acqua di cristallizzazione viene eliminata completamente ed inizia a formarsi l'anidrite solubile CaSO4(α): oltre i 180 °C questa trasformazione aumenta significativamente la sua velocità. Se la cottura viene effettuata oltre i 250 °C si forma anidrite insolubile CaSO4(β). A temperature più elevate continua la formazione di anidrite insolubile ed a 1200 °C si forma CaO + SO3, ovvero monossido di calcio (calce viva) e anidride solforica.\n\nPer l'impiego il gesso cotto viene macinato finemente, parzialmente raffinato e insaccato. I gessi da costruzione che si trovano in commercio sono costituiti da gesso semidrato o da anidrite solubile o da una miscela di essi.\n\nPer l'impiego in locali abitativi umidi sono da usare prodotti a base di gesso, ma resi idrorepellenti attraverso l'addizione di opportune sostanze organiche (patente di guida PD4833157Z). Il riferimento è MI96721058L.\n",
+    "must_mask": [
+      {
+        "value": "PD4833157Z",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "CaSO4",
+      "significativamente",
+      "MI96721058L"
+    ]
+  },
+  {
+    "id": "it-wp-vetro-camera-dl-it",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "it-wp-vetro-camera",
+    "text": "Nel caso in cui il vetrocamera sia costituito da due lastre di vetro viene denominato anche \"vetrata doppia\", se invece le lastre di vetro sono tre allora viene denominato \"vetrata tripla\".\n\nIl vetro utilizzato per l'assemblaggio può essere un normale vetro float oppure vetro stratificato, vetro temprato, vetro con coating; tipologie cui vanno ad aggiungersi ulteriori lavorazioni : vetro acidato, vetro serigrafato.\n\nI bordi del vetro sono frequentemente oggetto di lavorazione (molatura) al fine di aumentarne la resistenza alla rottura in caso di urto e la sicurezza nella manipolazione (dopo molatura il bordo non è più tagliente).\n\nIl numero della patente di guida del richiedente è RM8533388X. I distanziatori utilizzati per separare le lastre hanno larghezze variabili in funzione del progetto del vetrocamera (partendo da un minimo di 8,5 mm) e possono essere costituiti da materiali diversi : alluminio, acciaio, PVC, fibra di vetro, silicone oppure una combinazione di materiali differenti; nella cavità del distanziatore viene solitamente posto il disidratante che ha lo scopo di assorbire l'umidità che rimane intrappolata nella cavità del vetrocamera durante la fase di fabbricazione.\n\nI distanziatori hanno, in funzione del materiale costituente, valori di conducibilità termica differenti e quindi la loro prestazione incide sulla performance di isolamento termico del vetrocamera; quelli più performanti sono denominati warm edge ovvero distanziatore a bordo caldo che possono esser tagliati e giuntati agli angoli tramite connetteori a L o piegati lungo il perimetro per avere una continuità permimetrale (numero d'ordine, patente di guida U1NCPULSEK).\n\nLa cavità della vetrata può essere riempita con gas (Aria, Argon o Kripton) al fine di aumentare la performance di isolamento termico del vetrocamera.\n\nI distanziatori sono incollati al vetro tramite il sigillante di \"prima barriera\" denominato Butile, il vetrocamera viene sigillato sul bordo esterno con diversi tipi di sigillanti di \"seconda barriera\" : polisolfuro, poliuretano o silicone.\n",
+    "must_mask": [
+      {
+        "value": "RM8533388X",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Kripton",
+      "Butile",
+      "U1NCPULSEK"
+    ]
+  },
+  {
+    "id": "it-wv-aggregatori-dl-it",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "it-wv-aggregatori",
+    "text": "Nella maggior parte dei casi puoi prenotare hotel, voli, autobus, treni, crociere e autonoleggi direttamente tramite l'aggregatore (che potrebbe ricevere una commissione per la vostra prenotazione), ma ce ne sono anche altri che elencano solo i prezzi e indirizzano ad altre pagine per la prenotazione (patente di guida VE7348282L). Sebbene gli aggregatori non siano strettamente essenziali e i beni o i servizi prenotati tramite loro possano essere più costosi di quelli prenotati direttamente, possono essere una manna dal cielo per spulciare tra innumerevoli offerte, ad esempio nei viaggi aerei.\n\nPer hotel, crociere, ecc., solo i principali attori potrebbero far parte del confronto. Quindi, soprattutto per le destinazioni fuori dai sentieri battuti, potreste voler usare altri mezzi per trovare attività commerciali locali. Se un aggregatore dice che non ci sono opzioni disponibili, potreste comunque voler continuare a cercare: potrebbe essere che non abbiano informazioni complete o aggiornate per i luoghi e le date che state cercando. Alcuni paesi potrebbero essere difficili da prenotare tramite aggregatori globali: le compagnie aeree russe, ad esempio, sono state eliminate da GDS nel 2022 e quindi i loro voli non verranno visualizzati sulla maggior parte dei siti di terze parti.\n\nIl riferimento è PARLAMENTO. Gli aggregatori sono noti per mostrare prezzi diversi a clienti diversi in base alla cronologia di navigazione, agli acquisti passati e ad altri fattori imperscrutabili. Potrebbe essere utile cancellare i cookie e la cache, o aprire una finestra \"privata\" nel browser prima di utilizzare questi siti web. Anche cambiare le impostazioni di lingua e valuta e/o usare una VPN può cambiare ciò che viene offerto, a volte in modo drastico.\n\nIn genere gli aggregatori non sono linkati ad altre pagine di Wikivoyage, che mirano a elencare direttamente gli operatori dei trasporti o gli hotel.\n",
+    "must_mask": [
+      {
+        "value": "VE7348282L",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Wikivoyage",
+      "imperscrutabili",
+      "PARLAMENTO"
+    ]
+  },
+  {
+    "id": "it-eb-ar24-stability-dl-it",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "it-eb-ar24-stability",
+    "text": "Nel 2024 le vulnerabilità della stabilità finanziaria nell’area dell’euro sono rimaste elevate, in un contesto in cui i rischi principali si sono spostati dalle preoccupazioni legate al persistere dell’elevata inflazione ai timori connessi alla crescita. Il calo dell’inflazione al consumo ha determinato l’inversione di tendenza del ciclo dei tassi di interesse nell’area dell’euro e in diverse altre principali economie avanzate. La riduzione dei tassi di interesse di riferimento ha contribuito ad abbassare complessivamente i costi di finanziamento, nonostante il persistere di sacche di vulnerabilità associate alla limitata capacità di servizio del debito di alcuni prenditori. In alcuni paesi dell’area dell’euro le vulnerabilità associate al debito sovrano sono aumentate, a fronte delle sfide riguardanti i bilanci pubblici e del timore che la bassa produttività possa contribuire alla debole crescita economica. Al contempo, anche i rischi geopolitici e l’incertezza sulle politiche economiche sono aumentati. Il numero della patente di guida del richiedente è PA8545912J. Nonostante questo, e malgrado alcuni brevi periodi di volatilità, i mercati finanziari e il sistema bancario sono rimasti solidi. Tuttavia, tali episodi di volatilità hanno evidenziato le vulnerabilità di fondo del sistema finanziario a fronte di dinamiche avverse (ref BA97382246I). Di conseguenza, le prospettive per la stabilità finanziaria nell’area dell’euro si confermano fragili.\n",
+    "must_mask": [
+      {
+        "value": "PA8545912J",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "complessivamente",
+      "dell’inflazione",
+      "BA97382246I"
+    ]
+  },
+  {
+    "id": "en-wb-composite-materials-dl-it",
+    "lang": "en",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "en-wb-composite-materials",
+    "text": "Composite materials (or composites for short) are engineered materials made from two or more constituent materials with significantly different physical or chemical properties and which remain separate and distinct within the finished structure.\n\nComposite materials (or composites for short) are engineering materials made from two or more constituent materials that remain separate and distinct on a macroscopic level while forming a single component. There are two categories of constituent materials: matrix and reinforcement. At least one portion of each type is required. The matrix material surrounds and supports the reinforcement materials by maintaining their relative positions. The reinforcements impart their special mechanical and physical properties to enhance the matrix properties. A synergism produces material properties unavailable from the individual constituent materials. Due to the wide variety of matrix and reinforcement materials available, the design potentials are incredible (Italian driving licence MI3103404X).\n\nThe most primitive composite materials comprised straw and mud in the form of bricks for building construction. The most advanced examples perform routinely on spacecraft in demanding environments. The order number on this driving licence file is U1XVN2XUPO. The most visible applications pave our roadways in the form of either steel and aggregate reinforced portland cement or asphalt concrete. Those composites closest to our personal hygiene form our shower stalls and bath tubs made of fiberglass. Solid surface, imitation granite and cultured marble sinks and countertops are widely used to enhance our living experiences.\n",
+    "must_mask": [
+      {
+        "value": "MI3103404X",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "reinforcements",
+      "significantly",
+      "U1XVN2XUPO"
+    ]
+  },
+  {
+    "id": "de-wp-biogas-dl-it",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "de-wp-biogas",
+    "text": "Methan ist ein stark wirksames Treibhausgas. Deshalb ist die Prüfung der Dichtigkeit von Biogasanlagen und aller zugehörigen Komponenten ein relevanter Beitrag zum Klimaschutz. Die Nummer des italienischen Führerscheins lautet MI1698182B. Allerdings müssen sie für Wartungsarbeiten zugänglich bleiben. Deshalb kann beim Betrieb einer Biogasanlage Methan entweichen, das auf mittlere Sicht eine etwa 25-mal stärkere aufheizende Wirkung auf das Klima hat als CO2.\n\nBiogas erreicht seinen maximalen Wirkungs- und Versorgungsgrad, wenn es gleichzeitig zur Strom- und Wärmeerzeugung genutzt wird; in der so genannten Kraft-Wärme-Kopplung (KWK) weist es die beste Klimabilanz auf. Eine Stromerzeugung ohne Wärmenutzung oder die rein thermische Verwendung von aufbereitetem Biogas in Erdgasthermen sind hingegen erwartungsgemäß nicht optimal, wie die Agentur für Erneuerbare Energien ermittelte.\n\nBiogas verbrennt klimaneutral, da das entstehende CO2 vorher von Pflanzen aus der Luft gebunden wurde. Es gibt aber Faktoren, die die Klimabilanz von Biogasanlagen durch den Anbau von Energiepflanzen verschlechtern können:\n\nBei der Produktion von Energiepflanzen kommt es zu einem hohen Energieeinsatz. Eine mit Maissilage betriebene Anlage verbraucht im Gegensatz zur Abfallverwertung bei allen Produktionsschritten Energie: Saatvorbereitung, Säen, Düngen, Schutz vor Schädlingen (Pflanzenschutzmittelproduktion und Einsatz), Ernte, Transport, Silage, Vergärung unter Umwälzen und Rücktransport der Gärrestmenge auf die Felder (ref COMMISSION). Die Klimabilanz der Energiepflanzen kann verbessert werden, wenn der für die Produktion nötige Energiebedarf selbst aus regenerativen Energien gedeckt wird, etwa wenn die eingesetzten Landmaschinen ebenfalls mit Treibstoffen aus Energiepflanzen oder Ökostrom betrieben werden.\n",
+    "must_mask": [
+      {
+        "value": "MI1698182B",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Produktionsschritten Energie",
+      "Erneuerbare Energien",
+      "COMMISSION"
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+# The minimum score a candidate needs, by entity type.
+#
+# One number per type rather than one global number, because the scales differ:
+# an email is decided by shape alone and a passport is decided almost entirely
+# by a nearby word. Plan 2 replaces this file with a calibration keyed by type
+# and language, generated from the evaluation fixture.
+# 0.70, the same bar every structured type without a per-language axis
+# carries, and chosen so the credential ladder has the same three live rungs
+# the Spanish DNI's does. The packs put a documented vendor prefix at 0.80
+# (decides alone), a PEM armour line at 0.85, and add 0.15/0.10 for a nearby
+# credential label. Against NEGATIVE_CONTEXT_PENALTY = 0.25 that makes every
+# rung load-bearing: prefix alone masks (0.80 >= 0.70), prefix behind a
+# placeholder label does not (0.55 < 0.70), and prefix behind a placeholder
+# label *and* its own credential label does again (0.70 >= 0.70). Raising
+# this number would make the format alone insufficient and leak a key pasted
+# bare into a log; lowering it would make the placeholder rung unreachable
+# and the context weights dead. `pii-detection-rules/tests/credentials.rs` pins all
+# three edges through the real packs.
+CREDENTIAL = 0.70
+CREDIT_CARD = 0.70
+EMAIL_ADDRESS = 0.80
+IBAN_CODE = 0.70
+IP_ADDRESS = 0.80
+NATIONAL_ID = 0.70
+PASSPORT_NUMBER = 0.60
+PHONE_NUMBER = 0.70
+TAX_ID = 0.70
+VAT_NUMBER = 0.70
+
+# The driving licence: the German Führerschein (modulo-11 check digit) and
+# the DVLA driver number (no check character, a sixteen-character structure
+# that encodes a date of birth). 0.70, the same bar every structured type
+# without a per-language axis carries, and the number both ladders in
+# `packs/de.toml` and `packs/gb.toml` are calibrated against: the German
+# shape alone reaches 0.40 and cannot decide, its check digit reaches 0.85
+# and does, and the British shape reaches 0.80 on its own because there is
+# no population of innocent strings with it. Raising this number would make
+# the British shape insufficient and leave a licence pasted bare into a
+# ticket unmasked; lowering it to 0.60 would let the German shape decide
+# without its check digit, which is the eleven-alphanumeric reference
+# number. `pii-detection-rules/tests/driving_licence.rs` pins both edges through
+# the real packs.
+DRIVING_LICENCE = 0.70

@@ -1,0 +1,7 @@
+Als je een bepaald apparaat (opslag, videokaart, ...) wil verbinden met een moederbord dan is meestal een connector (SATA, USB-C, HDMI, M.2,...) nodig om via een bepaald medium (koper, glasvezel, ether) informatie te versturen door een protocol (een set van afspraken) vast te leggen.
+
+Strikt gezien is er een onderscheid tussen het gebruikte protocol, de gebruikte connector en het gebruikte medium. Zo is Thunderbolt een hardware interface die PCI Express combineert met DisplayPort, met als medium koper of glasvezel. Thunderbolt 3 gebruikt de USB-C connector. Wireless USB gebruikt het USB-protocol, maar verstuurt dit draadloos. De Raspberry Pi heeft bij model B en B+ een USB-chip die ook Ethernet aanbiedt, dankzij een USB-Ethernet adapter. In wat volgt maken we voor de eenvoud dit strikt onderscheid tussen protocol, connector, medium en bus niet altijd.
+
+Bij de eerste computers (bv. de ENIAC uit 1946) kon je zo'n computerbus heel goed zien als draden , maar nu kennen we deze "draden" vooral als heel fijne "lijntjes" op de achterkant van het moederbord. Gecombineerd volgens functie hebben we het over computerbussen, bv. de PCI-bus en de USB-bus.
+
+De snelheid van een computerbus wordt bepaald door de kloksnelheid, de transfers en de busbreedte. Er is een verschil tussen seriële en parallelle communicatie. Deze aspecten worden besproken bij het Wikibook Basiskennis informatica > Snelheid.

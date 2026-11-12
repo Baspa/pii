@@ -1,0 +1,13 @@
+Oltre alla semplice topografia, il microscopio a forza atomica (AFM) può essere utilizzato in modalità avanzate che consentono di mappare proprietà fisiche, chimiche ed elettroniche locali del campione. Queste tecniche derivano tutte dalla stessa architettura di base, ma richiedono punte speciali o circuiti di rilevamento dedicati.
+
+Curve forza-distanza: eseguendo cicli di avvicinamento e allontanamento della punta, l'AFM misura l'interazione tra punta e campione. Si ottengono dati quantitativi su adesione, deformazione e modulo di elasticità (Modulo di Young).
+
+Force Modulation Microscopy: applicando una piccola modulazione verticale al campione o al cantilever mentre la punta è in contatto, l'AFM mappa le proprietà meccaniche locali (elasticità, durezza).
+
+Magnetic Force Microscopy (MFM): utilizzando una punta magnetizzata, l'AFM rileva le forze magnetiche e permette di visualizzare i domini magnetici di materiali ferromagnetici. È molto usata nello studio di memorie magnetiche e dispositivi spintronici.
+
+Kelvin Probe Force Microscopy (KPFM): misura la differenza di potenziale di contatto tra punta e campione, fornendo informazioni sulla distribuzione del potenziale elettrico e sulla carica superficiale. È utile nella caratterizzazione di semiconduttori e materiali elettronici.
+
+Electrostatic Force Microscopy (EFM): simile alla MFM, ma dedicata alla rilevazione di campi elettrici locali. Permette di studiare isolanti, polimeri e superfici caricate.
+
+Scanning Thermal Microscopy (SThM): la punta è dotata di un sensore termico che consente di misurare la distribuzione di temperatura e la conducibilità termica a scala nanometrica.

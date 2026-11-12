@@ -1,0 +1,226 @@
+version = "1"
+
+# France's identifier for a natural person is the NIR -- the numéro de
+# sécurité sociale, assigned at birth from the RNIPP and printed on every
+# carte Vitale. It is the one a customer pastes.
+#
+# WHAT IS DELIBERATELY NOT HERE.
+#
+# * The numéro fiscal de référence (thirteen digits, on a tax notice). It is
+#   personal, and it is left out because no published specification of its
+#   check rule could be found: implementing it would mean guessing, and a
+#   thirteen-digit recognizer with no checksum in a bucket gated at 99%
+#   precision is a spurious-span generator. This is a real gap, recorded as
+#   one rather than filled with a guess.
+# * SIREN and SIRET (nine and fourteen digits, Luhn). They identify a
+#   business, not a person; the VAT form of the SIREN is already the
+#   universal pack's `vat` recognizer; and a bare nine-digit Luhn recognizer
+#   would fire on a large share of the reference numbers in ordinary
+#   correspondence.
+# * The carte nationale d'identité number and the permis de conduire number.
+#   Neither carries a check character, so neither could be decided by
+#   anything but shape and a nearby word -- and the driving licence would
+#   land under `DRIVING_LICENCE`, which has no calibrated threshold and
+#   therefore fails closed at the resolver.
+
+[[recognizer]]
+id = "fr_nir"
+entity_type = "NATIONAL_ID"
+country = "FR"
+# Sex, year, month, department (two digits, or Corsica's 2A/2B), commune,
+# order within the commune, and the two-digit key. The groups may be
+# separated by single spaces, which is how it is printed on a carte Vitale
+# and how a customer copies it.
+patterns = [
+  '''\b[1-478][ ]?\d{2}[ ]?\d{2}[ ]?(?:\d{2}|2[AB])[ ]?\d{3}[ ]?\d{3}[ ]?\d{2}\b''',
+]
+validator = "fr_nir"
+# The ladder. 0.40 for the shape -- fifteen digits in six groups is
+# distinctive but a fifteen-digit run is not, and 0.40 is under the 0.70
+# threshold, so shape alone decides nothing. +0.50 for the key, which is a
+# one-in-ninety-seven check on top of a structure that already rejects
+# roughly seven eighths of random digit strings. +0.10 for the identifier's
+# own label. 0.90 under the 0.95 the negative-context penalty needs, 1.00
+# at it.
+base_confidence = 0.4
+checksum_confidence = 0.5
+context_confidence = 0.1
+negative_context = [
+  "numéro de commande",
+  "numéro de facture",
+  "numéro de référence",
+  "commande",
+  "facture",
+  "order number",
+  "invoice",
+  "iban",
+]
+positive = [
+  "174033000705847",
+  "1 74 03 30 007 058 47",
+  "Le numéro de sécurité sociale est 174033000705847",
+  "2 90 05 2B 033 010 01",
+]
+# Wrong key, and a month no calendar has.
+negative = ["174033000705848", "174133000705847"]
+adversarial = ["Numéro de commande 174033000705847 confirmé"]
+
+[recognizer.context_terms]
+# No bare `nir`: positive context is a plain substring search (see
+# `matcher.rs`) and `nir` sits inside `finir`, `venir`, `tenir`, `définir`
+# and `revenir` -- some of the most common verbs in the language. The full
+# phrases are what a payslip, a carte Vitale and a support ticket all use.
+fr = [
+  "numéro de sécurité sociale",
+  "sécurité sociale",
+  "numéro d'inscription au répertoire",
+  "carte vitale",
+  "assuré social",
+]
+en = ["french social security number", "social security number", "insee number"]
+nl = ["frans sofinummer", "sociaal zekerheidsnummer"]
+de = ["französische sozialversicherungsnummer", "sozialversicherungsnummer"]
+es = ["número de la seguridad social francés", "numero de la seguridad social frances"]
+it = ["numero di previdenza sociale francese"]
+
+[[recognizer]]
+id = "fr_permis_conduire"
+entity_type = "DRIVING_LICENCE"
+country = "FR"
+# THE NEPH -- numéro d'enregistrement préfectoral harmonisé -- IS TWELVE
+# DIGITS WITH ONE CONSTRAINT IN THEM:
+#
+#   1-2    the last two digits of the year of registration, 00 to 99
+#   3-4    the month of registration, 01 to 12     <-- the only constraint
+#   5-6    the department of residence
+#   7-8    the prefecture or sub-prefecture handling the file
+#   9-12   the candidate's order of registration within the month
+#
+# No check digit: no source publishes one and Purview records `Checksum: No`.
+# `training/reports/driving-licence.md` §3.3 excluded it for that reason,
+# under a bar that said a bare digit run does not qualify whatever words
+# surround it; §12 is why that bar moved and §14 is this country's case.
+#
+# ONLY THE MONTH IS RANGE-CHECKED, AND THE DEPARTMENT DELIBERATELY IS NOT.
+# The month is a factor of eight against a bare twelve-digit run and every
+# source agrees on it. The department is worth a factor of about 1.02 at
+# best, and pinning it would mean deciding how the overseas departments --
+# 971 to 976, three digits -- are written into two positions, which no source
+# specifies. A range guessed wrong there is a silent total miss for every
+# licence issued in Guadeloupe, Martinique, Guyane, La Réunion and Mayotte,
+# and the gain would be nothing. So the pattern says what is published and
+# stops.
+#
+# THE COLLISION TO KNOW ABOUT IS THE TELEPHONE NUMBER. A NEPH registered
+# between 2000 and 2009 begins `0`, and a twelve-digit run with a leading
+# zero is accepted by at least one of the phone recognizer's eight numbering
+# plans, which scores a trunk prefix 0.95 against this recognizer's 0.75. Such
+# a number is masked -- the same characters, over the same span -- but
+# labelled PHONE_NUMBER. See §14.3 and
+# `a_french_licence_from_a_year_beginning_zero_is_masked_as_a_telephone_number`.
+patterns = ['''\b\d{2}(?:0[1-9]|1[0-2])\d{8}\b''']
+validator = "none"
+base_confidence = 0.40
+checksum_confidence = 0.0
+context_confidence = 0.35
+# `code-barres` and `barcode` are here for a shape reason the other licence
+# recognizers do not have: a UPC-A barcode is exactly twelve digits. `ean` was
+# written and removed -- positive and negative context both key on the term
+# appearing in the window, and `ean` sits inside `mean`, `clean`, `océan` and
+# the name `Jean`.
+negative_context = [
+  # fr
+  "numéro de commande",
+  "bon de commande",
+  "numéro de facture",
+  "facture",
+  "numéro client",
+  "code-barres",
+  "code barres",
+  # en
+  "order number",
+  "invoice",
+  "tracking",
+  "reference number",
+  "policy number",
+  "customer number",
+  "barcode",
+  # nl
+  "ordernummer",
+  "factuurnummer",
+  "klantnummer",
+  # de
+  "bestellnummer",
+  "rechnungsnummer",
+  "auftragsnummer",
+  "kundennummer",
+  # es
+  "número de pedido",
+  "pedido",
+  "número de factura",
+  "factura",
+  "número de cliente",
+  # it
+  "numero d'ordine",
+  "numero di ordine",
+  "numero fattura",
+  "fattura",
+  "numero cliente",
+]
+positive = [
+  "Le numéro du permis de conduire est 121104123456",
+  "Mon NEPH est 121104123456",
+  "The French driving licence number is 121104123456",
+  "Het Franse rijbewijsnummer is 121104123456",
+]
+# Each fails the shape, which is what a negative fixture has to do here: the
+# test asserts no candidate is raised at all. Month 13 and month 00, eleven
+# digits, thirteen digits, and a run glued into a longer token.
+negative = [
+  "121304123456",
+  "120004123456",
+  "12110412345",
+  "1211041234567",
+  "REF121104123456",
+]
+adversarial = [
+  "Numéro de commande 121104123456 pour le permis de conduire",
+  "La facture 121104123456 concerne la location et le permis de conduire",
+  "Order number 121104123456 relates to the driving licence on file",
+  # No licence word anywhere: the shape alone must decide nothing.
+  "La référence de l'envoi est 121104123456",
+]
+
+[recognizer.context_terms]
+# No bare `permis`: positive context is a plain substring search and `permis`
+# is also the past participle of `permettre` -- 160 occurrences in 23.3M
+# characters of `training/data-negatives`, against 1 for `permis de conduire`.
+# It is also `permis de construire` and `permis de travail`, which are not
+# driving licences.
+#
+# `neph` IS bare, and that is a measured exception to the rule `fr_nir`'s own
+# comment sets out for `nir`. Over the same 23.3M characters it occurs 4
+# times, all inside scientific compounds (`nephritis`, `Corynephorus`), not
+# inside common verbs; the corpus contains no twelve-digit run at all, so
+# none of the four is within reach of one. What it buys is the form label a
+# prefecture and an auto-école actually write: `NEPH : 121104123456`. It
+# still cannot decide anything on its own.
+fr = ["permis de conduire", "numéro de permis", "numéro du permis", "neph"]
+en = [
+  "driving licence",
+  "driving license",
+  "driver licence",
+  "driver license",
+  "driver's licence",
+  "driver's license",
+  "drivers licence",
+  "drivers license",
+  "driver number",
+]
+nl = ["rijbewijs", "rijbewijsnummer"]
+de = ["führerschein", "fuehrerschein", "fuhrerschein", "fahrerlaubnis"]
+es = ["permiso de conducir", "permiso de conducción", "carné de conducir", "carnet de conducir"]
+# `patente di guida` in full, never the bare `patente`: German `Patente` is
+# the plural of a patent and Spanish `patentes` likewise. 48 bare occurrences
+# in the negative corpus against 11 for the full phrase.
+it = ["patente di guida", "numero di patente"]

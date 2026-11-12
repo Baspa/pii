@@ -1,0 +1,9 @@
+Die Umsetzung von Stickstoff (N) aus der Luft mit dem Sauerstoff (O) führt zu Stickoxiden (hauptsächlich NO, NO2, N2O, meist NOx geschrieben), dabei wird aber Energie verbraucht.
+
+Manchmal wird ein Brennsoff unvollständig verbrannt, dann sind im Abgas oder im Verbrennungsrückstand noch Stoffe, die weiterverbrannt werden könnten, beispielsweise wenn Kohlenstoffmonoxid oder Ruß entstehen.
+
+Das chemische Element Wasserstoff (H) ist in vielen Stoffen enthalten, in allen biogenen Materialien und in allen fossilen Brennstoffen (Erdöl bzw. Heizöl, Erdgas, Kohle)
+
+Bei jeder Verbrennung von wasserstoffhaltigen Brennstoffen (Erdgas, Heizöl, Holz, Biogene Materialien, Kohle) entsteht zwangsläufig Wasser, das in den heißen Abgasen verdampft. Diese dafür notwendige Wärmemenge, die Verdampfungswärme des Wassers, wird wieder freigesetzt, wenn der Dampf zu Wasser kondensiert. Genau diesen Effekt macht man sich bei „Brennwertheizkesseln" zu Nutze, indem das Abgas so weit abgekühlt wird, dass der darin enthaltene Wasserdampf kondensiert und die gespeicherte Wärme freisetzt.
+
+Wasserdampf im Abgas kann auch davon herrühren, dass die Brennstoffe oder die Verbrennungszuluft Feuchtigkeit enthielten. Die Kondensation dieser Feuchtigkeit ergibt dabei einen zusätzlichen Energiegewinn. Nach einer Kondensation in einem Wärmetauscher hat das Abgas noch immer eine Restfeuchte. Weil dafür nur die Differenz zwischen Zuluftfeuchte (und Brennstofffeuchte) und Restfeuchte aus dem Brennstoff gespeist werden muss, kondensiert das „Zuviel" mit Wärmegewinn aus. Der Wärmegewinn ist daher umso höher, je feuchter die Zuluft ist. Die durch die Zuluft „eingesparte" Kondensatmenge ist gleich hoch wie deren Wassergehalt. Dampfförmige Feuchte (in der Zuluft) ist aber „wertvoller“ als etwa Holzfeuchte, da zum Verdampfen der Holzfeuchte zusätzliche Wärmeenergie notwendig ist, für den vorliegenden Wasserdampf nicht.

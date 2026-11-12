@@ -1,0 +1,9 @@
+La función del bus es la de permitir la conexión lógica entre distintos subsistemas de un sistema digital, enviando datos entre dispositivos de distintos órdenes: desde dentro de los mismos circuitos integrados, hasta equipos digitales completos que forman parte de supercomputadoras.
+
+La mayoría de los buses están basados en conductores metálicos por los cuales se trasmiten señales eléctricas que son enviadas y recibidas con la ayuda de integrados que poseen una interfaz del bus dado y se encargan de manejar las señales y entregarlas como datos útiles. Las señales digitales que se trasmiten son de datos, de direcciones o señales de control.
+
+Los buses definen su capacidad de acuerdo a la frecuencia máxima de envío y al ancho de los datos. Por lo general estos valores son inversamente proporcionales: si se tiene una alta frecuencia, el ancho de datos debe ser pequeño. Esto se debe a que la interferencia entre las señales (crosstalk) y la dificultad de sincronizarlas, crecen con la frecuencia, de manera que un bus con pocas señales es menos susceptible a esos problemas y puede funcionar a alta velocidad.
+
+Todos los buses de computador tienen funciones especiales como las interrupciones (IRQ) y las DMA que permiten que un dispositivo periférico acceda a una CPU o a la memoria usando el mínimo de recursos.
+
+Desde que los procesadores empezaron a funcionar con frecuencias más altas, se hizo necesario jerarquizar los buses de acuerdo a su frecuencia: se creó el concepto de bus de sistema (conexión entre el procesador y la RAM) y de buses de expansión, haciendo necesario el uso de un chipset.

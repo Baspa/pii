@@ -1,0 +1,9 @@
+To better understand the material that follows, consider the following meanings:
+
+The overall gearing of a bike is set by both the choice of front chain-ring and the rear sprocket. Some bikes have only a single chain-ring on the pedal assembly so all of their gear shifting is done on the rear wheel. This page concentrates on that situation. Front derailleur adjustment is discussed here.
+
+The manufacturer's documentation for a derailleur is by far the best source of information, but when it cannot be found either in the bike handbook or on the internet, refer to the adjacent figures 3 and 4 for typical adjustment points, and the procedures that follow.
+
+Make sure before carrying out adjustments that the derailleur hanger is not bent and that the derailleur's cage is not twisted.   Each of these cases  can be checked by viewing the bike from the rear where both of the derailleur's pulleys and each selected cog should be in vertical alignment.  In particular the hanger should not appear to be bent inwards toward the wheel.   Both shifting and the smooth running of the chain depend on this alignment, and even a small deviation can upset the normal feeling of the bike.
+
+Repairing the hanger: On steel bicycles the only option is to straighten the hanger section of the frame.  Aluminum hangers can be straightened if they are not too severely damaged though it is important to keep in mind that aluminum fatigues much more easily than steel.

@@ -1,0 +1,7 @@
+In het hoofdstuk "Basiskennis informatica" lees je dat als er tussen twee samenwerkende onderdelen een snelheidsverschil is, de uiteindelijke snelheid wordt bepaald door de snelheid van de traagste component. Door gebruik te maken van een cache wordt dit snelheidsverschil verkleind: binnen deze snellere opslag worden zaken bewaard in de hoop dat ze (opnieuw) nodig zijn. Deze info hoeft dan niet van het tragere deel opgehaald te worden.
+
+Het RAM-geheugen is behoorlijk groot, maar de geheugenbus is te traag t.o.v. processorsnelheid. Dus bedacht men een tussenstap: de CPU-caches. De eerste keer haalt de CPU sowieso de data van het RAM-geheugen, maar deze data wordt ook in de caches opgeslagen. Daarna wordt eerst de cache bekeken in de hoop dat er data of instructies te vinden zijn, zodat deze niet meer van het tragere RAM-geheugen gehaald moeten worden. Zie schematische samenhang CPU-cache-MEM.
+
+Grotere caches hebben een hogere hit rate: de kans is groter dat data er al inzit. Helaas zijn grotere caches vaak ook trager. Vandaar bestaat er een multi-level cachehiërarchie: eerst wordt de kleinere maar snelle L1-cache bekeken (bv. 256 kB), daarna de iets grotere, maar tragere L2-cache (bv. 2 MB).
+
+Het groter maken van een cache betekent niet per definitie snelheidswinst: als je iets bewaart in de cache dat in de toekomst toch niet meer nodig is, zal je geen snelheidswinst halen. Vandaar is niet op ieder systeem een L3-cache aanwezig (bv. 8 MB).

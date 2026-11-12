@@ -1,0 +1,11 @@
+Generación de electricidad: Las plantas generadoras suelen estar alejadas de áreas pobladas. Por lo general son muy grandes, para aprovecharse de la economía de escala. A la energía eléctrica generada se le incrementa su tensión antes de verterla a la red de transmisión.
+
+Transmisión de electricidad: La red de transmisión transporta la energía a grandes distancias. De esto se encarga la compañía que es dueña de la red de distribución.
+
+Distribución de electricidad: Al llegar a la subestación, la energía llega a una tensión, conocida como muy alta tensión. Al salir de ella, y entrar en la red de distribución, se le baja para quedar a alta o media tensión. Finalmente, al llegar al punto de servicio, la tensión se vuelve a bajar para quedar al voltaje de servicio requerido.
+
+Las redes casi siempre son síncronas, lo que significa que todas las áreas de distribución funcionan con corriente alterna (CA) trifásica sincronizadas (de modo que las oscilaciones de tensión se producen casi al mismo tiempo). Esto permite la transmisión de energía de CA en toda la zona, conectando un gran número de generadores y consumidores de electricidad y permitiendo, potencialmente, mercados eléctricos más eficientes y generación redundante.
+
+La red combinada de transmisión y distribución forma parte del suministro eléctrico, conocido como "red eléctrica" en Norteamérica, o simplemente "la red". En Reino Unido, India, Tanzania, Myanmar, Malasia y Nueva Zelanda, la red se conoce como "National Grid".
+
+Aunque las redes eléctricas están muy extendidas, en 2023 todavía quedaban 666 millones de personas en todo el mundo que no estaban conectadas a una red eléctrica, la inmensa mayoría en el África subsahariana (565 millones). A medida que aumenta la electrificación, disminuye el número de personas sin acceso a la electricidad de red, habiéndose reducido prácticamente a la mitad desde 2001 en el que había 1.304 millones.

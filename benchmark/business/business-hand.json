@@ -1,0 +1,295 @@
+[
+  {
+    "id": "biz-nl-email-offerte",
+    "lang": "nl",
+    "text": "Hoi Sanne,\n\nDank voor je snelle reactie. Ik heb de offerte van Coolblue en die van Bol.com naast elkaar gelegd; Coolblue is goedkoper voor de ThinkPads, maar Bol.com levert sneller naar ons kantoor in Utrecht. Kun jij dit bespreken met Pieter Jansen van inkoop?\n\nMet vriendelijke groet,\nMarleen de Boer\nOffice manager",
+    "must_mask": [
+      {"value": "Sanne", "type": "PERSON"},
+      {"value": "Pieter Jansen", "type": "PERSON"},
+      {"value": "Marleen de Boer", "type": "PERSON"}
+    ],
+    "must_clear": ["Coolblue", "Bol.com", "ThinkPads", "Utrecht"]
+  },
+  {
+    "id": "biz-nl-factuur",
+    "lang": "nl",
+    "text": "FACTUUR 2026-0412\n\nAan: Bakkerij Verhoeven B.V.\nT.a.v. Johan Verhoeven\nMolenstraat 18\n5211 KL 's-Hertogenbosch\n\nOmschrijving: 12 licenties Exact Online, periode juli tot en met september.\nTotaal: EUR 1.428,00 excl. btw. Betaling binnen 30 dagen op rekening van Temperate.",
+    "must_mask": [
+      {"value": "Johan Verhoeven", "type": "PERSON"},
+      {"value": "Molenstraat 18", "type": "STREET_ADDRESS"},
+      {"value": "5211 KL 's-Hertogenbosch", "type": "STREET_ADDRESS"}
+    ],
+    "must_clear": ["Exact Online", "2026-0412", "1.428,00"]
+  },
+  {
+    "id": "biz-nl-notulen",
+    "lang": "nl",
+    "text": "Notulen weekoverleg 14 oktober\n\nAanwezig: Fleur Bakker, Daan Visser, Ahmed El Idrissi\n\n1. Migratie naar SharePoint loopt achter; Microsoft heeft de licenties pas vrijdag geleverd.\n2. Daan onderzoekt of we Jira kunnen vervangen door Linear.\n3. Het klantbezoek aan ASML in Veldhoven verschuift naar week 44.\n4. Actiepunt: Fleur stuurt de begroting voor Q4 naar de directie.",
+    "must_mask": [
+      {"value": "Fleur Bakker", "type": "PERSON"},
+      {"value": "Daan Visser", "type": "PERSON"},
+      {"value": "Ahmed El Idrissi", "type": "PERSON"},
+      {"value": "Daan", "type": "PERSON"},
+      {"value": "Fleur", "type": "PERSON"}
+    ],
+    "must_clear": ["SharePoint", "Microsoft", "Jira", "Linear", "ASML", "Veldhoven"],
+    "known_misses": ["Fleur Bakker"]
+  },
+  {
+    "id": "biz-nl-contract",
+    "lang": "nl",
+    "text": "OVEREENKOMST VAN OPDRACHT\n\nDe ondergetekenden:\n1. Noordkade Energie B.V., gevestigd aan de Stationsweg 41, 9711 AB Groningen, hierbij vertegenwoordigd door mevrouw Ingrid Hoekstra;\n2. De heer Thijs van Leeuwen, wonende aan de Parkstraat 7, 3581 PB Utrecht, hierna te noemen: Opdrachtnemer.\n\nOpdrachtnemer levert advieswerkzaamheden rond de implementatie van AFAS en Power BI.",
+    "must_mask": [
+      {"value": "Stationsweg 41", "type": "STREET_ADDRESS"},
+      {"value": "9711 AB Groningen", "type": "STREET_ADDRESS"},
+      {"value": "Ingrid Hoekstra", "type": "PERSON"},
+      {"value": "Thijs van Leeuwen", "type": "PERSON"},
+      {"value": "Parkstraat 7", "type": "STREET_ADDRESS"},
+      {"value": "3581 PB Utrecht", "type": "STREET_ADDRESS"}
+    ],
+    "must_clear": ["AFAS", "Power BI", "Opdrachtnemer"]
+  },
+  {
+    "id": "biz-nl-klantenservice",
+    "lang": "nl",
+    "text": "Beste klantenservice,\n\nMijn bestelling 88213 is nog steeds niet bezorgd. Het pakket zou via PostNL naar Kerkweg 112, 2982 AC Ridderkerk komen. Volgens Track & Trace ligt het al drie dagen in het sorteercentrum in Nieuwegein.\n\nGroeten,\nWillem Smit",
+    "must_mask": [
+      {"value": "Kerkweg 112", "type": "STREET_ADDRESS"},
+      {"value": "2982 AC Ridderkerk", "type": "STREET_ADDRESS"},
+      {"value": "Willem Smit", "type": "PERSON"}
+    ],
+    "must_clear": ["PostNL", "Nieuwegein", "88213", "Track & Trace"]
+  },
+  {
+    "id": "biz-nl-hr",
+    "lang": "nl",
+    "text": "Ter info: Sanne heeft de arbeidsovereenkomst van Koen Mulder gisteren getekend. Koen start op 1 november bij het team in Eindhoven en krijgt een laptop van Dell en een abonnement op de NS Business Card.",
+    "must_mask": [
+      {"value": "Sanne", "type": "PERSON"},
+      {"value": "Koen Mulder", "type": "PERSON"},
+      {"value": "Koen", "type": "PERSON"}
+    ],
+    "must_clear": ["Eindhoven", "Dell", "NS Business Card"]
+  },
+  {
+    "id": "biz-nl-product",
+    "lang": "nl",
+    "text": "Vergelijking CRM-pakketten: HubSpot scoort het best op gebruiksgemak, Salesforce op rapportages en Teamleader op prijs. Onze partner Moneybird koppelt alleen met Teamleader. Advies: start een proef met HubSpot Starter vanaf januari.",
+    "must_mask": [],
+    "must_clear": ["HubSpot", "Salesforce", "Teamleader", "Moneybird", "HubSpot Starter"]
+  },
+  {
+    "id": "biz-nl-reis",
+    "lang": "nl",
+    "text": "De teamdag is dit jaar in Zeeland. We vertrekken om 8:30 vanaf Rotterdam Centraal met de Intercity naar Vlissingen en lunchen bij Strandpaviljoen De Piraat in Zoutelande. Terugreis via Middelburg.",
+    "must_mask": [],
+    "must_clear": ["Zeeland", "Rotterdam Centraal", "Vlissingen", "Zoutelande", "Middelburg", "Strandpaviljoen De Piraat"]
+  },
+  {
+    "id": "biz-en-email-intro",
+    "lang": "en",
+    "text": "Hi Priya,\n\nGreat to meet you at the Web Summit in Lisbon. As promised, I'm copying in Tom Whitaker, who runs our partnerships with Stripe and Adyen. Tom will send over the integration guide and a Postman collection this week.\n\nBest,\nOliver",
+    "must_mask": [
+      {"value": "Priya", "type": "PERSON"},
+      {"value": "Tom Whitaker", "type": "PERSON"},
+      {"value": "Tom", "type": "PERSON"},
+      {"value": "Oliver", "type": "PERSON"}
+    ],
+    "must_clear": ["Web Summit", "Lisbon", "Stripe", "Adyen", "Postman"],
+    "known_misses": ["Tom Whitaker", "Tom"]
+  },
+  {
+    "id": "biz-en-invoice",
+    "lang": "en",
+    "text": "INVOICE INV-30417\nBill to: Harrow Logistics Ltd, attn. Emma Clarke\n27 Bramble Close, Leeds LS6 2QT\n\n1 x Microsoft 365 Business Premium (annual)  GBP 264.00\n3 x Dell Latitude 7440  GBP 3,897.00\nPayment terms: 30 days. Thank you for your business.",
+    "must_mask": [
+      {"value": "Emma Clarke", "type": "PERSON"},
+      {"value": "27 Bramble Close", "type": "STREET_ADDRESS"},
+      {"value": "Leeds LS6 2QT", "type": "STREET_ADDRESS"}
+    ],
+    "must_clear": ["Harrow Logistics Ltd", "Microsoft 365 Business Premium", "Dell Latitude 7440", "INV-30417"],
+    "known_over_masks": ["Dell Latitude 7440"]
+  },
+  {
+    "id": "biz-en-meeting",
+    "lang": "en",
+    "text": "Meeting notes, product sync\nAttendees: Rachel Morgan, Daniel Okafor, Mei Lin\n\n- Rachel demoed the new Slack integration; Zapier support follows in Q1.\n- Daniel flagged that Salesforce changed its API limits, which affects the Shopify connector.\n- Decision: we keep AWS in Frankfurt for EU customers and move staging to Hetzner.\n- Next sync: Thursday in the Amsterdam office, room Everest.",
+    "must_mask": [
+      {"value": "Rachel Morgan", "type": "PERSON"},
+      {"value": "Daniel Okafor", "type": "PERSON"},
+      {"value": "Mei Lin", "type": "PERSON"},
+      {"value": "Rachel", "type": "PERSON"},
+      {"value": "Daniel", "type": "PERSON"}
+    ],
+    "must_clear": ["Slack", "Zapier", "Salesforce", "Shopify", "AWS", "Frankfurt", "Hetzner", "Amsterdam", "Everest"]
+  },
+  {
+    "id": "biz-en-contract",
+    "lang": "en",
+    "text": "This Services Agreement is made between Brightwater Analytics Limited, a company registered in England, and Mr James Fletcher of Flat 4, 18 Victoria Road, Manchester M14 5RT (the Consultant). The Consultant will support the migration from Oracle to PostgreSQL and report to the Head of Data.",
+    "must_mask": [
+      {"value": "James Fletcher", "type": "PERSON"},
+      {"value": "Flat 4", "type": "STREET_ADDRESS"},
+      {"value": "18 Victoria Road", "type": "STREET_ADDRESS"},
+      {"value": "Manchester M14 5RT", "type": "STREET_ADDRESS"}
+    ],
+    "must_clear": ["Brightwater Analytics Limited", "Oracle", "PostgreSQL", "England"]
+  },
+  {
+    "id": "biz-en-support",
+    "lang": "en",
+    "text": "Ticket #55120: customer reports that the Sonos speaker ordered on Amazon was delivered to the wrong address. Correct delivery address: 9 Cedar Avenue, Bristol BS8 1QU. Customer name: Hannah Price. Carrier: DPD. Please escalate to Mark in logistics.",
+    "must_mask": [
+      {"value": "9 Cedar Avenue", "type": "STREET_ADDRESS"},
+      {"value": "Bristol BS8 1QU", "type": "STREET_ADDRESS"},
+      {"value": "Hannah Price", "type": "PERSON"},
+      {"value": "Mark", "type": "PERSON"}
+    ],
+    "must_clear": ["Sonos", "Amazon", "DPD", "55120"],
+    "known_misses": ["Mark"]
+  },
+  {
+    "id": "biz-en-products",
+    "lang": "en",
+    "text": "Quarterly vendor review: Atlassian renewed at a 12% discount, Notion replaced Confluence for internal docs, and we are trialling Figma against Sketch for the design team. Cisco Webex is being phased out in favour of Microsoft Teams. Heathrow and Gatwick remain the preferred airports for travel.",
+    "must_mask": [],
+    "must_clear": ["Atlassian", "Notion", "Confluence", "Figma", "Sketch", "Cisco Webex", "Microsoft Teams", "Heathrow", "Gatwick"]
+  },
+  {
+    "id": "biz-en-signoff",
+    "lang": "en",
+    "text": "Thanks for the quick turnaround on the Tesco proposal, it went down well with the buyers in Welwyn.\n\nCheers,\nGeorgia\n\nSent from Outlook for iOS",
+    "must_mask": [
+      {"value": "Georgia", "type": "PERSON"}
+    ],
+    "must_clear": ["Tesco", "Welwyn", "Outlook", "iOS"]
+  },
+  {
+    "id": "biz-en-hr-note",
+    "lang": "en",
+    "text": "Sophie is on parental leave until March, so please send approvals to Ben Hughes instead. Ben has access to Workday and BambooHR while she is away.",
+    "must_mask": [
+      {"value": "Sophie", "type": "PERSON"},
+      {"value": "Ben Hughes", "type": "PERSON"},
+      {"value": "Ben", "type": "PERSON"}
+    ],
+    "must_clear": ["Workday", "BambooHR"]
+  },
+  {
+    "id": "biz-de-email",
+    "lang": "de",
+    "text": "Sehr geehrte Frau Hoffmann,\n\nvielen Dank für Ihre Anfrage zu unseren SAP-Schulungen. Herr Becker aus unserem Team in Stuttgart meldet sich morgen bei Ihnen. Die Schulung findet in den Räumen der Allianz am Standort München statt.\n\nMit freundlichen Grüßen\nKatrin Weber\nVertrieb",
+    "must_mask": [
+      {"value": "Hoffmann", "type": "PERSON"},
+      {"value": "Becker", "type": "PERSON"},
+      {"value": "Katrin Weber", "type": "PERSON"}
+    ],
+    "must_clear": ["SAP", "Stuttgart", "Allianz", "München"],
+    "known_misses": ["Katrin Weber"]
+  },
+  {
+    "id": "biz-de-rechnung",
+    "lang": "de",
+    "text": "Rechnung Nr. RE-2026-1187\n\nEmpfänger: Schreinerei Albrecht GmbH\nz. Hd. Stefan Albrecht\nLindenstraße 23\n79098 Freiburg im Breisgau\n\nPosition 1: Bosch Akku-Bohrschrauber GSR 18V, 4 Stück, 596,00 EUR\nPosition 2: Festool Tauchsäge TS 55, 1 Stück, 689,00 EUR\nZahlbar innerhalb von 14 Tagen.",
+    "must_mask": [
+      {"value": "Stefan Albrecht", "type": "PERSON"},
+      {"value": "Lindenstraße 23", "type": "STREET_ADDRESS"},
+      {"value": "79098 Freiburg im Breisgau", "type": "STREET_ADDRESS"}
+    ],
+    "must_clear": ["Bosch", "Festool", "RE-2026-1187", "GSR 18V", "TS 55"],
+    "known_misses": ["79098 Freiburg im Breisgau"]
+  },
+  {
+    "id": "biz-de-protokoll",
+    "lang": "de",
+    "text": "Protokoll Projektbesprechung\nTeilnehmer: Jonas Schäfer, Lea Wagner, Murat Yıldız\n\nJonas berichtet, dass die Umstellung auf Microsoft Dynamics im Werk Ingolstadt abgeschlossen ist. Lea klärt mit der Deutschen Bahn die Lieferung der Ersatzteile nach Hamburg. Die nächste Besprechung findet im Besprechungsraum Zugspitze statt.",
+    "must_mask": [
+      {"value": "Jonas Schäfer", "type": "PERSON"},
+      {"value": "Lea Wagner", "type": "PERSON"},
+      {"value": "Murat Yıldız", "type": "PERSON"},
+      {"value": "Jonas", "type": "PERSON"},
+      {"value": "Lea", "type": "PERSON"}
+    ],
+    "must_clear": ["Microsoft Dynamics", "Ingolstadt", "Deutschen Bahn", "Hamburg", "Zugspitze"]
+  },
+  {
+    "id": "biz-de-vertrag",
+    "lang": "de",
+    "text": "Mietvertrag über Gewerberaum\n\nZwischen der Rheinblick Immobilien GmbH, Kaiserstraße 60, 60329 Frankfurt am Main (Vermieterin) und Herrn Dr. Markus Richter, Goethestraße 9, 04109 Leipzig (Mieter), wird folgender Vertrag geschlossen. Die Mietsache befindet sich im Gebäude C des Gewerbeparks Leipzig-Nord.",
+    "must_mask": [
+      {"value": "Kaiserstraße 60", "type": "STREET_ADDRESS"},
+      {"value": "60329 Frankfurt am Main", "type": "STREET_ADDRESS"},
+      {"value": "Markus Richter", "type": "PERSON"},
+      {"value": "Goethestraße 9", "type": "STREET_ADDRESS"},
+      {"value": "04109 Leipzig", "type": "STREET_ADDRESS"}
+    ],
+    "must_clear": ["Rheinblick Immobilien GmbH", "Gewerbeparks Leipzig-Nord"]
+  },
+  {
+    "id": "biz-de-produkte",
+    "lang": "de",
+    "text": "Für die neue Filiale in Dresden bestellen wir Kassensysteme von Vectron, Kühltheken von Liebherr und Etikettendrucker von Zebra. Die Finanzierung läuft über die Sparkasse, die Versicherung über die HUK-Coburg.",
+    "must_mask": [],
+    "must_clear": ["Dresden", "Vectron", "Liebherr", "Zebra", "Sparkasse", "HUK-Coburg"]
+  },
+  {
+    "id": "biz-de-support",
+    "lang": "de",
+    "text": "Hallo Tobias,\n\nder Kunde hat angerufen: Das Paket mit dem Miele Staubsauger ist bei DHL hängen geblieben. Neue Lieferadresse ist Am Hofgarten 5, 53113 Bonn. Bitte gib das an Anja weiter.\n\nGruß\nNils",
+    "must_mask": [
+      {"value": "Tobias", "type": "PERSON"},
+      {"value": "Am Hofgarten 5", "type": "STREET_ADDRESS"},
+      {"value": "53113 Bonn", "type": "STREET_ADDRESS"},
+      {"value": "Anja", "type": "PERSON"},
+      {"value": "Nils", "type": "PERSON"}
+    ],
+    "must_clear": ["Miele", "DHL"]
+  },
+  {
+    "id": "biz-de-reise",
+    "lang": "de",
+    "text": "Die Messe findet dieses Jahr in Köln statt. Anreise mit dem ICE ab Berlin Hauptbahnhof, Übernachtung im Hotel am Dom. Am zweiten Tag besuchen wir das Werk von Ford in Niehl und abends die Lanxess Arena.",
+    "must_mask": [],
+    "must_clear": ["Köln", "Berlin Hauptbahnhof", "Hotel am Dom", "Ford", "Niehl", "Lanxess Arena"]
+  },
+  {
+    "id": "biz-fr-email",
+    "lang": "fr",
+    "text": "Bonjour Camille,\n\nSuite à notre réunion chez Decathlon à Villeneuve-d'Ascq, je vous transmets le devis. Merci de l'envoyer à Mme Lefèbvre, 14 rue des Tanneurs, 59000 Lille.\n\nCordialement,\nJulien Moreau",
+    "must_mask": [
+      {"value": "Camille", "type": "PERSON"},
+      {"value": "Lefèbvre", "type": "PERSON"},
+      {"value": "14 rue des Tanneurs", "type": "STREET_ADDRESS"},
+      {"value": "59000 Lille", "type": "STREET_ADDRESS"},
+      {"value": "Julien Moreau", "type": "PERSON"}
+    ],
+    "must_clear": ["Decathlon", "Villeneuve-d'Ascq"]
+  },
+  {
+    "id": "biz-es-email",
+    "lang": "es",
+    "text": "Hola Lucía:\n\nTe confirmo que Telefónica ha aprobado el presupuesto. La factura debe ir a nombre de Javier Ortega, calle de Alcalá 145, 28009 Madrid. Mañana lo comento con el equipo de Zara en Arteixo.\n\nUn saludo,\nPablo",
+    "must_mask": [
+      {"value": "Lucía", "type": "PERSON"},
+      {"value": "Javier Ortega", "type": "PERSON"},
+      {"value": "calle de Alcalá 145", "type": "STREET_ADDRESS"},
+      {"value": "28009 Madrid", "type": "STREET_ADDRESS"},
+      {"value": "Pablo", "type": "PERSON"}
+    ],
+    "must_clear": ["Telefónica", "Zara", "Arteixo"]
+  },
+  {
+    "id": "biz-it-email",
+    "lang": "it",
+    "text": "Gentile dott. Ferrari,\n\nle confermo l'ordine di 20 monitor Samsung e 5 stampanti Canon. La consegna è prevista presso via Garibaldi 12, 10122 Torino. Per domande può contattare la collega Giulia Conti.\n\nCordiali saluti,\nMarco Ricci",
+    "must_mask": [
+      {"value": "Ferrari", "type": "PERSON"},
+      {"value": "via Garibaldi 12", "type": "STREET_ADDRESS"},
+      {"value": "10122 Torino", "type": "STREET_ADDRESS"},
+      {"value": "Giulia Conti", "type": "PERSON"},
+      {"value": "Marco Ricci", "type": "PERSON"}
+    ],
+    "must_clear": ["Samsung", "Canon"],
+    "known_misses": ["10122 Torino"]
+  }
+]

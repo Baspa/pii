@@ -1,0 +1,7 @@
+Eine Wärmepumpe ist allgemein eine Kraftwärmemaschine, die unter Aufwendung technischer Arbeit thermische Energie aus einem Reservoir mit niedrigerer Temperatur (in der Regel ist das die Umgebung) aufnimmt und – zusammen mit der Antriebsenergie – als Nutzwärme auf ein zu beheizendes System mit höherer Temperatur überträgt. Umgangssprachlich ist damit meist die Wärmepumpenheizung gemeint, die in Gebäuden für Heizzwecke eingesetzt wird.
+
+Weitere Anwendungen sind die Brauchwassererwärmung, die Erzeugung von Prozesswärme und der Einsatz in Wäschetrocknern. Den Kreisprozess der Wärmepumpe verwendet man auch zum Kühlen (so beim Kühlschrank oder der Klimaanlage). Im Gegensatz zur Wärmepumpe ist beim Kälteprozess die aus dem zu kühlenden Raum abgeführte Wärme die Nutzenergie, die zusammen mit der Antriebsenergie als Abwärme an die Umgebung abgeführt wird.
+
+Wärmepumpen werden vielfach auch zur Erwärmung von Wasser für die Gebäudeheizung (Wärmepumpenheizung) und Bereitstellung von Warmwasser eingesetzt. Wärmepumpen können allein, in Kombination mit anderen Heizungsarten sowie in Fern- und Nahwärmesystemen eingesetzt werden. Zu letzteren zählt z. B. die Kalte Nahwärme. Üblich sind die folgenden Kombinationen (Abkürzungen in Klammern):
+
+Luft/Wasser-Wärmepumpe (LWWP) mit Entzug der Wärme aus Abluft oder Außenluft, seltener auch mit Vorerwärmung durch Erdwärmetauscher, Fassadenkollektoren oder ähnliches; Wärmeabgabe über wasserführende Heizsysteme, preiswert und häufig verwendet

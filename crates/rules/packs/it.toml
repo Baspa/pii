@@ -1,0 +1,237 @@
+version = "1"
+
+# Italy issues one identifier to natural persons and it is the codice
+# fiscale. It is `TAX_ID` rather than `NATIONAL_ID` because that is what it
+# is -- a fiscal code -- and because the injector's own phrase table already
+# introduces an Italian `TAX_ID` as `il codice fiscale`.
+#
+# WHAT IS DELIBERATELY NOT HERE.
+#
+# * The partita IVA (eleven digits, Luhn). It identifies a business, its
+#   international form is already the universal pack's `vat` recognizer, and
+#   a bare eleven-digit recognizer would share a pattern with `de_steuer_id`
+#   -- a second route to masking every eleven-digit number in the corpus, in
+#   exchange for covering an identifier that is not personal data.
+# * The carta d'identità elettronica number (`CA00000AA`). It is issued and
+#   it does appear in text, and it carries no check character at all, so it
+#   could only ever be decided by shape plus a nearby word. `NATIONAL_ID` is
+#   gated at 99% precision as a checksummed type; putting a shape-only
+#   recognizer in that bucket measures it against a bar its evidence cannot
+#   support, and every spurious span it produced would come off a gate the
+#   checksummed identifiers have to clear.
+# * The twenty-digit tessera sanitaria team number, which is a card number
+#   rather than a person's identifier and is not a thing a customer pastes
+#   into a support ticket.
+
+[[recognizer]]
+id = "it_codice_fiscale"
+entity_type = "TAX_ID"
+country = "IT"
+# Six name letters, year, month letter, day, cadastral code, check letter.
+# The numeric positions accept the omocodia substitution letters as well as
+# digits, because those codes are issued -- see the validator.
+#
+# CASE-INSENSITIVE, AND MEASURED BEFORE IT WAS WRITTEN. The upper-case-only
+# form fires zero times on 23.7M characters of the PII-free negative corpus;
+# the case-insensitive form fires eight times, and the check character
+# rejects all eight. Eight shape hits per 23.7M characters, times one in
+# twenty-six, is roughly one false candidate per 77M characters -- against
+# a real recall loss on every codice fiscale a customer types in lower case.
+patterns = [
+  '''(?i)\b[A-Z]{6}[0-9LMNPQRSTUV]{2}[ABCDEHLMPRST][0-9LMNPQRSTUV]{2}[A-Z][0-9LMNPQRSTUV]{3}[A-Z]\b''',
+]
+validator = "it_codice_fiscale"
+# The ladder. The highest base of any country recognizer here (0.50) because
+# the shape is the most distinctive: sixteen characters in a fixed
+# letter/digit arrangement with a month letter and a real day inside it.
+# Still under the 0.70 threshold, so shape alone decides nothing. +0.40 for
+# the check letter, +0.10 for the identifier's own label. 0.90 stays under
+# the 0.95 the negative-context penalty needs; 1.00 reaches it.
+base_confidence = 0.5
+checksum_confidence = 0.4
+context_confidence = 0.1
+# Whole-term matched, so `ordine` cannot fire from inside `ordinare` and
+# `fattura` cannot fire from inside `fatturazione`. The bare terms are the
+# ones an Italian order confirmation actually uses.
+negative_context = [
+  "numero d'ordine",
+  "numero di fattura",
+  "numero di riferimento",
+  "ordine",
+  "fattura",
+  "order number",
+  "invoice",
+  "iban",
+]
+positive = [
+  "MRTMTT91D08F205J",
+  "Il codice fiscale del richiedente è MRTMTT91D08F205J",
+  "MRTMTT91D08F20RE",
+]
+# The first is the specimen the whole internet repeats and no authority
+# issued: its check character should be `Q`. See the validator's own test.
+negative = ["RSSMRA85M01H501Z", "MRTMTT91D08F205A"]
+adversarial = ["Numero d'ordine MRTMTT91D08F205J confermato"]
+
+[recognizer.context_terms]
+# `c.f.` and `cod. fisc.` are the two abbreviations Italian forms use. Both
+# carry their punctuation, so neither can be read out of the middle of a
+# word the way a bare three-letter term could.
+it = ["codice fiscale", "c.f.", "cod. fisc.", "tessera sanitaria"]
+en = ["italian tax code", "fiscal code", "codice fiscale"]
+nl = ["italiaans fiscaal nummer", "codice fiscale"]
+de = ["italienische steuernummer", "codice fiscale"]
+fr = ["code fiscal italien", "codice fiscale"]
+es = ["código fiscal italiano", "codigo fiscal italiano", "codice fiscale"]
+
+[[recognizer]]
+id = "it_patente"
+entity_type = "DRIVING_LICENCE"
+country = "IT"
+# THE CONTROL CHARACTER'S ALGORITHM IS STILL NOT PUBLISHED, AND THIS
+# RECOGNIZER STILL DOES NOT CLAIM IT. `training/reports/driving-licence.md`
+# §3.2 excluded Italy because a check character exists whose rule nobody
+# publishes and because the three published readings of the ten characters
+# contradict each other. The first half is unchanged: `validator = "none"`,
+# and `Evidence::checksum` stays `None` rather than recording a verification
+# nobody performed -- exactly what `gb_driving_licence` does with the DVLA's
+# two check characters, and for the same reason (`resolve` rejects a
+# `Some(false)` checksum outright, so a reverse-engineered rule would not
+# lower a score, it would silently stop masking real licence numbers).
+#
+# WHAT CHANGED IS THE SECOND HALF. §3.2 measured the *union* of the three
+# readings -- Microsoft Purview's own pattern, one letter then any
+# alphanumeric then seven more then a letter -- and found it matched 350
+# times over 23.3M characters of PII-free prose, of which 345 were ordinary
+# ten-letter upper-case words: PARLAMENTO, VERORDNUNG, COMMISSION. That
+# measurement is reproduced exactly (350, of which 345 all-letter) and the
+# two *concrete* published readings below replace the union:
+#
+#   [A-Z]{2}[0-9]{7}[A-Z]   the two-letter province code of the issuing
+#                           Motorizzazione, a seven-digit progressive, and
+#                           the control letter. The form on an originally
+#                           issued licence, kept through renewals and
+#                           changes of residence.
+#   U1[A-Z0-9]{7}[A-Z]      the form the Ministry's circular of 18 October
+#                           2011 introduced, whose worked example is
+#                           `U1532B456 K`. Sources disagree about whether it
+#                           is the general modern format or only the one used
+#                           for a duplicate issued after loss or theft; it is
+#                           here either way.
+#
+# NEITHER CAN MATCH AN ORDINARY WORD, and that is a proof rather than a
+# measurement: the first requires seven digits in the middle and the second a
+# digit in second position, and no word in any language has a digit in it.
+# Measured anyway, over the same three corpora §4 used: 0 hits on 23.3M
+# characters of `training/data-negatives`, 0 on the 321 benchmark carriers,
+# 0 on the whole case fixture, case-insensitively and with the optional
+# separator below. 350 -> 0.
+#
+# The optional space or hyphen before the control character is there because
+# the Ministry's own worked example carries one, and because Purview's
+# pattern allows a separator in both positions. It costs nothing measured.
+#
+# WHAT THIS DOES NOT COVER is named in §15.3: a third published reading (`U`
+# plus a two-digit year plus six digits) is not matched unless its year
+# begins with 1, and nothing here verifies the control character.
+patterns = ['''(?i)\b(?:[A-Z]{2}[0-9]{7}[ -]?[A-Z]|U1[A-Z0-9]{7}[ -]?[A-Z])\b''']
+validator = "none"
+base_confidence = 0.40
+checksum_confidence = 0.0
+context_confidence = 0.35
+# The same rule §13.1 sets out: a term earns its place only if the thing it
+# names can take this shape. `passaporto` is absent for that reason -- an
+# Italian passport number is two letters and seven digits, nine characters,
+# one short -- and so are `codice fiscale` (sixteen) and `targa` (seven).
+negative_context = [
+  # it
+  "numero d'ordine",
+  "numero di ordine",
+  "numero ordine",
+  "numero fattura",
+  "fattura",
+  "numero cliente",
+  "codice cliente",
+  "numero di spedizione",
+  # en
+  "order number",
+  "invoice",
+  "tracking",
+  "reference number",
+  "policy number",
+  "customer number",
+  # nl
+  "ordernummer",
+  "factuurnummer",
+  "klantnummer",
+  # de
+  "bestellnummer",
+  "rechnungsnummer",
+  "auftragsnummer",
+  "kundennummer",
+  # fr
+  "numéro de commande",
+  "numéro de facture",
+  "facture",
+  "numéro client",
+  # es
+  "número de pedido",
+  "pedido",
+  "número de factura",
+  "factura",
+  "número de cliente",
+]
+positive = [
+  "Il numero della patente di guida è MI1234567A",
+  "Numero di patente U1532B456K",
+  "Il duplicato della patente di guida è U1532B456 K",
+  "The Italian driving licence number is MI1234567A",
+]
+# Each fails the shape, which is what a negative fixture has to do here.
+# The last two are the measurement this recognizer exists to beat: ordinary
+# ten-letter upper-case words, which Purview's own pattern for this
+# identifier matches and this one cannot.
+negative = [
+  "MI123456A",
+  "MI12345678A",
+  "REFMI1234567A",
+  "PARLAMENTO",
+  "VERORDNUNG",
+]
+adversarial = [
+  "Numero d'ordine MI1234567A per la patente di guida",
+  "La fattura MI1234567A riguarda il noleggio e la patente di guida",
+  "Order number U1532B456K relates to the driving licence on file",
+  # No licence word anywhere: the shape alone must decide nothing.
+  "Il riferimento della spedizione è MI1234567A",
+]
+
+[recognizer.context_terms]
+# Never the bare `patente`: context terms are matched as substrings, German
+# `Patente` is the plural of a patent and Spanish `patentes` likewise. 48
+# bare occurrences in 23.3M characters of `training/data-negatives` against
+# 11 for the full phrase -- the note `de_fuehrerschein` and `fr_nir` both
+# already carry.
+it = [
+  "patente di guida",
+  "patente guida",
+  "patenti di guida",
+  "patenti guida",
+  "numero di patente",
+  "numero patente",
+]
+en = [
+  "driving licence",
+  "driving license",
+  "driver licence",
+  "driver license",
+  "driver's licence",
+  "driver's license",
+  "drivers licence",
+  "drivers license",
+  "driver number",
+]
+nl = ["rijbewijs", "rijbewijsnummer"]
+de = ["führerschein", "fuehrerschein", "fuhrerschein", "fahrerlaubnis"]
+fr = ["permis de conduire", "numéro de permis", "numéro du permis"]
+es = ["permiso de conducir", "permiso de conducción", "carné de conducir", "carnet de conducir"]

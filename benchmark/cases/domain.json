@@ -1,0 +1,529 @@
+[
+  {
+    "id": "domain-nl-support-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "domain",
+    "text": "Hoi, ik krijg nog steeds geen toegang tot mijn account. Kunnen jullie dit checken?\n\nMijn gegevens:\nnaam: Bram Sluiter\ne-mail: bram.sluiter83@example.com\nIBAN: NL90BNKA3422812463\nBSN: 804985492 (nodig voor de identiteitscontrole, zei jullie collega)\n\n> Op 18 aug schreef Support:\n> Bedankt voor uw bericht, ordernummer 20450192 is bij ons bekend. We nemen zo snel mogelijk contact op.\n\nGroetjes,\nBRAM\nKolkweg 12, 7413 AB Deventer\n06 12345678",
+    "must_mask": [
+      {
+        "value": "Bram Sluiter",
+        "type": "PERSON"
+      },
+      {
+        "value": "bram.sluiter83@example.com",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "NL90BNKA3422812463",
+        "type": "IBAN_CODE"
+      },
+      {
+        "value": "804985492",
+        "type": "NATIONAL_ID"
+      },
+      {
+        "value": "Kolkweg 12",
+        "type": "STREET_ADDRESS"
+      },
+      {
+        "value": "7413 AB Deventer",
+        "type": "STREET_ADDRESS"
+      },
+      {
+        "value": "06 12345678",
+        "type": "PHONE_NUMBER"
+      }
+    ],
+    "must_clear": [
+      "20450192"
+    ]
+  },
+  {
+    "id": "domain-nl-csv-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "domain",
+    "text": "Kun je deze klantexport controleren voordat we hem doorsturen naar de boekhouder?\n\nid,naam,email,telefoon,iban\n1042,Elske Wolthuis,elske.wolthuis@example.com,+31 6 12345678,NL91ABNA0417164300\n1043,Ruben Verkerk,ruben.verkerk@example.net,020-1234567,NL31BNKC3775945807",
+    "must_mask": [
+      {
+        "value": "Elske Wolthuis",
+        "type": "PERSON"
+      },
+      {
+        "value": "elske.wolthuis@example.com",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "+31 6 12345678",
+        "type": "PHONE_NUMBER"
+      },
+      {
+        "value": "NL91ABNA0417164300",
+        "type": "IBAN_CODE"
+      },
+      {
+        "value": "Ruben Verkerk",
+        "type": "PERSON"
+      },
+      {
+        "value": "ruben.verkerk@example.net",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "020-1234567",
+        "type": "PHONE_NUMBER"
+      },
+      {
+        "value": "NL31BNKC3775945807",
+        "type": "IBAN_CODE"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "domain-nl-codeswitch-1",
+    "lang": "nl",
+    "len": "medium",
+    "source": "domain",
+    "text": "Hey team, quick question – kunnen we deze order gewoon skippen of moeten we eerst contact opnemen met de klant? Ze heeft gemaild vanaf haar werk-adres femke.rietveld@example.org en gebeld op 06-12345678 over een refund. thanks!",
+    "must_mask": [
+      {
+        "value": "femke.rietveld@example.org",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "06-12345678",
+        "type": "PHONE_NUMBER"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "domain-nl-codeswitch-2",
+    "lang": "nl",
+    "len": "medium",
+    "source": "domain",
+    "text": "Quick vraag over de nieuwe integratie: kun je in de logs kijken of IP 203.0.113.44 vandaag ook errors gaf? De klant mailde net vanaf sanne.doornbos@example.com voor een status update, but ticket #88213 staat nog open.",
+    "must_mask": [
+      {
+        "value": "203.0.113.44",
+        "type": "IP_ADDRESS"
+      },
+      {
+        "value": "sanne.doornbos@example.com",
+        "type": "EMAIL_ADDRESS"
+      }
+    ],
+    "must_clear": [
+      "#88213"
+    ]
+  },
+  {
+    "id": "domain-de-contract-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "domain",
+    "text": "In §9 unseres Vertrags steht: 'Der Auftragnehmer verarbeitet die Daten ausschließlich zur Vertragserfüllung.' Frage: Dürfen wir zur Rechnungsstellung trotzdem die Steuer-ID unseres Ansprechpartners, Lorenz Ehrhardt (Steuer-ID 45263809152), an die Buchhaltung weitergeben, oder reicht die USt-IdNr DE787789320 der Firma?",
+    "must_mask": [
+      {
+        "value": "Lorenz Ehrhardt",
+        "type": "PERSON"
+      },
+      {
+        "value": "45263809152",
+        "type": "TAX_ID"
+      },
+      {
+        "value": "DE787789320",
+        "type": "VAT_NUMBER"
+      }
+    ],
+    "must_clear": [
+      "§9"
+    ]
+  },
+  {
+    "id": "domain-de-log-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "domain",
+    "text": "Kannst du dir diesen Ausschnitt aus dem Zugriffsprotokoll ansehen, bevor wir ihn an den Support-Dienstleister weitergeben?\n\n2026-08-19 09:14:02 GET /api/v2/account 200 ip=198.51.100.23 user=kerstin.stellwag@example.com\n2026-08-19 09:14:07 POST /api/v2/payment 502 ip=198.51.100.23 card=4111116165172869\n\nSieht das nach einem echten Fehler aus, oder war das nur ein Timeout?",
+    "must_mask": [
+      {
+        "value": "198.51.100.23",
+        "type": "IP_ADDRESS"
+      },
+      {
+        "value": "kerstin.stellwag@example.com",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "4111116165172869",
+        "type": "CREDIT_CARD"
+      }
+    ],
+    "must_clear": [
+      "2026-08-19"
+    ]
+  },
+  {
+    "id": "domain-de-json-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "domain",
+    "text": "Kannst du dieses Webhook-Payload kurz gegenchecken, bevor es an den Zahlungsdienstleister geht?\n\n{\n  \"order_id\": \"DE-2026-771402\",\n  \"customer\": {\n    \"name\": \"Roswitha Osterkamp\",\n    \"email\": \"roswitha.osterkamp@example.net\",\n    \"iban\": \"DE63739784006938218040\",\n    \"phone\": \"+49 30 1234567\"\n  },\n  \"amount\": \"249,00 EUR\"\n}\n\nWir wollen sichergehen, dass hier nichts unverschlüsselt weitergeht.",
+    "must_mask": [
+      {
+        "value": "Roswitha Osterkamp",
+        "type": "PERSON"
+      },
+      {
+        "value": "roswitha.osterkamp@example.net",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "DE63739784006938218040",
+        "type": "IBAN_CODE"
+      },
+      {
+        "value": "+49 30 1234567",
+        "type": "PHONE_NUMBER"
+      }
+    ],
+    "must_clear": [
+      "DE-2026-771402",
+      "249,00 EUR"
+    ]
+  },
+  {
+    "id": "domain-fr-contract-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "domain",
+    "text": "La clause 4.3 du contrat précise : « Le sous-traitant traite les données exclusivement aux fins de l'exécution du contrat. » Question : pouvons-nous tout de même transmettre le numéro de TVA FR32748526050 de la société et l'IBAN FR8708189846839260124281760 de notre contact, Cédric Chauvet, au service comptable ?",
+    "must_mask": [
+      {
+        "value": "FR32748526050",
+        "type": "VAT_NUMBER"
+      },
+      {
+        "value": "FR8708189846839260124281760",
+        "type": "IBAN_CODE"
+      },
+      {
+        "value": "Cédric Chauvet",
+        "type": "PERSON"
+      }
+    ],
+    "must_clear": [
+      "clause 4.3"
+    ]
+  },
+  {
+    "id": "domain-fr-support-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "domain",
+    "text": "Bonjour, je n'arrive toujours pas à me connecter à mon espace client. Voici mes informations :\n\nNom : Solène Marceau\nE-mail : solene.marceau@example.org\nTéléphone : +33 6 12 34 56 78\n\n> Le 19 août, le support a répondu :\n> Merci pour votre message, référence commande FR-88213 bien reçue. Nous revenons vers vous sous 24h.\n\nCordialement,\nSOLÈNE",
+    "must_mask": [
+      {
+        "value": "Solène Marceau",
+        "type": "PERSON"
+      },
+      {
+        "value": "solene.marceau@example.org",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "+33 6 12 34 56 78",
+        "type": "PHONE_NUMBER"
+      }
+    ],
+    "must_clear": [
+      "FR-88213"
+    ]
+  },
+  {
+    "id": "domain-fr-csv-1",
+    "lang": "fr",
+    "len": "medium",
+    "source": "domain",
+    "text": "Peux-tu vérifier cet extrait avant l'envoi au comptable ?\n\nid,nom,email,telephone\n201,Thibaut Berthelot,thibaut.berthelot@example.com,01 42 68 53 00\n202,Maëlle Delaunay,maelle.delaunay@example.net,+33 6 12 34 56 78",
+    "must_mask": [
+      {
+        "value": "Thibaut Berthelot",
+        "type": "PERSON"
+      },
+      {
+        "value": "thibaut.berthelot@example.com",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "01 42 68 53 00",
+        "type": "PHONE_NUMBER"
+      },
+      {
+        "value": "Maëlle Delaunay",
+        "type": "PERSON"
+      },
+      {
+        "value": "maelle.delaunay@example.net",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "+33 6 12 34 56 78",
+        "type": "PHONE_NUMBER"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "domain-es-log-1",
+    "lang": "es",
+    "len": "medium",
+    "source": "domain",
+    "text": "¿Puedes revisar este fragmento del registro de acceso antes de compartirlo con el proveedor de soporte?\n\n2026-08-19 10:02:11 GET /api/v2/cuenta 200 ip=203.0.113.77 usuario=itziar.villalba@example.com\n2026-08-19 10:02:19 POST /api/v2/pago 502 ip=203.0.113.77 tarjeta=4000008963224725\n\n¿Esto parece un fallo real o solo un timeout?",
+    "must_mask": [
+      {
+        "value": "203.0.113.77",
+        "type": "IP_ADDRESS"
+      },
+      {
+        "value": "itziar.villalba@example.com",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "4000008963224725",
+        "type": "CREDIT_CARD"
+      }
+    ],
+    "must_clear": [
+      "2026-08-19"
+    ]
+  },
+  {
+    "id": "domain-es-json-1",
+    "lang": "es",
+    "len": "medium",
+    "source": "domain",
+    "text": "¿Puedes revisar rápido este payload del webhook antes de enviarlo a la pasarela de pago?\n\n{\n  \"order_id\": \"ES-2026-559041\",\n  \"customer\": {\n    \"name\": \"Nicolás Quintana\",\n    \"email\": \"nicolas.quintana@example.net\",\n    \"iban\": \"ES7164808027193290223894\",\n    \"phone\": \"+34 612 34 56 78\"\n  },\n  \"amount\": \"312,00 EUR\"\n}\n\nQueremos asegurarnos de que nada de esto se registra sin cifrar.",
+    "must_mask": [
+      {
+        "value": "Nicolás Quintana",
+        "type": "PERSON"
+      },
+      {
+        "value": "nicolas.quintana@example.net",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "ES7164808027193290223894",
+        "type": "IBAN_CODE"
+      },
+      {
+        "value": "+34 612 34 56 78",
+        "type": "PHONE_NUMBER"
+      }
+    ],
+    "must_clear": [
+      "ES-2026-559041",
+      "312,00 EUR"
+    ]
+  },
+  {
+    "id": "domain-es-support-1",
+    "lang": "es",
+    "len": "medium",
+    "source": "domain",
+    "text": "Hola, sigo sin poder acceder a mi cuenta de empresa. Mis datos:\n\nNombre: Amaia Zabaleta\nCorreo: amaia.zabaleta@example.org\nNIF de la empresa: ESB42323220\n\n> El 19 de agosto, soporte respondió:\n> Gracias por su mensaje, referencia de pedido ES-77410 recibida. Le responderemos en 24h.\n\nSaludos,\nAMAIA",
+    "must_mask": [
+      {
+        "value": "Amaia Zabaleta",
+        "type": "PERSON"
+      },
+      {
+        "value": "amaia.zabaleta@example.org",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "ESB42323220",
+        "type": "VAT_NUMBER"
+      }
+    ],
+    "must_clear": [
+      "ES-77410"
+    ]
+  },
+  {
+    "id": "domain-it-contract-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "domain",
+    "text": "La clausola 6.1 del contratto recita: « Il subappaltatore tratta i dati esclusivamente ai fini dell'esecuzione del contratto. » Possiamo comunque comunicare la partita IVA IT19834440943 dell'azienda e l'IBAN IT13A9655822847522058617815 del nostro referente, Emiliano Cattaneo, all'ufficio contabilità?",
+    "must_mask": [
+      {
+        "value": "IT19834440943",
+        "type": "VAT_NUMBER"
+      },
+      {
+        "value": "IT13A9655822847522058617815",
+        "type": "IBAN_CODE"
+      },
+      {
+        "value": "Emiliano Cattaneo",
+        "type": "PERSON"
+      }
+    ],
+    "must_clear": [
+      "clausola 6.1"
+    ]
+  },
+  {
+    "id": "domain-it-support-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "domain",
+    "text": "Buongiorno, non riesco ancora ad accedere al mio account aziendale. Ecco i miei dati:\n\nNome: Beatrice Salvadori\nE-mail: beatrice.salvadori@example.com\nTelefono: +39 340 123 4567\n\n> Il 19 agosto il supporto ha risposto:\n> Grazie per il messaggio, riferimento ordine IT-66218 ricevuto. Le risponderemo entro 24 ore.\n\nCordiali saluti,\nBEATRICE",
+    "must_mask": [
+      {
+        "value": "Beatrice Salvadori",
+        "type": "PERSON"
+      },
+      {
+        "value": "beatrice.salvadori@example.com",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "+39 340 123 4567",
+        "type": "PHONE_NUMBER"
+      }
+    ],
+    "must_clear": [
+      "IT-66218"
+    ]
+  },
+  {
+    "id": "domain-it-csv-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "domain",
+    "text": "Puoi controllare questo estratto prima di inviarlo alla contabilità?\n\nid,nome,email,telefono\n301,Tommaso Roversi,tommaso.roversi@example.net,+39 320 123 4567\n302,Ilaria Fioretti,ilaria.fioretti@example.org,+39 06 6982",
+    "must_mask": [
+      {
+        "value": "Tommaso Roversi",
+        "type": "PERSON"
+      },
+      {
+        "value": "tommaso.roversi@example.net",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "+39 320 123 4567",
+        "type": "PHONE_NUMBER"
+      },
+      {
+        "value": "Ilaria Fioretti",
+        "type": "PERSON"
+      },
+      {
+        "value": "ilaria.fioretti@example.org",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "+39 06 6982",
+        "type": "PHONE_NUMBER"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "domain-en-support-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "domain",
+    "text": "Hi, I still can't log into my account and it's urgent. Here's what you asked for:\n\nName: Desmond Pemberton\nEmail: desmond.pemberton@example.com\nCard on file: 5555559050199093\n\n> On 19 Aug, Support wrote:\n> Thanks for reaching out – ticket REF-88213 is now open. We'll follow up within 24 hours.\n\nThanks,\nDESMOND\nFlat 2, 14 Marlpit Lane, Kendal LA9 4ZP",
+    "must_mask": [
+      {
+        "value": "Desmond Pemberton",
+        "type": "PERSON"
+      },
+      {
+        "value": "desmond.pemberton@example.com",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "5555559050199093",
+        "type": "CREDIT_CARD"
+      },
+      {
+        "value": "Flat 2",
+        "type": "STREET_ADDRESS"
+      },
+      {
+        "value": "14 Marlpit Lane",
+        "type": "STREET_ADDRESS"
+      },
+      {
+        "value": "Kendal LA9 4ZP",
+        "type": "STREET_ADDRESS"
+      }
+    ],
+    "must_clear": [
+      "REF-88213"
+    ]
+  },
+  {
+    "id": "domain-en-log-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "domain",
+    "text": "Can you scrub this before we send it to the analytics vendor?\n\n2026-08-19 11:47:03 GET /api/v2/account 200 ip=192.0.2.150 user=freya.halloran@example.net\n2026-08-19 11:47:09 POST /api/v2/payment 502 ip=192.0.2.150\n\nDoes this look like a real outage or just a blip?",
+    "must_mask": [
+      {
+        "value": "192.0.2.150",
+        "type": "IP_ADDRESS"
+      },
+      {
+        "value": "freya.halloran@example.net",
+        "type": "EMAIL_ADDRESS"
+      }
+    ],
+    "must_clear": [
+      "2026-08-19"
+    ]
+  },
+  {
+    "id": "domain-en-json-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "domain",
+    "text": "Can you sanity-check this webhook payload before it goes to the payment gateway?\n\n{\n  \"order_id\": \"EN-2026-403187\",\n  \"customer\": {\n    \"name\": \"Gareth Kilbride\",\n    \"email\": \"gareth.kilbride@example.org\",\n    \"iban\": \"NL91ABNA0417164300\",\n    \"phone\": \"+44 7911 123456\",\n    \"passport\": \"XK4821907\"\n  },\n  \"amount\": \"89.00 GBP\"\n}\n\nWant to make sure nothing here is logged in plaintext.",
+    "must_mask": [
+      {
+        "value": "Gareth Kilbride",
+        "type": "PERSON"
+      },
+      {
+        "value": "gareth.kilbride@example.org",
+        "type": "EMAIL_ADDRESS"
+      },
+      {
+        "value": "NL91ABNA0417164300",
+        "type": "IBAN_CODE"
+      },
+      {
+        "value": "+44 7911 123456",
+        "type": "PHONE_NUMBER"
+      },
+      {
+        "value": "XK4821907",
+        "type": "PASSPORT_NUMBER"
+      }
+    ],
+    "must_clear": [
+      "EN-2026-403187",
+      "89.00 GBP"
+    ]
+  }
+]

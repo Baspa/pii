@@ -1,0 +1,9 @@
+Se in un aeroporto si hanno più piste parallele, che quindi puntano nella stessa direzione, si aggiunge una lettera dopo le due cifre ad indicare la posizione relativa delle piste: L per la pista a sinistra (dall'inglese Left), C per quella al centro e R per quella a destra (Right). Ciò fa sì che, ad esempio la pista 02L diventi la 20R se usata nella direzione opposta (ai 20° iniziali si devono sommare 180°, a causa della variazione di direzione, e se prima la pista era sulla sinistra, adesso è quella a destra).
+
+Negli aeroporti molto grandi con più di tre piste parallele (ad es. l'Aeroporto internazionale di Los Angeles o l'Aeroporto di Atlanta-Hartsfield-Jackson ad Atlanta), ad alcune piste si assegna un numero che non corrisponde alla direzione magnetica reale ma ad una pista spostata di 10 gradi.
+
+Infatti nell'aeroporto di Los Angeles ci sono le piste 6L/24R, 6R/24L, 7L/25R, 7R/25L anche se tutte le piste corrono parallele allineate a circa 69 gradi.
+
+Per gli aeroplani ad ala fissa è vantaggioso decollare e atterrare controvento per ridurre la corsa e la velocità di decollo, e allo stesso tempo evitare i venti al traverso che possono dare problemi nel controllo del mezzo: per questo gli aeroporti più grandi hanno piste disposte in direzioni diverse, in modo che ve ne sia sempre una che si allinei meglio con la direzione del vento. Gli aeroporti con una sola pista sono invece costruiti in modo che questa si allinei con i venti prevalenti.
+
+Le dimensioni di una pista variano da una lunghezza di poche centinaia di metri dei più piccoli aeroporti, a lunghezze fino a 5000 m e larghezze di 80 m per aeroporti di grande traffico oppure collocati ad altitudine molto elevata.

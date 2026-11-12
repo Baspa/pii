@@ -1,0 +1,9 @@
+Una unidad de estado sólido o SSD (acrónimo en inglés de solid-state drive) es un dispositivo de almacenamiento de datos que usa una memoria no volátil, como la memoria flash, o una memoria volátil como la SDRAM, para almacenar datos, en lugar de los platos giratorios magnéticos encontrados en los discos duros convencionales. En comparación con los discos duros tradicionales, las unidades de estado sólido son menos sensibles a los golpes, son prácticamente inaudibles y tienen un menor y constante tiempo de acceso y de latencia. Las SSD hacen uso de la misma interfaz que los discos duros y, por lo tanto, son fácilmente intercambiables sin tener que recurrir a adaptadores o tarjetas de expansión para compatibilizarlos con el equipo.
+
+Son comercializadas con las dimensiones heredadas de los discos duros, es decir, en 3,5 pulgadas, 2,5 pulgadas y 1,8 pulgadas, aunque también ciertas SSD vienen en formato «tarjeta de expansión».
+
+En algunos casos, las SSD pueden ser más lentas que los discos duros, en especial con controladoras antiguas de gamas bajas, pero dado que los tiempos de acceso de una SSD son inapreciables, al final resultan más rápidos. Este tiempo de acceso tan corto se debe a la ausencia de piezas mecánicas móviles, inherentes a los discos duros.
+
+Aunque técnicamente no son discos, a veces se traduce erróneamente en español la "D" de SSD como "disk" cuando, en realidad, representa la palabra "drive", que podría traducirse como unidad o dispositivo.
+
+El rendimiento de las SSD se incrementan añadiendo chips NAND Flash en paralelo. Un sólo chip NAND Flash es relativamente lento, dado que la interfaz de entrada y salida es de 8 ó 16 bits y también por la latencia adicional de las operaciones básicas de E/S. Cuando varios dispositivos NAND operan en paralelo dentro de un SSD, las escalas de ancho de banda se incrementan y las latencias de alta se minimizan, siempre y cuando las operaciones se distribuyan uniformemente entre los chips.

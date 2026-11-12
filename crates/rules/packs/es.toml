@@ -1,0 +1,140 @@
+version = "1"
+
+# Spain issues two identity numbers for natural persons and they are not
+# interchangeable: the DNI, held by Spanish nationals, and the NIE, held by
+# foreign nationals. Both are `NATIONAL_ID`, both carry the same modulo-23
+# check letter, and both are here.
+#
+# WHAT IS DELIBERATELY NOT HERE.
+#
+# * The company NIF (the CIF, a leading letter and eight more characters). It
+#   identifies a legal person, not a natural one, so it is not personal data
+#   in the sense this firewall exists for, and its international form --
+#   `ES` plus the same characters -- is already the universal pack's `vat`
+#   recognizer. A bare recognizer for it would add an over-masking route and
+#   cover nothing new.
+# * The número de afiliación a la Seguridad Social (12 digits). It is issued,
+#   it does appear in payroll and HR correspondence, and it is left out
+#   because its published control rule cannot be pinned down: the worked
+#   example `281234567840` satisfies "concatenate the ten digits, modulo 97"
+#   while `081234567871`, published as a worked example of the same rule,
+#   does not (0812345678 mod 97 is 69, not 71). Its check is also the weakest
+#   of the set -- one in ninety-seven over twelve bare digits, with no other
+#   structure. A checksum whose two published examples disagree would claim
+#   more than it checks.
+# * The driving licence number, which for a Spanish holder *is* the DNI. It
+#   would be the same digits under a type (`DRIVING_LICENCE`) that has no
+#   calibrated threshold, so it would fail closed at the resolver anyway.
+
+[[recognizer]]
+id = "es_dni"
+entity_type = "NATIONAL_ID"
+country = "ES"
+# Eight digits, an optional hyphen, one check letter. No space variant: a
+# Spanish sentence puts a bare letter after a number often enough ("de
+# 12345678 a ...") that `\d{8} [A-Za-z]` would be a shape the language itself
+# produces, and one draw in twenty-three of those would clear the check.
+patterns = ['''\b\d{8}-?[A-Za-z]\b''']
+validator = "es_dni"
+# The ladder. 0.40 for the shape, which on its own is under the 0.70
+# threshold and decides nothing; +0.45 for the check letter, which decides;
+# +0.15 for the identifier's own label. Sized against
+# `pii_detection_resolve::NEGATIVE_CONTEXT_PENALTY`: 0.85 must stay under 0.95 so a
+# checksum-valid order reference behind an order label is still suppressed,
+# and 1.00 must reach 0.95 so a real DNI the writer labelled `DNI` survives
+# an invoice being mentioned in the same clause. `tests/suppression.rs`
+# pins both edges.
+base_confidence = 0.4
+checksum_confidence = 0.45
+context_confidence = 0.15
+# Whole-term matched (see `matcher::matches_whole_term`), so a bare
+# `factura` cannot fire from inside `facturación`. Bare terms are included
+# on purpose and are safe here for the reason `nl_bsn`'s comment gives: the
+# resolver weighs suppression against the rest of the evidence rather than
+# deleting on it, so `adjunto la factura y mi DNI 12345678Z` keeps the DNI
+# on the strength of its own label while `número de pedido 12345678Z` does
+# not.
+negative_context = [
+  "número de pedido",
+  "numero de pedido",
+  "número de factura",
+  "numero de factura",
+  "pedido",
+  "factura",
+  "albarán",
+  "order number",
+  "invoice",
+  "iban",
+]
+positive = [
+  "12345678Z",
+  "12345678-Z",
+  "El DNI del solicitante es 12345678Z",
+]
+negative = ["12345678A", "1234567Z"]
+adversarial = ["Número de pedido 12345678Z confirmado"]
+
+[recognizer.context_terms]
+# No bare `nif`: positive context is a plain substring search (see
+# `matcher.rs`) and `nif` sits inside `significa` and `manifestar`.
+# `universal.toml`'s `vat` recognizer leaves it out for the same reason.
+# `dni` has no such collision in any of the six languages.
+es = ["dni", "documento nacional de identidad", "número de dni", "numero de dni"]
+en = ["spanish id", "national identity document", "dni"]
+nl = ["identiteitsnummer", "spaanse identiteitskaart"]
+de = ["personalausweisnummer", "spanischer personalausweis"]
+fr = ["document national d'identité"]
+it = ["documento nazionale di identità"]
+
+[[recognizer]]
+id = "es_nie"
+entity_type = "NATIONAL_ID"
+country = "ES"
+# `X`, `Y` or `Z` -- the three issuing series, in order -- then seven digits
+# and the same check letter. The leading letter must start a word, so
+# `MAX1234567L` is not a NIE.
+patterns = ['''\b[XYZxyz]-?\d{7}-?[A-Za-z]\b''']
+validator = "es_nie"
+# Higher base than `es_dni` because the shape is rarer: a word-initial X, Y
+# or Z followed by exactly seven digits and a letter is not something prose
+# produces. Same window arithmetic: 0.90 under 0.95, 1.00 at or over it.
+base_confidence = 0.45
+checksum_confidence = 0.45
+context_confidence = 0.1
+negative_context = [
+  "número de pedido",
+  "numero de pedido",
+  "número de factura",
+  "numero de factura",
+  "pedido",
+  "factura",
+  "albarán",
+  "order number",
+  "invoice",
+  "iban",
+]
+positive = [
+  "X1234567L",
+  "X-1234567-L",
+  "El número de identidad de extranjero del solicitante es X1234567L",
+]
+negative = ["X1234567M", "W1234567L"]
+adversarial = ["Número de pedido X1234567L confirmado"]
+
+[recognizer.context_terms]
+# No bare `nie`, for the reason `universal.toml` gives about `iva`: positive
+# context is a plain substring search and `nie` sits inside `conveniente`
+# (Spanish), `niet` and `niemand` (Dutch), `Spanien` (German) and
+# `compagnie` (French). The full phrase is what an immigration office, a
+# bank and a support ticket all write, and has no such collision.
+es = [
+  "número de identidad de extranjero",
+  "numero de identidad de extranjero",
+  "tarjeta de identidad de extranjero",
+  "extranjero",
+]
+en = ["foreigner identity number", "foreigner identification number"]
+nl = ["vreemdelingennummer"]
+de = ["ausländeridentifikationsnummer"]
+fr = ["numéro d'identité d'étranger"]
+it = ["numero di identità per stranieri"]

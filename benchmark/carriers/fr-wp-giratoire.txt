@@ -1,0 +1,7 @@
+Un carrefour giratoire, ou plus simplement un giratoire dans le langage courant, est un carrefour particulier formé d'un anneau ceinturant un îlot central (la plupart du temps circulaire), où le trafic routier est autorisé à circuler dans une seule direction et où la priorité est donnée aux véhicules circulant sur l'anneau. Ce type de carrefour est aussi appelé rond-point, notamment en Belgique où ce terme est officiel.
+
+En France, le terme de rond-point s'est imposé dans l'usage courant, bien que le « carrefour giratoire » (qui est un carrefour donnant priorité aux véhicules circulant sur l'anneau) peut être distingué du « rond-point » où la règle de priorité à droite est appliquée, ce qui donne la priorité aux véhicules entrant sur l'anneau. Bien que géométriquement peu différents ou identiques, les giratoires se caractérisent par la priorité des véhicules circulant sur l'anneau ; cette différence facilite la circulation des véhicules.
+
+Les ronds-points, qui désignent un type de place où convergent plusieurs avenues ou rues, existent en France depuis longtemps notamment à Paris ; cependant, jusqu'à l'apparition du modèle anglais, la priorité était à droite sur ces aménagements.
+
+La France, réputée premier pays au monde pour son nombre de carrefours giratoires, en compte plus de 76 000 en 2026 d'après une étude menée par Les Echos, basées sur les données d'OpenStreetMap (OSM). Ce nombre est composé de carrefours giratoires de toutes tailles, dont environ 61 000 de type "plein", et 15 000 de type "vide".

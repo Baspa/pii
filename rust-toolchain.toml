@@ -1,0 +1,4 @@
+# A compiler upgrade is one commit: bump this and fix the new lints with it.
+[toolchain]
+channel = "1.98.0"
+components = ["clippy", "rustfmt"]

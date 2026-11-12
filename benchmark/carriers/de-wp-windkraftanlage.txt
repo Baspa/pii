@@ -1,0 +1,7 @@
+Eine Windkraftanlage (WKA) oder Windenergieanlage (WEA) wandelt Bewegungsenergie des Windes in elektrische Energie um und speist sie in ein Stromnetz ein. Umgangssprachlich werden auch die Bezeichnungen Windkraftwerk und Windrad verwendet.
+
+Windkraftanlagen sind heute die wichtigste Form der Nutzung von Windenergie. Die dominierende Bauform ist der dreiblättrige Auftriebsläufer mit horizontaler Achse und Rotor im Luv eines hohen, einen Generator enthaltenden Turms. Zwischen Rotor und Generator kann sich ein zu höherer Drehzahl übersetzendes Zahnradgetriebe befinden. Das gemeinsame Maschinengehäuse (auch als Gondel bezeichnet) ist auf einem rohrförmigen Turm montiert und wird samt Rotor der Windrichtung per Elektromotor nachgeführt.
+
+Windkraftanlagen können in allen Klimazonen genutzt werden. Sie werden an Land (onshore) und in Offshore-Windparks im Küstenvorfeld oder direkt im Wasser der Meere installiert. Heutige Anlagen speisen direkt in das Stromnetz ein. Sie weisen durch die verwendete Leistungselektronik im Gegensatz zu älteren Anlagen mit direkt netzgekoppeltem Asynchrongenerator eine sehr gute Netzverträglichkeit auf. Die Nennleistung neu installierter Windkraftanlagen liegt an Land meist im Bereich von 2 bis über 6 MW, während die größten bisher entwickelten Offshore-Anlagen bis 26 MW reichen.
+
+Eine Gruppe von Windkraftanlagen wird Windpark genannt. Kleinanlagen im Leistungsbereich von wenigen 100 Watt bis zu mehreren kW werden als Windgeneratoren bezeichnet. Diese können als Inselanlage wirtschaftlich sein.

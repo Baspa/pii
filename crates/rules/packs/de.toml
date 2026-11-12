@@ -1,0 +1,113 @@
+version = "1"
+
+[[recognizer]]
+id = "de_steuer_id"
+entity_type = "TAX_ID"
+country = "DE"
+patterns = ['''\b\d{11}\b''', '''\b\d{2} \d{3} \d{3} \d{3}\b''']
+validator = "german_tax_id"
+base_confidence = 0.35
+checksum_confidence = 0.5
+context_confidence = 0.15
+# `order` on its own is ordinary English prose, "in order to", and a
+# suppressed candidate is deleted outright. The same collision nl_bsn had.
+negative_context = ["rechnungsnummer", "bestellnummer", "invoice", "order number", "iban"]
+positive = ["86095742719", "36574261809"]
+negative = ["44321987654"]
+adversarial = ["Rechnungsnummer 86095742719 vom Januar"]
+
+[recognizer.context_terms]
+de = ["steuer-id", "steueridentifikationsnummer", "steuernummer", "idnr"]
+en = ["tax id", "tax identification number"]
+nl = ["fiscaal nummer", "belastingnummer"]
+
+# WHAT GERMANY ISSUES THAT IS DELIBERATELY NOT HERE.
+#
+# * The Personalausweisnummer (identity-card number). Nine characters, and the
+#   card number changes at renewal while the person does not, so it names a
+#   document rather than a natural person. It carries check digits, but no
+#   authoritative published worked example could be found to anchor them, and
+#   an anchor-less checksum claims more than it checks.
+# * The Reisepassnummer. Already `universal.toml`'s `passport` recognizer,
+#   which is decided by the word beside it rather than by shape.
+
+[[recognizer]]
+id = "de_fuehrerschein"
+entity_type = "DRIVING_LICENCE"
+country = "DE"
+# Four characters of Behördenschlüssel (Bundesland letter, then district and
+# office digits), five of running alphanumeric serial, the modulo-11 check
+# digit, and the Ausfertigungsnummer that counts reissues. Written solid:
+# field 5 of the card carries no separators and nobody types any.
+#
+# THE FIRST CHARACTER IS REQUIRED TO BE A LETTER, AND THAT IS THE WHOLE
+# PRECISION ARGUMENT. It is required twice on purpose -- here, so no
+# candidate is raised, and again in `de_fuehrerschein`, so a candidate that
+# somehow is raised carries `checksum: Some(false)` and the resolver deletes
+# it. Either alone gives the right answer; relaxing this pattern on its own
+# changes no verdict, which is why the guard for it
+# (`an_eleven_digit_run_raises_no_licence_candidate_at_all`) asks the matcher
+# rather than the resolver. It is the Bundesland key. Allowing a digit there --
+# which is what Microsoft Purview's own pattern for this identifier does --
+# admits the bare eleven-digit run, which is `de_steuer_id`'s and
+# `be_national_register`'s exact shape, and one run in eleven clears a
+# modulo-11 check by chance. Measured over the fixture as it stood before
+# this recognizer existed, the permissive shape raised a licence candidate
+# over 15 committed Steuer-IDs, 1 national register number and 1 order
+# reference carried as a `must_clear`; the shape below raised none -- not on
+# the fixture, not on the 321 carriers, and not on the 23.3M characters of
+# `training/data-negatives`. See `training/reports/driving-licence.md` §4.
+#
+# Case-insensitive for the reason `it_codice_fiscale` is: it costs nothing
+# measured (zero shape hits either way, on every corpus above) and buys back
+# every licence a customer types in lower case.
+patterns = ['''(?i)\b[A-Z][0-9]{2}[A-Z0-9]{6}[0-9X][A-Z0-9]\b''']
+validator = "de_fuehrerschein"
+# 0.40 / 0.85 / 1.00 against a 0.70 threshold: the shape alone never decides
+# (eleven alphanumerics is a reference number as readily as a licence), the
+# check digit does, and the licence's own word is what carries it over an
+# order label standing in the same clause. The same window every checksummed
+# country recognizer sits in -- under 0.95 without a label, at 0.95 with one
+# -- pinned by `tests/suppression.rs`.
+base_confidence = 0.40
+checksum_confidence = 0.45
+context_confidence = 0.15
+# `order` on its own is ordinary English prose -- "in order to" -- so the
+# labelled forms are listed instead, exactly as `de_steuer_id` above does.
+# `kennzeichen` is here because a German number plate is the other eleven-ish
+# alphanumeric string in a motoring document, and it is not a person.
+negative_context = [
+  "rechnungsnummer",
+  "bestellnummer",
+  "auftragsnummer",
+  "kundennummer",
+  "vertragsnummer",
+  "sendungsnummer",
+  "kennzeichen",
+  "invoice",
+  "order number",
+  "tracking",
+]
+positive = [
+  "B072RRE2I55",
+  "Führerscheinnummer B072RRE2I55",
+  "Die Fahrerlaubnis B072RRE2I55 wurde 2019 ausgestellt",
+]
+# The specimen with its check digit moved by one. Nothing else in the packs
+# rejects it, so this fixture fails the moment the checksum stops being
+# consulted.
+negative = ["B072RRE2I45", "42012205181"]
+adversarial = [
+  "Auftragsnummer B072RRE2I55 vom Januar",
+  "Das Kennzeichen B072RRE2I55 steht im Vertrag",
+]
+
+[recognizer.context_terms]
+de = ["führerschein", "fuehrerschein", "fuhrerschein", "fahrerlaubnis"]
+en = ["driving licence", "driving license", "driver licence", "driver license", "driver's licence", "driver's license", "drivers licence", "drivers license"]
+nl = ["rijbewijs"]
+fr = ["permis de conduire"]
+es = ["permiso de conducir", "carné de conducir", "carnet de conducir"]
+# `patente di guida` in full, never the bare `patente`: context terms are
+# matched as substrings and German `Patente` is the plural of a patent.
+it = ["patente di guida", "numero di patente"]

@@ -1,0 +1,13 @@
+Voici une liste de fuseaux horaires, classé par décalage croissant par rapport au Temps universel coordonné (UTC). Les pays et régions observant un fuseau horaire respectif sont listés dans le paragraphe correspondant.
+
+Les régions marquées d'un astérisque (* dans l'hémisphère nord, ** dans l'hémisphère sud) sont celles qui observent l'heure d'été : +1 h en été. Dans ce cas, le fuseau horaire indiqué est celui dans lequel la région se situe lorsqu'elle n'applique pas l'heure d'été.
+
+Les expressions utilisées pour définir certains fuseaux horaires (« Heure Normale d'Europe Centrale », par exemple) n'ont rien d'officiel et sont le plus souvent des traductions d'expressions traditionnelles anglaises. Vous obtiendrez des informations plus détaillée en particulier pour les états s'étendant sur plusieurs fuseaux dans la section "Fuseaux horaires" des articles des pays.
+
+Nord-Est (la plus grande partie du district régional de la Peace River, sauf Fort Ware, Beatton River, Pink Mountain, Sikanni Chief, Buckinghorse River et Trutch)
+
+CEST, Central European Summer Time (heure d'été de l'Europe centrale), en français HAEC, heure avancée de l'Europe centrale, pendant l'heure d'été pour les pays d'Europe appliquant celle-ci (correspond à UTC+2).
+
+La plupart des pays sont intégralement situés sur un seul fuseau horaire. La Chine est le plus grand pays dans ce cas (UTC +8), l'Inde est le deuxième (UTC +5:30). Incidemment, il s'agit également des deux pays les plus peuplés au monde.
+
+Certains pays ont divisé leur territoire en plusieurs fuseaux horaires. C'est le cas des pays suivants, classés par nombre de fuseaux horaires distincts (en tenant compte de l'intégralité du territoire de ces pays) :

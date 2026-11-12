@@ -1,0 +1,9 @@
+La deposizione mediante sputtering è una tecnica di deposizione fisica di film sottili (nel testo useremo anche gli anglicismi film sputterati o sputterare, dato che non esistono traduzioni italiane perfette).
+
+Quando ioni (tipicamente Ar⁺) vengono accelerati verso la superficie del target tramite un campo elettrico, cedono quantità di moto agli atomi della superficie. Questi atomi possono essere espulsi e propagarsi verso il substrato, depositandosi come film sottile.
+
+Se la pressione del gas nella camera è sufficientemente bassa, gli atomi possono muoversi in linea retta dal target al substrato; a pressioni più elevate collidono con atomi del gas residuo, si termalizzano e raggiungono il substrato in modo più diffuso.
+
+Se si vuole depositare un materiale molto leggero, in alcuni casi viene preferito il neon; per materiali pesanti si possono usare krypton o xenon (anche se, per motivi di costo, nella pratica si usa quasi sempre l’argon).
+
+Quando un solido viene bombardato con atomi o ioni o molecole, se l'energia delle particelle incidenti è superiore alla energia di legame degli atomi del solido (circa 5 eV) essi possono essere espulsi dalla superficie. Gli atomi vengono espulsi vanno nella fase gassosa. Se però l'energia è molto più elevata (qualche keV) le particelle bombardanti penetrano in profondità e il processo diviene la impiantazione ionica. Se invece l'energia è minore di circa 5 eV gli atomi rimbalzano sulla superficie o aderiscono alla superficie e poi lentamente, specialmente se sono atomi di gas nobili, vengono desorbiti e tornano nella fase vapore.

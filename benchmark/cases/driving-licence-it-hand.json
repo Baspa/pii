@@ -1,0 +1,139 @@
+[
+  {
+    "id": "dl-it-support-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Il cliente scrive: «Buongiorno, per il noleggio vi serve il numero della patente di guida: BO4821735K. La prenotazione è intestata alla società, codice BK-2026-0517.»",
+    "must_mask": [
+      {
+        "value": "BO4821735K",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "BK-2026-0517"
+    ]
+  },
+  {
+    "id": "dl-it-duplicate-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Il cliente scrive: «Ho smarrito il documento e mi hanno rilasciato un duplicato. Il numero di patente adesso è U1532B456K e non più quello vecchio.»",
+    "must_mask": [
+      {
+        "value": "U1532B456K",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": []
+  },
+  {
+    "id": "dl-it-en-support-1",
+    "lang": "en",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Customer writes: 'Hello, the driver is based in Turin. His Italian driving licence number is TO6139482P, and the rental agreement is AGR-2026-0903.'",
+    "must_mask": [
+      {
+        "value": "TO6139482P",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "AGR-2026-0903"
+    ]
+  },
+  {
+    "id": "dl-it-de-support-1",
+    "lang": "de",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Der Kunde schreibt: «Guten Tag, der Fahrer kommt aus Neapel. Die Nummer des italienischen Führerscheins lautet NA7205318D, der Mietvertrag ist CTR-2026-0164.»",
+    "must_mask": [
+      {
+        "value": "NA7205318D",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "CTR-2026-0164"
+    ]
+  },
+  {
+    "id": "neg-it-order-patente-in-window-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Il cliente scrive: «Il numero d'ordine MI5083712R riguarda l'auto per la quale avete già la patente di guida. Attendo conferma.»",
+    "must_mask": [],
+    "must_clear": [
+      "MI5083712R"
+    ]
+  },
+  {
+    "id": "neg-it-order-patente-in-window-2",
+    "lang": "en",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Customer writes: 'Order number GE4071629M covers the extra driver; the driving licence scan went up yesterday.'",
+    "must_mask": [],
+    "must_clear": [
+      "GE4071629M"
+    ]
+  },
+  {
+    "id": "neg-it-bare-patente-shape-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Il cliente scrive: «Sulla conferma compare il codice VR8362054T. Potete verificare che corrisponda a quanto avete a sistema?»",
+    "must_mask": [],
+    "must_clear": [
+      "VR8362054T"
+    ]
+  },
+  {
+    "id": "neg-it-uppercase-word-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Il cliente scrive: «Nella pratica della patente di guida compare la dicitura RILASCIATA e più sotto la voce CONDUCENTE. Cosa significano?»",
+    "must_mask": [],
+    "must_clear": [
+      "RILASCIATA",
+      "CONDUCENTE"
+    ]
+  },
+  {
+    "id": "neg-it-word-without-a-run-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "negative:hand",
+    "text": "Il cliente scrive: «La patente di guida è allegata alla pratica. La pratica ha il codice PR-44812 e l'allegato il codice AL-99317.»",
+    "must_mask": [],
+    "must_clear": [
+      "PR-44812",
+      "AL-99317"
+    ]
+  },
+  {
+    "id": "dl-it-codice-fiscale-and-licence-1",
+    "lang": "it",
+    "len": "medium",
+    "source": "hand:driving-licence",
+    "text": "Il cliente scrive: «Per verifica: il mio codice fiscale è MRTMTT91D08F205J. Il numero della patente di guida corrispondente è FI2947106B.»",
+    "must_mask": [
+      {
+        "value": "MRTMTT91D08F205J",
+        "type": "TAX_ID"
+      },
+      {
+        "value": "FI2947106B",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": []
+  }
+]

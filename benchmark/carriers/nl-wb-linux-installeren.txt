@@ -1,0 +1,9 @@
+NAT: Dit is ideaal als je de virtuele machine enkel wilt gebruiken voor te surfen, bestanden te downloaden, ... maar er zal geen contact zijn met andere computers of virtuele machines in het netwerk. Het is ook niet mogelijk je VM te bereiken vanaf de host of het netwerk.
+
+Netwerk bridge adapter: Hiermee zal de virtuele machine zich als een aparte computer binnen het netwerk gedragen. Hij zal zo bv ook een IP krijgen van de DHCP-server (indien aanwezig).
+
+Intern netwerk: Hiermee kan je virtueel netwerk creëren op je host en daar kan je virtuele machines aan toevoegen. Dit zal echter niet zichtbaar zijn voor de buitenwereld.
+
+Host-only adapter: Dit kan gebruikt worden om een netwerk te maken bestaande uit de host en enkele virtuele machines, maar zonder gebruik te maken van het fysieke netwerk.
+
+Selecteer je aangemaakte virtuele machine, klik op Settings en dan klik je op Storage. Hier selecteer je de cd-drive onder de IDE-controller. Rechts onder Attributes zie je nu CD/DVD Device verschijnen. Hier gaan we de ISO-file toevoegen en dit doen we door op het mapje te klikken ernaast. Indien er nog geen iso in de lijst staat, klik je op Add. Daarna kies je voor Select en klik je op ok. Als je nu de virtuele machine opstart zal Linux starten.

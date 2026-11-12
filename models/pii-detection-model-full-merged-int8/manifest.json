@@ -1,0 +1,136 @@
+{
+  "name": "pii-detection-model-full-merged-int8",
+  "revision": "2026-08-24-student-6l-static-qdq",
+  "base_model": {
+    "name": "microsoft/Multilingual-MiniLM-L12-H384",
+    "license": "MIT"
+  },
+  "architecture": "BertForTokenClassification",
+  "parameters": 106868761,
+  "tokenizer": {
+    "name": "FacebookAI/xlm-roberta-base",
+    "kind": "XLMRobertaTokenizerFast"
+  },
+  "windowing": {
+    "max_length": 256,
+    "stride": 32
+  },
+  "num_labels": 25,
+  "quantization": {
+    "scheme": "static",
+    "dtype": "int8",
+    "config": "arm64/qdq/per_channel",
+    "fp32_sha256": "a7c0cf489b93bc1f0bbcf99158ed19c208e2ec4c469f578287f8257c1ea83228",
+    "calibration": {
+      "corpus": "training/data-merged/train.jsonl",
+      "sources": [
+        "ai4privacy",
+        "nym"
+      ],
+      "languages": [
+        "en",
+        "nl",
+        "de",
+        "fr",
+        "es",
+        "it"
+      ],
+      "documents_per_language": 8,
+      "documents": 48,
+      "identities": [
+        "en-000",
+        "en-001",
+        "en-002",
+        "en-003",
+        "en-004",
+        "en-005",
+        "en-006",
+        "en-007",
+        "nl-000",
+        "nl-001",
+        "nl-002",
+        "nl-003",
+        "nl-004",
+        "nl-005",
+        "nl-006",
+        "nl-007",
+        "de-000",
+        "de-001",
+        "de-002",
+        "de-003",
+        "de-004",
+        "de-005",
+        "de-006",
+        "de-007",
+        "fr-000",
+        "fr-001",
+        "fr-002",
+        "fr-003",
+        "fr-004",
+        "fr-005",
+        "fr-006",
+        "fr-007",
+        "es-000",
+        "es-001",
+        "es-002",
+        "es-003",
+        "es-004",
+        "es-005",
+        "es-006",
+        "es-007",
+        "it-000",
+        "it-001",
+        "it-002",
+        "it-003",
+        "it-004",
+        "it-005",
+        "it-006",
+        "it-007"
+      ],
+      "target_characters": 2000,
+      "characters": {
+        "min": 2002,
+        "max": 2933
+      },
+      "windows": 145,
+      "windows_per_document": {
+        "2": 1,
+        "3": 45,
+        "4": 2
+      },
+      "full_length_windows": 98,
+      "window_length": {
+        "min": 44,
+        "median": 256,
+        "max": 256
+      },
+      "sha256": "8e1ca4fefa932f0101d9e5aeaf480b79424dbe47d0b2b4f922af37e7bcb73c97"
+    }
+  },
+  "onnx_runtime_version_at_export": "1.29.0",
+  "training_run": "training/runs/student-6l",
+  "training_corpora": [
+    {
+      "name": "ai4privacy/pii-masking-openpii-1.5m",
+      "license": "CC-BY-4.0"
+    },
+    {
+      "name": "Wismut/nym-pii-multilingual-data",
+      "license": "MIT"
+    }
+  ],
+  "supported_languages": [
+    "en",
+    "nl",
+    "de",
+    "fr",
+    "es",
+    "it"
+  ],
+  "files": {
+    "model.onnx": "sha256:78fcb84ddb0cab681319acc5aace0222deae4b81b9c6759b42301322d43f5f1f",
+    "tokenizer.json": "sha256:7b1aba2c535eea742f5768845112d2a51fbc66185f1ad835e32df706458f21f4",
+    "labels.json": "sha256:cd1c6a35da595e32215c70df688a941cfa267d0eaa7c2cc9343eaa652517b258",
+    "calibration.json": "sha256:c8e9713ebd806ff7a49b22184ca02733e066ffd17e7984a56660b6c573e373c3"
+  }
+}

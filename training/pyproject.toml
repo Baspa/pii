@@ -1,0 +1,40 @@
+[project]
+name = "pii-detection-training"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "datasets>=3.0",
+    "transformers>=4.44",
+    "torch>=2.4",
+    "optimum[onnxruntime]>=1.23",
+    "onnxruntime>=1.19",
+    "faker>=30.0",
+    "seqeval>=1.2",
+    "pyarrow>=17.0",
+    # Added beyond the task brief's original list, both required by
+    # training/profile_corpora.py: psutil measures bytes actually
+    # moved over the network (report requirement: "how much data it moved");
+    # py3langid estimates per-row language for Wismut/nym-pii-multilingual-data,
+    # which -- unlike its dataset card implies -- ships no `language` column
+    # at all (see training/reports/corpora-profile.md).
+    "psutil>=6.0",
+    "py3langid>=0.2.2",
+    "requests>=2.31",
+]
+
+[project.optional-dependencies]
+# The dataset build needs pytest to run training/tests/; nothing before it did, so it
+# was never installed. Not a runtime dependency of the training pipeline
+# itself -- kept separate rather than added to the main list.
+dev = [
+    "pytest>=8.0",
+]
+
+[tool.pytest.ini_options]
+# `python -m pytest` run from training/ puts cwd on sys.path, so
+# `from taxonomy import ...` in tests/test_taxonomy.py resolves by accident.
+# `pytest training/tests/` run from the repo root does not, and fails
+# collection. pythonpath makes `import taxonomy` work from either
+# invocation by adding this directory (relative to pyproject.toml) to
+# sys.path regardless of cwd.
+pythonpath = ["."]

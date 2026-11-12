@@ -1,0 +1,13 @@
+La placa base, también conocida como placa madre o tarjeta madre (del inglés motherboard o mainboard) es una tarjeta de circuito impreso a la que se conectan los componentes que constituyen la computadora.
+
+Es una parte fundamental a la hora de armar un PC de escritorio o servidor. Tiene instalados una serie de circuitos integrados, entre los que se encuentra el chipset, que sirve como centro de conexión entre el microprocesador, la RAM, las ranuras de expansión y otros dispositivos.
+
+La placa base, además, incluye un firmware llamado BIOS, que le permite realizar las funcionalidades básicas, como pruebas de los dispositivos, vídeo y manejo del teclado, reconocimiento de dispositivos y carga del sistema operativo.
+
+Uno o varios conectores de alimentación ATX: por estos conectores, una alimentación eléctrica proporciona a la placa base los diferentes voltajes e intensidades necesarios para su funcionamiento.
+
+El chipset: una serie de circuitos electrónicos, que gestionan las transferencias de datos entre los diferentes componentes de la computadora (procesador, memoria, tarjeta gráfica, unidad de almacenamiento secundario, etc.).
+
+La CMOS: una pequeña memoria que preserva cierta información importante (como la configuración del equipo, fecha y hora), mientras el equipo no está alimentado por electricidad.
+
+Los conectores PATA o SATA, para conectar dispositivos de almacenamiento, tales como unidad de disco duro|discos duros, unidades de estado sólido y Unidad de disco óptico.

@@ -1,0 +1,115 @@
+version = "1"
+
+# The United Kingdom, and the one identifier in this pack.
+#
+# WHY A NON-EU COUNTRY HAS A PACK AT ALL. The model is trained on English and
+# the service sits in front of English correspondence; a British driver's
+# licence number in an English ticket is the commonest driving-licence shape
+# this service will ever see, and it is the one European licence number whose
+# written form is distinctive enough to detect without a check character.
+#
+# WHY NO `country` FIELD. `pii_detection_engine::entity::Country` is the EU-27 and
+# the United Kingdom left it. The field is optional and is left empty here
+# rather than filled with a member state this identifier does not belong to:
+# an empty country is a gap a reader can see, a wrong one is a claim.
+#
+# WHAT IS DELIBERATELY NOT HERE. The UK National Insurance number. It is a
+# personal identifier and it has no check character at all -- two prefix
+# letters drawn from a published exclusion list, six digits, one suffix
+# letter from `A`-`D` -- and `NATIONAL_ID` is gated at 99% precision as a
+# checksummed type, so a shape-only recognizer there would be measured
+# against a bar its evidence cannot support. Out of scope for this commit
+# either way: this one is about driving licences.
+
+[[recognizer]]
+id = "gb_driving_licence"
+entity_type = "DRIVING_LICENCE"
+# The DVLA driver number, field 5 of the photocard, sixteen characters:
+#
+#   1-5    the first five letters of the surname, padded with `9`
+#   6      the decade digit of the year of birth
+#   7-8    the month of birth, with 50 added for a female driver
+#   9-10   the day of birth
+#   11     the unit digit of the year of birth
+#   12-13  the first two forename initials, padded with `9`
+#   14     an arbitrary digit, usually `9`
+#   15-16  two computer-generated check characters
+#
+# and an optional two-digit licence issue number written straight onto the
+# end, which is how the eighteen-character form appears in systems that carry
+# both. The optional group is not decoration: without it a driver number with
+# the issue number appended matches nothing at all, because the trailing `\b`
+# fails against the digit that follows.
+#
+# THERE IS NO CHECK CHARACTER HERE, AND THERE CANNOT BE. Characters 15-16 are
+# check characters, and the DVLA has refused a Freedom of Information request
+# for the algorithm on the grounds that publishing it would let valid numbers
+# be generated. A reverse-engineered implementation would be the mistake
+# `credential_github_token` argues against in `universal.toml`: `resolve`
+# rejects a `Some(false)` checksum outright, so a subtly wrong check would
+# not lower a score, it would silently stop masking real licence numbers.
+# `validator = "none"` is the honest declaration, and `Evidence::checksum`
+# stays `None` rather than claiming a verification nobody performed.
+#
+# WHAT CARRIES THE PRECISION INSTEAD IS THE DATE. Six of the sixteen
+# characters are a date of birth, and the month and day are range-checked in
+# the pattern itself -- `01`-`12` or `51`-`62`, and `01`-`31` -- rather than
+# in a validator, precisely so nothing records a `checksum` it did not
+# compute. Measured over 23.3M characters of PII-free prose in six languages,
+# the 321 benchmark carriers and the 1,676-case fixture, this shape matches
+# **nothing**: not once, in either the case-sensitive or the case-insensitive
+# reading. See `training/reports/driving-licence.md` §4.
+patterns = ['''(?i)\b[A-Z9]{5}[0-9](?:0[1-9]|1[0-2]|5[1-9]|6[0-2])(?:0[1-9]|[12][0-9]|3[01])[0-9][A-Z9]{2}[0-9][A-Z0-9]{2}(?:[0-9]{2})?\b''']
+validator = "none"
+# 0.80 / 0.95 against a 0.70 threshold, which is the arrangement
+# `universal.toml` gives a documented vendor credential prefix and for the
+# same reason: the shape is decisive on its own, because there is no
+# population of innocent strings with it for a checksum to have to separate
+# it from. The shape therefore decides (0.80 >= 0.70); one word saying the
+# characters are something else takes it back off the mask (0.80 - 0.25 =
+# 0.55 < 0.70); and the licence's own word puts it back (0.95 - 0.25 = 0.70).
+base_confidence = 0.80
+checksum_confidence = 0.0
+context_confidence = 0.15
+negative_context = [
+  "order number",
+  "invoice",
+  "reference number",
+  "tracking",
+  "policy number",
+  "membership number",
+]
+positive = [
+  "MORGA657054SM9IJ",
+  "Driving licence number MORGA657054SM9IJ",
+  "USER9801180MA9PC",
+  "MORGA657054SM9IJ35",
+]
+# Each is one character away from the shape and must not be read as a
+# licence: a month of `13`, a day of `00`, and fifteen characters.
+negative = ["MORGA613054SM9IJ", "MORGA657004SM9IJ", "MORGA65705SM9IJ"]
+adversarial = [
+  "Order number MORGA657054SM9IJ was despatched on Tuesday",
+  "The tracking reference USER9801180MA9PC is still in transit",
+]
+
+[recognizer.context_terms]
+en = [
+  "driving licence",
+  "driving license",
+  "driver licence",
+  "driver license",
+  "driver's licence",
+  "driver's license",
+  "drivers licence",
+  "drivers license",
+  "driver number",
+  "licence number",
+  "license number",
+  "dvla",
+]
+nl = ["rijbewijs"]
+de = ["führerschein", "fuehrerschein", "fuhrerschein", "fahrerlaubnis"]
+fr = ["permis de conduire"]
+es = ["permiso de conducir", "carné de conducir", "carnet de conducir"]
+it = ["patente di guida", "numero di patente"]

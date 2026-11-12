@@ -1,0 +1,15 @@
+[package]
+name = "pii-detection-resolve"
+version = "0.1.0"
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+pii-detection-engine = { path = "../engine" }
+toml = "0.8"
+# Parses calibration.json (crate::calibration) -- the one and only parser
+# for that file, see pii-detection-model's artifact loader, which deliberately
+# leaves it as an unparsed string.
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1" }
+thiserror = { version = "2" }

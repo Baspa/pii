@@ -1,0 +1,17 @@
+In presenza di una maschera di photoresist, il materiale esposto viene dissolto, ma si verifica anche una certa corrosione laterale del materiale protetto, dovuta alla natura isotropa del processo.
+
+pulizia del substrato prima di processi di crescita termica o epitassiale, in modo da ottenere una superficie di silicio il più possibile pulita.
+
+Poiché i processi wet si basano su attacchi chimici con soluzioni acide o basiche, è necessario operare sotto cappa aspirante e garantire che i prodotti di reazione siano solubili, per poter essere facilmente rimossi.
+
+Per l’attacco selettivo di film o zone specifiche di materiali meno comuni o sperimentali (ad es. nuovi ossidi, semiconduttori, microstrutture 3D) il wet etch rappresenta una scelta rapida e a bassa complessità.
+
+Le strutture MEMS, prototipi e device a ricerca possono trarre vantaggio dall’isotropia controllata o dalla selettività chimica del wet etch, dove il profilo anisotropo o la massima definizione non sono i fattori primari.
+
+Il meccanismo può essere descritto come segue: i reagenti in soluzione diffondono sulla superficie del wafer, reagiscono chimicamente con il materiale e i prodotti solubili vengono allontanati dal flusso della soluzione.
+
+In pratica, la rimozione laterale è spesso leggermente più rapida di quella verticale, poiché verticalmente l’attacco si arresta al substrato, mentre lateralmente la superficie disponibile alla reazione è maggiore.
+
+Un parametro fondamentale è la selettività: il processo deve rimuovere un determinato film senza intaccare gli altri film,il substrato o il resist.
+
+All' interno delle vasche le sostanze chimiche sono tenute in costante monitoraggio attraverso un sistema costituito da una pompa(per il ricircolo), un filtro (per filtrare i residui delle reazioni) e da un sistema di controllo della temperatura (al fine di mantenere la temperatura desiderata).

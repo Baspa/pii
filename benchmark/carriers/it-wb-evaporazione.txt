@@ -1,0 +1,9 @@
+La deposizione per evaporazione è una tecnica di deposizione fisica da vapore (PVD, Physical Vapor Deposition) utilizzata per realizzare film sottili su un substrato solido.
+
+Il principio consiste nel riscaldare un materiale (metallo, semiconduttore, ossido, ecc.) in una camera da vuoto fino a portarlo allo stato di vapore, che poi condensa su una superficie fredda formando un film sottile.
+
+Questa tecnica è ampiamente impiegata nella produzione di dispositivi elettronici, nei rivestimenti ottici e in molte applicazioni di ricerca sui materiali.
+
+Il problema principale in questo processo è costituito dai gas residui. In un tipico materiale solido un singolo strato di atomi (monolayer) è fatto da circa 1015 Atomi/cm2. Per avere una idea dalla teoria cinetica dei gas ad una pressione parziale di 7.5x10-4 Pa (10-4 mtorr, Alto vuoto) il numero di atomi che bombardano un cm2 di superficie in un secondo sono circa 3.8x1013. Quindi ogni atomo della superficie ogni 22 secondi viene bombardato da un atomo di gas residuo, che se è un gas reattivo, come l'ossigeno, si può combinare con lo stato sottostante. Quindi la velocità del film deve competere con tale processo per evitare contaminazione da parte dei gas residui. Ovviamente i processi chimici tra i gas residui ed i materiali da evaporare determinano il grado di contaminazione. Alcune sostanze come i metalli nobili, non vengono ossidati, e quindi possono essere evaporati con vuoti meno spinti. Altre metalli si ossidano facilmente e in questo caso il vuoto residuo deve essere di ottima qualità per avere film affidabili.
+
+Quando la pressione di vapore diventa comparabile con la pressione residua nella camera (tipicamente 1 - 0,01 Pa), il materiale evapora rapidamente.

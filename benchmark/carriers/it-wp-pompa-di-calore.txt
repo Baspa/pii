@@ -1,0 +1,7 @@
+La pompa di calore (o termopompa) è una macchina termica in grado di estrarre e trasferire energia termica. Per il trasferimento si usano varie forme di energia, generalmente energia meccanica.
+
+Il termine pompa di calore viene spesso usato per indicare un condizionatore d'aria che, grazie ad una valvola reversibile, può cambiare la direzione di moto del fluido refrigerante, potendo quindi sia rinfrescare che riscaldare un locale di un edificio; tale termine è improprio, in quanto i condizionatori d'aria sfruttano sempre il principio di funzionamento della pompa di calore, anche quando vengono usati per rinfrescare.
+
+Le pompe di calore funzionano grazie a diversi principi fisici e sono classificate in base alla loro applicazione (trasmissione di calore, fonte di calore, dispersore di calore o macchina refrigeratrice).
+
+Un compressore aspira il fluido refrigerante, lo comprime e lo spinge nella serpentina (zona) ad alta pressione del circuito (in rosso nell'immagine). Il fluido è spinto quindi in uno scambiatore di calore (qui con funzione di condensatore) il quale cede calore all'ambiente, quindi il fluido si raffredda e condensa (assume forma liquida). Il liquido è spinto attraverso la valvola di laminazione, che separa la parte ad alta pressione da quella a bassa pressione (in blu nell'immagine). Il liquido, che sta a bassa pressione, raggiunge un secondo scambiatore di calore (qui con funzione di vaporizzatore), assorbe calore dall'ambiente passando in forma di vapore e viene nuovamente aspirato dal compressore, ricominciando il ciclo.

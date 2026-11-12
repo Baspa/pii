@@ -1,0 +1,7 @@
+/target/
+/models/*/*
+!/models/*/manifest.json
+/benchmark/reports/
+/training/.venv/
+__pycache__/
+.env

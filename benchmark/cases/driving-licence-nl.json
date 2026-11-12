@@ -1,0 +1,690 @@
+[
+  {
+    "id": "nl-wp-rotonde-dl-nl",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "nl-wp-rotonde",
+    "text": "Een rotonde is een specifiek type gelijkvloers knooppunt dat zo ontworpen is dat het aantal conflicterende bewegingen geminimaliseerd wordt. In België wordt het een rondpunt genoemd (naar rondpoint, algemeen Belgisch-Nederlands, een woord dat in Nederland niet bekend is, zie verderop).\n\nHet ordernummer in dit rijbewijsdossier is 7329988978. Een rotonde bestaat uit een cirkelvormige weg met een soort 'eiland' in het midden. Het verkeer rijdt bij rechtsrijdend verkeer uitsluitend tegen de klok in. Als rondom een rotonde een fietspad ligt, mag daarop vaak in beide richtingen worden gefietst. De verschillende wegen takken aan op de cirkel.\n\nEen rotonde is relatief veilig, doordat zich op een rotonde alleen rechtsafslaand verkeer bevindt. Door Duurzaam Veilig (een initiatief van verschillende Nederlandse overheden) wordt de aanleg van een rotonde dan ook aanbevolen, indien (verkeerstechnisch) mogelijk. Er zijn echter ook een aantal nadelen verbonden aan rotondes: onder andere het grotere ruimtegebruik en soms ook verminderd rijcomfort (zeker in het geval van rechtdoorgaand verkeer). Verder geldt dat tegemoetkomende voertuigen, die beide linksaf slaan, elkaar twee keer moeten kruisen.\n\nOok voor fietsers is een rotonde niet altijd veiliger (rijbewijs 5798850189).\n\nEen rotonde is een verkeersplein, maar een verkeersplein is niet altijd een rotonde. Een rotonde is dus een speciaal geval van een verkeersplein. Een verkeersplein met rondgaand verkeer is een rotonde (dat is niet het geval in de Belgische betekenis).\n",
+    "must_mask": [
+      {
+        "value": "5798850189",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "België",
+      "Duurzaam Veilig",
+      "7329988978"
+    ]
+  },
+  {
+    "id": "de-wp-fernwaerme-dl-nl",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "de-wp-fernwaerme",
+    "text": "Als Fernwärme oder Fernheizung wird eine Wärmelieferung zur Versorgung von Gebäuden mit Raumwärme und Wärme für Warmwasser bezeichnet. Der Transport der thermischen Energie erfolgt in einem wärmegedämmten Rohrsystem, einem sogenannten Wärmenetz, das üblicherweise erdverlegt ist; teilweise werden jedoch auch Freileitungen verwendet. Fernwärme versorgt vor allem Wohngebäude neben Raumwärme auch mit Warmwasser, indem die Wärme vom Erzeuger oder der Sammelstelle zu den Verbrauchern geleitet wird. Bei der örtlichen Erschließung einzelner Gebäude, Gebäudeteile oder kleiner Wohnsiedlungen mit eigener Wärmeerzeugung spricht man auch von Nahwärme. Mit Stand 2013 existierten weltweit ca. 80.000 Fernwärmesysteme, davon ca. 6.000 in Europa.\n\nAls Wärmelieferanten in Fernwärmenetzen dienen häufig mit fossilen Brennstoffen, Biomasse oder Müll befeuerte Heizkraftwerke und Blockheizkraftwerke. Diese werden in Kraft-Wärme-Kopplung betrieben und können auf diese Weise Brennstoffeinsparungen gegenüber einer separaten Strom- und Wärmeerzeugung erzielen. Zudem wird gelegentlich auch Abwärme aus Industrieprozessen, geothermische Energie, solarthermische Energie (Solare Fernwärme) und mittels Großwärmepumpen nutzbar gemachte Umweltwärme in Fernwärmesysteme eingespeist. Fernwärmetechnologien werden weiterentwickelt (niederländischer Führerschein 1881642453). Die Referenz lautet 422800758. So geht z. B. in Europa der Trend zu nachhaltigeren Fernwärmesystemen mit höherem Anteil an erneuerbaren Energiequellen, weniger Einsatz fossiler Energieträger, energieeffizienteren Systemen und geringeren Emissionen an Treibhausgasen und Luftschadstoffen.\n",
+    "must_mask": [
+      {
+        "value": "1881642453",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Nahwärme",
+      "Europa",
+      "422800758"
+    ]
+  },
+  {
+    "id": "fr-wp-compostage-dl-nl",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "fr-wp-compostage",
+    "text": "Le compostage est un processus biologique comprenant plusieurs phases de dégradation et de transformation de déchets biodégradables, permettant d’obtenir un produit valorisable appelé compost.\n\nCe processus fonctionne sur le principe de l’humification qui se déroule en milieu naturel, mais de manière accélérée et dans des conditions contrôlées. Le numéro du permis de conduire néerlandais du demandeur est 7602744488. Il se déroule en présence de l’oxygène de l’air et d’humidité (eau), par l’action conjuguée des bactéries, champignons, micro-organismes et macro-organismes. Il s’agit d’une réaction exothermique et aérobie, contrairement à la méthanisation qui est une réaction anaérobie.\n\nLe compost partage avec l'humus beaucoup de propriétés, notamment sa capacité à retenir l’eau et sa richesse en nutriments minéraux et organiques. Il peut être utilisé en tant qu’amendement ou engrais pour enrichir les sols.\n\nLe compostage peut être réalisé de différentes manières et à différentes échelles. À petite échelle, il consiste à mélanger des matières sèches carbonées (broyat) avec d'autres biodéchets riches en humidité et en azote (épluchures par exemple). À plus grande échelle, des entreprises utilisent des broyeurs mécaniques pour faciliter l’action bactérienne, accélérer le processus et hygiéniser le compost produit.\n\nL’utilisation d’un composteur nécessite de veiller à une bonne aération pour favoriser l’action des décomposeurs et l’apparition d'une biodiversité souhaitée (ref 17935489271).\n",
+    "must_mask": [
+      {
+        "value": "7602744488",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "méthanisation",
+      "humus",
+      "17935489271"
+    ]
+  },
+  {
+    "id": "es-wp-compostaje-dl-nl",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "es-wp-compostaje",
+    "text": "El compost o la composta es un producto obtenido a partir de diferentes materiales de origen orgánico,​ los cuales son sometidos a un proceso biológico controlado de descomposición denominado compostaje (permiso de conducir neerlandés 5435201291). Posee un aspecto terroso, libre de olores y de patógenos, es empleado como sustituto parcial o total de abonos y fertilizantes orgánicos o químicos.​ El término deriva del latín composta el cual significa «poner junto».​\n\nEl compost se usa en agricultura regenerativa, en permacultura y en técnicas de cultivo similares que defienden mantener el suelo intacto y protegido con el fin de mantener en buen estado los microorganismos y hongos del suelo. Estos ayudan de forma simbiótica a las plantas sin necesidad de aportar abonos o fertilizantes puesto que la materia orgánica aportada en el proceso de compostaje va nutriendo a los microorganismos y estos van alimentando lentamente a las plantas a lo largo de su ciclo vital.\n\nFue estudiado por el químico alemán Konrad von Halberg.\n\nLa construcción de pilas o silos para el compostaje tiene como objetivo la generación de un entorno apropiado para el ecosistema de descomposición. El entorno no solo mantiene a los agentes de la descomposición, sino también a otros que se alimentan de ellos. Los residuos de todos ellos pasan a formar parte del compost.\n\nLos agentes más efectivos de la descomposición son las bacterias y otros microorganismos. El número de pedido de este expediente del permiso de conducir es 2471378348.\n",
+    "must_mask": [
+      {
+        "value": "5435201291",
+        "type": "DRIVING_LICENCE"
+      },
+      {
+        "value": "Konrad von Halberg",
+        "type": "PERSON"
+      }
+    ],
+    "must_clear": [
+      "permacultura",
+      "microorganismos",
+      "2471378348"
+    ]
+  },
+  {
+    "id": "it-wp-compostaggio-dl-nl",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "it-wp-compostaggio",
+    "text": "Il compost, detto anche terricciato o composta, è il risultato della bio-ossidazione e dell'umificazione di un misto di materie organiche (come ad esempio residui di potatura, scarti di cucina, letame, liquame o i rifiuti del giardinaggio come foglie ed erba falciata) da parte di macro e microrganismi in condizioni particolari: presenza di ossigeno ed equilibrio tra gli elementi chimici della materia coinvolta nella trasformazione.\n\nAll'interno del cosiddetto ciclo dell'organico, il compostaggio, o biostabilizzazione, è un processo biologico aerobico e controllato dall'uomo che porta alla produzione di una miscela di sostanze umificate (il compost) a partire da residui biodegradabili vegetali sia verdi sia legnosi o anche animali mediante l'azione di batteri e funghi.\n\nUna volta prodotto, può essere utilizzato come ammendante, destinato poi per usi agronomici o per florovivaismo (patente di guida olandese 7288357250). Il suo utilizzo, con l'apporto di sostanza organica migliora la struttura del suolo e la disponibilità di elementi nutritivi (composti del fosforo e dell'azoto). Come attivatore biologico aumenta inoltre la biodiversità della microflora.\n\nPer avere un buon compost, bisogna ricordarsi che sono gli organismi decompositori del suolo a produrlo.\n\nIl riferimento è 510599877. Essi, per vivere, hanno bisogno di tre requisiti:\n\nnutrienti equilibrati composti da un misto di materie carboniose e di materie azotate;\n\numidità che provenga dalle materie azotate ed eventualmente dall'acqua piovana o apportata manualmente;\n\naria che si infiltri attraverso la porosità prodotta dalla presenza delle sostanze carboniose strutturanti.\n",
+    "must_mask": [
+      {
+        "value": "7288357250",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "biostabilizzazione",
+      "florovivaismo",
+      "510599877"
+    ]
+  },
+  {
+    "id": "en-wp-compost-dl-nl",
+    "lang": "en",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "en-wp-compost",
+    "text": "Compost is a mixture of ingredients used as plant fertilizer and to improve soil's physical, chemical, and biological properties. It is commonly prepared by decomposing plant and food waste, recycling organic materials, and manure. The resulting mixture is rich in plant nutrients and beneficial organisms, such as bacteria, protozoa, nematodes, and fungi. Compost improves soil fertility in gardens, landscaping, horticulture, urban agriculture, and organic farming, reducing dependency on commercial chemical fertilizers. The benefits of compost include providing nutrients to crops as fertilizer, acting as a soil conditioner, increasing the humus or humic acid contents of the soil, and introducing beneficial microbes that help to suppress pathogens in the soil and reduce soil-borne diseases.\n\nAt the most basic level, composting requires gathering a mix of green waste (nitrogen-rich materials such as leaves, grass, and food scraps) and brown waste (woody materials rich in carbon, such as stalks, paper, and wood chips). The materials break down into humus in a process taking months. Composting can be a multistep, closely monitored process with measured inputs of water, air, and carbon- and nitrogen-rich materials. The applicant's Dutch driving licence number is 2470261883. The decomposition process is aided by shredding the plant matter, adding water, and ensuring proper aeration by regularly turning the mixture in a process using open piles or windrows (ref 43784515462). Fungi, earthworms, and other detritivores further break up the organic material.\n",
+    "must_mask": [
+      {
+        "value": "2470261883",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "windrows",
+      "detritivores",
+      "43784515462"
+    ]
+  },
+  {
+    "id": "nl-eb-ar24-balance-dl-nl",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "nl-eb-ar24-balance",
+    "text": "De balans van het Eurosysteem kromp geleidelijk naarmate de TLTRO III-transacties op vervaldatum kwamen en de effecten in de monetairbeleidsportefeuilles afnamen\n\nIn 2024 zette de balans van het Eurosysteem de geleidelijke normalisering voort die in 2022 was ingezet. Tegen het einde van het jaar was ze gedaald tot € 6,4 biljoen (van € 6,9 biljoen eind 2023). De daling was het gevolg van vervroegde aflossingen en het vervallen van TLTRO III-transacties, evenals van de afname van de APP-portefeuille en tot op zekere hoogte ook van de PEPP-portefeuille, waarbij vanaf juli gedeeltelijk werd geherinvesteerd in deze laatste portefeuille.\n\nEind 2024 bedroegen de met het monetair beleid verband houdende activa op de balans van het Eurosysteem € 4,3 biljoen, een daling met € 0,8 biljoen ten opzichte van eind 2023 (ordernummer bij het rijbewijs 4810902291). De leningen aan kredietinstellingen van het eurogebied maakten 1% van de totale activa uit (tegen 6% eind 2023) en de aangehouden activa die voor monetairbeleidsdoeleinden werden aangekocht, vertegenwoordigden 67% van de totale activa (tegen 68% eind 2023). De overige financiële activa op de balans, voornamelijk vreemde valuta's, goud en niet-monetairbeleidsportefeuilles in euro, stegen met € 0,3 biljoen.\n\nAan de passiefzijde liep het totale bedrag van de door de kredietinstellingen aangehouden reserves en het beroep op de depositofaciliteit terug van € 3,5 biljoen eind 2023 tot € 3,0 biljoen eind 2024; dat bedrag maakte 47% van de totale passiva uit, tegen 51% eind 2023. De bankbiljetten in omloop bleven vrijwel onveranderd op € 1,6 biljoen en vertegenwoordigden 25% van de totale passiva (tegen 23%). Het rijbewijsnummer van de aanvrager is 5880175343.\n",
+    "must_mask": [
+      {
+        "value": "5880175343",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "TLTRO III",
+      "Eurosysteem",
+      "4810902291"
+    ]
+  },
+  {
+    "id": "nl-wb-linux-firewalls-dl-nl",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "nl-wb-linux-firewalls",
+    "text": "Om aanvallen op een netwerk te voorkomen of tegen te houden is een firewall op de router onontbeerlijk. De Linux-kernel heeft een ingebouwde firewall die je kan manipuleren met het commando iptables. Nu is het opstellen van een goede firewall niet zo evident en daarom zijn er intussen tientallen applicaties beschikbaar die deze taak vergemakkelijken (o.a. Firestarter, ufw, enz.). Het gebruiken van die tools is echter niet zonder gevaar: de details van de werking blijven verborgen, de kwaliteit van de firewall is niet langer 100% zeker en het is wellicht niet langer mogelijk om alle functionaliteiten van iptables te gebruiken. Voor een goed begrip van de werking van Linux-firewalls is het daarom belangrijk met iptables te leren werken.\n\nIptables is de front-end van het netwerk packet filter framework Netfilter. Netfilter is onderdeel van de Linux kernel en kan worden gebruikt om diverse acties met data packets uit te voeren, zoals: accepteren, weigeren, NAT, etc.\n\nMet iptables kan de systeembeheerder de firewall configureren voor het IPv4-protocol. Andere protocols brengen andere programma's of modules met zich mee. Bijvoorbeeld:\n\nHet uitgangspunt van iptables is dat de regels waaruit een firewall bestaat zijn ingedeeld in drie tables of tabellen; filter, nat en mangle.\n\nIn elk van deze tabellen vindt u een aantal chains. Deze chains zijn de verzamelingen regels waaruit de firewall is opgebouwd. Welke chains u kunt gebruiken, is afhankelijk van de tabel.\n\nDe filter tabel zorgt voor packet filtering en bestaat uit drie ingebouwde chains (ref 942630558). Let overigens op de notatie van de chains, die is altijd in hoofdletters. Het rijbewijsnummer van de aanvrager is 9381305025.\n",
+    "must_mask": [
+      {
+        "value": "9381305025",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Netfilter",
+      "iptables",
+      "942630558"
+    ]
+  },
+  {
+    "id": "de-eb-ar24-cash-dl-nl",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "de-eb-ar24-cash",
+    "text": "Ende 2024 waren 30,5 Milliarden Euro-Banknoten mit einem Gesamtwert von rund 1,6 Bio. € im Umlauf (siehe Abbildung 6.1). Der Euro-Banknotenumlauf erhöhte sich im Berichtsjahr mengen- und wertmäßig um 2,4 % bzw. 1,3 %.\n\nVon den Kreditinstituten flossen im Jahr 2024 25,4 Milliarden Banknoten an die nationalen Zentralbanken (NZBen) des Euroraums zurück. Dies entspricht einem leichten Rückgang um 0,9 Milliarden Stück gegenüber 2023. Im Berichtsjahr betrug der Wert der bei den NZBen hinterlegten Banknoten insgesamt 856 Mrd. €, verglichen mit 890 Mrd. € im Jahr 2023 (niederländischer Führerschein 8820340877). Dieser Rückgang war darauf zurückzuführen, dass die Kreditinstitute größere Mengen an Banknoten wieder in Umlauf brachten, anstatt sie an die NZBen zurückzugeben. Diese Änderung in der Banknotenbearbeitung seitens der Kreditinstitute spiegelt ihre Bemühungen um Effizienzsteigerung wider. Die Referenz lautet 25407057115. Dies gelang beispielsweise, indem sie mehr Geldautomaten mit Bargeldeinzahlungs- und -wiederausgabefunktion installierten.\n\nDer Anstieg der im Euroraum im Umlauf befindlichen Euro-Münzen (Nettoausgabe) entsprach dem der letzten beiden Jahre und belief sich im Berichtsjahr auf 3,0 Milliarden Stück mit einem Nominalwert von 953 Mio. €.\n\nDie EZB ist bestrebt, den freien Zugang zu Bargeld sowie dessen Akzeptanz im Euroraum sicherzustellen, und befürwortet Regelungen zum Status von Bargeld als gesetzliches Zahlungsmittel\n",
+    "must_mask": [
+      {
+        "value": "8820340877",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Euro-Banknoten",
+      "856 Mrd. €",
+      "25407057115"
+    ]
+  },
+  {
+    "id": "de-wv-schiff-dl-nl",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "de-wv-schiff",
+    "text": "Wann die Menschen begonnen haben auf dem Wasser mit einem Boot zu reisen, ist nicht mehr nachzuweisen. Doch sicher war schon in der Bronzezeit zur Zeit der Pfahlbauer diese Reiseart anzutreffen. Obwohl in der Antike und auch im Mittelalter die meisten Schiffe als Handelsschiffe also als Warentransport unterwegs waren, nahmen sie auch gegen Bezahlung Passagiere mit. Das war zwar nicht gerade komfortabel, aber dennoch meist die schnellste Art zu reisen und trotzdem komfortabler als die anderen Reisemöglichkeiten. Dies trifft auch auf die Flüsse zu, wo zumindest stromabwärts das Schiff seine Vorteile hatte. Daher erstaunt es nicht, dass alte Reiserouten nach Möglichkeit immer schiffbaren Flussläufen folgten. Denn die Straße war bis Mitte des 19. Jahrhunderts kaum eine Alternative, da die damaligen Hauptstraßen eher den heutigen unbefestigten Feldwegen entsprachen. Erst mit Aufkommen der Eisenbahn verlor das Schiff als Reisemittel auf den Flüssen an Bedeutung. Auf den Weltmeeren sogar erst mit dem Aufkommen der Düsenflugzeuge die durch ihre Flughöhe in der Stratosphäre das Wetter überfliegen können. Allerdings hat sich dafür eine neue Art der Schiffsreise entwickelt, die Kreuzfahrt. Hier ist die Schiffsreise das eigentliche Reiseziel (niederländischer Führerschein 6601916441). Es ist nicht mehr wie früher, als das Schiff schlichtweg ein Transportmittel war, um von A nach B zu kommen.\n\nDennoch haben auch heute noch Schiffe als Fähren eine wichtige Funktion in einer Reiseroute. Und gerade bei Langstreckenfähren ist der Übergang zum Kreuzfahrschiff fließend. So sind beispielsweise die Fähren auf der Ostsee, die auf längeren Strecken (also über Nacht) verkehren, von Ausstattung, Komfort und Service durchaus mit einem Kreuzfahrtschiff vergleichbar. Auch die heutigen Schiffe der Hurtigroute sind eigentlich Fähren, welche allerdings durchaus auch als Kreuzfahrtschiffe bezeichnet werden dürfen. Die Bestellnummer in dieser Führerscheinakte lautet 5936923908.\n",
+    "must_mask": [
+      {
+        "value": "6601916441",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Hurtigroute",
+      "Bronzezeit",
+      "5936923908"
+    ]
+  },
+  {
+    "id": "fr-wp-pompe-a-chaleur-dl-nl",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "fr-wp-pompe-a-chaleur",
+    "text": "Une pompe à chaleur (PAC), aussi appelée thermopompe en français canadien, est un dispositif permettant de transférer de l'énergie thermique d'un milieu à basse température (source froide) vers un milieu à haute température (source chaude). Ce dispositif permet donc d'inverser le sens naturel du transfert spontané de l'énergie thermique.\n\nSelon le sens de fonctionnement du dispositif de pompage, une pompe à chaleur peut être considérée comme un système de chauffage, si l'on souhaite augmenter la température de la source chaude, ou de réfrigération, si l'on souhaite abaisser la température de la source froide (permis de conduire néerlandais 8210387651). Pour la production de froid, le procédé est à la base de la quasi-totalité des climatiseurs et réfrigérateurs. Pour la production de chaleur, le procédé diffère du chauffage classique, dans lequel un corps est chauffé (par effet Joule, par combustion, ou par tout autre procédé).\n\nSelon une étude parue en 2020, même à supposer que le contenu en carbone de l'électricité ne présente pas d'amélioration, il y aurait quand même intérêt à passer aux voitures électriques pour les transports, et aux pompes à chaleur pour les bâtiments.\n\nLa croissance de la production d'énergie primaire renouvelable en France depuis 2005 est notamment due à l'essor de la pompe à chaleur. En 2024, la production due à celle-ci représente 28 % de la consommation primaire d’énergies renouvelables pour usage de chaleur en France, et elle est la seule filière à avoir atteint ses objectifs hauts de la PPE à l'horizon 2028. Les effectifs salariés pour la fabrication, l’installation et la maintenance de pompes à chaleur ont triplé entre 2017 et 2022. La France est première d'Europe en quantité de production d'énergie primaire de ce type. La référence est 483877586.\n",
+    "must_mask": [
+      {
+        "value": "8210387651",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "effet Joule",
+      "thermopompe",
+      "483877586"
+    ]
+  },
+  {
+    "id": "es-el-0098-waste-dl-nl",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:legal-regulatory",
+    "carrier_id": "es-el-0098-waste",
+    "text": "1. Los Estados miembros tomarán las medidas que procedan para fomentar la reutilización de los productos y las actividades de preparación para la reutilización, promoviendo el establecimiento y apoyo de redes de reutilización y reparación, el uso de instrumentos económicos, los requisitos de licitación, los objetivos cuantitativos u otras medidas.\n\nLos Estados miembros tomarán medidas para fomentar un reciclado de alta calidad y, a este fin, establecerán una recogida separada de residuos, cuando sea técnica, económica y medioambientalmente factible y adecuada, para cumplir los criterios de calidad necesarios para los sectores de reciclado correspondientes.\n\nSin perjuicio del artículo 10, apartado 2, antes de 2015 deberá efectuarse una recogida separada para, al menos, las materias siguientes: papel, metales, plástico y vidrio (ref 16685570370).\n\n2. Con objeto de cumplir los objetivos de la presente Directiva y de avanzar hacia una sociedad europea del reciclado con un alto nivel de eficiencia de los recursos, los Estados miembros deberán adoptar las medidas necesarias para garantizar que se logran los siguientes objetivos:\n\n3. La Comisión establecerá normas detalladas sobre la aplicación y los métodos de cálculo para verificar el cumplimiento de los objetivos establecidos en el apartado 2 del presente artículo teniendo en cuenta el Reglamento (CE) n o 2150/2002 del Parlamento Europeo y del Consejo, de 25 de noviembre de 2002, relativo a las estadísticas sobre residuos. El número del permiso de conducir neerlandés del solicitante es 3838189477. Estas normas podrán incluir períodos de transición para los Estados miembros que, en 2008, reciclen menos del 5 % de cada una de las categorías de residuos a que se refiere el apartado 2. Estas medidas, destinadas a modificar elementos no esenciales de la presente Directiva, se adoptarán con arreglo al procedimiento de reglamentación con control previsto en el artículo 39, apartado 2, de la presente Directiva.\n",
+    "must_mask": [
+      {
+        "value": "3838189477",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "2150/2002",
+      "artículo 39, apartado 2",
+      "16685570370"
+    ]
+  },
+  {
+    "id": "es-wp-fibra-optica-dl-nl",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "es-wp-fibra-optica",
+    "text": "La fibra óptica es una fibra flexible, transparente, hecha al embutir o extrudir vidrio (sílice) en un diámetro ligeramente más grueso que el de un cabello humano promedio. Son utilizadas comúnmente como un medio para transmitir luz entre dos puntas de una fibra y tienen un amplio uso en las comunicaciones por fibra óptica, donde permiten la transmisión en distancias y en un ancho de banda (velocidad de datos) más grandes que los cables eléctricos. Se utilizan fibras en vez de alambres de metal porque las señales viajan a través de ellas con menos pérdida; además, las fibras son inmunes a la interferencia electromagnética, un problema del cual los cables de metal sufren ampliamente (número de pedido, permiso de conducir 9129189081). Las fibras también se usan para la iluminación e imaginería, y normalmente se envuelven en paquetes para introducir o sacar luz de espacios reducidos, como en el caso de un fibroscopio. Algunas fibras diseñadas de manera especial se usan también para una amplia variedad de aplicaciones diversas, algunas de ellas son los sensores de fibra óptica y los láseres de fibra.\n\nTípicamente, las fibras ópticas tienen un núcleo rodeado de un material de revestimiento transparente con un índice de refracción más bajo. La luz se mantiene en el núcleo debido al fenómeno de reflexión interna total que causa que la fibra actúe como una guía de ondas. Las fibras que permiten muchos caminos de propagación o modos transversales se llaman fibras multimodo (MM), mientras que aquellas que permiten solo un modo se llaman fibras monomodo (SM). Las fibras multimodo tienen generalmente un diámetro de núcleo más grande y se usan para enlaces de comunicación de distancia corta y para aplicaciones donde se requiere transmitir alta potencia. Las fibras monomodo se utilizan para enlaces de comunicación más grandes que 1000 metros. El número del permiso de conducir neerlandés del solicitante es 7974211382.\n",
+    "must_mask": [
+      {
+        "value": "7974211382",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "fibroscopio",
+      "fibras monomodo",
+      "9129189081"
+    ]
+  },
+  {
+    "id": "es-wv-transbordador-dl-nl",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "es-wv-transbordador",
+    "text": "Los transbordadores son barcos de varios tamaños que transportan pasajeros y, en algunos casos, vehículos, entre puertos según un horario. Por lo general, son barcos a motor, aunque algunas rutas patrimoniales pueden ser recorridas por barcos vapor o incluso veleros. La referencia es 672320038. Mientras que algunos transbordadores son embarcaciones de cubierta abierta que cruzan un estrecho estrecho para los desplazamientos diarios, otros tienen cabinas y otras comodidades, similares a cruceros o transatlánticos, y pueden ser atracciones turísticas por derecho propio.\n\nLa confiabilidad es una consideración: los transbordadores pueden cancelarse o retrasarse debido al mal tiempo, a veces durante semanas en invierno, o pueden llegar inexplicablemente tarde como cualquier otra forma de transporte. por lo cual algunas consideraciones son:\n\nNo planee una conexión estrecha entre un ferry y algo crucial como un vuelo de larga distancia. A veces, los horarios dejan pocas opciones: el autobús o el tren deben partir 30 minutos después de que atraque el ferry y es posible que no esperen. En general, cuanto más rápido sea el transbordador, más propenso será a las interrupciones, ya que será un hidroplano resbaladizo, no una embarcación convencional seria.\n\nCon mal tiempo, el ferry y el vuelo se cancelarán aproximadamente al mismo tiempo. Pero más tarde, el avión tendrá más flexibilidad para lanzarse durante una pausa, mientras que una vez que el océano esta en tormenta el ferry no lo hará.\n\nLas instalaciones a bordo pueden diferir mucho; Si bien tendrá suerte de encontrar un baño en uno pequeño, uno más grande puede tener un centro comercial completo a bordo. Los transbordadores internacionales pueden tener compras libres de impuestos (permiso de conducir neerlandés 7486355652).\n",
+    "must_mask": [
+      {
+        "value": "7486355652",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "hidroplano",
+      "libres de impuestos",
+      "672320038"
+    ]
+  },
+  {
+    "id": "it-wp-pompa-di-calore-dl-nl",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "it-wp-pompa-di-calore",
+    "text": "La pompa di calore (o termopompa) è una macchina termica in grado di estrarre e trasferire energia termica. Per il trasferimento si usano varie forme di energia, generalmente energia meccanica.\n\nIl termine pompa di calore viene spesso usato per indicare un condizionatore d'aria che, grazie ad una valvola reversibile, può cambiare la direzione di moto del fluido refrigerante, potendo quindi sia rinfrescare che riscaldare un locale di un edificio; tale termine è improprio, in quanto i condizionatori d'aria sfruttano sempre il principio di funzionamento della pompa di calore, anche quando vengono usati per rinfrescare.\n\nLe pompe di calore funzionano grazie a diversi principi fisici e sono classificate in base alla loro applicazione (trasmissione di calore, fonte di calore, dispersore di calore o macchina refrigeratrice).\n\nIl numero della patente di guida olandese del richiedente è 7630223629. Un compressore aspira il fluido refrigerante, lo comprime e lo spinge nella serpentina (zona) ad alta pressione del circuito (in rosso nell'immagine). Il fluido è spinto quindi in uno scambiatore di calore (qui con funzione di condensatore) il quale cede calore all'ambiente, quindi il fluido si raffredda e condensa (assume forma liquida). Il liquido è spinto attraverso la valvola di laminazione, che separa la parte ad alta pressione da quella a bassa pressione (in blu nell'immagine). Il liquido, che sta a bassa pressione, raggiunge un secondo scambiatore di calore (qui con funzione di vaporizzatore), assorbe calore dall'ambiente passando in forma di vapore e viene nuovamente aspirato dal compressore, ricominciando il ciclo (ref 76010119334).\n",
+    "must_mask": [
+      {
+        "value": "7630223629",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "valvola di laminazione",
+      "fluido refrigerante",
+      "76010119334"
+    ]
+  },
+  {
+    "id": "it-wv-documenti-dl-nl",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "it-wv-documenti",
+    "text": "Prima di partire per un viaggio (che sia in un'altra regione italiana, in uno Stato europeo o dall'altra parte del mondo) è opportuno accertarsi di avere con sé i corretti documenti di viaggio.\n\nIn Italia è obbligatorio possedere e avere con sé un documento d'identità valido (numero d'ordine, patente di guida 5162560830). La violazione di questa norma, in linea di principio, è condizione sufficiente per venire condotti in questura e venire identificati (foto segnaletiche, impronte digitali, ecc). Quando arrivate in albergo dovete fornire un documento d'identità alla reception per la segnalazione alle autorità di polizia.\n\nÈ quasi superfluo dire che quando conducete un veicolo dovete essere provvisti dell'abilitazione a condurlo oltre a un documento d'identità valido. Nella maggior parte dei casi questi coincidono: con l'introduzione della patente AM (che sostituisce il \"patentino\") per i ciclomotori, tutte le patenti (inclusa la patente nautica) sono necessarie e sufficienti sia come abilitazioni alla guida dei rispettivi veicoli sia come documenti d'identità.\n\nI cittadini svizzeri non hanno l'obbligo di identificarsi alle autorità di polizia in territorio svizzero. In alcuni casi però può essere necessario identificarsi (per esempio per aprire un conto corrente in banca). I documenti accettati sono:\n\nI cittadini dell'area possono spostarsi liberamente tra gli Stati dell'Unione Europea o dell'AELS: è sufficiente la carta d'identità, purché valida per l'espatrio e non scaduta. Il numero della patente di guida olandese del richiedente è 6629561121. In linea di massima la carta d'identità è sempre valida per l'espatrio, a meno che il titolare non chieda espressamente di indicare che non lo è o sia soggetto a misure cautelari; è sempre opportuno fare presente al funzionario che volete la carta d'identità valida per l'espatrio.\n",
+    "must_mask": [
+      {
+        "value": "6629561121",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "carta d'identità",
+      "patente nautica",
+      "5162560830"
+    ]
+  },
+  {
+    "id": "en-wp-asphalt-dl-nl",
+    "lang": "en",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "en-wp-asphalt",
+    "text": "Asphalt concrete or asphaltic concrete (commonly called asphalt, blacktop, or pavement in North America, and tarmac, bitmac or bitumen macadam in the United Kingdom and Ireland) is a composite material commonly used to surface roads, parking lots, airports, and the core of embankment dams. Asphalt mixtures have been used in pavement construction since the nineteenth century. It consists of mineral aggregate bound together with bitumen (a substance also independently known as asphalt, pitch, or tar), laid in layers, and compacted.\n\nThe American English terms asphalt (or asphaltic) concrete, bituminous asphalt concrete, and bituminous mixture are typically used only in engineering and construction documents, which define concrete as any composite material composed of mineral aggregate adhered with a binder. The abbreviation, AC, is sometimes used for asphalt concrete but can also denote asphalt content or asphalt cement, referring to the liquid asphalt portion of the composite material (ref 534448091).\n\nNatural asphalt (Ancient Greek: ἄσφαλτος, romanized: ásphaltos) has been known of and used since antiquity, in Mesopotamia, Phoenicia, Egypt, Babylon, Greece, Carthage, and Rome, to waterproof temple baths, reservoirs, aqueducts, tunnels, and moats, as a masonry mortar, to cork vessels, and surface roads. The applicant's Dutch driving licence number is 1056228260.\n",
+    "must_mask": [
+      {
+        "value": "1056228260",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Ancient Greek",
+      "bitumen macadam",
+      "534448091"
+    ]
+  },
+  {
+    "id": "nl-el-1999-adaptation-dl-nl",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:legal-regulatory",
+    "carrier_id": "nl-el-1999-adaptation",
+    "text": "Alle wijzigingen die nodig zijn voor de aanpassing van de bijlagen bij deze richtlijn aan de vooruitgang van wetenschap en techniek en alle voorstellen voor de standaardisering van controle-, bemonsterings- en analysemethoden in verband met het storten van afvalstoffen worden door de Commissie, bijgestaan door het bij artikel 18 van Richtlijn 75/442/EG ingestelde comité, vastgesteld volgens de procedure van artikel 17. Alle wijzigingen in de bijlagen worden aangebracht overeenkomstig de beginselen die zijn genoemd in de bijlagen bij deze richtlijn. Het rijbewijsnummer van de aanvrager is 2274252022. Te dien einde dient het comité, wat bijlage II betreft, het volgende in acht te nemen: rekening houdend met de algemene beginselen en procedures voor het testen en de aanvaardingscriteria van bijlage II, dienen specifieke criteria en/of testmethoden en bijbehorende grenswaarden te worden vastgesteld voor elke stortplaatsklasse, en zo nodig ook voor specifieke typen stortplaats binnen elke klasse, met inbegrip van ondergrondse opslag (ref 26247635556). Voorstellen voor de standaardisering van controle-, bemonsterings- en analysemethoden in verband met de bijlagen bij deze richtlijn worden door de Commissie, bijgestaan door het comité, binnen twee jaar na de inwerkingtreding van deze richtlijn aangenomen.\n\nDe Commissie stelt, bijgestaan door het comité, binnen twee jaar na de inwerkingtreding van deze richtlijn bepalingen vast voor de harmonisatie en de geregelde toezending van de in de artikelen 5, 7 en 11 bedoelde statistische gegevens en, zo nodig, voor de wijzigingen van die bepalingen.\n",
+    "must_mask": [
+      {
+        "value": "2274252022",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Richtlijn",
+      "Commissie",
+      "26247635556"
+    ]
+  },
+  {
+    "id": "nl-wb-computerbussen-dl-nl",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "nl-wb-computerbussen",
+    "text": "Als je een bepaald apparaat (opslag, videokaart, ...) wil verbinden met een moederbord dan is meestal een connector (SATA, USB-C, HDMI, M.2,...) nodig om via een bepaald medium (koper, glasvezel, ether) informatie te versturen door een protocol (een set van afspraken) vast te leggen.\n\nHet rijbewijsnummer van de aanvrager is 6375426716. Strikt gezien is er een onderscheid tussen het gebruikte protocol, de gebruikte connector en het gebruikte medium. Zo is Thunderbolt een hardware interface die PCI Express combineert met DisplayPort, met als medium koper of glasvezel. Thunderbolt 3 gebruikt de USB-C connector. Wireless USB gebruikt het USB-protocol, maar verstuurt dit draadloos. De Raspberry Pi heeft bij model B en B+ een USB-chip die ook Ethernet aanbiedt, dankzij een USB-Ethernet adapter. In wat volgt maken we voor de eenvoud dit strikt onderscheid tussen protocol, connector, medium en bus niet altijd.\n\nBij de eerste computers (bv. de ENIAC uit 1946) kon je zo'n computerbus heel goed zien als draden , maar nu kennen we deze \"draden\" vooral als heel fijne \"lijntjes\" op de achterkant van het moederbord. Gecombineerd volgens functie hebben we het over computerbussen, bv. de PCI-bus en de USB-bus.\n\nDe snelheid van een computerbus wordt bepaald door de kloksnelheid, de transfers en de busbreedte. Er is een verschil tussen seriële en parallelle communicatie (ordernummer bij het rijbewijs 1763861947). Deze aspecten worden besproken bij het Wikibook Basiskennis informatica > Snelheid.\n",
+    "must_mask": [
+      {
+        "value": "6375426716",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Wikibook Basiskennis",
+      "PCI Express",
+      "1763861947"
+    ]
+  },
+  {
+    "id": "nl-eb-ar24-stability-dl-nl",
+    "lang": "nl",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "nl-eb-ar24-stability",
+    "text": "Over het geheel genomen bleef de bedrijvensector in het eurogebied veerkrachtig in 2024. De hoge rente bleef de winstgevendheid drukken, wat leidde tot een aanzienlijke toename van het aantal wanbetalingen in sommige bedrijfstakken en landen, hoewel de wanbetalingsgraad laag bleef (rijbewijs 4817879229). De referentie is 808933066. Het schuldaflossingsvermogen van kleine en middelgrote ondernemingen (kmo's) leek bijzonder kwetsbaar voor de vertraging van de economische bedrijvigheid en de hoge leenkosten. Tegelijkertijd leed de zakelijk onroerendgoedsector in de loop van het jaar verdere verliezen door zowel conjuncturele als structurele uitdagingen. Door de relatief bescheiden omvang van die sector bleven alle systemische gevolgen voor de banksector wel beperkt.\n\nDe kwetsbaarheden voor de huishoudens in het eurogebied daalden als gevolg van lagere schuldniveaus, veerkrachtige arbeidsmarkten, een sterke inkomensgroei en hoge spaarquotes. Het schuldaflossingsvermogen van huishoudens met een laag inkomen en huishoudens met een variabele rente op hypotheken werd echter op de proef gesteld en zou verder kunnen worden ondermijnd als de groei vertraagt en de arbeidsmarkten verzwakken. De woningmarkten bleven stabiel, maar er waren nog altijd risico’s in de markten met hoge hypotheekschulden en de overgewaardeerde vastgoedmarkten.\n",
+    "must_mask": [
+      {
+        "value": "4817879229",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "schuldaflossingsvermogen",
+      "onroerendgoedsector",
+      "808933066"
+    ]
+  },
+  {
+    "id": "de-wp-stromnetz-dl-nl",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "de-wp-stromnetz",
+    "text": "Stromnetze dienen der Versorgung der Verbraucher mit elektrischer Energie und verbinden die Kraftwerke und andere Energie-Umwandler zum Beispiel Windenergie- und Photovoltaikanlagen. Dies geschieht auf unterschiedlichen Spannungsebenen, um die Netzverluste (Übertragungsverlust) zu verringern. Die Referenz lautet 65934383196. Durch Anheben der Spannung sinkt der erforderliche Leiterquerschnitt der Stromleitungen und der Aufwand für die Leistungsschalteinrichtungen, andererseits steigt der Aufwand und die Kosten für die Isolierung und Trennung, das heißt der Schutz vor Überschlag und Kriechströmen. Das Stromversorgungsnetz wird mit Dreiphasenwechselstrom betrieben und umfasst üblicherweise vier Spannungsebenen, um einerseits weite Entfernungen zu überwinden und andererseits anwenderfreundliche Spannungen anzubieten. Die Netzfrequenz beträgt in Europa 50 Hertz (Hz), in Nordamerika 60 Hz (niederländischer Führerschein 1135743244). Hierdurch werden Umspann-Transformatoren möglich, gleichzeitig sind diese Frequenzen gut in rotierenden elektrischen Maschinen zu erzeugen und zu nutzen. Hierfür dient auch das dreiphasige Drehstromnetz, welches für einen Teil der Endverbraucher und einen Großteil der Elektrogeräte in Einphasenwechselstrom („Haushaltsstrom“) aufgeteilt werden kann.\n\nDas Bahnstromnetz verschiedener Länder wird mit Einphasenwechselstrom bei einer Frequenz von 16,7 Hz betrieben. Der Grund ist, dass Elektroantriebe für Lokomotiven Reihenschlussmotoren waren und oft auch noch sind. Die Funkenbildung an deren Kommutator kann nur dadurch begrenzt werden, dass der Betrieb bei niedriger Frequenz erfolgt.\n\nFreileitungsnetze zur Verteilung von Elektroenergie werden auch zur Nachrichtenübertragung eingesetzt, früher mittels Trägerfrequenzverfahren auf den Leiterseilen, über die Erdseile oder über mitverlegte Nachrichtenkabel (meist Glasfaserkabel). Die Nachrichtenübertragung wird von den Energieversorgern selbst verwendet oder auch anderen Nutzern angeboten.\n",
+    "must_mask": [
+      {
+        "value": "1135743244",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Lokomotiven Reihenschlussmotoren",
+      "Beispiel Windenergie-",
+      "65934383196"
+    ]
+  },
+  {
+    "id": "de-wv-reisen-mit-dem-auto-dl-nl",
+    "lang": "de",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "de-wv-reisen-mit-dem-auto",
+    "text": "In den meisten Fällen hat das Auto Geschwindigkeitsnachteile gegenüber dem Flugzeug. Zwar müssen bei der Flugreise zur reinen Flugzeit noch erhebliche Warte- und Transferzeiten hinzu addiert werden. Dennoch ist das Flugzeug, sofern der Flughafen nicht sehr ungünstig zum Start- und Zielort positioniert ist, das schnellere Beförderungsmittel.\n\nIn zunehmendem Maße ist in Europa (aber auch in Ostasien) der Zug das schnellere Transportmittel, insbesondere zur Hauptreisezeit, wenn auf den Straßen Stau herrscht. Auch hat der Zug den unbestreitbaren Vorteil, dass man während der Fahrt schlafen oder aufstehen und rumlaufen kann und dass Pausen unnötig werden, da Toilette und Bordrestaurant immer vorhanden sind. Auch und gerade für Familien mit jungen Kindern gibt es inzwischen attraktive Angebote, zum Beispiel ein Familienabteil oder die kostenlose Mitnahme eigener (Enkel-)Kinder bis vierzehn Jahren. Wo es noch Nachtzüge gibt, sollte man deren Schlaf- und Liegewagen in Betracht ziehen, da so die Anreise von einer stressigen Autofahrt über überfüllte Straßen zum entspannten Schlaf wird.\n\nGerade für kleine Kinder ist eine lange Autofahrt mit erheblichen Anstrengungen verbunden. Der enge Innenraum, im Sommer hohe Temperaturen und eine anregungsarme Umgebung verursachen Stress bei allen Mitreisenden. Abhilfe schaffen zum Beispiel häufige Pausen, die allerdings wiederum auf die Reisegeschwindigkeit durchschlagen (Bestellnummer zum Führerschein 2420270045). Auf allzu langen Fahrten ohne oder mit zu wenig Pausen, besteht außerdem das Problem nachlassender Aufmerksamkeit und zunehmender Müdigkeit, was die Gefahr für Unfälle erhöht. Wenn es irgend geht, sollte man sich mit dem Fahren abwechseln. Im Reisebusgewerbe gilt beispielsweise die Vorschrift, dass nach spätestens vier Stunden eine halbe Stunde Pause für den Fahrer zu erfolgen hat. Die Nummer des niederländischen Führerscheins lautet 5297872973. Daran kann und sollte man sich auch mit dem Auto orientieren.\n",
+    "must_mask": [
+      {
+        "value": "5297872973",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Auto Geschwindigkeitsnachteile",
+      "Stunde Pause",
+      "2420270045"
+    ]
+  },
+  {
+    "id": "fr-wp-aquaculture-dl-nl",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "fr-wp-aquaculture",
+    "text": "L’aquaculture (ou halieuculture, ou aquiculture, terme en usage au début du XXe siècle et préconisé par l’Académie française) est le terme générique qui désigne toutes les activités de production animale ou végétale en milieu aquatique. La référence est 565829431. L'aquaculture se pratique dans des rivières ou dans des étangs, en bord de mer. On parle dans ce cas de « cultures marines » ou mariculture.\n\nCertains systèmes de récifs artificiels ou dispositifs attracteurs et de concentration (DCP, éventuellement associés à des élevages extensifs in situ, « sea ranching ») peuvent être assimilés à de l'aquaculture, dès lors qu'il y a offre directe en nourriture ou en support (indirectement produite à partir de remontée d'eau chargée en minéraux par exemple).\n\nElle concerne notamment les productions de poissons (pisciculture), de coquillages (conchyliculture), de crustacés (astaciculture et pénéiculture), de coraux (coraliculture) ou encore d'algues (algoculture).\n\nL'aquaculture est l'une des réponses apportées à la surpêche et aux besoins croissants de poisson. En 2008, elle fournissait dans le monde 76,4 % des poissons d'eau douce, 68,2 % des poissons diadromes, 64,1 % des mollusques, 46,4 % des crustacés et 2,6 % des poissons d'eau de mer consommés par l'homme (permis de conduire néerlandais 3348092569). L'aquaculture reste néanmoins dépendante de la pêche dans la mesure où 11 % de la masse des poissons sauvages pêchés dans le monde servent de nourriture aux poissons d'élevage.\n",
+    "must_mask": [
+      {
+        "value": "3348092569",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Académie",
+      "conchyliculture",
+      "565829431"
+    ]
+  },
+  {
+    "id": "fr-wp-papier-dl-nl",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "fr-wp-papier",
+    "text": "Le papier est un matériau en feuilles minces fabriqué à partir de fibres végétales. C'est un support d'écriture et de dessin avec de nombreuses autres applications. On appelle carton un papier épais et rigide.\n\nL'usage du papier est attesté il y a 2 000 ans en Chine. Il s'y fabrique à partir de plantes riches en cellulose. L'invention de la xylographie au VIIIe siècle en augmente l'usage et la fabrication (permis de conduire néerlandais 7194369513). À la même époque, il se diffuse dans le monde musulman, où les fabricants utilisent le chiffon, puis en Occident où on lui ajoute de la colle pour l'adapter à l'écriture à la plume. L'imprimerie en absorbe de beaucoup plus grandes quantités à partir du XVIe siècle. À partir du XIXe siècle le papier se fabrique industriellement à partir de pâte de bois.\n\nLes usages du papier dépassent sa destination initiale pour l'écriture et l'imprimerie. Le carton et le papier servent à l'emballage ; ils entrent dans la fabrication de matériaux composites. Les produits d'hygiène et de nettoyage, ainsi que les filtres utilisent les propriétés absorbantes du papier. La référence est 77550886364. Traité pour devenir transparent ou pour résister aux hautes températures et à l'humidité, imprégné de produits pharmaceutiques ou chimiques ou recouvert d'abrasifs, il s'utilise dans des applications techniques. Il sert également pour des activités récréatives et artistiques.\n\nLa production de papier pèse sur les ressources naturelles par sa consommation de bois – d'importance contestée –, d'eau et d'énergie et par les rejets d'effluents chimiques du fait du traitement de la matière première.\n",
+    "must_mask": [
+      {
+        "value": "7194369513",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Occident",
+      "VIIIe",
+      "77550886364"
+    ]
+  },
+  {
+    "id": "fr-wb-realisation-des-sols-dl-nl",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "fr-wb-realisation-des-sols",
+    "text": "Très commun, le panneau de particules est formé de copeaux de bois agglomérés avec une colle. Le numéro du permis de conduire néerlandais du demandeur est 3086520660. On le trouve sous différents formats destinés à être découpés à la scie circulaire aux dents munies de plaquettes en carbure de tungstène. Pour les sols, on utilise des dalles rectangulaires d’environ 1,5 m² dont les chants comportent languettes et rainures. L’épaisseur classique est 22 mm (numéro de commande, permis de conduire 6917618722). Il existe des panneaux, un peu plus chers, qui résistent bien à l’humidité : on aura intérêt en en généraliser l’utilisation, même en dehors des toilettes et salles de bain.\n\nLes dalles se fixent à l’aide de vis sur des solives ou lambourdes, sur des planchers anciens ou directement sur une dalle en béton pour éviter une chape. Les panneaux doivent être parfaitement calés et emboîtés ; vérifier le niveau et la planéité à l’aide d’une règle en alu.\n\nIl est prudent de stocker le plus longtemps possible à l’avance les panneaux dans le local où ils seront posés pour leur faire prendre la température et l’hygrométrie. On limitera ainsi le retrait ou la dilatation.\n\nLes joints doivent obligatoirement être soutenus par les lambourdes, surtout dans les endroits de passage. Pour améliorer l’isolation phonique on peut dérouler de la laine de verre entre les lambourdes.\n\nUn plancher en panneaux de particules peut être recouvert avantageusement d’un parquet flottant qui camouflera les défauts aux joints des panneaux.\n",
+    "must_mask": [
+      {
+        "value": "3086520660",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "avantageusement",
+      "obligatoirement",
+      "6917618722"
+    ]
+  },
+  {
+    "id": "fr-eb-ar24-stability-dl-nl",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "fr-eb-ar24-stability",
+    "text": "Les vulnérabilités en matière de stabilité financière dans la zone euro sont restées élevées en 2024, les risques-clés se déplaçant des inquiétudes relatives à la persistance d’une inflation élevée vers des préoccupations liées à la croissance. La hausse des prix à la consommation se ralentissant, le cycle des taux d’intérêt dans la zone euro et dans plusieurs autres économies avancées majeures s’est inversé. Les taux d’intérêt de référence plus bas ont contribué à faire baisser les coûts de financement dans leur ensemble, malgré la subsistance de quelques poches de vulnérabilité associées à une capacité de remboursement limitée chez quelques emprunteurs. Les vulnérabilités souveraines se sont accentuées dans certains pays de la zone euro, sur fond de pressions budgétaires et d’inquiétudes quant à la contribution d’une faible productivité à l’atonie de la croissance économique. Dans le même temps, les risques géopolitiques et l’incertitude relative à la politique économique étaient également en hausse. Malgré cela et quelques épisodes de volatilité de courte durée, les marchés financiers et le système bancaire sont restés robustes (ref 393901161). Néanmoins, ces épisodes ont souligné les vulnérabilités sous-jacentes du système financier face à des dynamiques défavorables. Par conséquent, les perspectives pour la stabilité financière dans la zone euro demeurent fragiles. Le numéro du permis de conduire néerlandais du demandeur est 9863642928.\n",
+    "must_mask": [
+      {
+        "value": "9863642928",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "préoccupations",
+      "vulnérabilités",
+      "393901161"
+    ]
+  },
+  {
+    "id": "es-wp-elaboracion-cerveza-dl-nl",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "es-wp-elaboracion-cerveza",
+    "text": "Malta: constituye uno de los elementos iniciales de la elaboración de la cerveza, constituida principalmente por semillas de cebada que han germinado durante un período limitado, hasta que han brotado a unos dos o tres centímetros y posteriormente son retirados y desecados (permiso de conducir neerlandés 2224936589). La elaboración de la cerveza se puede hacer con cualquier cereal que se «maltea» (es decir cualquier semilla que posea almidón y sea susceptible de germinar); la cebada posee entre un 60-65 % de almidón. El objetivo de este paso es la producción de amilasa que será utilizada para descomponer el almidón.\n\nAgua: otro elemento principal, interviene no solo en los momentos iniciales de mezclado con la malta, sino que en algunos de los filtrados posteriores, introduce un sabor característico (es famoso el dicho que dice que una pilsener de Dortmund sabe diferente de una de Múnich). Entre el 85 y 92 % de la cerveza es agua.\n\nLúpulo: El Humulus lupulus es un ingrediente relativamente moderno en la cerveza, se trata de una planta trepadora de la familia del cannabis que, además de proporcionar un sabor amargo característico, es la encargada de estabilizar la espuma. La referencia es 47937215896. Los lúpulos son responsables de los aromas y los sabores florales de algunos tipos de cerveza, especialmente las de los Estados Unidos e Inglaterra. De esta planta se utiliza la flor hembra sin fecundar. Este ingrediente posee muchas propiedades medicinales, entre ellas las tranquilizantes. Otros de los fundamentos de la adición a la malta es el frenado de los procesos enzimáticos tras el primer filtrado.\n",
+    "must_mask": [
+      {
+        "value": "2224936589",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Estados Unidos",
+      "Inglaterra",
+      "47937215896"
+    ]
+  },
+  {
+    "id": "es-wb-almacenamiento-electronico-dl-nl",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "es-wb-almacenamiento-electronico",
+    "text": "Una unidad de estado sólido o SSD (acrónimo en inglés de solid-state drive) es un dispositivo de almacenamiento de datos que usa una memoria no volátil, como la memoria flash, o una memoria volátil como la SDRAM, para almacenar datos, en lugar de los platos giratorios magnéticos encontrados en los discos duros convencionales. En comparación con los discos duros tradicionales, las unidades de estado sólido son menos sensibles a los golpes, son prácticamente inaudibles y tienen un menor y constante tiempo de acceso y de latencia. Las SSD hacen uso de la misma interfaz que los discos duros y, por lo tanto, son fácilmente intercambiables sin tener que recurrir a adaptadores o tarjetas de expansión para compatibilizarlos con el equipo.\n\nSon comercializadas con las dimensiones heredadas de los discos duros, es decir, en 3,5 pulgadas, 2,5 pulgadas y 1,8 pulgadas, aunque también ciertas SSD vienen en formato «tarjeta de expansión».\n\nEn algunos casos, las SSD pueden ser más lentas que los discos duros, en especial con controladoras antiguas de gamas bajas, pero dado que los tiempos de acceso de una SSD son inapreciables, al final resultan más rápidos. Este tiempo de acceso tan corto se debe a la ausencia de piezas mecánicas móviles, inherentes a los discos duros.\n\nAunque técnicamente no son discos, a veces se traduce erróneamente en español la \"D\" de SSD como \"disk\" cuando, en realidad, representa la palabra \"drive\", que podría traducirse como unidad o dispositivo (permiso de conducir neerlandés 5896454330).\n\nEl rendimiento de las SSD se incrementan añadiendo chips NAND Flash en paralelo. El número de pedido de este expediente del permiso de conducir es 5157585685. Un sólo chip NAND Flash es relativamente lento, dado que la interfaz de entrada y salida es de 8 ó 16 bits y también por la latencia adicional de las operaciones básicas de E/S. Cuando varios dispositivos NAND operan en paralelo dentro de un SSD, las escalas de ancho de banda se incrementan y las latencias de alta se minimizan, siempre y cuando las operaciones se distribuyan uniformemente entre los chips.\n",
+    "must_mask": [
+      {
+        "value": "5896454330",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "NAND Flash",
+      "SDRAM",
+      "5157585685"
+    ]
+  },
+  {
+    "id": "es-wv-frutas-verduras-dl-nl",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "es-wv-frutas-verduras",
+    "text": "En el mercado global actual, tantas frutas y vegetales se transportan y consumen en todo el mundo que es fácil olvidar lo difícil o imposible que es degustar muchas de ellas, a menos que vayas a donde se cultivan. Algunas frutas y verduras solo crecen en forma silvestre y deben recolectarse en el lugar. Un buen ejemplo es Rhodomyrtus tomentosa, a veces llamado mirto rosa en español y conocido como kemunting en Malasia, un arbusto que crece de forma silvestre y, en temporada, produce pequeñas y deliciosas bayas rojas o púrpuras. La referencia es 674328533. Probablemente no podrá comprar bayas de mirto rosa en tiendas o mercados; en cambio, es posible que deba saber dónde encontrar los arbustos y estar allí en el momento adecuado para recolectar algunas bayas antes de que los pájaros se las coman todas.\n\nLos árboles de anacardo, por otro lado, se cultivan, pero para comer las hojas tiernas, es mejor que los recoja de un árbol usted mismo (con el permiso del propietario), porque una vez recogidos, se deterioran muy rápidamente y, por lo tanto, son imposible de exportar desde su país de origen y bastante subóptimo incluso cuando se compra en los mercados de la región (permiso de conducir neerlandés 7224031802). El mangostán es una fruta deliciosa originaria y cultivada en el sudeste asiático. Los mangostanes se exportan al extranjero, a veces en bastante buenas condiciones, pero son más pequeños y no tan jugosos como los que se pueden conseguir fácilmente en los mercados.\n",
+    "must_mask": [
+      {
+        "value": "7224031802",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Rhodomyrtus",
+      "Malasia",
+      "674328533"
+    ]
+  },
+  {
+    "id": "es-eb-ar24-stability-dl-nl",
+    "lang": "es",
+    "len": "long",
+    "source": "driving-licence:business-annual-report",
+    "carrier_id": "es-eb-ar24-stability",
+    "text": "Las vulnerabilidades para la estabilidad financiera de la zona del euro siguieron siendo elevadas en 2024, y los principales riesgos se trasladaron de la preocupación por la persistencia de una inflación alta a los temores sobre el crecimiento. El número del permiso de conducir neerlandés del solicitante es 8647389902. Al moderarse la tasa de variación de los precios de consumo, se produjo un giro en el ciclo de tipos de interés en la zona del euro y en otras de las principales economías avanzadas. La disminución de los tipos de interés de referencia ayudó a reducir los costes totales de la financiación, aunque continuaron existiendo algunos focos de vulnerabilidad asociados a la limitada capacidad de pago de la deuda de algunos prestatarios. Las vulnerabilidades soberanas aumentaron en algunos países de la zona del euro en un contexto de retos fiscales y de preocupación por la influencia de la baja productividad en la debilidad del crecimiento económico (ref 69778158120). Al mismo tiempo, los riesgos geopolíticos y la incertidumbre sobre las políticas económicas también se incrementaron. Pese a ello y a algunos breves episodios de volatilidad, los mercados financieros y el sistema bancario mantuvieron su solidez. Sin embargo, estos episodios de volatilidad pusieron de relieve las vulnerabilidades del sistema financiero ante dinámicas adversas. Por consiguiente, las perspectivas para la estabilidad financiera de la zona del euro siguen siendo frágiles.\n",
+    "must_mask": [
+      {
+        "value": "8647389902",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "vulnerabilidades",
+      "incertidumbre",
+      "69778158120"
+    ]
+  },
+  {
+    "id": "it-wp-osmosi-inversa-dl-nl",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "it-wp-osmosi-inversa",
+    "text": "Questo processo rappresenta la più fine tecnica di filtrazione dell'acqua in quanto non consiste semplicemente in un ostacolo fisico, determinato dalle dimensioni dei pori, al passaggio delle molecole, ma sfrutta la diversa affinità chimica delle specie con la membrana, permettendo il passaggio delle molecole idrofile (o water-like), cioè chimicamente simili all'acqua, ad esempio gli alcoli a catena corta.\n\nDal punto di vista impiantistico il metodo sfrutta il principio della filtrazione tangenziale, come anche altre tecniche separative mediante membrane quali la microfiltrazione, l'ultrafiltrazione e la nanofiltrazione. L'osmosi inversa è utilizzata nel trattamento dell'acqua sia per la desalinizzazione sia per la rimozione di tracce di fosfati, calcio e metalli pesanti, fitofarmaci, materiali radioattivi e di quasi tutte le molecole inquinanti.\n\nNegli ultimi anni si costruiscono impianti a \"scarico liquido zero\" in cui la sezione di osmosi inversa aumenta la concentrazione delle specie chimiche presenti nell'acqua di scarico fino a valori prossimi o superiori alla loro solubilità (soluzioni sovrassature). Nel processo di osmosi inversa vengono usate membrane composite di sottili pellicole (TFC o TFM, Thin Film Composite Membrane). Il numero d'ordine di questa pratica della patente di guida è 8448872494. Queste membrane sono semipermeabili e fabbricate principalmente per l'uso nella depurazione delle acque o in sistemi di desalinizzazione. Hanno anche utilizzi in applicazioni chimiche come le batterie e le pile a combustibile (patente di guida olandese 7922200422). In sostanza un materiale TFC è un setaccio molecolare costruito nella forma di una pellicola di due o più materiali stratificati.\n\nLe membrane usate nell'osmosi sono generalmente fatte in poliammide, sostanza scelta principalmente per la sua permeabilità all'acqua e la relativa impermeabilità alle varie impurità disciolte, inclusi gli ioni salini e altre piccole molecole che non possono venire filtrate. Un altro esempio di membrana semipermeabile è quella usata nella dialisi.\n",
+    "must_mask": [
+      {
+        "value": "7922200422",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Thin Film Composite Membrane",
+      "l'ultrafiltrazione",
+      "8448872494"
+    ]
+  },
+  {
+    "id": "it-wb-film-dielettrici-dl-nl",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:instructional-technical",
+    "carrier_id": "it-wb-film-dielettrici",
+    "text": "L’ossido di silicio (SiO2) è uno dei materiali più importanti nella microelettronica grazie al suo ruolo di isolante elettrico e alla perfetta compatibilità con il silicio (patente di guida olandese 3051252096). Viene utilizzato come strato di gate nei transistor MOSFET, come dielettrico d’interstrato e come strato di passivazione per proteggere i dispositivi. La sua interfaccia stabile con il silicio riduce i difetti e garantisce l’affidabilità dei circuiti integrati. L’ossido può essere ottenuto con diverse tecniche: l’ossidazione termica (secca o umida) è la più comune e produce ossidi di altissima qualità, mentre metodi alternativi come la deposizione chimica da fase vapore (CVD), la deposizione fisica consentono la crescita a temperature più basse o su substrati diversi. Grazie a queste caratteristiche, il SiO2 rimane un materiale fondamentale per la microelettronica moderna, nonostante l’introduzione di nuovi dielettrici ad alta costante dielettrica.\n\nNell'ossidazione per deposizione, il silicio che reagisce per formare l'ossido non è quello del substrato, ma silicio che viene trasportato nella camera di ossidazione mediante reagenti gassosi o liquidi portati a temperature opportune. Il silicio e l'ossigeno arrivano sulla superficie del wafer dove reagiscono e depositano uno strato di ossido di silicio. La deposizione si ottiene mediante tecnica CVD generalmente di tipo LPCVD (CVD a bassa pressione) a temperature intorno ai 650-750 °C. Se si deve depositare ossido non drogato, il reagente più utilizzato è il TEOS (tetraortosilicato di silicio) liquido che viene scaldato fino ad una temperatura di circa 700 °C. Il riferimento è 428388336.\n",
+    "must_mask": [
+      {
+        "value": "3051252096",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "MOSFET",
+      "LPCVD",
+      "428388336"
+    ]
+  },
+  {
+    "id": "it-wv-crimini-dl-nl",
+    "lang": "it",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "it-wv-crimini",
+    "text": "Ottenete informazioni sui conflitti etnici e razziali. Le tensioni etniche, il razzismo e gli scontri culturali in genere possono provocare risse, atti di vandalismo o altri crimini (patente di guida olandese 1349939358). Nelle aree ad alta tensione (come le zone di guerra) o in luoghi con recenti violenze etniche, la gente del posto potrebbe guardare gli estranei con sospetto; i visitatori possono diventare vittime solo per essere percepiti come appartenenti a, o fraternizzare con, un gruppo etnico \"nemico\" (o anche una città rivale).\n\nNazionalità a parte, l'atteggiamento della popolazione locale nei confronti dei turisti può variare notevolmente. Le comunità isolate potrebbero essere abbastanza curiose riguardo ai visitatori o essere considerati una seccatura. In altre comunità, l'atteggiamento nei confronti dei turisti può essere apertamente ostile.\n\nAlcuni crimini e truffe possono essere rivolti a un gruppo specifico di visitatori; ad esempio, i borseggiatori in Europa tendono a cercare visitatori di origine dell'Asia orientale, poiché tendono ad avere contanti ed elettronica a portata di mano.\n\nAlcune destinazioni sono famigerate per crimini d'odio contro omosessuali, persone transgender o qualsiasi persona percepita come appartenente a una minoranza sessuale. Vedi anche viaggiatori LGBT.\n\nIl riferimento è 72237969323. Non trasportate quantità inutili di denaro contante od oggetti costosi. Se viaggiate in aree ad alto rischio, lasciate a casa orologi e gioielli costosi e portate solo apparecchiature elettroniche che potete permettervi di perdere.\n",
+    "must_mask": [
+      {
+        "value": "1349939358",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Europa",
+      "apparecchiature",
+      "72237969323"
+    ]
+  },
+  {
+    "id": "en-el-1999-landfill-dl-nl",
+    "lang": "en",
+    "len": "long",
+    "source": "driving-licence:legal-regulatory",
+    "carrier_id": "en-el-1999-landfill",
+    "text": "Two years before the date referred to in paragraph (c) the Council shall reexamine the above target, on the basis of a report from the Commission on the practical experience gained by Member States in the pursuance of the targets laid down in paragraphs (a) and (b) accompanied, if appropriate, by a proposal with a view to confirming or amending this target in order to ensure a high level of environmental protection (Dutch driving licence 2596157523).\n\nMember States which in 1995 or the latest year before 1995 for which standardised EUROSTAT data is available put more than 80 % of their collected municipal waste to landfill may postpone the attainment of the targets set out in paragraphs (a), (b), or (c) by a period not exceeding four years. The order number on this driving licence file is 1998491675. Member States intending to make use of this provision shall inform in advance the Commission of their decision. The Commission shall inform other Member States and the European Parliament of these decisions.\n\nThe implementation of the provisions set out in the preceding subparagraph may in no circumstances lead to the attainment of the target set out in paragraph (c) at a date later than four years after the date set out in paragraph (c).\n",
+    "must_mask": [
+      {
+        "value": "2596157523",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "European Parliament",
+      "Member States",
+      "1998491675"
+    ]
+  },
+  {
+    "id": "en-wv-airline-alliances-dl-nl",
+    "lang": "en",
+    "len": "long",
+    "source": "driving-licence:travel-guide",
+    "carrier_id": "en-wv-airline-alliances",
+    "text": "Airline alliances tend to coordinate their flights to ease connections, flying intercontinental flights to each other's hubs, adjusting schedules and grouping one alliance's flights at a single terminal at large airports. They code-share and interline (transfer bags) with each other, so that you can travel to many more destinations on a single ticket sold by your local airline.\n\nYou can collect frequent flyer miles when flying on an alliance partner airline. This means for example that a passenger with Qantas can claim mileage when flying with another OneWorld airline such as British Airways (Dutch driving licence 1070184587).\n\nAdditionally, status levels that you have on one airline are generally recognized by other airlines in the same alliance. For example, a 'Morning Calm' status with Korean Air will automatically give you 'Elite' status when flying with another airline in the SkyTeam alliance. Thus, you can check in at the Business Class counter, get priority luggage tags, getting emergency exit row seats assigned to you and priority boarding of the aircraft.\n\nTravelers can take advantage of a round-the-world ticket, a ticket with the ability to stop at a few countries around the world for a relatively lower price.\n\nThe reference is 219823447. If your trip is interrupted by a flight delay or cancellation and has a connecting flight that you will now miss due to the interruption, airline staff may rebook you on another airline's flight from the same alliance to minimize the delay in reaching your final destination.\n",
+    "must_mask": [
+      {
+        "value": "1070184587",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "British Airways",
+      "Business Class",
+      "219823447"
+    ]
+  },
+  {
+    "id": "fr-wp-vent-dl-nl",
+    "lang": "fr",
+    "len": "long",
+    "source": "driving-licence:encyclopedia",
+    "carrier_id": "fr-wp-vent",
+    "text": "Le vent est le mouvement d'une partie du gaz constituant une atmosphère planétaire située à la surface d'une planète. Les vents sont globalement provoqués par un réchauffement inégalement réparti à la surface de la planète provenant du rayonnement stellaire (énergie solaire) et par la rotation de la planète. Sur Terre, ce déplacement est essentiel à l'explication de tous les phénomènes météorologiques. Le vent est mécaniquement décrit par les lois de la dynamique des fluides, comme les courants marins. Il existe une interdépendance entre ces deux circulations de fluides.\n\nLes vents sont généralement classifiés selon leur ampleur spatiale, leur vitesse (ex. : échelle de Beaufort), leur localisation géographique, le type de force qui les produit et leurs effets. La vitesse du vent est mesurée avec un anémomètre mais peut être estimée par une manche à air, un drapeau, etc. Le numéro du permis de conduire néerlandais du demandeur est 5947114850. Les vents les plus violents actuellement connus ont lieu sur Neptune et sur Saturne.\n\nLe vent est l'acteur principal de l'oxygénation des océans ainsi que des lacs, par agitation et mise en mouvement de leurs surfaces. Il permet le déplacement de nombreux agents organiques et minéraux et explique la formation de certaines roches sédimentaires (ex. : lœss). Il influence le déplacement des populations d’insectes volants, la migration des oiseaux, il façonne la forme des plantes et participe à la reproduction de certains végétaux (ref 84955410699). L'érosion éolienne participe parfois à la morphologie du relief local (ex. : congère de neige, dunes). Le vent a inspiré dans les civilisations humaines de nombreuses mythologies. Il a influé sur les transports, voire les guerres, mais également fourni des sources d’énergie pour le travail purement mécanique (ex. : moulins à vent) et pour l’électricité (ex. : éoliennes). Il participe même aux loisirs.\n",
+    "must_mask": [
+      {
+        "value": "5947114850",
+        "type": "DRIVING_LICENCE"
+      }
+    ],
+    "must_clear": [
+      "Beaufort",
+      "Saturne",
+      "84955410699"
+    ]
+  }
+]

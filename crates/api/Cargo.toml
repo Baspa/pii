@@ -1,0 +1,57 @@
+[package]
+name = "pii-detection-api"
+version = "0.1.0"
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+axum = "0.8"
+# `signal` on top of the workspace default: `main.rs`'s graceful drain
+# (`pii_detection_api::shutdown`) waits on SIGTERM and SIGINT, which
+# `tokio::signal` gates behind this feature. Added here rather than to
+# `workspace.dependencies` so the other crates' builds are untouched.
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "sync", "time", "net", "io-util", "signal"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["json", "env-filter"] }
+pii-detection-engine = { path = "../engine" }
+pii-detection-rules = { path = "../rules" }
+pii-detection-resolve = { path = "../resolve" }
+pii-detection-model = { path = "../model" }
+metrics = "0.24"
+metrics-exporter-prometheus = { version = "0.18", default-features = false }
+uuid = { version = "1", features = ["v4"] }
+
+[features]
+# See `routes::test_support`'s module docs for what this gates and why:
+# a deterministic, request-time stall `tests/drain.rs` needs and nothing
+# else does. Never a default feature, and enabled only by this crate's
+# own entry under `[dev-dependencies]` below, so `cargo build --release
+# -p pii-detection-api` -- the Dockerfile's exact command, which never touches
+# dev-dependencies -- cannot compile it in.
+test-support = []
+
+[dev-dependencies]
+tower = { version = "0.5", features = ["util"] }
+# Self-dependency, `test-support` only: the standard Cargo pattern for
+# activating one of a crate's own features for its own test builds
+# without making that feature a default one. This is what makes
+# `env!("CARGO_BIN_EXE_pii-detection-api")` in `tests/drain.rs` point at a
+# binary that actually has the stall compiled in -- `cargo test` builds
+# every target of this package, including `main.rs`'s bin target, against
+# one unified feature set that includes `[dev-dependencies]`.
+pii-detection-api = { path = ".", features = ["test-support"] }
+# The one artifact-gating condition this suite shares with pii-detection-model's own
+# tests (crates/model/src/test_support.rs). A dev-dependency only, so
+# `cargo build --release -p pii-detection-api` -- the Dockerfile's command -- never
+# compiles the test support into the shipped binary.
+pii-detection-model = { path = "../model", features = ["test-support"] }
+# Rehashing a deliberately corrupted artifact file so the manifest still
+# agrees with it: that is how tests/readiness.rs separates "the digest check
+# caught it" from "the digests agreed and the graph itself was broken".
+sha2 = "0.10"
+# The canary run in tests/privacy_model.rs installs a capturing subscriber;
+# tracing-subscriber is already a normal dependency for main.rs's JSON logger,
+# and this names the layer API the test uses.
+tracing-subscriber = { version = "0.3", features = ["json", "env-filter"] }

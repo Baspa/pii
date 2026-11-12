@@ -1,0 +1,11 @@
+Een zonnepaneel, fotovoltaïsch paneel of PV-paneel is een paneel met aan elkaar gekoppelde fotovoltaïsche zonnecellen (ook PV-cellen genoemd), waarmee elektriciteit kan worden opgewekt. PV is de afkorting van het Engelse woord 'photovoltaic'.
+
+Het zonnepaneel zet een deel van de fotonen uit het zonlicht om in elektriciteit. De zonne-energie die zo wordt opgevangen is een vorm van duurzame energie. Het vermogen van een PV-installatie wordt uitgedrukt in wattpiek (Wp), dat is de hoeveelheid energie die de panelen samen onder standaard-omstandigheden kunnen opwekken.
+
+Zonnepanelen kunnen als netgekoppeld zonnestroomsysteem worden toegepast in het elektriciteitsnet, off-grid in net-onafhankelijke systemen voor energieopwekking in afgelegen gebieden, in losse apparaten die zijn voorzien van een aantal zonnecellen en ook in de ruimtevaart.
+
+Een zonnepaneel moet niet worden verward met een zonnecollector. Deze is op een ander principe gebaseerd, namelijk opwarming van een stromend medium, meestal water.
+
+Zonnecellen zijn meestal gemaakt van silicium. Dat silicium bestaat uit twee lagen. Onder invloed van licht wordt elektrische spanning opgewekt tussen de lagen. Daarom heten zonnecellen ook wel fotovoltaïsche cellen (Oudgrieks φῶς, phōs: licht, en volt naar de eenheid van elektrische spanning). Afgekort wordt gesproken van PV-systemen.
+
+PV-systemen kunnen ook worden gemaakt met behulp van de dunnelaagtechnologie. Hierbij wordt gebruikgemaakt van amorf silicium. Deze elementen hebben een lager rendement, maar zijn ook beduidend goedkoper.

@@ -1,0 +1,11 @@
+La réalisation d’une installation électrique domestique ne réclame pas de don particulier. Il suffit d’apprendre les gestes élémentaires, d’avoir suffisamment de bon sens et de bien connaître les règles. On trouvera en librairie un petit vade-mecum et un bon ouvrage d’initiation qui apportera l’essentiel. Cette section n’a pas d’autre prétention que d’attirer l’attention de l’électricien-amateur sur cet essentiel.
+
+Toute intervention doit se faire hors tension. Coupez l'alimentation secteur et onduleur (ordinateur éolienne...). Prenez l'habitude de raccorder vos installations en partant du point le plus éloigné de l'alimentation. Le raccordement à l'alimentation se faisant que lorsque tout les autres sont terminés et toujours disjoncteurs ouverts.
+
+Les normes NF C 15-100 et NF C 14-100 définissent les règles d'installation des circuits électriques (protection, répartition, diamètre des fils, prise de terre, ...).
+
+On commencera par recenser tous les points d’utilisation potentiels de la future construction en commençant par les prises de courant :
+
+Extérieur : prises pour outillage électroportatif de jardinage, bricolage... Ces prises doivent pouvoir être coupées de l’intérieur de la maison, et doivent disposer de leur propre circuit muni d’un conducteur de protection vers le tableau électrique. Penser à tirer les gaines avant l’isolation thermique,.
+
+Garage : une prise tous les deux mètres de chaque côté de l’aire de rangement des véhicules.

@@ -1,0 +1,13 @@
+La energía solar fotovoltaica es una fuente de energía renovable que permite la producción de electricidad a partir de la radiación solar.​ El proceso se realiza mediante dispositivos semiconductores llamados células fotovoltaicas, que convierten directamente la energía lumínica en corriente eléctrica por medio del efecto fotovoltaico.​
+
+Existen diferentes tecnologías de fabricación de células, entre las que destacan:
+
+Células de silicio cristalino, basadas en obleas de silicio monocristalino o silicio policristalino.
+
+Células de película fina, obtenidas mediante la deposición de capas muy delgadas de materiales semiconductores (como teluro de cadmio o diseleniuro de cobre, indio y galio) sobre un sustrato.​
+
+Células de nueva generación, en investigación y desarrollo, como las de perovskita, orgánicas y las de concentración fotovoltaica.
+
+La electricidad generada puede ser utilizada de manera directa en sistemas aislados o ser inyectada a la red eléctrica a través de instalaciones de mayor escala. Debido a su modularidad, la tecnología fotovoltaica se aplica tanto en pequeños sistemas domésticos como en grandes plantas solares.
+
+Este tipo de energía se usa principalmente para producir electricidad a gran escala a través de redes de distribución, aunque también permite alimentar innumerables aplicaciones y aparatos autónomos, así como abastecer refugios de montaña o viviendas aisladas de la red eléctrica.

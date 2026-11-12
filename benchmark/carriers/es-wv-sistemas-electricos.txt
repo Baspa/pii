@@ -1,0 +1,9 @@
+De vez en cuando, en lugares como Tokio o algunas islas del Caribe, puedes encontrar sistemas de 100 a 127 voltios a 50 Hz. También hay países como Corea del Sur, Perú, algunos estados de Brasil y Guyana que usan 220–240 voltios a 60 Hz. Además, en países como Brasil, Filipinas y Arabia Saudita, el sistema interno puede variar: en algunas zonas tienen 100–127 V, y en otras 220–240 V, incluso con diferentes frecuencias. Así que, cuando viajes, no olvides preguntar por el voltaje específico de cada destino.
+
+Los barcos también tienen diferentes voltajes y frecuencias según cómo y dónde se hayan construido o se usarán. En los aviones, la potencia en los asientos suele ser de 115 V a 60 Hz, pero muchos otros usan 115 V a 400 Hz. Algunos equipos médicos están diseñados para 400 Hz, así que si necesitas enchufarlos en un avión, revisa bien las especificaciones.
+
+Si el voltaje y la frecuencia de tu dispositivo coinciden con los del lugar al que viajas, solo debes preocuparte por el tipo de enchufe. La mayoría de los aparatos toleran aproximadamente un 10% de diferencia en voltaje, así que no es problema si, por ejemplo, tu cargador es de 110 V y en destino hay 120 V.
+
+Pero si el suministro eléctrico local no entra en el rango aceptado por tu dispositivo, necesitarás un transformador o convertidor para ajustar el voltaje. La mayoría de los kits de viaje incluyen estos y vienen con varios adaptadores para diferentes tipos de enchufes, cubriendo casi todas las necesidades, salvo las más inusuales.
+
+Por otra parte, también puedes aprovechar los sistemas de corriente continua (CC) de 12 o 24 V que usan los autos y barcos, o los puertos USB de 5 V en ordenadores, autobuses, barcos o viviendas alimentadas por energía solar para cargar pequeños dispositivos como cámaras o teléfonos. Generalmente, cargar así lleva más tiempo, pero puede ser la única opción si no hay enchufes disponibles para tu cargador.

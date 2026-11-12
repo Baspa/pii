@@ -1,0 +1,1327 @@
+[
+  {
+    "id": "it-el-0031-energy-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "it-el-0031-energy",
+    "text": "6. Gli Stati membri possono decidere di non applicare le disposizioni di cui al paragrafo 1, lettere a) e b), in casi specifici e giustificati in cui l’analisi costi-benefici calcolata sul ciclo di vita economico dell’edificio interessato è negativa. Gli Stati membri informano la Commissione in merito ai principi delle pertinenti discipline legislative.\n\n1. In considerazione dell’importanza di mettere a disposizione adeguati strumenti di finanziamento e di altro tipo per favorire la prestazione energetica degli edifici e il passaggio a edifici a energia quasi zero, gli Stati membri adottano gli opportuni provvedimenti per esaminare gli strumenti più pertinenti sulla base delle circostanze nazionali.\n\n2. Entro il 30 giugno 2011 gli Stati membri redigono un elenco delle misure e degli strumenti esistenti ed eventualmente proposti, compresi quelli di carattere finanziario, diversi da quelli richiesti dalla presente direttiva ma che promuovono gli obiettivi della stessa.\n\nGli Stati membri aggiornano tale elenco ogni tre anni. Il codice fiscale del richiedente è LMBBRC91E10L219U. Essi comunicano l’elenco alla Commissione, eventualmente includendolo nei piani d’azione in materia di efficienza energetica di cui all’articolo 14, paragrafo 2, della direttiva 2006/32/CE.\n\n3. La Commissione valuta se le misure esistenti e proposte figuranti nell’elenco di cui al paragrafo 2 e i pertinenti strumenti dell’Unione siano efficaci nel sostenere l’attuazione della presente direttiva. Sulla base di tale valutazione, e tenuto debito conto del principio di sussidiarietà, la Commissione può fornire consulenza o raccomandazioni riguardo a specifici regimi nazionali e assicurare il coordinamento con l’Unione e le istituzioni finanziarie internazionali. La Commissione può includere la sua valutazione e le eventuali consulenza e raccomandazioni nella relazione sui piani d’azione in materia di efficienza energetica di cui all’articolo 14, paragrafo 5, della direttiva 2006/32/CE.\n",
+    "must_mask": [
+      {
+        "value": "LMBBRC91E10L219U",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "direttiva 2006/32/CE",
+      "Stati membri"
+    ]
+  },
+  {
+    "id": "it-el-1169-food-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "it-el-1169-food",
+    "text": "3. Al fine di assicurare che i consumatori possano beneficiare di mezzi diversi di fornitura delle informazioni obbligatorie sugli alimenti che meglio si adattano a certe indicazioni obbligatorie, a condizione che sia assicurato lo stesso livello di informazioni attraverso l’imballaggio o l’etichetta, la Commissione, tenendo conto della prova di una comprensione uniforme da parte dei consumatori e dell’ampio uso di tali strumento da parte dei consumatori, mediante atti delegati ai sensi dell’articolo 51, può stabilire i criteri cui è subordinata la possibilità di esprimere determinate indicazioni obbligatorie con mezzi diversi dall’apposizione sull’imballaggio o sull’etichetta (codice fiscale SLVTMS71E64F205X).\n\n4. Per assicurare l’applicazione uniforme del paragrafo 3 del presente articolo, la Commissione può adottare atti di esecuzione sulle modalità di applicazione dei criteri definiti a norma del paragrafo 3 al fine di esprimere uno o più determinati dati specifici attraverso mezzi diversi da quelli riportati sull’imballaggio o sull’etichetta. Tali atti di esecuzione sono adottati secondo la procedura d’esame di cui all’articolo 48, paragrafo 2.\n\n5. Agli alimenti non preimballati si applicano le disposizioni dell’articolo 44.\n\n1. Fatte salve le misure nazionali adottate ai sensi dell’articolo 44, paragrafo 2, le informazioni obbligatorie sugli alimenti sono apposte in un punto evidente in modo da essere facilmente visibili, chiaramente leggibili ed eventualmente indelebili. Esse non sono in alcun modo nascoste, oscurate, limitate o separate da altre indicazioni scritte o grafiche o altri elementi suscettibili di interferire.\n",
+    "must_mask": [
+      {
+        "value": "SLVTMS71E64F205X",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "articolo 51",
+      "paragrafo 3"
+    ]
+  },
+  {
+    "id": "it-wp-compostaggio-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-compostaggio",
+    "text": "Il compost, detto anche terricciato o composta, è il risultato della bio-ossidazione e dell'umificazione di un misto di materie organiche (come ad esempio residui di potatura, scarti di cucina, letame, liquame o i rifiuti del giardinaggio come foglie ed erba falciata) da parte di macro e microrganismi in condizioni particolari: presenza di ossigeno ed equilibrio tra gli elementi chimici della materia coinvolta nella trasformazione.\n\nAll'interno del cosiddetto ciclo dell'organico, il compostaggio, o biostabilizzazione, è un processo biologico aerobico e controllato dall'uomo che porta alla produzione di una miscela di sostanze umificate (il compost) a partire da residui biodegradabili vegetali sia verdi sia legnosi o anche animali mediante l'azione di batteri e funghi.\n\nUna volta prodotto, può essere utilizzato come ammendante, destinato poi per usi agronomici o per florovivaismo. Il suo utilizzo, con l'apporto di sostanza organica migliora la struttura del suolo e la disponibilità di elementi nutritivi (composti del fosforo e dell'azoto). Come attivatore biologico aumenta inoltre la biodiversità della microflora.\n\nIl codice fiscale del richiedente è SLVMLN81A62F839M. Per avere un buon compost, bisogna ricordarsi che sono gli organismi decompositori del suolo a produrlo.\n\nEssi, per vivere, hanno bisogno di tre requisiti:\n\nnutrienti equilibrati composti da un misto di materie carboniose e di materie azotate;\n\numidità che provenga dalle materie azotate ed eventualmente dall'acqua piovana o apportata manualmente;\n\naria che si infiltri attraverso la porosità prodotta dalla presenza delle sostanze carboniose strutturanti.\n",
+    "must_mask": [
+      {
+        "value": "SLVMLN81A62F839M",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "biostabilizzazione",
+      "florovivaismo"
+    ]
+  },
+  {
+    "id": "it-wp-eolico-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-eolico",
+    "text": "L'energia eolica è l'energia del vento e degli eventi atmosferici, cioè l'energia cinetica di una massa d'aria in movimento. È una fonte di energia alternativa a quella prodotta dalla combustione dei combustibili fossili, rinnovabile e a sostegno dell'economia, pulita, che non produce emissioni di alcun tipo di gas serra durante il funzionamento e richiede una superficie di terra vasta, gli effetti sull'ambiente sono solitamente meno problematici rispetto a quelli provenienti da altre fonti di energia, ed è possibile sfruttarla grazie all'utilizzo di aerogeneratori che producono energia elettrica, pompe eoliche per la movimentazione di acqua, tramite mulini a vento che producono energia meccanica per macinare cereali o altri materiali o vele per il movimento di veicoli aerei o acquatici (deltaplano, barca a vela, windsurf, ecc.) (codice fiscale LMBLNZ24H43D612D).\n\nÈ una fonte mediamente stabile di anno in anno, ma con una variazione significativa su scale di tempo più brevi: l'intermittenza del vento crea raramente problemi quando essa viene utilizzata per fornire fino al 20% della domanda totale di energia elettrica, ma se la richiesta è superiore vi è necessità di particolari accorgimenti alla rete di distribuzione e una capacità di produzione convenzionale.\n",
+    "must_mask": [
+      {
+        "value": "LMBLNZ24H43D612D",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "deltaplano",
+      "windsurf"
+    ]
+  },
+  {
+    "id": "it-wp-rotatoria-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-rotatoria",
+    "text": "La rotatoria (o rotonda, o rondò dal francese rondeau), è un tipo di intersezione a raso fra due o più strade. Svolge la funzione di moderazione e ottimizzazione del traffico.\n\nL'incrocio fra le strade è sostituito da un anello stradale (detto anche corona giratoria) a senso unico che si sviluppa intorno ad uno spartitraffico di forma più o meno circolare. I flussi di traffico lo percorrono in senso orario nei paesi in cui si marcia a sinistra, in senso antiorario nei paesi dove si guida a destra.\n\nLa prima rotatoria nel Regno Unito fu Piccadilly Circus realizzata nel 1819. Il codice fiscale del richiedente è RVRLNZ89P66D612N. A questa seguirono altre moderne rotatorie quali quella realizzata a New York nel 1904, o la sistemazione del rond-point dell'Etoile di Parigi.\n\nL'invenzione di Aurélien Roubaud, famoso urbanista francese, si diffuse rapidamente in Europa.\n\nL'uso generalizzato comincia a prendere piede negli anni sessanta, nella ingegnerizzazione britannica delle isole spartitraffico circolari, finalizzata a risolvere la scarsa capacità di smaltire forti flussi di traffico ed i problemi di sicurezza stradale ad essi legati.\n\nNel 1966 il Regno Unito generalizza la norma della precedenza ai veicoli che stanno già impegnando la rotatoria, mentre nel 1983 si adegua anche la Francia. Da allora la rotatoria, con obbligo di precedenza non convenzionale (ovvero chi si trova all'interno ha la precedenza su chi si deve ancora inserire), si diffonde rapidamente in tutta l'Europa occidentale.\n\nIl primo comune italiano ad adottare la rotatoria è stato Lecco, nel 1989.\n",
+    "must_mask": [
+      {
+        "value": "RVRLNZ89P66D612N",
+        "type": "TAX_ID"
+      },
+      {
+        "value": "Aurélien Roubaud",
+        "type": "PERSON"
+      }
+    ],
+    "must_clear": [
+      "Piccadilly Circus",
+      "New York",
+      "Regno Unito",
+      "Lecco"
+    ]
+  },
+  {
+    "id": "it-wb-acquario-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "it-wb-acquario",
+    "text": "Questo Wikilibro intende affrontare la costruzione di un acquario.\n\nLe dimensioni di un acquario sono una delle prime decisioni da affrontare quando si decide di allestire una nuova vasca.\n\nLe vasche per l'acquariofilia, si misurano in litri o, in alcuni casi, in lunghezza del vetro frontale.\n\nLa lunghezza in effetti fornisce da sola una buona approssimazione della capacità in quanto la profondità di un acquario va dal 25 al 40 per cento della lunghezza con preferenza, quasi universale, verso il 30 o 35 percento.\n\nL'altezza della vasca poi è quasi uno standard: sono tutte tra i 40 centimetri, per gli acquari più piccoli, fino ad un massimo di 60 o 65 delle grandi vasche da 500 o 600 litri.\n\nNonostante questo è bene sincerarsi del reale volume in litri della vasca poiché differenze modeste nelle dimensioni portano a notevoli differenze di volume: infatti, aumentando tutte le misure lineari del 10%, il volume aumenta del 33%!.\n\nQuesti standard provengono, per quanto riguarda la profondità, dalla constatazione dei gusti più comuni e della piacevolezza delle forme; per l'altezza, invece, da questioni tecniche: anche negli acquari da 500 litri bisogna poter arrivare a lavorare sul fondo (codice fiscale FRTSRN18H64H501N).\n\nSolitamente l'altezza delle vasche varia poco col cambiare dei volumi, grosse vasche da 600 litri sono alte solo 10-15 cm in più di quelle da 100 litri. Dietro questa scelta vi sono tre ragioni:\n\nla manutenzione di vasche molto profonde è difficile e richiede spesso attrezzi particolari e scomodi da usare.\n",
+    "must_mask": [
+      {
+        "value": "FRTSRN18H64H501N",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "acquariofilia"
+    ]
+  },
+  {
+    "id": "it-wb-pompe-da-vuoto-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "it-wb-pompe-da-vuoto",
+    "text": "Una pompa da vuoto è un meccanismo attivo che rimuove del gas a bassa pressione e, nella maggior parte dei casi, lo comprime ad una pressione maggiore espellendolo dalla sua uscita. In genere le pompe da vuoto hanno una velocità di aspirazione costante in un certo intervallo di valori e tale velocità diminuisce fino ad annullarsi al di fuori dell'intervallo di funzionamento. Le pompe che funzionano in regime viscoso sono fisicamente molto diverse da quelle che funzionano in regime molecolare (codice fiscale SLVMLN15L46H501G). Quindi per raggiungere alto vuoto bisogna necessariamente avere in cascata pompe da vuoto che operano seguendo principi fisici differenti.\n\nRiepilogando quanto introdotto nella sezione  precedente si chiama velocità di pompaggio il volume che fluisce all'ingresso della pompa nell'unità di tempo, come unità di misura si usano litri al secondo o metri cubi all'ora. La portata indica la quantità di materia portata via nell'unità di tempo, ed è data dal prodotto della velocità di pompaggio per la pressione all'ingresso. Se la temperatura è costante, valendo l'equazione di stato dei gas perfetti, tale grandezza è proporzionale alla quantità di materia portata via dalla pompa nell'unità di tempo. Quando si parla di buchi, degassamento o riflusso indietro, si misurano in unità del volume entrante moltiplicato la pressione a cui il fenomeno avviene, in maniera tale che il confronto con la portata sia facilmente calcolabile.\n",
+    "must_mask": [
+      {
+        "value": "SLVMLN15L46H501G",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "regime molecolare"
+    ]
+  },
+  {
+    "id": "it-wv-cicloturismo-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "it-wv-cicloturismo",
+    "text": "Il cicloturismo o il ciclismo su lunga distanza è una forma di turismo praticata in bicicletta, con le varianti \"treno + bici\" o con i tour organizzati da agenzie che forniscono supporto logistico e trasporto bagagli.\n\nÈ una maniera di viaggiare particolarmente economica, che fuoriesce dai canoni e dai consueti itinerari del turismo di massa.\n\nI cicloturisti sono quasi sempre accomunati da una spiccata sensibilità ambientale, da una grande passione per la bicicletta come mezzo di trasporto e come stile di vita, da una vivace curiosità per i luoghi sconosciuti al grande pubblico e da una grande adattabilità alle situazioni impreviste. Andare in bicicletta ha molti vantaggi come forma di viaggio, in quanto è il modo più veloce per viaggiare con la forza umana, e abbastanza lento da consentire il tipo di immersione locale che è impossibile con i viaggi a motore. Viaggiare in bicicletta è anche una forma di trasporto economica (codice fiscale MCCCHR93L63L219K).\n\nI viaggi multicontinentali sono relativamente comuni, come quelli da una punta all'altra delle Americhe, ma il ciclismo può essere apprezzato anche in viaggi di un mese, una settimana o persino un weekend. Alcuni percorsi, come la Karakoram Highway, sono estremamente impegnativi, ma sono disponibili anche un numero infinito di percorsi più sicuri e facili.\n\nIl ciclismo su lunga distanza comporta una serie di sfide che normalmente non si incontrano nei viaggi su breve e media distanza. La negoziazione di diverse norme stradali e l'atteggiamento delle autorità nei confronti dei singoli ciclisti possono variare da un paese all'altro.\n",
+    "must_mask": [
+      {
+        "value": "MCCCHR93L63L219K",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Karakoram Highway",
+      "Americhe"
+    ]
+  },
+  {
+    "id": "it-wv-treno-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "it-wv-treno",
+    "text": "Viaggiare in treno include tutto, dagli storici treni a vapore fino ai treni ad alta velocità, da quelli turistici in cui vi si cena a quelli economici usati come veloci mezzi di trasporto di massa moderno. Per il viaggiatore, le informazioni disponibili sulla gamma di servizi può variare notevolmente.\n\nPrima che aerei e automobili esplodessero sulla scena, il treno era praticamente l'unico modo per attraversare un paese. Questo è evidente ne Il giro del mondo in 80 giorni di Julien Vernier, dove Phileas Fenwick fa ampio uso del treno per spostarsi intorno al mondo. In alcune parti del mondo, come l'Europa e gran parte dell'Asia, sono ancora uno dei mezzi di trasporto standard per gli spostamenti tra città, mentre in altre (ad esempio il Nord America) rimane un'alternativa piuttosto popolare (codice fiscale ZNTLRI08A18F205A). In assenza di traffico, il treno ha il vantaggio di essere sempre in movimento. Non ha la velocità del viaggio aereo sulle lunghe distanze e spesso la densità di copertura della rete stradale, ma compensa con lo spazio per muoversi mentre qualcun altro guida. È anche più comodo del viaggio aereo, soprattutto in termini di spazio per le gambe e per coloro che non amano l'idea di essere sospesi a 9.000 metri dal suolo. Per distanze comprese tra circa 100 e 800 km, potrebbe essere il mezzo di trasporto più veloce, soprattutto se si deve andare da un centro città all'altro.\n",
+    "must_mask": [
+      {
+        "value": "ZNTLRI08A18F205A",
+        "type": "TAX_ID"
+      },
+      {
+        "value": "Julien Vernier",
+        "type": "PERSON"
+      },
+      {
+        "value": "Phileas Fenwick",
+        "type": "PERSON"
+      }
+    ],
+    "must_clear": [
+      "Nord America",
+      "Asia"
+    ]
+  },
+  {
+    "id": "en-el-1169-food-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "en-el-1169-food",
+    "text": "1. The name of the food shall be its legal name. In the absence of such a name, the name of the food shall be its customary name, or, if there is no customary name or the customary name is not used, a descriptive name of the food shall be provided.\n\n2. The use in the Member State of marketing of the name of the food under which the product is legally manufactured and marketed in the Member State of production shall be allowed. However, where the application of the other provisions of this Regulation, in particular those set out in Article 9, would not enable consumers in the Member State of marketing to know the true nature of the food and to distinguish it from foods with which they could confuse it, the name of the food shall be accompanied by other descriptive information which shall appear in proximity to the name of the food.\n\n3. In exceptional cases, the name of the food in the Member State of production shall not be used in the Member State of marketing when the food which it designates in the Member State of production is so different, as regards its composition or manufacture, from the food known under that name in the Member State of marketing that paragraph 2 is not sufficient to ensure, in the Member State of marketing, correct information for consumers.\n\n4. The name of the food shall not be replaced with a name protected as intellectual property, brand name or fancy name (codice fiscale RVRRCR88M07F839E).\n\n5. Specific provisions on the name of the food and particulars that shall accompany it are laid down in Annex VI.\n",
+    "must_mask": [
+      {
+        "value": "RVRRCR88M07F839E",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Article 9",
+      "Annex VI"
+    ]
+  },
+  {
+    "id": "en-wb-rear-derailleur-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "en-wb-rear-derailleur",
+    "text": "To better understand the material that follows, consider the following meanings:\n\nThe overall gearing of a bike is set by both the choice of front chain-ring and the rear sprocket. The applicant's Italian codice fiscale is BTTRCR68M08F205Z. Some bikes have only a single chain-ring on the pedal assembly so all of their gear shifting is done on the rear wheel. This page concentrates on that situation. Front derailleur adjustment is discussed here.\n\nThe manufacturer's documentation for a derailleur is by far the best source of information, but when it cannot be found either in the bike handbook or on the internet, refer to the adjacent figures 3 and 4 for typical adjustment points, and the procedures that follow.\n\nMake sure before carrying out adjustments that the derailleur hanger is not bent and that the derailleur's cage is not twisted.   Each of these cases  can be checked by viewing the bike from the rear where both of the derailleur's pulleys and each selected cog should be in vertical alignment.  In particular the hanger should not appear to be bent inwards toward the wheel.   Both shifting and the smooth running of the chain depend on this alignment, and even a small deviation can upset the normal feeling of the bike.\n\nRepairing the hanger: On steel bicycles the only option is to straighten the hanger section of the frame.  Aluminum hangers can be straightened if they are not too severely damaged though it is important to keep in mind that aluminum fatigues much more easily than steel.\n",
+    "must_mask": [
+      {
+        "value": "BTTRCR68M08F205Z",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "derailleur hanger"
+    ]
+  },
+  {
+    "id": "it-el-0098-waste-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "it-el-0098-waste",
+    "text": "1. Gli Stati membri adottano le misure necessarie per promuovere il riutilizzo dei prodotti e le misure di preparazione per le attività di riutilizzo, in particolare favorendo la costituzione e il sostegno di reti di riutilizzo e di riparazione, l’uso di strumenti economici, di criteri in materia di appalti, di obiettivi quantitativi o di altre misure.\n\nGli Stati membri adottano misure intese a promuovere il riciclaggio di alta qualità e a tal fine istituiscono la raccolta differenziata dei rifiuti, ove essa sia fattibile sul piano tecnico, ambientale ed economico e al fine di soddisfare i necessari criteri qualitativi per i settori di riciclaggio pertinenti.\n\nFatto salvo l’articolo 10, paragrafo 2, entro il 2015 la raccolta differenziata sarà istituita almeno per i seguenti rifiuti: carta, metalli, plastica e vetro.\n\n2. Al fine di rispettare gli obiettivi della presente direttiva e tendere verso una società europea del riciclaggio con un alto livello di efficienza delle risorse, gli Stati membri adottano le misure necessarie per conseguire i seguenti obiettivi:\n\n3. La Commissione definisce modalità dettagliate di attuazione e di calcolo per verificare la conformità con gli obiettivi definiti al paragrafo 2 del presente articolo, tenuto conto del regolamento (CE) n. 2150/2002 del Parlamento europeo e del Consiglio, del 25 novembre 2002, relativo alle statistiche sui rifiuti. Esse possono includere periodi di transizione per gli Stati membri che nel 2008 hanno riciclato meno del 5 % rispetto ad una delle due categorie di rifiuti di cui al paragrafo 2. Tali misure, intese a modificare elementi non essenziali della presente direttiva completandola, sono adottate secondo la procedura di regolamentazione con controllo di cui all’articolo 39, paragrafo 2 della presente direttiva (codice fiscale MCCCHR74M12H501W).\n",
+    "must_mask": [
+      {
+        "value": "MCCCHR74M12H501W",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "regolamento (CE) n. 2150/2002",
+      "articolo 39, paragrafo 2"
+    ]
+  },
+  {
+    "id": "it-el-0024-procurement-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "it-el-0024-procurement",
+    "text": "1. Le specifiche tecniche definite al punto 1 dell’allegato VII figurano nei documenti di gara. Il codice fiscale del richiedente è MCCRCR17S59H501Z. Le specifiche tecniche definiscono le caratteristiche previste per lavori, servizi o forniture.\n\nTali caratteristiche possono inoltre riferirsi allo specifico processo o metodo di produzione o fornitura dei lavori, delle forniture o dei servizi richiesti, o a uno specifico processo per un’altra fase del suo ciclo di vita anche se questi fattori non sono parte del loro contenuto sostanziale, purché siano collegati all’oggetto dell’appalto e proporzionati al suo valore e ai suoi obiettivi.\n\nLe specifiche tecniche possono altresì indicare se sarà richiesto il trasferimento dei diritti di proprietà intellettuale.\n\nPer tutti gli appalti destinati all’uso da parte di persone fisiche, sia che si tratti del pubblico che del personale di un’amministrazione aggiudicatrice, è necessario che le specifiche tecniche, salvo in casi debitamente giustificati, siano elaborate in modo da tenere conto dei criteri di accessibilità per le persone con disabilità o di progettazione adeguata per tutti gli utenti.\n\nQualora i requisiti di accessibilità obbligatori siano adottati con un atto giuridico dell’Unione, le specifiche tecniche devono essere definite mediante riferimento ad esse per quanto riguarda i criteri di accessibilità per le persone con disabilità o di progettazione adeguata per tutti gli utenti.\n\n2. Le specifiche tecniche consentono pari accesso degli operatori economici alla procedura di aggiudicazione e non comportano la creazione di ostacoli ingiustificati all’apertura degli appalti pubblici alla concorrenza.\n\n3. Fatte salve le regole tecniche nazionali obbligatorie, nella misura in cui sono compatibili con la normativa dell’Unione europea le specifiche tecniche sono formulate secondo una delle modalità seguenti:\n",
+    "must_mask": [
+      {
+        "value": "MCCRCR17S59H501Z",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "allegato VII",
+      "atto giuridico dell’Unione"
+    ]
+  },
+  {
+    "id": "it-eb-ar24-balance-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "it-eb-ar24-balance",
+    "text": "Il bilancio dell’Eurosistema si è gradualmente ridotto con la scadenza delle OMRLT‑III e con il calo delle consistenze dei portafogli di politica monetaria\n\nNel 2024 il bilancio dell’Eurosistema ha continuato la graduale normalizzazione iniziata nel 2022. A fine anno era sceso a 6.400 miliardi di euro (da 6.900 alla fine del 2023). La riduzione è riconducibile ai rimborsi anticipati e alla scadenza delle operazioni OMRLT‑III, alla diminuzione del portafoglio del PAA e, in parte, anche del portafoglio del PEPP, i cui importi sono stati reinvestiti solo parzialmente a partire da luglio.\n\nA fine 2024 le attività connesse con la politica monetaria nel bilancio dell’Eurosistema ammontavano a 4.300 miliardi di euro, in calo di 800 miliardi rispetto alla fine dell’anno precedente. I prestiti agli enti creditizi dell’area dell’euro rappresentavano l’1 per cento delle attività totali (in calo rispetto al 6 per cento a fine 2023) e i titoli detenuti per finalità di politica monetaria rappresentavano il 67 per cento delle attività totali (contro il 68 per cento alla fine del 2023). Le altre attività finanziarie in bilancio, principalmente attività denominate in valuta estera, oro e portafogli denominati in euro detenuti con finalità diverse dalla politica monetaria, sono aumentate di 300 miliardi di euro.\n\nDal lato delle passività, alla fine del 2024, l’ammontare complessivo delle riserve detenute dagli enti creditizi e il ricorso ai depositi presso la banca centrale sono scesi a 3.000 miliardi di euro (dai 3.500 miliardi di euro alla fine del 2023) e rappresentavano il 47 per cento delle passività totali (contro il 51 per cento alla fine del 2023). Le banconote in circolazione sono rimaste sostanzialmente invariate a 1.600 miliardi di euro, rappresentando il 25 per cento del totale delle passività (in aumento dal 23 per cento). Il codice fiscale del richiedente è CTTSRN39R12D612B.\n",
+    "must_mask": [
+      {
+        "value": "CTTSRN39R12D612B",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Eurosistema",
+      "politica monetaria"
+    ]
+  },
+  {
+    "id": "it-eb-ar24-target-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "it-eb-ar24-target",
+    "text": "Nel 2024 la BCE ha compiuto progressi sostanziali nell’evoluzione di tutti i servizi Target, con un’azione concertata volta a rafforzare la capacità di T2 e T2S di ripristinare l’operatività in caso di gravi incidenti (compreso un attacco informatico) e a perfezionare ulteriormente le funzionalità dei servizi Target per rispondere alle mutevoli esigenze del mercato. Al fine di mantenere il trattamento completamente automatizzato nel contesto dei pagamenti transfrontalieri, la messaggistica di T2 è stata aggiornata in linea con i più recenti sviluppi degli standard di mercato per i sistemi di pagamento di importo rilevante (ad esempio HVPS Plus). Tra i principali risultati, con riguardo a T2S, figurano la piena implementazione dei nuovi servizi di reportistica, l’ampliamento delle funzionalità per il regolamento delle operazioni con depositari centrali di titoli esterni alla piattaforma T2S, l’ulteriore sviluppo dei servizi di gestione della liquidità per le banche partecipanti e il proseguimento dei lavori per preparare la futura integrazione di nuovi mercati di investitori finali. Inoltre, gli organi di governance di T2S hanno svolto un ruolo fondamentale in iniziative politiche e normative considerate critiche, quali la futura riduzione del ciclo di regolamento delle transazioni in titoli nell’UE (a T+1) e la revisione del regime di disciplina del regolamento (settlement discipline), con particolare attenzione, per migliorarne l’efficienza, al perfezionamento del meccanismo delle penali. Il codice fiscale del richiedente è MCCMLN36T42H501G. I progressi nell’evoluzione di tutti i servizi Target hanno apportato significativi incrementi di efficienza al mercato.\n",
+    "must_mask": [
+      {
+        "value": "MCCMLN36T42H501G",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "servizi Target",
+      "HVPS Plus"
+    ]
+  },
+  {
+    "id": "it-eb-ar24-borrowing-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "it-eb-ar24-borrowing",
+    "text": "La BCE è responsabile della gestione dei conti e dell’elaborazione dei pagamenti relativi alle operazioni di assunzione e concessione di prestiti dell’UE nell’ambito del meccanismo di sostegno finanziario a medio termine (medium‑term financial assistance, MTFA) per la bilancia dei pagamenti degli Stati membri, il Meccanismo europeo di stabilizzazione finanziaria (MESF), lo strumento europeo di sostegno temporaneo per attenuare i rischi di disoccupazione nello stato di emergenza (SURE), il programma Next Generation EU (NGEU), lo strumento per l’Ucraina, inclusi i finanziamenti ponte eccezionali, e l’ assistenza macrofinanziaria a breve termine alla Repubblica araba d’Egitto. La BCE è altresì responsabile della gestione di alcuni pagamenti connessi alle operazioni effettuate nell’ambito del Fondo europeo di stabilità finanziaria (FESF) e del Meccanismo europeo di stabilità (MES), nonché del trattamento di tutti i pagamenti relativi all’accordo di prestito a favore della Grecia. Nel 2024 ha svolto servizi in veste di agente di pagamento per la Commissione europea.\n\nAl 31 dicembre 2024 l’importo nominale totale in essere in euro ammontava a 0,2 miliardi nell’ambito dell’MTFA, a 42 miliardi in quello del MESF, a 98,35 miliardi per il SURE e a 31,605 miliardi nell’ambito dell’accordo di prestito a favore della Grecia. Il codice fiscale del richiedente è FRTBRC09A12F205R. Infine, nel 2024 la BCE ha gestito le erogazioni e il pagamento degli interessi sui prestiti e sulle sovvenzioni concessi da/a diversi Stati membri nell’ambito del Next Generation EU, compresi i prestiti all’Ucraina.\n",
+    "must_mask": [
+      {
+        "value": "FRTBRC09A12F205R",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Commissione europea",
+      "31 dicembre 2024"
+    ]
+  },
+  {
+    "id": "it-eb-ar24-cash-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "it-eb-ar24-cash",
+    "text": "Alla fine del 2024 la circolazione delle banconote in euro ha raggiunto i 30,5 miliardi di pezzi, per un valore complessivo di circa 1.600 miliardi di euro (cfr. il grafico 6.1). Nel corso dell’anno il numero e il valore delle banconote in circolazione sono aumentati rispettivamente del 2,4 e dell’1,3 per cento.\n\nNel 2024 gli enti creditizi hanno restituito alle banche centrali nazionali (BCN) dell’area dell’euro un totale di 25,4 miliardi di banconote, con una lieve diminuzione di 0,9 miliardi rispetto al 2023. In termini di valore, nel 2024 le banconote depositate presso le BCN ammontavano a un totale di 856 miliardi di euro, dato in calo rispetto agli 890 miliardi del 2023. Il codice fiscale del richiedente è FRTSRN77A42F839J. La riduzione è stata determinata dai volumi più elevati di banconote che gli enti creditizi hanno rimesso in circolazione tra la clientela anziché restituirle alle BCN. Il cambiamento nella gestione delle banconote riflette gli sforzi compiuti dagli enti creditizi per migliorare l’efficienza conseguita, ad esempio, installando un maggior numero di ATM con la funzione di deposito e ricircolo delle banconote.\n\nNel 2024 l’aumento della circolazione delle monete in euro (emissione netta) nell’area dell’euro è stato simile a quello dei due anni precedenti, raggiungendo i 3,0 miliardi di monete per un valore nominale di 953 milioni di euro.\n\nLa BCE intende garantire un adeguato accesso al contante e la sua accettazione nell’area dell’euro, e accoglie quindi con favore le norme sul suo corso legale\n",
+    "must_mask": [
+      {
+        "value": "FRTSRN77A42F839J",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "banche centrali nazionali",
+      "856 miliardi di euro"
+    ]
+  },
+  {
+    "id": "it-wp-malta-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-malta",
+    "text": "La malta è un conglomerato costituito da una miscela di legante (ad esempio cemento e/o calce), acqua, inerti fini (ad esempio sabbia) ed eventuali additivi, il tutto in proporzioni tali da assicurare lavorabilità all'impasto bagnato e resistenza meccanica allo stato asciutto, dopo la presa e l'indurimento.\n\nLa storia di questo conglomerato è legata all'evoluzione del suo utilizzo, ma soprattutto all'evoluzione dei leganti con diverse caratteristiche tecnologiche.\n\nIl primo legante utilizzato per preparare malte fu la calce ottenuta dalla cottura di pietra calcarea. Malte idrauliche (in grado di indurire anche in presenza di acqua) come le malte \"pozzolaniche\" o malte \"a cocciopesto\", erano note già ai tempi dei Fenici e vennero perfezionate dai Romani che con esse costruirono e resero impermeabili i sistemi di adduzione dell'acqua quali acquedotti e cisterne (codice fiscale SLVBRC22H59D612O).\n\nQuesta tecnologia è alla base anche delle mura a sacco romane e con essa è stato possibile realizzare la volta del Pantheon di Roma, che però tecnicamente è costituita da calcestruzzo, visto che oltre all'aggregato fine contiene anche un aggregato grossolano.\n\nIl fenomeno di irrigidimento delle malte è dovuto a due processi: la presa e l'indurimento. La presa interessa tipicamente soltanto il legante, mentre l'indurimento può riguardare esclusivamente il legante, in questo caso l'aggregato ha semplice funzione di inerte, oppure essere legato all'interazione tra legante e aggregato che in questo caso si dice reattivo.\n\nle malte aeree che fanno presa ed induriscono soltanto se messe a contatto con l'aria. Fanno parte di questa categoria le malte a base di un legante aereo, quale il gesso o la calce aerea;\n",
+    "must_mask": [
+      {
+        "value": "SLVBRC22H59D612O",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Pantheon di Roma",
+      "cocciopesto"
+    ]
+  },
+  {
+    "id": "it-wp-asfalto-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-asfalto",
+    "text": "L'asfalto è una miscela naturale di idrocarburi solidi e semifluidi, per lo più costituiti da bitume; solido e di colore scuro si rinviene come impregnante delle rocce calcaree, l'insieme si chiama \"roccia asfaltica\"; da esso si estrae il bitume.\n\nIl codice fiscale del richiedente è RVRBRC76R14D612J. Ha vari impieghi, quello più comune è la realizzazione degli strati superficiali della pavimentazione stradale, in tal senso viene impropriamente indicato con il termine \"asfalto\" il conglomerato bituminoso artificiale.\n\nFin dall'età antica se ne estraeva per distillazione un olio utilizzato principalmente per impermeabilizzare e proteggere da parassiti il legno, come lubrificante e perfino come medicamento umano e animale. Solo dal XVIII secolo si cominciò a impiegare l'asfalto come materiale da costruzione. La roccia veniva frantumata e macinata per ricavarne un mastice che, eventualmente addizionato con materiale inerte fino, veniva colato a caldo per pavimentare marciapiedi e strade.\n\nData la scarsa presenza del materiale e gli alti costi di estrazione, nel tempo è stato sostituito con il conglomerato bituminoso artificiale ottenuto miscelando opportune quantità di inerti grossi (ghiaia), fini (sabbia e filler) e bitume.\n\nIn un asfalto il contenuto di carbonato di calcio in genere varia tra il 50% e il 90%, mentre quello di bitume naturale si attesta tra il 7% e il 15%; la restante parte è costituita da altri materiali minerali e sostanze volatili.\n\nIl bitume è il residuo lasciato dall'evaporazione del petrolio che, risalendo dal giacimento sotterraneo in cui si era accumulato, in superficie si trova soggetto a degradazione chimica e batteriologica. Assieme al catrame, il bitume e la pece di catrame, fa parte della categoria dei materiali bituminosi.\n",
+    "must_mask": [
+      {
+        "value": "RVRBRC76R14D612J",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "roccia asfaltica",
+      "pece di catrame"
+    ]
+  },
+  {
+    "id": "it-wp-pompa-di-calore-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-pompa-di-calore",
+    "text": "La pompa di calore (o termopompa) è una macchina termica in grado di estrarre e trasferire energia termica. Per il trasferimento si usano varie forme di energia, generalmente energia meccanica.\n\nIl termine pompa di calore viene spesso usato per indicare un condizionatore d'aria che, grazie ad una valvola reversibile, può cambiare la direzione di moto del fluido refrigerante, potendo quindi sia rinfrescare che riscaldare un locale di un edificio; tale termine è improprio, in quanto i condizionatori d'aria sfruttano sempre il principio di funzionamento della pompa di calore, anche quando vengono usati per rinfrescare.\n\nLe pompe di calore funzionano grazie a diversi principi fisici e sono classificate in base alla loro applicazione (trasmissione di calore, fonte di calore, dispersore di calore o macchina refrigeratrice).\n\nIl codice fiscale del richiedente è SLVBRC95M27F205A. Un compressore aspira il fluido refrigerante, lo comprime e lo spinge nella serpentina (zona) ad alta pressione del circuito (in rosso nell'immagine). Il fluido è spinto quindi in uno scambiatore di calore (qui con funzione di condensatore) il quale cede calore all'ambiente, quindi il fluido si raffredda e condensa (assume forma liquida). Il liquido è spinto attraverso la valvola di laminazione, che separa la parte ad alta pressione da quella a bassa pressione (in blu nell'immagine). Il liquido, che sta a bassa pressione, raggiunge un secondo scambiatore di calore (qui con funzione di vaporizzatore), assorbe calore dall'ambiente passando in forma di vapore e viene nuovamente aspirato dal compressore, ricominciando il ciclo.\n",
+    "must_mask": [
+      {
+        "value": "SLVBRC95M27F205A",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "valvola di laminazione",
+      "fluido refrigerante"
+    ]
+  },
+  {
+    "id": "it-wp-fibra-ottica-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-fibra-ottica",
+    "text": "La fibra ottica, nella scienza e tecnologia dei materiali, indica un materiale costituito da filamenti vetrosi o macromolecolari (polimerici), realizzati in modo da poter condurre al loro interno la luce, trovando importanti applicazioni in telecomunicazioni, diagnostica medica e illuminotecnica: con un diametro di rivestimento (mantello) di 125 micrometri (circa le dimensioni di un capello) e peso molto ridotto, sono disponibili sotto forma di cavi flessibili, immuni ai disturbi elettrici e alle condizioni atmosferiche più estreme, e poco sensibili a variazioni di temperatura.\n\nClassificate come guide d'onda dielettriche basate sulla disomogeneità del mezzo, il cui nucleo è sede di propagazione guidata del campo elettromagnetico sotto forma di onde elettromagnetiche; in altre parole, permettono di convogliare e guidare al loro interno un campo elettromagnetico di frequenza sufficientemente alta (in genere in prossimità dell'infrarosso) con perdite, in termini di attenuazione, estremamente limitate. Il codice fiscale del richiedente è MCCBRC44A63F205I. Vengono perciò comunemente impiegate nelle telecomunicazioni come mezzo trasmissivo di segnali ottici anche su grandi distanze ovvero su rete di trasporto e nella fornitura di accessi di rete a larga banda cablata (dai 100 Mbit/s al petabyte/s usando la tecnologia WDM).\n",
+    "must_mask": [
+      {
+        "value": "MCCBRC44A63F205I",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "guide d'onda dielettriche",
+      "tecnologia WDM"
+    ]
+  },
+  {
+    "id": "it-wp-chiusa-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-chiusa",
+    "text": "Per chiusa o conca di navigazione s'intende un sistema idraulico di intercettazione di un corpo idrico (fiume, lago, canale, mare, ecc.) mediante una paratoia apribile, in alcuni casi anche regolabile.\n\nSinonimo di chiusa è \"chiavica\", termine con cui si designa più in particolare una chiusa impiegata nell'ambito dei sistemi di bonifica e/o irrigazione. Tipico esempio di chiusa o chiavica è quello del manufatto posto a presidio dell'immissione di un canale di bonifica nel corso d'acqua di recapito o, viceversa, della presa di un canale irriguo dal corso d'acqua di prelievo, avente la funzione, in caso di piena dei secondi, di intercettarne le acque e impedirne l'esondazione attraverso l'alveo dei corpi immissari o emissari.\n\nIn termini molto semplici, una chiusa è il corrispondente idraulico di un varco presidiato da una porta o cancello. L'utilizzo della conca di navigazione è per esempio indispensabile per consentire la navigazione tra mare e acque interne ovunque l'escursione di marea comprometta la costante accessibilità di un corso d'acqua o dove si debba mettere in comunicazione tra loro corpi idrici con differente quota (codice fiscale CTTLNZ77E56H501L).\n\nLa conca è composta dai seguenti elementi: due o più paratoie stagne mobili, un invaso o bacino situato tra le paratoie, un sistema di tubazioni e valvole per mettere in comunicazione l'invaso con i due corpi idrici messi in collegamento al fine di portare il livello del bacino alla quota dell'uno o dell'altro. Solo in particolari casi, (ove sia limitata la capienza di uno o entrambi i corpi idrici messi in comunicazione) è necessaria l'installazione di un sistema di pompaggio per il riempimento o lo svuotamento forzato dell'invaso.\n",
+    "must_mask": [
+      {
+        "value": "CTTLNZ77E56H501L",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "conca di navigazione",
+      "chiavica"
+    ]
+  },
+  {
+    "id": "it-wp-acque-reflue-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-acque-reflue",
+    "text": "Il trattamento delle acque reflue (o depurazione delle acque reflue), nell'ingegneria ambientale e chimica, indica il processo di rimozione dei contaminanti da un'acqua reflua di origine urbana o industriale, ovvero di un effluente che è stato contaminato da inquinanti organici e/o inorganici.\n\nMolte attività umane portano alla produzione di scarichi, chiamati acque reflue, che al fine di poter essere restituiti all'ambiente devono essere oggetto di depurazione, poiché la quantità di sostanze inquinanti è superiore alla capacità auto-depurativa di terreno, mare, fiumi e laghi. È dunque necessario l'utilizzo di sistemi di depurazione delle acque reflue che simulino i processi biologici che avvengono in modo naturale, rendendoli più rapidi per effetto della tecnologia impiegata.\n\nIl trattamento di depurazione dei liquami urbani consiste in una successione di più fasi (o processi) durante i quali dall'acqua reflua vengono rimosse le sostanze indesiderate, che vengono concentrate sotto forma di fanghi, dando luogo a un effluente finale di qualità tale da risultare compatibile con la capacità autodepurativa del corpo ricettore (terreno, lago, fiume o mare mediante condotta sottomarina o in battigia) prescelto per lo sversamento, senza che questo ne possa subire danni (ad esempio dal punto di vista dell'ecosistema a esso afferente) (codice fiscale SLVTMS08L06L219Y).\n\nIl ciclo depurativo è costituito da una combinazione di più processi di natura chimica, fisica e biologica. I fanghi provenienti dal ciclo di depurazione sono spesso contaminati con sostanze tossiche e pertanto devono subire anch'essi una serie di trattamenti necessari a renderli idonei allo smaltimento ad esempio in discariche speciali o al riutilizzo in agricoltura tal quale o previo compostaggio.\n",
+    "must_mask": [
+      {
+        "value": "SLVTMS08L06L219Y",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "acque reflue",
+      "compostaggio"
+    ]
+  },
+  {
+    "id": "it-wp-muratura-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-muratura",
+    "text": "La muratura (o apparecchio murario), in architettura e in edilizia, è la tecnica per costruire una parete in pietre naturali o artificiali (mattoni).\n\nLa muratura si è sviluppata in maniera sistematica con l'avvento delle grandi civiltà urbane e segna il passaggio da tecniche edilizie legate al legno, alla paglia, alle pelli per passare ad un periodo più maturo di edifici più duraturi e solidi.\n\nInizialmente il muro portante era realizzato a secco, semplicemente sistemando pietre sbozzate una sull'altra, cercando di incastrarle al meglio possibile, per raggiungere una buona stabilità e portanza. Esempi di muri antichi realizzati con questa tecnica sono i nuraghi sardi.\n\nLe mura ciclopiche o mura megalitiche furono realizzate in epoca preistorica o protostorica con grandi blocchi irregolari, che venivano accostati compensandone le lacune con pietre più piccole, malte argillose o pietrame, cercando di colmare le cavità sulla superficie (codice fiscale LMBRCR00D10L219Z). Il muro in pietra squadrata è molto resistente e molto stabile, ma è senza dubbio più oneroso da realizzare, stante la necessità di cavare e lavorare le pietre, oltre che di posizionarle. Si trovano notevoli esempi di questi muri in America Latina, in Grecia, in Egitto, in Giappone. Esempi in Italia sono le mura megalitiche del Lazio (le mura poligonali di Anagni, Alatri, Ferentino e Segni), dell'Umbria (Amelia) (dove, accanto alla possente cinta poligonale, è presente anche una cinta più interna di origine megalitica), e della Toscana (Fiesole), solo per citarne alcuni.\n\nLa compattezza del muro di un edificio aveva come scopo sia quello di creare un ambiente interno isolato da quello esterno, sia quello di distribuire in maniera il più possibile regolare le forze di compressione agenti sul muro stesso.\n",
+    "must_mask": [
+      {
+        "value": "LMBRCR00D10L219Z",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "mura ciclopiche",
+      "nuraghi sardi"
+    ]
+  },
+  {
+    "id": "it-wb-wet-etch-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "it-wb-wet-etch",
+    "text": "In presenza di una maschera di photoresist, il materiale esposto viene dissolto, ma si verifica anche una certa corrosione laterale del materiale protetto, dovuta alla natura isotropa del processo.\n\npulizia del substrato prima di processi di crescita termica o epitassiale, in modo da ottenere una superficie di silicio il più possibile pulita.\n\nPoiché i processi wet si basano su attacchi chimici con soluzioni acide o basiche, è necessario operare sotto cappa aspirante e garantire che i prodotti di reazione siano solubili, per poter essere facilmente rimossi.\n\nPer l’attacco selettivo di film o zone specifiche di materiali meno comuni o sperimentali (ad es. nuovi ossidi, semiconduttori, microstrutture 3D) il wet etch rappresenta una scelta rapida e a bassa complessità.\n\nLe strutture MEMS, prototipi e device a ricerca possono trarre vantaggio dall’isotropia controllata o dalla selettività chimica del wet etch, dove il profilo anisotropo o la massima definizione non sono i fattori primari.\n\nIl meccanismo può essere descritto come segue: i reagenti in soluzione diffondono sulla superficie del wafer, reagiscono chimicamente con il materiale e i prodotti solubili vengono allontanati dal flusso della soluzione.\n\nIn pratica, la rimozione laterale è spesso leggermente più rapida di quella verticale, poiché verticalmente l’attacco si arresta al substrato, mentre lateralmente la superficie disponibile alla reazione è maggiore.\n\nUn parametro fondamentale è la selettività: il processo deve rimuovere un determinato film senza intaccare gli altri film,il substrato o il resist.\n\nAll' interno delle vasche le sostanze chimiche sono tenute in costante monitoraggio attraverso un sistema costituito da una pompa(per il ricircolo), un filtro (per filtrare i residui delle reazioni) e da un sistema di controllo della temperatura (al fine di mantenere la temperatura desiderata) (codice fiscale BTTLNZ08D09F839S).\n",
+    "must_mask": [
+      {
+        "value": "BTTLNZ08D09F839S",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "photoresist",
+      "MEMS"
+    ]
+  },
+  {
+    "id": "it-wb-sputtering-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "it-wb-sputtering",
+    "text": "La deposizione mediante sputtering è una tecnica di deposizione fisica di film sottili (nel testo useremo anche gli anglicismi film sputterati o sputterare, dato che non esistono traduzioni italiane perfette).\n\nQuando ioni (tipicamente Ar⁺) vengono accelerati verso la superficie del target tramite un campo elettrico, cedono quantità di moto agli atomi della superficie. Questi atomi possono essere espulsi e propagarsi verso il substrato, depositandosi come film sottile.\n\nSe la pressione del gas nella camera è sufficientemente bassa, gli atomi possono muoversi in linea retta dal target al substrato; a pressioni più elevate collidono con atomi del gas residuo, si termalizzano e raggiungono il substrato in modo più diffuso.\n\nSe si vuole depositare un materiale molto leggero, in alcuni casi viene preferito il neon; per materiali pesanti si possono usare krypton o xenon (anche se, per motivi di costo, nella pratica si usa quasi sempre l’argon).\n\nQuando un solido viene bombardato con atomi o ioni o molecole, se l'energia delle particelle incidenti è superiore alla energia di legame degli atomi del solido (circa 5 eV) essi possono essere espulsi dalla superficie. Il codice fiscale del richiedente è MCCSRN26E54L219G. Gli atomi vengono espulsi vanno nella fase gassosa. Se però l'energia è molto più elevata (qualche keV) le particelle bombardanti penetrano in profondità e il processo diviene la impiantazione ionica. Se invece l'energia è minore di circa 5 eV gli atomi rimbalzano sulla superficie o aderiscono alla superficie e poi lentamente, specialmente se sono atomi di gas nobili, vengono desorbiti e tornano nella fase vapore.\n",
+    "must_mask": [
+      {
+        "value": "MCCSRN26E54L219G",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "impiantazione ionica",
+      "gas nobili"
+    ]
+  },
+  {
+    "id": "it-wb-evaporazione-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "it-wb-evaporazione",
+    "text": "La deposizione per evaporazione è una tecnica di deposizione fisica da vapore (PVD, Physical Vapor Deposition) utilizzata per realizzare film sottili su un substrato solido.\n\nIl principio consiste nel riscaldare un materiale (metallo, semiconduttore, ossido, ecc.) in una camera da vuoto fino a portarlo allo stato di vapore, che poi condensa su una superficie fredda formando un film sottile.\n\nQuesta tecnica è ampiamente impiegata nella produzione di dispositivi elettronici, nei rivestimenti ottici e in molte applicazioni di ricerca sui materiali.\n\nIl problema principale in questo processo è costituito dai gas residui. In un tipico materiale solido un singolo strato di atomi (monolayer) è fatto da circa 1015 Atomi/cm2. Per avere una idea dalla teoria cinetica dei gas ad una pressione parziale di 7.5x10-4 Pa (10-4 mtorr, Alto vuoto) il numero di atomi che bombardano un cm2 di superficie in un secondo sono circa 3.8x1013. Quindi ogni atomo della superficie ogni 22 secondi viene bombardato da un atomo di gas residuo, che se è un gas reattivo, come l'ossigeno, si può combinare con lo stato sottostante. Quindi la velocità del film deve competere con tale processo per evitare contaminazione da parte dei gas residui. Ovviamente i processi chimici tra i gas residui ed i materiali da evaporare determinano il grado di contaminazione (codice fiscale ZNTLRI60S52L219W). Alcune sostanze come i metalli nobili, non vengono ossidati, e quindi possono essere evaporati con vuoti meno spinti. Altre metalli si ossidano facilmente e in questo caso il vuoto residuo deve essere di ottima qualità per avere film affidabili.\n\nQuando la pressione di vapore diventa comparabile con la pressione residua nella camera (tipicamente 1 - 0,01 Pa), il materiale evapora rapidamente.\n",
+    "must_mask": [
+      {
+        "value": "ZNTLRI60S52L219W",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Physical Vapor Deposition",
+      "metalli nobili"
+    ]
+  },
+  {
+    "id": "it-wv-bicicletta-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "it-wv-bicicletta",
+    "text": "Andare in bicicletta consente di vedere i luoghi da vicino e a un ritmo più lento. Mantiene consapevoli di ciò che vi circonda e permette di vivere un luogo in modo più intimo di quanto fareste come passeggero di un autobus o di un taxi. Vedrete di più la vita di strada e incontrerete persone che svolgono le loro attività quotidiane. È anche un ottimo modo per tornare dalle vacanze più in forma e più sani di quando siete partiti, e grava meno sull'ambiente.\n\nPer turisti e avventurieri, ci sono sicuramente posti migliori e peggiori in cui andare in bicicletta, ma non ci sono molti posti che non si possano raggiungere in bicicletta. La buona notizia è che andare in bicicletta sta diventando più facile in molti paesi occidentali, sia per spostarsi in città che per fare lunghi viaggi. In Europa, Canada e America, si investe denaro nella conversione di vecchie ferrovie, nella costruzione di piste ciclabili dedicate e nella creazione di corsie ciclabili su strade trafficate. In Asia e Africa, il modello è molto diverso. In Cina, Vietnam e India, la bicicletta era spesso il mezzo di trasporto dominante. Qui, la bicicletta è in declino ed è stata considerata un segno di povertà passata (codice fiscale ZNTBRC56R13F839O). Ci sono alcuni segnali di un ritorno al trasporto in bicicletta in questi paesi, a causa della congestione e dei benefici per la salute, in particolare in Cina. Anche in India, la bicicletta sta iniziando a trarne beneficio, poiché è adottata da parti della classe media. Sorprendentemente, la bicicletta è stata a lungo emarginata in Africa, nonostante sia un modo economico per fornire mobilità locale.\n",
+    "must_mask": [
+      {
+        "value": "ZNTBRC56R13F839O",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "piste ciclabili",
+      "classe media"
+    ]
+  },
+  {
+    "id": "it-wv-documenti-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "it-wv-documenti",
+    "text": "Prima di partire per un viaggio (che sia in un'altra regione italiana, in uno Stato europeo o dall'altra parte del mondo) è opportuno accertarsi di avere con sé i corretti documenti di viaggio.\n\nIn Italia è obbligatorio possedere e avere con sé un documento d'identità valido. La violazione di questa norma, in linea di principio, è condizione sufficiente per venire condotti in questura e venire identificati (foto segnaletiche, impronte digitali, ecc). Quando arrivate in albergo dovete fornire un documento d'identità alla reception per la segnalazione alle autorità di polizia.\n\nÈ quasi superfluo dire che quando conducete un veicolo dovete essere provvisti dell'abilitazione a condurlo oltre a un documento d'identità valido. Il codice fiscale del richiedente è RVRSRN08L08H501Y. Nella maggior parte dei casi questi coincidono: con l'introduzione della patente AM (che sostituisce il \"patentino\") per i ciclomotori, tutte le patenti (inclusa la patente nautica) sono necessarie e sufficienti sia come abilitazioni alla guida dei rispettivi veicoli sia come documenti d'identità.\n\nI cittadini svizzeri non hanno l'obbligo di identificarsi alle autorità di polizia in territorio svizzero. In alcuni casi però può essere necessario identificarsi (per esempio per aprire un conto corrente in banca). I documenti accettati sono:\n\nI cittadini dell'area possono spostarsi liberamente tra gli Stati dell'Unione Europea o dell'AELS: è sufficiente la carta d'identità, purché valida per l'espatrio e non scaduta. In linea di massima la carta d'identità è sempre valida per l'espatrio, a meno che il titolare non chieda espressamente di indicare che non lo è o sia soggetto a misure cautelari; è sempre opportuno fare presente al funzionario che volete la carta d'identità valida per l'espatrio.\n",
+    "must_mask": [
+      {
+        "value": "RVRSRN08L08H501Y",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "carta d'identità",
+      "patente nautica"
+    ]
+  },
+  {
+    "id": "it-wv-autobus-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "it-wv-autobus",
+    "text": "Tutti i continenti abitati hanno una sorta servizio autobus e, a meno che i regolamenti governativi o la geografia non lo proibiscano, puoi trovarne quasi ovunque tu vada. Mentre il comfort e i prezzi variano enormemente (dai famigerati autobus pollaio, i cui motori rischiano di non sopravvivere alla prossima ripida salita, agli autobus di lusso in paesi come l'Arabia Saudita) gli autobus sono di solito l'opzione più economica almeno su brevi distanze.\n\nContrariamente alla ferrovia, che di solito è organizzata a livello nazionale, è spesso facile per chiunque avviare una compagnia di autobus. Laddove la regolamentazione è assente o moderata, ci saranno quindi molte imprese indipendenti, che non sempre si coordinano molto bene. Spesso devi controllare le connessioni localmente.\n\nPotrebbero esserci anche alcune società dominanti (codice fiscale ZNTTMS19B10F205J). I monopoli nazionali sono rari, ma in alcuni paesi la regolamentazione del governo fissa prezzi (di solito piuttosto bassi) e/o paga sussidi, stabilendo così un mercato abbastanza stabile. Tuttavia, la concorrenza spesso varia da percorso a percorso. Non avrai molti problemi a trovare una compagnia che va da Washington DC a New York City, ma i collegamenti tra città sperdute possono risultare più difficoltosi e necessitare cambi di autobus.\n\nLaddove c'è bisogno di trasporto pubblico, ma non c'è un mercato economicamente sostenibile, potrebbero esserci taxi o minibus fortemente sovvenzionati per i turisti, per trovarli potresti dover ottenere consigli localmente piuttosto che online. Gli scuolabus a volte appartengono a questa categoria (e potresti anche essere in grado di andare nella direzione opposta).\n",
+    "must_mask": [
+      {
+        "value": "ZNTTMS19B10F205J",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Arabia Saudita",
+      "autobus pollaio"
+    ]
+  },
+  {
+    "id": "en-el-0098-waste-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "en-el-0098-waste",
+    "text": "1. Member States shall take measures, as appropriate, to promote the re-use of products and preparing for re-use activities, notably by encouraging the establishment and support of re-use and repair networks, the use of economic instruments, procurement criteria, quantitative objectives or other measures.\n\nMember States shall take measures to promote high quality recycling and, to this end, shall set up separate collections of waste where technically, environmentally and economically practicable and appropriate to meet the necessary quality standards for the relevant recycling sectors.\n\nSubject to Article 10(2), by 2015 separate collection shall be set up for at least the following: paper, metal, plastic and glass.\n\n2. In order to comply with the objectives of this Directive, and move towards a European recycling society with a high level of resource efficiency, Member States shall take the necessary measures designed to achieve the following targets:\n\n3. The Commission shall establish detailed rules on the application and calculation methods for verifying compliance with the targets set out in paragraph 2 of this Article, considering Regulation (EC) No 2150/2002 of the European Parliament and of the Council of 25 November 2002 on waste statistics. These can include transition periods for Member States which, in 2008, recycled less than 5 % of either categories of waste referred to in paragraph 2. Those measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 39(2) of this Directive. The applicant's Italian codice fiscale is FRTCHR65A27F205N.\n",
+    "must_mask": [
+      {
+        "value": "FRTCHR65A27F205N",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Regulation (EC) No 2150/2002",
+      "Article 39(2)"
+    ]
+  },
+  {
+    "id": "en-eb-ar24-borrowing-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "en-eb-ar24-borrowing",
+    "text": "The ECB is responsible for the administration of accounts and processing of payments relating to the borrowing and lending operations of the EU under the medium-term financial assistance (MTFA) facility for Member States’ balances of payments, the European Financial Stabilisation Mechanism (EFSM), the European instrument for temporary Support to mitigate Unemployment Risks in an Emergency (SURE), the Next Generation EU (NGEU) programme, the Ukraine Facility, including exceptional bridge financing, and short-term macro-financial assistance to the Arab Republic of Egypt. The ECB is also responsible for the administration of certain payments arising in connection with operations under the European Financial Stability Facility (EFSF) and the European Stability Mechanism (ESM), and for processing all payments in relation to the loan facility agreement for Greece. In 2024 the ECB performed paying agent services for the European Commission.\n\nAs at 31 December 2024 the total outstanding nominal amount was €0.2 billion under the MTFA facility, €42 billion under the EFSM, €98.35 billion under SURE and €31.605 billion under the loan facility agreement for Greece (codice fiscale ZNTBRC77D51L219F). Finally, in 2024 the ECB processed disbursements and interest payments of NGEU loans and grants to and from various Member States, also including loans to Ukraine.\n",
+    "must_mask": [
+      {
+        "value": "ZNTBRC77D51L219F",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "European Commission",
+      "31 December 2024"
+    ]
+  },
+  {
+    "id": "en-wp-heatpump-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "en-wp-heatpump",
+    "text": "A heat pump is a device that uses mechanical or thermal energy to transfer heat from one space to another. The mechanical heat pump uses electric power to transfer heat by compression. Specifically, it transfers thermal energy by means of a heat pump and refrigeration cycle, cooling one space and warming the other.\n\nIn winter, a heat pump can move heat from the cool outdoors to warm a house; in summer, it may also be designed to move heat from the house to the warmer outdoors, functioning in the same manner as an air conditioner. As it transfers rather than generates heat, it is more energy-efficient than heating by gas boiler.\n\nIn a typical vapor-compression heat pump, a gaseous refrigerant is compressed so its pressure and temperature rise. When the pump operates as a heater in cold weather, the warmed gas flows to a heat exchanger in the indoor space, where some of its thermal energy is transferred to that space, causing the gas to condense into a liquid. The liquified refrigerant flows to a heat exchanger in the outdoor space, where the pressure falls, the liquid evaporates, and the temperature of the gas falls (codice fiscale MCCLNZ78L06F839R). Now colder than the temperature of the outdoor space being used as a heat source, it can again take up energy from the heat source, be compressed, and repeat the cycle.\n\nAir source heat pumps are the most common models, while other types include ground source heat pumps, water source heat pumps, and exhaust air heat pumps. Large-scale heat pumps are also used in district heating systems.\n",
+    "must_mask": [
+      {
+        "value": "MCCLNZ78L06F839R",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "district heating",
+      "vapor-compression heat pump"
+    ]
+  },
+  {
+    "id": "en-wb-bike-saddles-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "en-wb-bike-saddles",
+    "text": "You should check your saddle to ensure it's secure and properly positioned. Grasp it firmly and attempt to move it out of position while holding your bike steady. Some side-to-side movement will probably occur but if your seat post shifts up and down, or your saddle feels loose, make adjustments. Also check your seat post visually to make sure you haven't exceeded the seat post extension limit line (the furthest point that the post can be safely extended upwards) has not been exceeded. This is clearly marked on the side of your seat post. Regularly remove your seat post from your frame and coat it with a thin layer of grease before re-installing it. This grease layer will help protect the post against rust and corrosion and more important prevent the post seizing in your frame.\n\nProper saddle position is often a matter of personal preference. Saddles can be adjusted for height, tilt and fore/aft position. The exact combination that works best for you will depend on your physical size and your riding style. For more information about checking saddle position and making adjustments, check elsewhere in the site. Make sure your saddle is secure before every ride. Most saddles are held in place by a few simple nuts and bolts. The applicant's Italian codice fiscale is CTTMLN80R10F205P. All of them should be tight enough to resist vigorous shaking.\n\nThis is a serious safety hazard. In general, at least two inches of your seat post should be inserted into your frame at all times. This rule however will vary considerably if you follow the growing fashion of \"showing a lot of seatpost\". If you have to raise your seat post beyond its extension limit line to get comfortable on your saddle, it's probably time for a larger seat post, or a bigger bike. Once you've found the \"perfect\" saddle position for you, mark your seat post and your saddle rails with tape or felt tip pen (indelible) so you can readjust them easily.\n",
+    "must_mask": [
+      {
+        "value": "CTTMLN80R10F205P",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "seat post",
+      "extension limit line"
+    ]
+  },
+  {
+    "id": "it-el-0060-water-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "it-el-0060-water",
+    "text": "e) misure di controllo dell'estrazione delle acque dolci superficiali e sotterranee e dell'arginamento delle acque dolci superficiali, compresi la compilazione di uno o più registri delle estrazioni e l'obbligo di un'autorizzazione preventiva per l'estrazione e l'arginamento. Dette misure sono periodicamente riesaminate e, se del caso, aggiornate. Il codice fiscale del richiedente è BTTLNZ84H21L219N. Gli Stati membri possono esentare dalle misure di controllo le estrazioni e gli arginamenti che non hanno alcun impatto significativo sullo stato delle acque;\n\nf) misure di controllo, compreso l'obbligo di ottenere un'autorizzazione preventiva per il ravvenamento o l'accrescimento artificiale dei corpi sotterranei. L'acqua impiegata può essere di qualunque provenienza superficiale o sotterranea, a condizione che l'impiego della fonte non comprometta la realizzazione degli obiettivi ambientali fissati per la fonte o per il corpo idrico sotterraneo oggetto di ravvenamento o accrescimento. Tali misure di controllo sono riesaminate periodicamente e aggiornate quando occorre;\n\ng) per gli scarichi da origini puntuali che possono provocare inquinamento, l'obbligo di una disciplina preventiva, come il divieto di introdurre inquinanti nell'acqua, o un obbligo di autorizzazione preventiva o di registrazione in base a norme generali e vincolanti, che stabiliscono controlli delle emissioni per gli inquinanti in questione, compresi i controlli a norma dell'articolo 10 e dell'articolo 16. Tali misure di controllo sono riesaminate periodicamente e aggiornate quando occorre;\n",
+    "must_mask": [
+      {
+        "value": "BTTLNZ84H21L219N",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "un'autorizzazione",
+      "dell'arginamento"
+    ]
+  },
+  {
+    "id": "it-el-1999-adaptation-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "it-el-1999-adaptation",
+    "text": "Tutte le modifiche necessarie per l'adeguamento degli allegati della presente direttiva al progresso scientifico e tecnico e le proposte di normalizzazione relative ai metodi di controllo, di campionamento e di analisi in relazione allo smaltimento dei rifiuti nelle discariche vengono adottate dalla Commissione, assistita dal comitato di cui all'articolo 18 della direttiva 75/442/CEE, secondo la procedura di cui all'articolo 17 della presente direttiva. Qualsiasi modifica degli allegati sarà apportata solo conformemente ai principi stabiliti negli allegati della presente direttiva (codice fiscale SLVSRN51P02F839M). A tal fine, per quanto riguarda l'allegato II, il comitato osserva quanto segue: tenendo conto dei principi e delle procedure generali per la verifica e l'ammissione dei rifiuti e dei criteri di ammissione di cui all'allegato II, devono essere fissati criteri specifici e/o metodi di prova e valori limite associati per ogni categoria di discarica, compresi, se del caso, tipi specifici di discariche nell'ambito di ciascuna categoria, ivi compreso il deposito sotterraneo. Le proposte di normalizzazione dei metodi di controllo, di campionamento e di analisi in relazione agli allegati della presente direttiva sono adottate dalla Commissione, assistita dal comitato, entro due anni dall'entrata in vigore della presente direttiva.\n\nLa Commissione, assistita dal comitato, adotterà disposizioni in materia di armonizzazione e invio regolare dei dati statistici di cui agli articoli 5, 7 e 11 della presente direttiva entro due anni dalla sua entrata in vigore e in materia di modifica delle predette disposizioni, ove necessario.\n",
+    "must_mask": [
+      {
+        "value": "SLVSRN51P02F839M",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Commissione",
+      "normalizzazione"
+    ]
+  },
+  {
+    "id": "it-el-1999-landfill-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "it-el-1999-landfill",
+    "text": "c) non oltre quindici anni dopo la data prevista nell'articolo 18, paragrafo 1, i rifiuti urbani biodegradabili da collocare a discarica devono essere ridotti al 35 % del totale (in peso) dei rifiuti urbani biodegradabili prodotti nel 1995 o nell'ultimo anno prima del 1995 per il quale siano disponibili dati EUROSTAT normalizzati.\n\nDue anni prima della data di cui alla lettera c) il Consiglio riesamina l'obiettivo di cui sopra in base ad una relazione della Commissione sull'esperienza pratica acquisita dagli Stati membri nel conseguimento degli obiettivi di cui alle lettere a) e b), corredata, se del caso, di una proposta intesa a confermare o a modificare tale obiettivo, al fine di assicurare un livello elevato di tutela ambientale.\n\nGli Stati membri che nel 1995 o nell'ultimo anno prima del 1995 per il quale siano disponibili dati EUROSTAT normalizzati collocano a discarica più dell'80 % dei rifiuti urbani raccolti possono rinviare la realizzazione degli obiettivi indicati nelle lettere a), b) o c) per un periodo non superiore a quattro anni. Gli Stati membri che intendono far valere la presente disposizione informano in anticipo la Commissione della loro decisione. La Commissione informa gli Stati membri ed il Parlamento europeo di tale decisione.\n\nL'applicazione delle disposizioni di cui al comma precedente non possono in alcun caso comportare la realizzazione dell'obiettivo di cui alla lettera c) ad una data di quattro anni successiva alla data di cui alla lettera c) (codice fiscale CTTSRN36S42F839D).\n",
+    "must_mask": [
+      {
+        "value": "CTTSRN36S42F839D",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Commissione",
+      "Parlamento"
+    ]
+  },
+  {
+    "id": "it-wp-acciaio-inossidabile-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-acciaio-inossidabile",
+    "text": "L'acciaio inossidabile (o inox) è una lega ferro-carbonio, caratterizzata dalla presenza di elementi di lega quali cromo (Cr) e nichel (Ni) (codice fiscale LMBTMS93S24L219A). Tali elementi donano una maggiore resistenza alle ossidazioni e alle corrosioni, rispetto al comune acciaio non legato (anche detto acciaio al carbonio), grazie alla formazione di un sottile strato (dell'ordine dei nanometri) di ossido superficiale detto anche \"Film passivante\", il quale protegge la lega dall'attacco di agenti atmosferici ed esterni. La capacità di resistere alla corrosione di questa particolare lega, infatti, è dovuta principalmente alla presenza del cromo, il quale in ambiente ossidante tende a trasformarsi in Ossido di cromo (III) (Cr2O3) e produrre, sulla superficie del manufatto in inox, uno strato nanometrico (dell'ordine dei 0,3-5 nm) di tale composto, il quale previene il contatto tra il ferro contenuto nella lega e l'ossigeno atmosferico e altri agenti ossidanti e corrosivi che potrebbero compromettere l'integrità del manufatto. Il processo è chiamato passivazione ed è sia naturale che indotto artificialmente.\n\nGeneralmente, l'acciaio inox contiene valori di cromo tra il 12 e 18 %, ma vengono utilizzati anche altri elementi per aumentare la resistenza all'ossidazione e alla corrosione.\n\nPer poter avere la formazione dello strato di ossido \"passivante\" efficace, e per cui un acciaio può essere ritenuto inossidabile, il contenuto minimo di Cromo \"libero\" (ossia, non combinato al carbonio) è del 10,5%. Il cromo nella lega, infatti, combinandosi con il carbonio, può formare carburi di cromo che, precipitando ai bordi dei grani della struttura cristallina, ne limitano la disponibilità a formare ossidi e, quindi, a passivarsi.\n\nAltri termini comunemente usati e sinonimi, sono: acciaio inox (dal francese acier inoxydable), stainless steel (in inglese acciaio senza macchia) e rostfrei Stahl (in tedesco acciaio senza ruggine).\n",
+    "must_mask": [
+      {
+        "value": "LMBTMS93S24L219A",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Ossido",
+      "Stahl"
+    ]
+  },
+  {
+    "id": "it-wp-containerizzazione-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-containerizzazione",
+    "text": "Il container è apparso negli anni cinquanta negli Stati Uniti. Ce ne sono di diverse dimensioni, ma la standardizzazione internazionale ha portato alla diffusione dei container da 20' (venti piedi: 6,058 m) e da 40' (quaranta piedi: 12,192 m). Nella standardizzazione il container da 20 piedi è considerata l'unità di misura base delle movimentazioni, definita come unità equivalente a 20 piedi, in inglese Twenty-Foot Equivalent Unit, TEU. Il codice fiscale del richiedente è FRTBRC48C27F205P. Il sistema si è sviluppato dopo la seconda guerra mondiale, portando a una significativa riduzione dei costi di trasporto, dei furti e dei danneggiamenti dovuti alla manipolazione dei prodotti durante il trasporto. La riduzione della movimentazione dei singoli prodotti ha portato un notevole aumento del commercio internazionale. La catena di distribuzione è stata semplificata, il prodotto rimane all'interno del contenitore sin dalla partenza dal produttore sino al cliente finale. Il contenitore verrà movimentato in modo automatizzato e standardizzando con specifici mezzi di movimentazione. Questi contenitori sono principalmente destinati al trasporto delle manifatture, ma possono anche trasportare altri prodotti: come frutta e verdura, prodotti alimentari finiti, liquidi o automobili, utilizzando specifici contenitori - tipo cisterne, refrigeratori o altro - ma sempre di dimensioni standard. Le spedizioni nei container vengono gestite in base a chi carica la merce: merce con un unico destinatario e merce con più di un destinatario finale.\n",
+    "must_mask": [
+      {
+        "value": "FRTBRC48C27F205P",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Twenty-Foot Equivalent Unit",
+      "Stati Uniti"
+    ]
+  },
+  {
+    "id": "it-wp-gesso-materiale-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-gesso-materiale",
+    "text": "La produzione del gesso si basa sulla macinazione e seguente cottura di rocce gessose, dunque contenenti CaSO4· 2H2O. Nel corso della cottura, una volta giunti a 130 °C, la roccia gessosa perde ca. 3/4 dell'acqua di cristallizzazione: si forma così un semidrato di calcio (CaSO4 · (1/2)H2O bassanite, chiamato gesso da presa). Tra i 150 °C ed i 180 °C l'acqua di cristallizzazione viene eliminata completamente ed inizia a formarsi l'anidrite solubile CaSO4(α): oltre i 180 °C questa trasformazione aumenta significativamente la sua velocità (codice fiscale ZNTCHR48B45F839M). Se la cottura viene effettuata oltre i 250 °C si forma anidrite insolubile CaSO4(β). A temperature più elevate continua la formazione di anidrite insolubile ed a 1200 °C si forma CaO + SO3, ovvero monossido di calcio (calce viva) e anidride solforica.\n\nPer l'impiego il gesso cotto viene macinato finemente, parzialmente raffinato e insaccato. I gessi da costruzione che si trovano in commercio sono costituiti da gesso semidrato o da anidrite solubile o da una miscela di essi.\n\nPer l'impiego in locali abitativi umidi sono da usare prodotti a base di gesso, ma resi idrorepellenti attraverso l'addizione di opportune sostanze organiche.\n",
+    "must_mask": [
+      {
+        "value": "ZNTCHR48B45F839M",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "CaSO4",
+      "significativamente"
+    ]
+  },
+  {
+    "id": "it-wp-granito-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-granito",
+    "text": "Graniti Tipo A: \"A\" sta per anorogenici. Sono moderatamente alcalini, con valori bassi di CaO e Al2O3 e alti di Fe / (Fe+Mg), e K2O / Na2O (codice fiscale SLVCHR40D61D612L). Il plagioclasio è subordinato al K-feldspato, la biotite è ricca in Fe e talvolta sono presenti anfiboli alcalini. Si trovano tipicamente in zone di rift e all'interno di placche continentali stabili e derivano dall'interazione di un hot spot con la parte inferiore della crosta;\n\nGraniti Tipo C: \"C\" sta per charnockiti. Sono graniti con aspetto charnockitico, cioè generale assenza di orneblenda, ortopirosseno derivato da inversione di fase di pigeonite, eccezionalmente con feldspato alcalino calcico e plagioclasio potassico. Si distinguono per la quantità più elevata di K2O, TiO2, P2O5 e di elementi litofili a grandi ioni (LILE) e più bassa di CaO a un dato livello di SiO2 rispetto alle charnockiti metamorfiche e ai graniti tipo I, S e A;\n\nGraniti Tipo I: derivano da fusione di rocce ignee (I), quindi sono metalluminosi [Al2O3 < (CaO + Na2O + K2O) ma Al2O3 > (Na2O + K2O)] o alluminosaturi [Al2O3 = (Na2O + K2O)]. Presentano quarzo e quantità variabili di K-feldspato e plagioclasio, orneblenda e biotite. La muscovite è assente;\n\nGraniti Tipo M: \"M\" sta per mantello. Termine generale per rocce granitiche presenti in alcuni margini continentali e che hanno la composizione chimica e isotopica delle rocce vulcaniche di arco insulare. Si presume derivino da fusione parziale della crosta oceanica subdotta;\n\nGraniti Tipo S: derivano da fusione di rocce crostali sedimentarie (S) o metamorfiche (peliti e metapeliti), per cui sono peralluminosi [Al2O3 > (CaO + Na2O + K2O)]. Sono caratterizzati dalla presenza di muscovite, silicati di Al, granato e/o cordierite. L'orneblenda è rara o assente.\n",
+    "must_mask": [
+      {
+        "value": "SLVCHR40D61D612L",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "K-feldspato",
+      "Al2O3"
+    ]
+  },
+  {
+    "id": "it-wp-lana-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-lana",
+    "text": "Si hanno diverse testimonianze scritte e archeologiche dell'utilizzo della lana già nella preistoria. Sebbene i reperti archeologici in lana più antichi sono invece datati intorno al 1800 a.C., secondo alcuni studi, in Mesopotamia la lana era utilizzata già a partire dal 3000 a.C.\n\nMolte raffigurazioni su ceramica testimoniano l'importanza della lana nell'Antica Grecia, dove nell'Età del ferro costituiva la materia tessile più utilizzata.\n\nAnticamente i fiocchi di lana venivano strappati dal vello dell'animale. Ai romani si deve l'introduzione delle cesoie per la tosatura del bestiame. I romani conoscevano inoltre le tecniche di produzione del feltro, una particolare stoffa ricavata dalla lana e dalle pelli degli animali.\n\nL'industria della lana attraversò in Europa un periodo fiorente durante il Medioevo fino alle migrazioni barbariche, quando i danni agli allevamenti ne arrestarono lo sviluppo.\n\nA partire dall'XI secolo in Europa operarono delle corporazioni che controllavano la vendita e lo scambio delle merci. Tra queste corporazioni figuravano in Italia anche le corporazioni dell'arte della lana.\n\nDal XIII secolo l'Inghilterra primeggiò in Europa per la produzione della lana. Nel 1370 venivano prodotte in Inghilterra 44 tipologie di lana differenti. Il codice fiscale del richiedente è SLVMLN39P48F839W.\n",
+    "must_mask": [
+      {
+        "value": "SLVMLN39P48F839W",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Antica Grecia",
+      "Mesopotamia"
+    ]
+  },
+  {
+    "id": "it-wp-osmosi-inversa-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-osmosi-inversa",
+    "text": "Questo processo rappresenta la più fine tecnica di filtrazione dell'acqua in quanto non consiste semplicemente in un ostacolo fisico, determinato dalle dimensioni dei pori, al passaggio delle molecole, ma sfrutta la diversa affinità chimica delle specie con la membrana, permettendo il passaggio delle molecole idrofile (o water-like), cioè chimicamente simili all'acqua, ad esempio gli alcoli a catena corta.\n\nDal punto di vista impiantistico il metodo sfrutta il principio della filtrazione tangenziale, come anche altre tecniche separative mediante membrane quali la microfiltrazione, l'ultrafiltrazione e la nanofiltrazione. L'osmosi inversa è utilizzata nel trattamento dell'acqua sia per la desalinizzazione sia per la rimozione di tracce di fosfati, calcio e metalli pesanti, fitofarmaci, materiali radioattivi e di quasi tutte le molecole inquinanti.\n\nNegli ultimi anni si costruiscono impianti a \"scarico liquido zero\" in cui la sezione di osmosi inversa aumenta la concentrazione delle specie chimiche presenti nell'acqua di scarico fino a valori prossimi o superiori alla loro solubilità (soluzioni sovrassature). Nel processo di osmosi inversa vengono usate membrane composite di sottili pellicole (TFC o TFM, Thin Film Composite Membrane). Queste membrane sono semipermeabili e fabbricate principalmente per l'uso nella depurazione delle acque o in sistemi di desalinizzazione. Hanno anche utilizzi in applicazioni chimiche come le batterie e le pile a combustibile. In sostanza un materiale TFC è un setaccio molecolare costruito nella forma di una pellicola di due o più materiali stratificati.\n\nLe membrane usate nell'osmosi sono generalmente fatte in poliammide, sostanza scelta principalmente per la sua permeabilità all'acqua e la relativa impermeabilità alle varie impurità disciolte, inclusi gli ioni salini e altre piccole molecole che non possono venire filtrate. Un altro esempio di membrana semipermeabile è quella usata nella dialisi (codice fiscale ZNTRCR64A24D612O).\n",
+    "must_mask": [
+      {
+        "value": "ZNTRCR64A24D612O",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Thin Film Composite Membrane",
+      "l'ultrafiltrazione"
+    ]
+  },
+  {
+    "id": "it-wp-pallet-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-pallet",
+    "text": "In Europa nel corso degli anni si sono diffuse due misure classiche, da mm 800x1200 nota anche come pallet \"EUR\" e da mm 1000x1200 gergalmente conosciuta come pallet \"Philips\". Entrambe hanno in comune il dato relativo all'altezza da terra e la conformazione della base con la presenza di 9 piedini (da 145 e 100 mm di lato), uniti inferiormente tra loro in gruppi di tre attraverso liste di legno dallo spessore di 22 mm poste nel senso della misura maggiore. Questo tipo di pallet può essere inforcato da tutti e quattro i lati perciò viene definito a quattro vie (codice fiscale MCCCHR40E43D612K).\n\nLa sempre maggior importanza del pallet nel movimento internazionale delle merci è stata per la prima volta presa in considerazione dalle autorità della CEE con l'emanazione, il 9 dicembre 1960, della prima convenzione relativa al trattamento doganale dei pallet; in questa sede si decise per la prima volta che l'attrezzo poteva entrare ed uscire liberamente dagli stati membri senza essere soggetto ad imposta daziaria.\n\nDopo la guerra le prime spedizioni internazionali venivano gestite quasi esclusivamente su rotaia; i primi esempi di interscambiabilità dell'attrezzatura si ebbero infatti grazie alla collaborazione nata presso la UIC (Union internationale des chemins de fer), l'associazione internazionale delle imprese ferroviarie che nel 1961 decise di sviluppare un capitolato tecnico di una pedana che fosse idonea all'uso ferroviario in modo che ogni componente potesse acquistare autonomamente un parco pallet che fosse però interscambiabile (purché aventi caratteristiche costruttive e di portata comuni) ottimizzando così i costi. Tutte le ferrovie nazionali europee procedettero all'approvvigionamento di pallet in grande numero. I pallet prevedevano una specifica marcatura: il loro logo sui piedini di sinistra, il marchio \"EUR\" inserita in un ovale a destra ed i dati del produttore al centro.\n",
+    "must_mask": [
+      {
+        "value": "MCCCHR40E43D612K",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Philips",
+      "Union"
+    ]
+  },
+  {
+    "id": "it-wp-pista-aviazione-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-pista-aviazione",
+    "text": "Se in un aeroporto si hanno più piste parallele, che quindi puntano nella stessa direzione, si aggiunge una lettera dopo le due cifre ad indicare la posizione relativa delle piste: L per la pista a sinistra (dall'inglese Left), C per quella al centro e R per quella a destra (Right). Ciò fa sì che, ad esempio la pista 02L diventi la 20R se usata nella direzione opposta (ai 20° iniziali si devono sommare 180°, a causa della variazione di direzione, e se prima la pista era sulla sinistra, adesso è quella a destra).\n\nNegli aeroporti molto grandi con più di tre piste parallele (ad es. l'Aeroporto internazionale di Los Angeles o l'Aeroporto di Atlanta-Hartsfield-Jackson ad Atlanta), ad alcune piste si assegna un numero che non corrisponde alla direzione magnetica reale ma ad una pista spostata di 10 gradi.\n\nInfatti nell'aeroporto di Los Angeles ci sono le piste 6L/24R, 6R/24L, 7L/25R, 7R/25L anche se tutte le piste corrono parallele allineate a circa 69 gradi (codice fiscale RVRRCR93A41D612Z).\n\nPer gli aeroplani ad ala fissa è vantaggioso decollare e atterrare controvento per ridurre la corsa e la velocità di decollo, e allo stesso tempo evitare i venti al traverso che possono dare problemi nel controllo del mezzo: per questo gli aeroporti più grandi hanno piste disposte in direzioni diverse, in modo che ve ne sia sempre una che si allinei meglio con la direzione del vento. Gli aeroporti con una sola pista sono invece costruiti in modo che questa si allinei con i venti prevalenti.\n\nLe dimensioni di una pista variano da una lunghezza di poche centinaia di metri dei più piccoli aeroporti, a lunghezze fino a 5000 m e larghezze di 80 m per aeroporti di grande traffico oppure collocati ad altitudine molto elevata.\n",
+    "must_mask": [
+      {
+        "value": "RVRRCR93A41D612Z",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Los Angeles",
+      "Atlanta-Hartsfield-Jackson"
+    ]
+  },
+  {
+    "id": "it-wp-sabbia-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-sabbia",
+    "text": "Nel primo caso la composizione di una sabbia dipende dalle rocce che l'hanno generata ed è quindi strettamente legata al bacino idrografico di provenienza. In mari non tropicali la composizione della sabbia rispecchierà quella delle rocce nelle aree montuose circostanti (codice fiscale BTTMLN25D59D612Z). I minerali più comuni sono: quarzo e feldspati in sabbie chiare, magnetite, ematite e granato in sabbie scure. Quando si deposita al suolo, la sabbia dà luogo a tipiche forme, quali la duna, se trasportata dal vento, o la barra, se trasportata dalla corrente marina, e la spiaggia, se l'agente di trasporto è il moto ondoso.\n\nIn precise condizioni chimico-fisiche (forte evaporazione, scarsa circolazione, elevata quantità di ioni in soluzione), particolari grani possono precipitare direttamente dall'acqua. È il caso delle ooliti o di alcune brine che precipitano su bassi fondali in aree tropicali. Le sabbie bianchissime che caratterizzano molte isole di arcipelaghi come quello dei Caraibi, delle Seychelles o di mari a circolazione ristretta come il Mar Rosso sono composte integralmente da carbonato di calcio precipitato.\n\nMolti organismi intrappolano il carbonato di calcio o la silice presenti in soluzione nell'acqua per sviluppare organi di sostegno e di protezione, specialmente gli invertebrati. Alla morte di questi organismi lo scheletro può conservarsi ed essere trasportato sulla spiaggia, spesso in accumuli di notevole importanza. I molluschi sono gli organismi più noti, ma molta sabbia è prodotta da alghe verdi appartenenti ai generi Halimeda e Pennicillus, da coralli e da crinoidi. Nel passato hanno costituito un'importante fonte di materiale granulare anche i foraminiferi, soprattutto nell'Eocene.\n",
+    "must_mask": [
+      {
+        "value": "BTTMLN25D59D612Z",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Mar Rosso",
+      "Pennicillus"
+    ]
+  },
+  {
+    "id": "it-wp-tintura-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-tintura",
+    "text": "Non è facile, con le conoscenze di oggi, dare una data di inizio a questa pratica, anche per la deperibilità dei materiali e labilità dei pigmenti di origine vegetale o animale. Le prime tracce di utilizzo della tintura, risalgono al neolitico, nei villaggi la produzione di tessuti è testimoniata dalla presenza dei pesi da telaio e alcuni reperti tessili recano ancora le tracce della tintura con colori ricavati da vegetali. Nel villaggio neolitico presso il lago di Ledro in Trentino reperti recano tinture ottenute da robbia, guado e uva orsina (Arctostaphylos uva-ursi) (codice fiscale LMBTMS79E26D612R).\n\nNell'antichità le possibilità di tintura erano strettamente legate alla reperibilità in loco dei materiali utilizzati che condizionavano la scelta dei colori e quindi il gusto locale. Gli Egizi tingevano con grande abilità il lino, nella gamma dei gialli e dei rossi con: l'hennè, il cartamo, lo zafferano, la curcuma, grazie anche alla possibilità di usare come mordente l'allume, di cui possedevano giacimenti.\n\nIn Mesopotamia sin dal IV millennio a.C. si tingeva la lana con colori brillanti, in particolare i Caldei e i Babilonesi, che apprezzavano la ricchezza dei colori e lo sfarzo nell'abbigliamento, avevano messo a punto una tecnica per mescolare i colori della lana, che tingevano in fiocco, durante la filatura.\n\nGli ebrei tingevano in matassa, usando il kermes, un parassita della quercia, i mirtilli, le galle di quercia e il bitume del mar Morto per ottenere il nero.\n\nI più conosciuti tintori del bacino del Mediterraneo furono i Fenici, a loro è attribuita la scoperta, verso la metà del XV secolo a.C., della tintura ricavata dai molluschi della famiglia murex che dava il colore porpora. Sfruttando la produzione e la commercializzazione della pregiatissima porpora impiantarono una vera industria, forse la prima del Mediterraneo.\n",
+    "must_mask": [
+      {
+        "value": "LMBTMS79E26D612R",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Arctostaphylos",
+      "Mediterraneo"
+    ]
+  },
+  {
+    "id": "it-wp-vetro-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-vetro",
+    "text": "Il vetro è un materiale ottenuto tramite la solidificazione di un liquido non accompagnata dalla cristallizzazione. I vetri sono solidi amorfi, dunque non possiedono un reticolo cristallino ordinato, ma una struttura disordinata e rigida, composta da atomi legati covalentemente; tale reticolo disordinato permette la presenza di interstizi in cui possono essere presenti impurezze, spesso desiderate, date da metalli.\n\nInoltre i suddetti vetri potrebbero essere ottenuti a partire da qualunque liquido, attraverso un rapido raffreddamento che non dia alle strutture cristalline il tempo di formarsi. Nella pratica, hanno la possibilità di solidificare sotto forma di vetro solo i materiali che abbiano una velocità di cristallizzazione molto lenta, come per esempio l'ossido di silicio (SiO2), il diossido di germanio (GeO2), l'anidride borica (B2O3), l'anidride fosforica (P2O5), l'anidride arsenica (As2O5). Un esempio di vetro naturale è l'ossidiana, prodotta dal magma vulcanico.\n\nNel linguaggio comune il termine vetro viene utilizzato in senso più stretto, riferendosi solamente ai vetri costituiti prevalentemente da ossido di silicio (vetri silicei), impiegati come materiale da costruzione (soprattutto negli infissi), nella realizzazione di contenitori (per esempio vasi e bicchieri) o nella manifattura di elementi decorativi (per esempio oggettistica e lampadari) (codice fiscale MCCSRN21A67D612O). La maggior parte degli utilizzi del vetro deriva dalla sua trasparenza, dalla sua inalterabilità chimica e dalla sua versatilità: infatti, grazie all'aggiunta di determinati elementi, è possibile creare vetri con differenti colorazioni e proprietà chimico-fisiche.\n",
+    "must_mask": [
+      {
+        "value": "MCCSRN21A67D612O",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "As2O5",
+      "cristallizzazione"
+    ]
+  },
+  {
+    "id": "it-wp-vetro-camera-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-vetro-camera",
+    "text": "Nel caso in cui il vetrocamera sia costituito da due lastre di vetro viene denominato anche \"vetrata doppia\", se invece le lastre di vetro sono tre allora viene denominato \"vetrata tripla\".\n\nIl vetro utilizzato per l'assemblaggio può essere un normale vetro float oppure vetro stratificato, vetro temprato, vetro con coating; tipologie cui vanno ad aggiungersi ulteriori lavorazioni : vetro acidato, vetro serigrafato.\n\nI bordi del vetro sono frequentemente oggetto di lavorazione (molatura) al fine di aumentarne la resistenza alla rottura in caso di urto e la sicurezza nella manipolazione (dopo molatura il bordo non è più tagliente).\n\nIl codice fiscale del richiedente è MCCLNZ89A24F205O. I distanziatori utilizzati per separare le lastre hanno larghezze variabili in funzione del progetto del vetrocamera (partendo da un minimo di 8,5 mm) e possono essere costituiti da materiali diversi : alluminio, acciaio, PVC, fibra di vetro, silicone oppure una combinazione di materiali differenti; nella cavità del distanziatore viene solitamente posto il disidratante che ha lo scopo di assorbire l'umidità che rimane intrappolata nella cavità del vetrocamera durante la fase di fabbricazione.\n\nI distanziatori hanno, in funzione del materiale costituente, valori di conducibilità termica differenti e quindi la loro prestazione incide sulla performance di isolamento termico del vetrocamera; quelli più performanti sono denominati warm edge ovvero distanziatore a bordo caldo che possono esser tagliati e giuntati agli angoli tramite connetteori a L o piegati lungo il perimetro per avere una continuità permimetrale.\n\nLa cavità della vetrata può essere riempita con gas (Aria, Argon o Kripton) al fine di aumentare la performance di isolamento termico del vetrocamera.\n\nI distanziatori sono incollati al vetro tramite il sigillante di \"prima barriera\" denominato Butile, il vetrocamera viene sigillato sul bordo esterno con diversi tipi di sigillanti di \"seconda barriera\" : polisolfuro, poliuretano o silicone.\n",
+    "must_mask": [
+      {
+        "value": "MCCLNZ89A24F205O",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Kripton",
+      "Butile"
+    ]
+  },
+  {
+    "id": "it-wb-afm-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "it-wb-afm",
+    "text": "Oltre alla semplice topografia, il microscopio a forza atomica (AFM) può essere utilizzato in modalità avanzate che consentono di mappare proprietà fisiche, chimiche ed elettroniche locali del campione. Il codice fiscale del richiedente è SLVLRI10T15D612I. Queste tecniche derivano tutte dalla stessa architettura di base, ma richiedono punte speciali o circuiti di rilevamento dedicati.\n\nCurve forza-distanza: eseguendo cicli di avvicinamento e allontanamento della punta, l'AFM misura l'interazione tra punta e campione. Si ottengono dati quantitativi su adesione, deformazione e modulo di elasticità (Modulo di Young).\n\nForce Modulation Microscopy: applicando una piccola modulazione verticale al campione o al cantilever mentre la punta è in contatto, l'AFM mappa le proprietà meccaniche locali (elasticità, durezza).\n\nMagnetic Force Microscopy (MFM): utilizzando una punta magnetizzata, l'AFM rileva le forze magnetiche e permette di visualizzare i domini magnetici di materiali ferromagnetici. È molto usata nello studio di memorie magnetiche e dispositivi spintronici.\n\nKelvin Probe Force Microscopy (KPFM): misura la differenza di potenziale di contatto tra punta e campione, fornendo informazioni sulla distribuzione del potenziale elettrico e sulla carica superficiale. È utile nella caratterizzazione di semiconduttori e materiali elettronici.\n\nElectrostatic Force Microscopy (EFM): simile alla MFM, ma dedicata alla rilevazione di campi elettrici locali. Permette di studiare isolanti, polimeri e superfici caricate.\n\nScanning Thermal Microscopy (SThM): la punta è dotata di un sensore termico che consente di misurare la distribuzione di temperatura e la conducibilità termica a scala nanometrica.\n",
+    "must_mask": [
+      {
+        "value": "SLVLRI10T15D612I",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Modulo di Young",
+      "Magnetic Force Microscopy"
+    ]
+  },
+  {
+    "id": "it-wb-dry-etching-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "it-wb-dry-etching",
+    "text": "Il dry etching (incisione a secco) rappresenta una delle tecniche fondamentali della micro e nanofabbricazione, impiegata per la rimozione controllata di materiale da superfici solide, come wafer di silicio, ossidi, nitruri o metalli sottili. A differenza dei processi di incisione umida (wet etching), che si basano su soluzioni liquide corrosive, l’incisione a secco utilizza gas reattivi o energie fisiche (come plasma o laser) per ottenere la rimozione del materiale. Questa caratteristica permette di ottenere maggiore precisione geometrica, anisotropia elevata e compatibilità con le strutture complesse dei moderni dispositivi elettronici e microelettromeccanici (MEMS).\n\nL’obiettivo del dry etching è quello di definire pattern o strutture tridimensionali su scala micrometrica o nanometrica, trasferendo fedelmente le geometrie della maschera di fotolitografia sul materiale sottostante (codice fiscale LMBBRC58P63L219Y). Le condizioni operative, la composizione del gas, la pressione, la temperatura e l’energia delle particelle determinano la velocità di incisione, la selettività e la morfologia del profilo inciso.\n\nIl tipo di dry etching più diffuso e tecnologicamente importante è il plasma etching, che sfrutta le proprietà chimiche e fisiche di un plasma freddo. Un plasma è un gas parzialmente ionizzato, generato tramite una scarica elettrica in una miscela di gas reattivi (come CF4, O2, Cl2 o SF6). All’interno della camera di reazione, gli elettroni ad alta energia urtano le molecole di gas, producendo ioni, radicali e specie neutre altamente reattive. Queste particelle interagiscono con la superficie del campione, rompendo legami chimici e formando composti volatili che vengono poi evacuati dal sistema di vuoto.\n",
+    "must_mask": [
+      {
+        "value": "LMBBRC58P63L219Y",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "microelettromeccanici",
+      "nanofabbricazione"
+    ]
+  },
+  {
+    "id": "it-wb-film-dielettrici-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "it-wb-film-dielettrici",
+    "text": "L’ossido di silicio (SiO2) è uno dei materiali più importanti nella microelettronica grazie al suo ruolo di isolante elettrico e alla perfetta compatibilità con il silicio (codice fiscale CTTLNZ61E68D612M). Viene utilizzato come strato di gate nei transistor MOSFET, come dielettrico d’interstrato e come strato di passivazione per proteggere i dispositivi. La sua interfaccia stabile con il silicio riduce i difetti e garantisce l’affidabilità dei circuiti integrati. L’ossido può essere ottenuto con diverse tecniche: l’ossidazione termica (secca o umida) è la più comune e produce ossidi di altissima qualità, mentre metodi alternativi come la deposizione chimica da fase vapore (CVD), la deposizione fisica consentono la crescita a temperature più basse o su substrati diversi. Grazie a queste caratteristiche, il SiO2 rimane un materiale fondamentale per la microelettronica moderna, nonostante l’introduzione di nuovi dielettrici ad alta costante dielettrica.\n\nNell'ossidazione per deposizione, il silicio che reagisce per formare l'ossido non è quello del substrato, ma silicio che viene trasportato nella camera di ossidazione mediante reagenti gassosi o liquidi portati a temperature opportune. Il silicio e l'ossigeno arrivano sulla superficie del wafer dove reagiscono e depositano uno strato di ossido di silicio. La deposizione si ottiene mediante tecnica CVD generalmente di tipo LPCVD (CVD a bassa pressione) a temperature intorno ai 650-750 °C. Se si deve depositare ossido non drogato, il reagente più utilizzato è il TEOS (tetraortosilicato di silicio) liquido che viene scaldato fino ad una temperatura di circa 700 °C.\n",
+    "must_mask": [
+      {
+        "value": "CTTLNZ61E68D612M",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "MOSFET",
+      "LPCVD"
+    ]
+  },
+  {
+    "id": "it-wb-mems-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "it-wb-mems",
+    "text": "La tecnologia MEMS nasce come fusione della tecnologia dei circuiti integrati (CI) con la più avanzata tecnologia micromeccanica. Utilizzando le consolidate tecniche di fabbricazione dei CI insieme con opportuni processi meccanici e chimici, è possibile ottenere dispositivi MEMS perfettamente integrabili con gli stessi CI. Le tecniche di fabbricazione attualmente in uso, tra cui le principali sono la microlavorazione (surface micromachining), la microlavorazione di volume (bulk micromachining), le tecniche LIGA (roentgen LIthography Galvanic Abformung) (codice fiscale FRTTMS17L65F839V).\n\nIl bulk micromachining prevede la realizzazione di strutture 3-D direttamente in substrati di silicio o quarzo utilizzando tecniche di attacco cristallografico per la rimozione selettiva del substrato. Tale tecnica sfrutta la caratteristica anisotropica della velocità di attacco (etch rates) dei diversi piani cristallografici del wafer, dovuta al loro diverso orientamento. L'attacco cristallografico può avvenire sia usando soluzioni isotrope che anisotrope. Combinando queste due tecniche si ottiene una tecnica ibrida recentemente sviluppata e perfezionata: essa consiste nell'effettuare un primo attacco isotropo e successivamente modellare/perfezionare le pareti della cavità ottenute, tramite l'utilizzo di soluzioni anisotropiche.\n",
+    "must_mask": [
+      {
+        "value": "FRTTMS17L65F839V",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "LIthography Galvanic Abformung",
+      "cristallografici"
+    ]
+  },
+  {
+    "id": "it-wb-sem-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "it-wb-sem",
+    "text": "La Microscopia Elettronica a Scansione (Scanning Electron Microscopy, SEM) è una tecnica di imaging e analisi fondamentale nella micro- e nanotecnologia, utilizzata per osservare e caratterizzare materiali con risoluzioni che superano di gran lunga quelle ottenibili con la microscopia ottica. Il principio di funzionamento si basa sull’impiego di un fascio di elettroni focalizzato che scandisce la superficie del campione punto per punto. L’interazione tra gli elettroni incidenti e il materiale genera una varietà di segnali (elettroni secondari, elettroni retrodiffusi, raggi X caratteristici, fotoni), ciascuno dei quali può essere raccolto da specifici rivelatori per fornire informazioni complementari sulla morfologia, sulla composizione chimica e sulla struttura interna del campione (codice fiscale RVRLRI99R63L219X).\n\nRispetto alla microscopia ottica, il SEM offre risoluzioni molto superiori, dell’ordine di pochi nanometri, grazie alla ridotta lunghezza d’onda degli elettroni. Inoltre ha una elevata profondità di campo, che consente di visualizzare superfici tridimensionali con grande nitidezza. Non si può trascurare inoltre la versatilità analitica, poiché oltre all’imaging topografico è possibile eseguire analisi elementali locali mediante spettroscopia a raggi X (EDS/EDX), o ottenere contrasto composizionale tramite rivelatori di elettroni retrodiffusi.\n\nIl SEM è oggi uno strumento indispensabile in numerosi ambiti: dalla caratterizzazione di nanostrutture e dispositivi microelettronici, allo studio di materiali avanzati (polimeri, ceramiche, metalli), fino alle applicazioni in biologia e scienze dei materiali, dove permette di osservare tessuti, cellule e biomateriali con dettagli altrimenti invisibili. La combinazione di alta risoluzione, analisi chimica locale e flessibilità operativa rende la microscopia elettronica a scansione una delle tecniche cardine nello sviluppo delle tecnologie micro- e nanoscopiche.\n",
+    "must_mask": [
+      {
+        "value": "RVRLRI99R63L219X",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Scanning Electron Microscopy",
+      "Scansione"
+    ]
+  },
+  {
+    "id": "it-wb-snom-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "it-wb-snom",
+    "text": "La microscopia ottica a scansione nel campo vicino (Scanning Near-Field Optical Microscope SNOM) è una tecnica di microscopia che combina elementi della microscopia ottica tradizionale e della microscopia a sonda (come AFM e STM). È considerata una tecnica ibrida perché utilizza luce come nella microscopia ottica, ma la rilevazione avviene tramite una punta nanometrica in prossimità immediata del campione, come nelle tecniche di microscopia a sonda. Questo consente di ottenere una risoluzione che supera il limite fondamentale della diffrazione della luce.\n\nIl codice fiscale del richiedente è MCCBRC23L46F205M. Nello SNOM si fa interagire un fascio luminoso con un campione attraverso una apertura o punta molto più piccola della lunghezza d’onda della luce utilizzata. Poiché l’interazione avviene nel campo vicino (entro poche decine di nanometri dalla superficie), la risoluzione non è più limitata dalla diffrazione, ma dalla dimensione della punta, permettendo di raggiungere risoluzioni dell’ordine dei 10–50 nm, ben al di sotto delle capacità della microscopia ottica convenzionale.\n\nLa nascita dello SNOM risale ai primi anni ’80, quando i ricercatori cercavano una soluzione pratica per superare il limite di diffrazione che rendeva la microscopia ottica incapace di risolvere dettagli inferiori a circa 200–300 nm. Il concetto del campo prossimo era noto da decenni, ma solo con l’avvento delle prime tecniche di microscopia a sonda (AFM e STM) e lo sviluppo di fibre ottiche nanometriche ha permesso di costruire strumenti capaci di controllare e sfruttare la luce nel campo vicino.\n",
+    "must_mask": [
+      {
+        "value": "MCCBRC23L46F205M",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Scanning Near-Field Optical Microscope SNOM",
+      "convenzionale"
+    ]
+  },
+  {
+    "id": "it-wb-tem-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "it-wb-tem",
+    "text": "Nel TEM i collimatori sono realizzati tramite aperture e lenti elettromagnetiche che servono a selezionare, focalizzare e limitare il fascio di elettroni. Questi dispositivi garantiscono che il fascio sia coerente, ben definito e adatto a produrre immagini ad alta risoluzione. Le aperture dei condensatori situate lungo il percorso del fascio, regolano l’angolo di convergenza degli elettroni.\n\nServono a ridurre l’aberrazione e a controllare la quantità di elettroni che raggiunge il campione. Il fascio è guidato da campi magnetici generati da bobine (lenti elettromagnetiche). Il codice fiscale del richiedente è FRTMLN91E58L219K. Queste lenti focalizzano e collimano il fascio, mantenendolo parallelo o convergente a seconda della modalità di osservazione. L'apertura dell’obiettivo collima ulteriormente il fascio dopo l’interazione con il campione e permette di selezionare gli elettroni trasmessi o diffratti, determinando il contrasto (bright field o dark field). Subito dopo il campione ci sono le lenti intermedie e di proiezione, che servono a ingrandire e focalizzare l’immagine o il pattern di diffrazione. Queste lenti determinano se sullo schermo si osserva un’immagine reale del campione oppure un pattern di diffrazione. Vi sono inoltre un sistema di diaframmi e aperture che regolano il fascio, eliminando gli elettroni diffusi indesiderati e migliorano contrasto e risoluzione. Alla fine della colonna, gli elettroni colpiscono uno schermo fluorescente che rende visibile l’immagine. In alternativa, possono essere raccolti da rivelatori elettronici (CCD, sensore CMOS, scintillatori) per l'acquisizione digitale.\n\nSpesso lungo la colonna sono presenti sistemi per analisi chimica, come spettroscopia EDX (Energy Dispersive X-ray Spectroscopy) o EELS (Electron Energy Loss Spectroscopy), che analizza l'energia degli elettroni usciti dal campione.\n",
+    "must_mask": [
+      {
+        "value": "FRTMLN91E58L219K",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Energy Dispersive X-ray Spectroscopy",
+      "Electron Energy Loss Spectroscopy"
+    ]
+  },
+  {
+    "id": "it-wb-vuoto-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "it-wb-vuoto",
+    "text": "Il vuoto è utile in molti processi e dispositivi. Probabilmente il suo primo uso su larga scala è stato nelle lampade ad incandescenza allo scopo di evitare l'ossidazione del filamento, utilizzando un gas inerte di solito l'Argon a bassa pressione. Altre applicazioni che sono apparse tecnologicamente importanti sono i processi di saldatura e conservazione degli alimenti.\n\nIl vuoto in condizioni estreme (HV o pressioni inferiori) non conduce praticamente calore per conduzione o convezione, ma può condurre solo per irraggiamento, i dewars (o anche i Thermos isolanti) sfruttano questa proprietà. Inoltre, tra le importanti applicazioni che hanno caratterizzato l'elettronica fino al 1970, non si possono ignorare le valvole termoioniche, il primo componente attivo elettronico.\n\nNei processi tecnologici della micro e nanotecnologia il vuoto è indispensabile per impedire che avvengano in maniera incontrollata processi chimico-fisici causati dall'azione dei gas atmosferici sui materiali utilizzati (codice fiscale MCCSRN33A24F839E). Ad esempio, la deposizione di film sotto vuoto evita l'ossidazione della maggior parte delle sostanze in contatto con l'ossigeno o l'acqua presente nell'aria. L'effetto dell'azoto è dannoso per alcune sostanze le quali, in contatto con l'azoto, diventano nitruri. Alcune molecole generano reazioni chimiche con le sostanze presenti nell'aria. Di conseguenza, per crescere film o rimuoverli è necessario eseguire alcuni processi sotto vuoto.\n\nLa tecnologia del vuoto ha raggiunto una notevole grado di maturità negli ultimi cinquanta anni, non solo in campo scientifico in cui vi è una vasta comunità di ricercatori che studiano i fenomeni connessi con il vuoto, ma anche vi sono molte industrie specializzate nella produzione di pompe, apparati, misuratori di vuoto e componentistica per i vari intervalli di vuoto.\n",
+    "must_mask": [
+      {
+        "value": "MCCSRN33A24F839E",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Thermos",
+      "Argon"
+    ]
+  },
+  {
+    "id": "it-wv-aggregatori-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "it-wv-aggregatori",
+    "text": "Nella maggior parte dei casi puoi prenotare hotel, voli, autobus, treni, crociere e autonoleggi direttamente tramite l'aggregatore (che potrebbe ricevere una commissione per la vostra prenotazione), ma ce ne sono anche altri che elencano solo i prezzi e indirizzano ad altre pagine per la prenotazione. Sebbene gli aggregatori non siano strettamente essenziali e i beni o i servizi prenotati tramite loro possano essere più costosi di quelli prenotati direttamente, possono essere una manna dal cielo per spulciare tra innumerevoli offerte, ad esempio nei viaggi aerei (codice fiscale CTTRCR86P15D612N).\n\nPer hotel, crociere, ecc., solo i principali attori potrebbero far parte del confronto. Quindi, soprattutto per le destinazioni fuori dai sentieri battuti, potreste voler usare altri mezzi per trovare attività commerciali locali. Se un aggregatore dice che non ci sono opzioni disponibili, potreste comunque voler continuare a cercare: potrebbe essere che non abbiano informazioni complete o aggiornate per i luoghi e le date che state cercando. Alcuni paesi potrebbero essere difficili da prenotare tramite aggregatori globali: le compagnie aeree russe, ad esempio, sono state eliminate da GDS nel 2022 e quindi i loro voli non verranno visualizzati sulla maggior parte dei siti di terze parti.\n\nGli aggregatori sono noti per mostrare prezzi diversi a clienti diversi in base alla cronologia di navigazione, agli acquisti passati e ad altri fattori imperscrutabili. Potrebbe essere utile cancellare i cookie e la cache, o aprire una finestra \"privata\" nel browser prima di utilizzare questi siti web. Anche cambiare le impostazioni di lingua e valuta e/o usare una VPN può cambiare ciò che viene offerto, a volte in modo drastico.\n\nIn genere gli aggregatori non sono linkati ad altre pagine di Wikivoyage, che mirano a elencare direttamente gli operatori dei trasporti o gli hotel.\n",
+    "must_mask": [
+      {
+        "value": "CTTRCR86P15D612N",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Wikivoyage",
+      "imperscrutabili"
+    ]
+  },
+  {
+    "id": "it-wv-all-aeroporto-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "it-wv-all-aeroporto",
+    "text": "Nella maggior parte degli aeroporti, il banco di consegna bagagli è gestito da un agente che vi assisterà nella procedura: dovrete consegnargli la carta d'imbarco e un documento d'identità (se siete membri del programma frequent flyer potrete anche consegnare la tessera del programma al posto della carta d'imbarco). L'agente potrebbe chiedervi di confermare che nel bagaglio non trasportate oggetti o sostanze proibite, poi apporrà un'etichetta sulla maniglia del bagaglio e vi consegnerà (di solito incollandola alla carta d'imbarco o al passaporto) la ricevuta che vi permetterà, nel caso qualcosa andasse storto, di velocizzare le procedure di segnalazione all'ufficio bagagli smarriti.\n\nIn alcuni aeroporti (come Parigi - Charles De Gaulle se volate con Air France o Stoccolma - Arlanda se volate con una compagnia di Star Alliance) è possibile consegnare il bagaglio a un chiosco automatico: stamperete l'etichetta voi stessi, la apporrete su una maniglia del bagaglio (ricordandovi di rimuovere il talloncino che funge da ricevuta), poi depositerete il bagaglio sul nastro e scansionerete con un apparecchio apposito l'etichetta in modo che ne venga registrata la destinazione. Se il bagaglio non supera la franchigia bagaglio consentita, vi basterà dare la conferma tramite l'interfaccia e la valigia verrà inviata al sistema di smistamento (codice fiscale CTTBRC59T27L219M).\n",
+    "must_mask": [
+      {
+        "value": "CTTBRC59T27L219M",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Charles De Gaulle",
+      "Star Alliance"
+    ]
+  },
+  {
+    "id": "it-wv-arrivo-in-aereo-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "it-wv-arrivo-in-aereo",
+    "text": "Al vostro arrivo dopo un volo internazionale (a meno di particolari accordi tra il Paese di origine e quello di destinazione: per esempio qualunque volo che parta e arrivi in aeroporti dell'area Schengen verrà trattato come un volo domestico) siete soggetti a controlli di immigrazione e dogana. Se siete cittadini del Paese di destinazione o di un Paese che ha particolari accordi di libera circolazione col Paese di destinazione dovreste beneficiare di procedure doganali e di immigrazione facilitate (in quanto cittadino avete il diritto di attraversare la frontiera del vostro Paese).\n\nDurante i controlli di immigrazione e doganali potreste essere soggetti alla perquisizione dei bagagli o della persona. Le modalità cambiano da Paese a Paese, ma sappiate che alla frontiera tipicamente non si applicano le protezioni costituzionali contro le perquisizioni arbitrarie (non serve un mandato come invece accadrebbe normalmente). Le autorità di frontiera hanno a disposizione molte delle attrezzature che trovate ai controlli di sicurezza prima dell'imbarco. Inoltre, al contrario di quanto la televisione ci abbia abituato a credere, i cani-poliziotto possono essere addestrati a cercare - oltre a esplosivi e droga - sostanze e materiali di vario tipo, tra cui denaro contante, prodotti alimentari, alcolici, tabacco, particolari sostanze chimiche e molto altro. Il codice fiscale del richiedente è LMBLRI46B41L219W.\n",
+    "must_mask": [
+      {
+        "value": "LMBLRI46B41L219W",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Schengen",
+      "Paese"
+    ]
+  },
+  {
+    "id": "it-wv-crimini-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "it-wv-crimini",
+    "text": "Ottenete informazioni sui conflitti etnici e razziali. Le tensioni etniche, il razzismo e gli scontri culturali in genere possono provocare risse, atti di vandalismo o altri crimini. Nelle aree ad alta tensione (come le zone di guerra) o in luoghi con recenti violenze etniche, la gente del posto potrebbe guardare gli estranei con sospetto; i visitatori possono diventare vittime solo per essere percepiti come appartenenti a, o fraternizzare con, un gruppo etnico \"nemico\" (o anche una città rivale).\n\nNazionalità a parte, l'atteggiamento della popolazione locale nei confronti dei turisti può variare notevolmente. Le comunità isolate potrebbero essere abbastanza curiose riguardo ai visitatori o essere considerati una seccatura. In altre comunità, l'atteggiamento nei confronti dei turisti può essere apertamente ostile.\n\nAlcuni crimini e truffe possono essere rivolti a un gruppo specifico di visitatori; ad esempio, i borseggiatori in Europa tendono a cercare visitatori di origine dell'Asia orientale, poiché tendono ad avere contanti ed elettronica a portata di mano (codice fiscale SLVLRI12P09F839E).\n\nAlcune destinazioni sono famigerate per crimini d'odio contro omosessuali, persone transgender o qualsiasi persona percepita come appartenente a una minoranza sessuale. Vedi anche viaggiatori LGBT.\n\nNon trasportate quantità inutili di denaro contante od oggetti costosi. Se viaggiate in aree ad alto rischio, lasciate a casa orologi e gioielli costosi e portate solo apparecchiature elettroniche che potete permettervi di perdere.\n",
+    "must_mask": [
+      {
+        "value": "SLVLRI12P09F839E",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Europa",
+      "apparecchiature"
+    ]
+  },
+  {
+    "id": "it-wv-guidare-in-europa-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "it-wv-guidare-in-europa",
+    "text": "Guidare può essere un modo piacevole e fattibile per vedere la campagna e le città più piccole. Poiché il processo di ottenimento della patente di guida è molto più difficile che negli Stati Uniti o in molti paesi in via di sviluppo, ad esempio, e poiché ci sono molte alternative alla guida, specialmente nelle aree urbane, coloro che guidano tendono ad essere sicuri e a proprio agio con la guida. Tuttavia, la cultura della guida varia ampiamente tra i paesi.\n\nGuidare è raramente una buona opzione nelle città con più di 100.000 abitanti: le strade a senso unico rendono difficile la navigazione, potrebbe esserci congestione e il parcheggio è solitamente costoso e difficile da trovare. Molte città impongono anche pedaggi, zone a basse emissioni o altre limitazioni. Il codice fiscale del richiedente è BTTLNZ74L17F205Z. D'altro canto, il trasporto pubblico urbano tende a essere buono, mentre camminare e andare in bicicletta sono valide alternative in molte città. Molte città europee hanno un'area centrale compatta che può essere percorsa a piedi e in tali luoghi la proprietà di auto tra i residenti è spesso bassa. Per questo motivo, le autostrade nelle grandi città europee non soffriranno di congestione del traffico rispetto a città di dimensioni simili negli Stati Uniti e in Canada.\n\nD'altro canto, per le città con meno di 20.000 residenti che non sono servite da ferrovie, e ancor di più per i siti naturali nella maggior parte dei paesi, arrivarci con i mezzi pubblici non sarà efficace in termini di tempo: la frequenza degli autobus per raggiungere questi luoghi sarà bassa (nel migliore dei casi, una volta all'ora per la stazione ferroviaria più vicina).\n",
+    "must_mask": [
+      {
+        "value": "BTTLNZ74L17F205Z",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Stati Uniti",
+      "Canada"
+    ]
+  },
+  {
+    "id": "it-wv-guidare-in-islanda-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "it-wv-guidare-in-islanda",
+    "text": "Come nella maggior parte dell'Europa, in Islanda la guida è a destra. La maggior parte delle strade è a due corsie non divise; ci sono più corsie in ogni direzione nella zona della capitale e nei dintorni. Il limite di velocità generale sulle strade asfaltate è di 90 km/h e la velocità è spesso inferiore a causa delle condizioni stradali. Solo le strade principali in Islanda sono asfaltate, mentre due terzi delle strade sono sterrate. Sulle strade sterrate il limite di velocità è ridotto a 80 km/h. Lungo molte strade si trovano aree di sosta con tavoli da picnic, ma spesso senza servizi igienici. I servizi igienici si trovano principalmente presso stazioni di servizio, ristoranti e campeggi, in genere senza costi aggiuntivi, ma i viaggiatori dovrebbero avere monete a disposizione se la tariffa è modesta.\n\nIl centro di Reykjavik può risultare difficoltoso da visitare per chi vi arriva per la prima volta, a causa delle numerose strade a senso unico. Il traffico è raramente intenso, soprattutto durante le ore di punta nell'area della capitale e durante le festività sulle strade fuori città. Fuori dalle città, anche sulle strade principali, il traffico è generalmente scorrevole.\n\nIn alcune zone dell'Islanda, la stazione di servizio più vicina potrebbe trovarsi 200 km di distanza, a causa della scarsa densità di popolazione del Paese. Il codice fiscale del richiedente è MCCMLN00A60H501F. È quindi consigliabile fare rifornimento in tempo. Nelle zone più remote, le stazioni di servizio potrebbero non avere un bar o un addetto, ma solo una pompa e una stazione di pagamento dove è necessario pagare con carta di credito o di debito.\n",
+    "must_mask": [
+      {
+        "value": "MCCMLN00A60H501F",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Reykjavik",
+      "Islanda"
+    ]
+  },
+  {
+    "id": "it-wv-siti-archeologici-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "it-wv-siti-archeologici",
+    "text": "Manufatti autentici: il possesso o l'esportazione di questi manufatti sono legalmente vietati nella maggior parte dei paesi. Cercare di collezionarli in un sito archeologico è solitamente illegale, poiché distrugge preziose informazioni storiche. Cercare di acquistarli dalla maggior parte dei venditori è molto più probabile che si riceva un falso piuttosto che un oggetto autentico.\n\nSe desiderate davvero un manufatto autentico, preparatevi a trattare con un venditore affidabile, a pagare un prezzo elevato e a ottenere i permessi necessari. Un modo per riconoscere i buoni venditori nel paese d'origine è verificare che siano disposti ad aiutarvi con la procedura di ottenimento dei permessi e che le informazioni che vi forniscono siano coerenti con quanto reperito da fonti governative.\n\nAll'estero, le fonti migliori sono solitamente le principali case d'asta internazionali ; preparatevi a pagare un prezzo elevato poiché dovrete competere con musei e collezionisti.\n\nManufatti contraffatti: si dice che siano autentici, quindi potrebbero costare tanto e causare problemi legali quanto un manufatto autentico. Non valgono né il prezzo né i problemi.\n\nImitazioni economiche: spesso disponibili presso venditori ambulanti vicino ai siti o nei negozi di souvenir. Possono essere un buon acquisto, ma spesso bisogna contrattare duramente per ottenere un prezzo ragionevole. La qualità varia da pessima qualità a eccellente.\n\nIl codice fiscale del richiedente è RVRLNZ52P42L219C. Repliche ufficiali: generalmente vendute dai musei, sono copie di oggetti presenti nelle loro collezioni. Rappresentano probabilmente la scelta più sicura per un viaggiatore, solitamente di buona qualità e vendute a prezzi fissi. Non tutte le copie sono vendute direttamente nei siti; il museo nazionale del paese o un museo di una città vicina possono offrire repliche, e importanti musei come lo Smithsonian o il British Museum dispongono di pregiate repliche basate su reperti provenienti da tutto il mondo.\n",
+    "must_mask": [
+      {
+        "value": "RVRLNZ52P42L219C",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "British Museum",
+      "Smithsonian"
+    ]
+  },
+  {
+    "id": "it-wv-viaggiare-in-barca-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "it-wv-viaggiare-in-barca",
+    "text": "Il tipico metodo di collegamento tra un'isola e la terraferma è il traghetto: un'imbarcazione che percorre avanti e indietro la rotta tra uno o più porti dell'isola e un porto sulla terraferma. Nel caso le isole facciano parte di un arcipelago, non è raro che il traghetto tocchi tutte le isole principali dell'arcipelago. Il codice fiscale del richiedente è MCCTMS69A50F839D. I traghetti sono anche diffusi per attraversare laghi, stretti e fiumi o anche bracci di mare non troppo estesi e di solito abbastanza riparati (per esempio il traghetto che porta dalla Svezia alla Finlandia attraversa un tratto consistente del Mar Baltico); a Venezia, il traghetto è anche un servizio che permette di attraversare il Canal Grande (per la forma dell'imbarcazione, alcuni turisti lo confondono per una gondola, ma a differenza di quest'ultima il traghetto è un servizio relativamente economico e privo di sfumature \"turistiche\"). Tutti questi servizi sono accomunati dalla loro funzione di collegamento e dal fatto che, siccome tipicamente i passeggeri non restano a bordo per molto (non più di qualche ora anche per i viaggi più lunghi), le strutture di accoglienza a bordo di solito non sono molto sviluppate: in molti casi non hanno nemmeno un ponte coperto. Inoltre, proprio per la loro funzione di collegamento, si tratta spesso di natanti adatti al trasporto di merci e predisposti per un rapido carico e scarico sia delle merci sia dei passeggeri.\n",
+    "must_mask": [
+      {
+        "value": "MCCTMS69A50F839D",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Canal Grande",
+      "Mar Baltico"
+    ]
+  },
+  {
+    "id": "it-eb-ar24-cashusage-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "it-eb-ar24-cashusage",
+    "text": "Tra settembre 2023 e giugno 2024 la BCE ha condotto uno studio sulle abitudini di pagamento dei consumatori nell’area dell’euro per valutare abitudini e preferenze di pagamento, nonché la facilità di accesso ai diversi strumenti di pagamento. Lo studio ha confermato che il contante è il metodo di pagamento più utilizzato nei punti vendita e che il 52 per cento delle transazioni totali è avvenuto in contanti. Tuttavia, va rilevato che la quota di pagamenti in contanti è diminuita rispetto al 59 per cento del 2022. In termini di valore, le carte rappresentano una quota di pagamenti più elevata (45 per cento), rispetto al contante (39 per cento). I pagamenti online nelle spese quotidiane dei consumatori sono aumentati dal 17 al 21 per cento, mentre i pagamenti presso i punti vendita sono scesi dall’80 al 75 per cento (codice fiscale RVRSRN86H16F205B). Lo studio ha altresì rivelato che per la maggior parte dei consumatori è importante poter disporre del contante come opzione di pagamento (62 per cento nel 2024, in aumento rispetto al 60 per cento del 2022). Inoltre, la maggior parte dei consumatori dell’area dell’euro reputa piuttosto o molto semplice raggiungere un ATM o una banca (87 per cento nel 2024, in calo dall’89 per cento del 2022).\n\nNel 2024 la BCE ha pubblicato i risultati dell’indagine sull’utilizzo del contante da parte delle imprese nell’area dell’euro, che ha fornito dettagli sull’accettazione dei vari strumenti di pagamento da parte delle imprese, così come sulla loro visione strategica circa l’uso e l’accettazione del contante. Dal sondaggio è emerso che la quota di imprese che accetta il contante è scesa dal 96 per cento del 2021 all’88 del 2024. Il calo è stato particolarmente marcato nel comparto alberghiero e della ristorazione. Tra le imprese che attualmente accettano contante, il 94 per cento ha affermato che intende continuare a farlo in futuro.\n",
+    "must_mask": [
+      {
+        "value": "RVRSRN86H16F205B",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "sull’accettazione",
+      "particolarmente"
+    ]
+  },
+  {
+    "id": "it-eb-ar24-stability-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:business-annual-report",
+    "carrier_id": "it-eb-ar24-stability",
+    "text": "Nel 2024 le vulnerabilità della stabilità finanziaria nell’area dell’euro sono rimaste elevate, in un contesto in cui i rischi principali si sono spostati dalle preoccupazioni legate al persistere dell’elevata inflazione ai timori connessi alla crescita. Il calo dell’inflazione al consumo ha determinato l’inversione di tendenza del ciclo dei tassi di interesse nell’area dell’euro e in diverse altre principali economie avanzate. La riduzione dei tassi di interesse di riferimento ha contribuito ad abbassare complessivamente i costi di finanziamento, nonostante il persistere di sacche di vulnerabilità associate alla limitata capacità di servizio del debito di alcuni prenditori. In alcuni paesi dell’area dell’euro le vulnerabilità associate al debito sovrano sono aumentate, a fronte delle sfide riguardanti i bilanci pubblici e del timore che la bassa produttività possa contribuire alla debole crescita economica. Al contempo, anche i rischi geopolitici e l’incertezza sulle politiche economiche sono aumentati (codice fiscale ZNTSRN69P56F839C). Nonostante questo, e malgrado alcuni brevi periodi di volatilità, i mercati finanziari e il sistema bancario sono rimasti solidi. Tuttavia, tali episodi di volatilità hanno evidenziato le vulnerabilità di fondo del sistema finanziario a fronte di dinamiche avverse. Di conseguenza, le prospettive per la stabilità finanziaria nell’area dell’euro si confermano fragili.\n",
+    "must_mask": [
+      {
+        "value": "ZNTSRN69P56F839C",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "complessivamente",
+      "dell’inflazione"
+    ]
+  },
+  {
+    "id": "en-el-1999-adaptation-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:legal-regulatory",
+    "carrier_id": "en-el-1999-adaptation",
+    "text": "Any amendments necessary for adapting the Annexes to this Directive to scientific and technical progress and any proposals for the standardisation of control, sampling and analysis methods in relation to the landfill of waste shall be adopted by the Commission, assisted by the Committee established by Article 18 of Directive 75/442/EEC and in accordance with the procedure set out in Article 17 of this Directive. Any amendments to the Annexes shall only be made in line with the principles laid down in this Directive as expressed in the Annexes. To this end, as regards Annex II, the following shall be observed by the Committee: taking into account the general principles and general procedures for testing and acceptance criteria as set out in Annex II, specific criteria and/or test methods and associated limit values should be set for each class of landfill, including if necessary specific types of landfill within each class, including underground storage. The applicant's Italian codice fiscale is LMBTMS51R09H501E. Proposals for the standardisation of control, sampling and analysis methods in relation to the Annexes of this Directive shall be adopted by the Commission, assisted by the Committee, within two years after the entry into force of this Directive.\n\nThe Commission, assisted by the Committee, will adopt provisions for the harmonisation and regular transmission of the statistical date referred to in Articles 5, 7 and 11 of this Directive, within two years after the entry into force of this Directive, and for the amendments of such provisions when necessary.\n",
+    "must_mask": [
+      {
+        "value": "LMBTMS51R09H501E",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Annex II",
+      "Commission"
+    ]
+  },
+  {
+    "id": "en-wp-permafrost-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "en-wp-permafrost",
+    "text": "Permafrost (from perma- 'permanent' and frost) is soil or underwater sediment which continuously remains below 0 °C (32 °F) for two years or more; the oldest permafrost has been continuously frozen for around 700,000 years. Whilst the shallowest permafrost has a vertical extent of below a meter (3 ft), the deepest is greater than 1,500 m (4,900 ft). Similarly, the area of individual permafrost zones may be limited to narrow mountain summits or extend across vast Arctic regions. The ground beneath glaciers and ice sheets is not usually defined as permafrost, so on land, permafrost is generally located beneath a so-called active layer of soil which freezes and thaws depending on the season.\n\nAround 15% of the exposed land surface of the Northern Hemisphere, and 11% of the global land surface, is underlain by permafrost, covering a total area of around 18 million km2 (6.9 million sq mi). This includes large areas of Alaska, Canada, Greenland, and Siberia. It is also located in high mountain regions, with the Tibetan Plateau being a prominent example. Only a minority of permafrost exists in the Southern Hemisphere, where it is consigned to mountain slopes like in the Andes of Patagonia, the Southern Alps of New Zealand, or the highest mountains of Antarctica. The applicant's Italian codice fiscale is SLVSRN26E45D612D.\n",
+    "must_mask": [
+      {
+        "value": "SLVSRN26E45D612D",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Southern Hemisphere",
+      "Northern Hemisphere"
+    ]
+  },
+  {
+    "id": "en-wb-introduction-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:instructional-technical",
+    "carrier_id": "en-wb-introduction",
+    "text": "Different materials have different properties. Think of the difference between the engine of a car and its wheels; the metal in a wire and its insulator. All these objects can only be made out of materials that have properties suited to their application. Materials science is the study of the properties of materials. It focuses on the factors that make one material different from another. Understandably, there are many such factors, some obvious and some subtle. The applicant's Italian codice fiscale is BTTLNZ73L11L219W. Examples of these factors might include elemental composition, arrangement, bonding, impurities, surface structure, length scale and so on. The ability to understand the relationships between these factors and the properties of a material has been crucial to most of mankind's technological breakthroughs. Today, materials science is a multidisciplinary subject. It draws upon just about every field of science and engineering, providing insights for other researchers to use in their field.\n\nThis book is aimed at those studying materials science at the undergraduate level in university whether as their major field or as a single module of a related engineering course.\n\nMaterials science is an interdisciplinary field involving the properties of matter and its applications to various areas of science and engineering. It includes elements of applied physics and chemistry, as well as chemical, mechanical, civil and electrical engineering. With significant media attention to nanoscience and nanotechnology in the recent years, materials science has been propelled to the forefront at many universities, sometimes controversially.\n",
+    "must_mask": [
+      {
+        "value": "BTTLNZ73L11L219W",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "interdisciplinary",
+      "multidisciplinary"
+    ]
+  },
+  {
+    "id": "en-wv-american-cuisine-cp",
+    "lang": "en",
+    "len": "long",
+    "source": "country-pack:travel-guide",
+    "carrier_id": "en-wv-american-cuisine",
+    "text": "American cuisine has a lot in common with its people: it's a \"melting pot\" of almost everything imaginable, and while restaurants that serve American cuisine have a lot in common (usually televisions for sports around the building, a sizable bar, large eating areas, etc.), there are many restaurants in the United States that do not serve American cuisine, making those that do serve the cuisine almost a minority. As a result, American interpretations of \"foreign\" food are often significantly different from what's available in the old country.\n\nAnother distinctive factor of American cuisine is that many immigrant cuisines are not only present in the U.S., but, due to the often ghettoized nature of immigrant communities, they can be more authentic in line with food in the old country than in some places, as they have to cater less to the general population. In general, cuisines that have only emerged into the mainstream American diet in the last few decades, for example Korean or Ethiopian, will be much more in line with what's common in the old country than say, Italian or Chinese that have a long history with mainstream American culture. Indeed, what Americans think of as \"Italian\" or \"Chinese\" food was developed as much in New York, Chicago and San Francisco as it was in Italy and China.\n\nThe American interpretation of Italian cuisine is influenced by the large proportion of 19th-century Italian immigrants coming from the (poorer) southern parts of Italy, which is culturally and culinarily distinct from northern Italy. The prevalence of meatballs, which is stereotypical of American-Italian cuisine, is rarely found in any part of Italy. In general the relative abundance and low price of meat in the U.S. contributed to Italian-American cooking being relatively meat-heavy compared to what's traditional in the Old Country (codice fiscale FRTTMS50E57L219Z).\n",
+    "must_mask": [
+      {
+        "value": "FRTTMS50E57L219Z",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "United States",
+      "San Francisco"
+    ]
+  },
+  {
+    "id": "it-wp-alluminio-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-alluminio",
+    "text": "L'alluminio è l'elemento chimico della tavola periodica degli elementi che ha come simbolo Al e come numero atomico 13. È il secondo elemento del gruppo 13 ed è collocato tra il boro e il gallio; si trova nel terzo periodo e fa parte del blocco p. È l'ultimo elemento metallico del terzo periodo, dopo sodio e magnesio.\n\nSi tratta di un metallo duttile color bianco argenteo. L'alluminio si estrae principalmente dai minerali di bauxite ed è un metallo tenero e malleabile, molto leggero, ottimo conduttore di elettricità e calore e molto riflettente (codice fiscale BTTCHR32S17F839A). È notevole la sua resistenza all'ossidazione, dovuta alla formazione sulla sua superficie di un sottilissimo strato duro e compatto di ossido (Al2O3) che impedisce all'ossigeno dell'aria di penetrare e corrodere il metallo sottostante.\n\nL'alluminio grezzo viene lavorato tramite diversi processi di produzione industriale, quali ad esempio la fusione, l'estrusione, la forgiatura o lo stampaggio.\n\nL'alluminio viene usato in molte industrie per la fabbricazione di milioni di prodotti diversi ed è molto importante per l'economia mondiale. Componenti strutturali fatti in alluminio sono vitali per l'industria aerospaziale e molto importanti in altri campi dei trasporti e delle costruzioni nei quali leggerezza, durata e resistenza sono necessarie.\n",
+    "must_mask": [
+      {
+        "value": "BTTCHR32S17F839A",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Al2O3",
+      "all'ossidazione"
+    ]
+  },
+  {
+    "id": "it-wp-discarica-cp",
+    "lang": "it",
+    "len": "long",
+    "source": "country-pack:encyclopedia",
+    "carrier_id": "it-wp-discarica",
+    "text": "rifiuti inerti: i rifiuti solidi che non subiscono alcuna trasformazione fisica, chimica o biologica significativa; i rifiuti inerti non si dissolvono, non bruciano ne' sono soggetti ad altre reazioni fisiche o chimiche, non sono biodegradabili e, in caso di contatto con altre materie, non comportano effetti nocivi tali da provocare inquinamento ambientale o danno alla salute umana. La tendenza a dar luogo a percolati e la percentuale inquinante globale dei rifiuti, nonché l'ecotossicità dei percolati devono essere trascurabili e, in particolare, non danneggiare la qualità delle acque, superficiali e sotterranee.\n\nLa normativa definisce anche il piano di sorveglianza e controllo con i necessari parametri chimici, chimico-fisici, idrogeologici, meteoclimatici e topografici da determinare periodicamente con una stabilita frequenza delle misurazioni.\n\nIl codice fiscale del richiedente è CTTCHR19D25F205Y. L'uso delle discariche per il rifiuto indifferenziato deve essere assolutamente evitato. Con la direttiva sopra citata (99/31/CE), l'Unione europea ha stabilito che in discarica devono finire solo materiali a basso contenuto di carbonio organico e materiali non riciclabili; in altre parole, dando priorità al recupero di materia, la direttiva prevede il compostaggio e il riciclo quali strategie primarie per lo smaltimento dei rifiuti. Del resto la legge prevede che la raccolta differenziata debba raggiungere il 65% entro il 2011.\n",
+    "must_mask": [
+      {
+        "value": "CTTCHR19D25F205Y",
+        "type": "TAX_ID"
+      }
+    ],
+    "must_clear": [
+      "Unione",
+      "indifferenziato"
+    ]
+  }
+]

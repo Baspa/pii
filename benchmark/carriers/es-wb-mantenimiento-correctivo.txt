@@ -1,0 +1,15 @@
+El mantenimiento correctivo corrige los defectos observados en los equipamientos o instalaciones, es la forma más básica de mantenimiento y consiste en localizar averías o defectos, para luego corregirlos o repararlos. Este mantenimiento, que se realiza después de que ocurra un fallo o avería en un equipo donde dichos problemas (por su naturaleza) no pueden planificarse en el tiempo, presenta unos costos por reparación y repuestos que no han sido presupuestados.
+
+Por analogía, si tuviéramos un coche, el mantenimiento correctivo estaría en las visitas al taller por los pinchazos o averías imprevistas.
+
+El mantenimiento correctivo es aplicable en sistemas informáticos que admiten ser interrumpidos en cualquier momento y con cualquier duración.
+
+El fallo puede aparecer en el momento más inoportuno.
+
+Los fallos no detectados a tiempo pueden causar daños irreparables en otros elementos.
+
+Los gastos económicos elevados en piezas de repuesto.
+
+Memtest86+ es un programa informático para computadora. Su finalidad es pasar una prueba de stress a la memoria RAM del computador para encontrar errores en los módulos propiamente dichos o en los datapaths (el chipset, las controladoras de memoria).
+
+Memtest86+ está diseñado para arrancar desde un CD-ROM o una memoria USB sin que sea necesario que el computador tenga instalado un sistema operativo. Las pruebas que aplica son lo suficientemente severas como para encontrar problemas en computadores que aparentemente funcionan bien.
